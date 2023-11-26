@@ -1,6 +1,9 @@
 {
     "lang_code": "en",
     "lang_selfname": "English",
+    "lang_translation_comment": "",
+    "lang_translator": "",
+    "lang_translator_website": "",
     "phrases": {
         "GROUP_farm_artifacts": {
             "TXID_AFT_DESC_ADSSKIPS": "21 skips of ads",

@@ -10,6 +10,7 @@
                 "TXID_CAP_CONTINUE": "Continue",
                 "TXID_CAP_MAXLVL": "MAX LEVEL",
                 "TXID_CAP_REWARD2TESTER": "During the development we have changed the game core, so, you have fresh start. But we give you a boost to regain your progress faster",
+                "TXID_CAP_SETTINGS": "SETTINGS",
                 "TXID_CAP_STATISTICS": "STATISTICS",
                 "TXID_CAP_THANKS2TESTER": "Thank you so much for being the very first tester of this game!",
                 "TXID_CLEAR": "CLEAR",
@@ -250,7 +251,8 @@
         },
         "GROUP_tower_game_elements": {
             "CODE_aaa_untranslated": {
-                "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Select machines to boost with rubies"
+                "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Select machines to boost with rubies",
+                "TXID_SET_AUTOBUY": "Automatically buy upgrades after restart (spending 0.01% of resources)"
             },
             "TXID_BABELSKIN_CLASSIC": "Klasszikus",
             "TXID_BABELSKIN_WINTER": "Téli",

@@ -19,6 +19,7 @@
                 "TXID_CAP_NOMOD": "No mods",
                 "TXID_CAP_REWARD2TESTER": "During the development we have changed the game core, so, you have fresh start. But we give you a boost to regain your progress faster",
                 "TXID_CAP_SELECT": "SELECT",
+                "TXID_CAP_SETTINGS": "SETTINGS",
                 "TXID_CAP_STATISTICS": "STATISTICS",
                 "TXID_CAP_THANKS2TESTER": "Thank you so much for being the very first tester of this game!",
                 "TXID_CLEAR": "CLEAR",
@@ -252,7 +253,8 @@
         "GROUP_tower_game_elements": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_RUBYBOOST_QUESTION": "Would you like to boost _0_ by _1_ for _2_?",
-                "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Select machines to boost with rubies"
+                "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Select machines to boost with rubies",
+                "TXID_SET_AUTOBUY": "Automatically buy upgrades after restart (spending 0.01% of resources)"
             },
             "TXID_BABELSKIN_CLASSIC": "Klasik",
             "TXID_BABELSKIN_WINTER": "Musim dingin",
