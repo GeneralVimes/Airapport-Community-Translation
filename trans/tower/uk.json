@@ -3,6 +3,9 @@
     "lang_selfname": "Українська",
     "phrases": {
         "GROUP_general_interface": {
+            "TXID_SEND_COPIEDSAVEDATA": "Текст із даними збереженої гри скопійовано до буферу обміну",
+            "TXID_SEND_SAVEDATA": "Будь ласка, надішліть його розробникам на мейл: general@cardswar.com",
+            "TXID_TIMEBON_TIMESPEED": "Швидкість часу",	
             "TXID_ANS_GET": "ОТРИМАТИ!",
             "TXID_ANS_TRYBACKUP": "Скасувати",
             "TXID_AREYOUWITHME": "Ти зі мною?",

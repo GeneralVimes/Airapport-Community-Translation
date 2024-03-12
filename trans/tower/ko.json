@@ -7,7 +7,10 @@
     "phrases": {
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
-                "TXID_CAP_SETTINGS": "SETTINGS"
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed"
             },
             "TXID_ANS_GET": "얻다!",
             "TXID_ANS_TRYBACKUP": "실행 취소",

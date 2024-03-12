@@ -3,6 +3,9 @@
     "lang_selfname": "Русский",
     "phrases": {
         "GROUP_general_interface": {
+            "TXID_SEND_COPIEDSAVEDATA": "Текст с вашим файлом сохранения скопирован в буфер",
+            "TXID_SEND_SAVEDATA": "Пожалуйста, пришлите это разработчику: general@cardswar.com",
+            "TXID_TIMEBON_TIMESPEED": "Скорость времени",
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",

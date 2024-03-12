@@ -19,7 +19,10 @@
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGANS_CANCEL": "CANCEL",
                 "TXID_NOW": "Now",
-                "TXID_TIME": "time"
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIME": "time",
+                "TXID_TIMEBON_TIMESPEED": "Time speed"
             },
             "TXID_ANS_GET": "RECEBER!",
             "TXID_ANS_TRYBACKUP": "Desfazer",

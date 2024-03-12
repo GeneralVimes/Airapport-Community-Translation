@@ -4,6 +4,11 @@
     "lang_translation_comment": "Autotranslated text appeared to be fun :D So Ant in Discord suggested to keep it as a separate version",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed"
+            },
             "TXID_ANS_GET": "PEGUE!",
             "TXID_ANS_TRYBACKUP": "Desfazer",
             "TXID_AREYOUWITHME": "Você está comigo?",

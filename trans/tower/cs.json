@@ -40,7 +40,10 @@
                 "TXID_MSG_SCREENSHOTSUBMITTEDFROM": "Screenshot submitted from",
                 "TXID_MSG_TEXTAFTERSCREENSHOTOK": "Now the players' community can admire your achievement",
                 "TXID_NOW": "Now",
-                "TXID_TIME": "time"
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIME": "time",
+                "TXID_TIMEBON_TIMESPEED": "Time speed"
             },
             "TXID_ANS_GET": "ZÍSKAŤ!",
             "TXID_ANS_TRYBACKUP": "Vrátiť späť",
