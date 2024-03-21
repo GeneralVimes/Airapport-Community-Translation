@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "benang"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "bonus waktu",
             "TXID_REW_DISCPURCH": "Pembelian dengan diskon",
             "TXID_REW_FREEMON": "Koin gratis",
@@ -780,7 +783,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Hadiah siap!",
             "TXID_MSG_CLIPBOARD": "file teks disalin ke clipboard. Anda dapat menyimpannya di suatu tempat atau email kepada diri sendiri untuk dapat mengembalikan menara",
             "TXID_MSG_EMAILBODY": "(Silakan menulis email ini untuk general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Apakah Anda ingin mendapatkan lebih banyak setelah menonton iklan (hanya keuntungan, tidak dihabiskan, akan dua kali lipat)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Apakah Anda ingin mendapatkan lebih banyak setelah menonton iklan ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(hanya keuntungan, tidak dihabiskan, akan dua kali lipat)?",
             "TXID_MSG_GAINMORESKIPADS": "Apakah Anda ingin mendapatkan lebih banyak (tanpa iklan)?",
             "TXID_MSG_HOWTOIMPROVE": "Saran bagaimana meningkatkan permainan",
             "TXID_MSG_ISLOADOK": "Melakukan segala beban dengan baik?",

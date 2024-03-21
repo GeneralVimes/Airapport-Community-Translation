@@ -175,7 +175,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Prezent gotowy!",
             "TXID_MSG_CLIPBOARD": "plik tekstowy został skopiowany do schowka. Można przechowywać go gdzieś lub e-mail do siebie, aby być w stanie odbudować wieżę",
             "TXID_MSG_EMAILBODY": "(Proszę napisać email do general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Czy chcesz otrzymać więcej po obejrzeniu reklam (tylko zarobki, nie wydatki, będą podwojone)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Czy chcesz otrzymać więcej po obejrzeniu reklam ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(tylko zarobki, nie wydatki, będą podwojone)?",
             "TXID_MSG_GAINMORESKIPADS": "Czy chcesz otrzymać więcej (bez reklam)?",
             "TXID_MSG_HOWTOIMPROVE": "Sugestie jak poprawić grę",
             "TXID_MSG_ISLOADOK": "Czy obciążenie wszystko dobrze?",
@@ -479,6 +480,9 @@
             "TXID_WATERWELLRESTORATION": "Szybkość przywracania wody"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Premia czasowa",
             "TXID_REW_DISCPURCH": "Zakup ze zniżką",
             "TXID_REW_FREEGB": "Darmowe Złote Cegły",

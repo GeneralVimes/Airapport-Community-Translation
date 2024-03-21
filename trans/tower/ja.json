@@ -171,7 +171,8 @@
             "TXID_MSG_CAP_REWARD_READY": "ギフトレディ！",
             "TXID_MSG_CLIPBOARD": "テキストファイルはクリップボードにコピーされました。あなたはそれをどこかに保管するか、塔を復元できるように自分自身に電子メールを送ることができます",
             "TXID_MSG_EMAILBODY": "（このメールをgeneral@cardswars.comに書いてください）",
-            "TXID_MSG_GAINMOREAFTERADS": "広告を見た後、もっと多くの利益を得たいですか（費やさないで、倍増するのは2倍になります）？",
+            "TXID_MSG_GAINMOREAFTERADS": "広告を見た後、もっと多くの利益を得たいですか",
+            "TXID_MSG_GAINMOREGAINSEXPL": "（費やさないで、倍増するのは2倍になります）？",
             "TXID_MSG_GAINMORESKIPADS": "もっと（広告なしで）増えたいですか？",
             "TXID_MSG_HOWTOIMPROVE": "提案ゲームを改善する方法",
             "TXID_MSG_ISLOADOK": "すべてがうまくロードされましたか？",
@@ -478,6 +479,9 @@
             "TXID_WATERWELLRESTORATION": "水の回復速度"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "タイムボーナス",
             "TXID_REW_DISCPURCH": "割引で購入します",
             "TXID_REW_FREEGB": "無料の金色のレンガ",

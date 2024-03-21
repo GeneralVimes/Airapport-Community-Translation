@@ -499,6 +499,9 @@
             "TXID_RES_YARN": "pređa"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Vremenski bonus",
             "TXID_REW_DISCPURCH": "Kupnja s popustom",
             "TXID_REW_FREEMON": "Slobodni kovanice",
@@ -779,7 +782,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Dar spreman!",
             "TXID_MSG_CLIPBOARD": "Tekstualna datoteka je kopirana u međuspremnik. Možete ga pohraniti negdje ili e-mail za sebe kako biste mogli vratiti toranj",
             "TXID_MSG_EMAILBODY": "(Molimo, napišite ovu poruku e-pošte na General@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Želite li dobiti više nakon gledanja oglasa (samo dobitke, ne troši, bit će udvostručen)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Želite li dobiti više nakon gledanja oglasa ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(samo dobitke, ne troši, bit će udvostručen)?",
             "TXID_MSG_GAINMORESKIPADS": "Želite li dobiti više (bez oglasa)?",
             "TXID_MSG_HOWTOIMPROVE": "Prijedlozi Kako poboljšati igru",
             "TXID_MSG_ISLOADOK": "Je li sve dobro opterećeno?",

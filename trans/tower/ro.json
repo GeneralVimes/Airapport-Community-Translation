@@ -174,7 +174,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Cadou gata!",
             "TXID_MSG_CLIPBOARD": "fișier text a fost copiat în clipboard. Puteți să-l stoca undeva sau e-mail pentru a te pentru a fi capabil de a restabili turnul",
             "TXID_MSG_EMAILBODY": "(Vă rugăm, scrie acest e-mail la general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Doriți să câștige mai mult după vizionarea anunțuri (doar câștigurile, nu își petrece, va fi dublat)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Doriți să câștige mai mult după vizionarea anunțuri ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(doar câștigurile, nu își petrece, va fi dublat)?",
             "TXID_MSG_GAINMORESKIPADS": "Doriți să câștige mai mult (fără anunțuri)?",
             "TXID_MSG_HOWTOIMPROVE": "Sugestii Cum de a îmbunătăți jocul",
             "TXID_MSG_ISLOADOK": "A făcut totul bine de sarcină?",
@@ -478,6 +479,9 @@
             "TXID_WATERWELLRESTORATION": "Viteza de restaurare a apei"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "bonus de timp",
             "TXID_REW_DISCPURCH": "Achiziționarea cu discount",
             "TXID_REW_FREEGB": "Gratuit de aur Cărămizi",

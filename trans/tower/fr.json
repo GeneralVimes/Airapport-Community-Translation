@@ -172,7 +172,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Cadeau prêt!",
             "TXID_MSG_CLIPBOARD": "Fichier texte a été copié dans le presse-papiers. Vous pouvez le stocker quelque part ou vous l'envoyer par courriel à vous-même pour être en mesure de restaurer la tour",
             "TXID_MSG_EMAILBODY": "(S'il vous plaît, écrivez ce courriel à general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Voulez-vous gagner plus après avoir vu des annonces (uniquement des gains et non les dépenses seront doublées)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Voulez-vous gagner plus après avoir vu des annonces ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(uniquement des gains et non les dépenses seront doublées)?",
             "TXID_MSG_GAINMORESKIPADS": "Voulez-vous gagner plus (sans publicité)?",
             "TXID_MSG_HOWTOIMPROVE": "Suggestions pour améliorer le jeu",
             "TXID_MSG_ISLOADOK": "Est-ce que tout a chargé correctement ?",
@@ -477,6 +478,9 @@
             "TXID_WATERWELLRESTORATION": "Vitesse de restauration de l'eau"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "temps bonus",
             "TXID_REW_DISCPURCH": "Achat avec un rabais",
             "TXID_REW_FREEGB": "Briques dorées gratuit",

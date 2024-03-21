@@ -174,7 +174,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Quà tặng đã sẵn sàng!",
             "TXID_MSG_CLIPBOARD": "tập tin văn bản được sao chép vào clipboard. Bạn có thể lưu trữ nó ở đâu đó hoặc gửi email cho chính mình để có thể khôi phục tháp",
             "TXID_MSG_EMAILBODY": "(Xin vui lòng viết email này để general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Bạn có muốn có thêm sau khi xem quảng cáo (chỉ tăng chứ không phải bỏ ra để, sẽ được tăng gấp đôi)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Bạn có muốn có thêm sau khi xem quảng cáo ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(chỉ tăng chứ không phải bỏ ra để, sẽ được tăng gấp đôi)?",
             "TXID_MSG_GAINMORESKIPADS": "Bạn có muốn có thêm (không có quảng cáo)?",
             "TXID_MSG_HOWTOIMPROVE": "Gợi ý làm thế nào để cải thiện trò chơi",
             "TXID_MSG_ISLOADOK": "Đã làm mọi thứ tải tốt?",
@@ -478,6 +479,9 @@
             "TXID_WATERWELLRESTORATION": "tốc độ phục hồi nước"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Thưởng thêm thơi gian",
             "TXID_REW_DISCPURCH": "Mua với chiết khấu",
             "TXID_REW_FREEGB": "Gạch miễn phí Vàng",

@@ -166,7 +166,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Gift ready!",
             "TXID_MSG_CLIPBOARD": "Text file was copied to clipboard. You can store it somewhere or email to yourself to be able to restore the tower",
             "TXID_MSG_EMAILBODY": "(Please, write this email to general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Would you like to gain more after watching ads (only gains, not spends, will be doubled)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Would you like to gain more after watching ads ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(only gains, not spends, will be doubled)?",
             "TXID_MSG_GAINMORESKIPADS": "Would you like to gain more (without ads)?",
             "TXID_MSG_HOWTOIMPROVE": "Suggestions how to improve the game",
             "TXID_MSG_ISLOADOK": "Did everything load well?",
@@ -476,6 +477,7 @@
         "GROUP_tower_rewards": {
             "TXID_REW_BONUSTIME": "Time bonus",
             "TXID_REW_DISCPURCH": "Purchase with discount",
+            "TXID_REW_DISCUP": "Upgrade with discount",
             "TXID_REW_FREEGB": "Free Golden Bricks",
             "TXID_REW_FREEMON": "Free Coins",
             "TXID_REW_FREERES": "Free Resource",

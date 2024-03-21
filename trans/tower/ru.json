@@ -3,9 +3,6 @@
     "lang_selfname": "Русский",
     "phrases": {
         "GROUP_general_interface": {
-            "TXID_SEND_COPIEDSAVEDATA": "Текст с вашим файлом сохранения скопирован в буфер",
-            "TXID_SEND_SAVEDATA": "Пожалуйста, пришлите это разработчику: general@cardswar.com",
-            "TXID_TIMEBON_TIMESPEED": "Скорость времени",
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",
@@ -166,7 +163,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Готов подарок",
             "TXID_MSG_CLIPBOARD": "Текстовый файл был скопирован в буфер обмена. Вы можете сохранить его где-нибудь или отправить себе по по электронной, чтобы суметь восстановить башню на другом устройстве",
             "TXID_MSG_EMAILBODY": "(Пожалуйста, напишите емейл на general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Вы хотите получить больше после просмотра объявления (только прибыль, не затраты, увеличатся в два раза)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Вы хотите получить больше после просмотра объявления ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(только прибыль, не затраты, увеличатся в два раза)?",
             "TXID_MSG_GAINMORESKIPADS": "Вы хотели бы получить более (без рекламы)?",
             "TXID_MSG_HOWTOIMPROVE": "Предложения как улучшить игру",
             "TXID_MSG_ISLOADOK": "Всё загрузилось хорошо?",
@@ -199,10 +197,13 @@
             "TXID_SCORE": "Счёт",
             "TXID_SEND": "Похоже, в прошлый раз игра вылетела. Вы можете попробовать загрузить это сохранение еще раз или отправить данные разработчику. Мы рассмотрим это и исправим как можно скорее. Вы также можете полностью перезапустить игру, если не хотите ждать",
             "TXID_SENDREPORT": "Отправить отчёт",
+            "TXID_SEND_COPIEDSAVEDATA": "Текст с вашим файлом сохранения скопирован в буфер",
+            "TXID_SEND_SAVEDATA": "Пожалуйста, пришлите это разработчику: general@cardswar.com",
             "TXID_SOMETHINGWRONG": "Что-то пошло не так...",
             "TXID_STARTNEW": "Полный сброс",
             "TXID_SUCCESS": "Готово!",
             "TXID_TIME": "время",
+            "TXID_TIMEBON_TIMESPEED": "Скорость времени",
             "TXID_TIMEUNIT_DAY": "дней",
             "TXID_TIMEUNIT_HOUR": "час",
             "TXID_TIMEUNIT_MIN": "мин",
@@ -471,6 +472,7 @@
             "TXID_WATERWELLRESTORATION": "Скорость восстановления воды"
         },
         "GROUP_tower_rewards": {
+            "TXID_REW_DISCUP": "Апгрейд со скидкой",
             "TXID_REW_BONUSTIME": "Бонусное время",
             "TXID_REW_DISCPURCH": "Покупка со скидкой",
             "TXID_REW_FREEGB": "Бесплатные Золотые кирпичи",

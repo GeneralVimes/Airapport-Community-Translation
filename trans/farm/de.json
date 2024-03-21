@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "Garn"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Zeit Bonus",
             "TXID_REW_DISCPURCH": "Kauf mit Rabatt",
             "TXID_REW_FREEMON": "Münzen Gratis",
@@ -780,7 +783,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Geschenk bereit!",
             "TXID_MSG_CLIPBOARD": "Textdatei wurde in die Zwischenablage kopiert. Sie können es irgendwo speichern oder sich selbst eine E-Mail der Lage sein, den Turm zu restaurieren",
             "TXID_MSG_EMAILBODY": "(Bitte schreiben Sie diese E-Mail an general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Möchten Sie mehr gewinnen, nachdem Anzeigen beobachten (nur Gewinne, aufwendet wird nicht verdoppelt werden)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Möchten Sie mehr gewinnen, nachdem Anzeigen beobachten ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(nur Gewinne, aufwendet wird nicht verdoppelt werden)?",
             "TXID_MSG_GAINMORESKIPADS": "Möchten Sie mehr (ohne Werbung) gewinnen?",
             "TXID_MSG_HOWTOIMPROVE": "Vorschläge, wie das Spiel zu verbessern",
             "TXID_MSG_ISLOADOK": "Hat alles Belastung gut?",

@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "hilo"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Tiempo extra",
             "TXID_REW_DISCPURCH": "Compra con descuento",
             "TXID_REW_FREEMON": "Monedas gratis",
@@ -780,7 +783,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Regalo listo!",
             "TXID_MSG_CLIPBOARD": "archivo de texto se ha copiado en el portapapeles. Puede almacenar en algún sitio o por correo electrónico a sí mismo para ser capaz de restaurar la torre",
             "TXID_MSG_EMAILBODY": "(Por favor, escribir este correo electrónico a general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "¿Le gustaría ganar más después de ver anuncios (sólo ganancias, no se gasta, se duplicará)?",
+            "TXID_MSG_GAINMOREAFTERADS": "¿Le gustaría ganar más después de ver anuncios ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(sólo ganancias, no se gasta, se duplicará)?",
             "TXID_MSG_GAINMORESKIPADS": "¿Le gustaría ganar más (sin anuncios)?",
             "TXID_MSG_HOWTOIMPROVE": "Sugerencias de cómo mejorar el juego",
             "TXID_MSG_ISLOADOK": "Hizo todo lo posible la carga así?",

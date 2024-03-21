@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "fonálás"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Időbónusz",
             "TXID_REW_DISCPURCH": "Vásárlás kedvezménnyel",
             "TXID_REW_FREEMON": "Ingyenes érmék",
@@ -780,7 +783,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Ajándék kész!",
             "TXID_MSG_CLIPBOARD": "A szöveg fájl másolva lett a vágólapra. Tárolhatod valahol, vagy Email-ben elküldheted magadnak, hogy helyreállítsad a tornyodat",
             "TXID_MSG_EMAILBODY": "(Kérjük, írja be ezt az e -mailt a general@cardswars.com címre)",
-            "TXID_MSG_GAINMOREAFTERADS": "Szeretne többet szerezni rekléámok megnézése után (csak szerez, nem költ, meg lesz duplázva)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Szeretne többet szerezni rekléámok megnézése után ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(csak szerez, nem költ, meg lesz duplázva)?",
             "TXID_MSG_GAINMORESKIPADS": "Szeretne többet szerezni (hirdetések nélkül)?",
             "TXID_MSG_HOWTOIMPROVE": "Javaslatok, hogyan lehetne javítani a játékot",
             "TXID_MSG_ISLOADOK": "Minden jól betöltött?",

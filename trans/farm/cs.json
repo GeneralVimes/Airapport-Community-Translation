@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "příze"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Časový bonus",
             "TXID_REW_DISCPURCH": "Nákup so zľavou",
             "TXID_REW_FREEMON": "Bezplatné Mince",
@@ -780,7 +783,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Dar je pripravený!",
             "TXID_MSG_CLIPBOARD": "Textový súbor bol skopírovaný do schránky. Môžeš si ho niekam uložiť alebo si ho poslať mailom, aby si si mohol obnoviť svoju vež.",
             "TXID_MSG_EMAILBODY": "(Prosím, odošlite tento email na adresu general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Chcel by si získať viac po zhliadnutí reklamy (zdvojnásobia sa iba zisky, nie straty)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Chcel by si získať viac po zhliadnutí reklamy ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(zdvojnásobia sa iba zisky, nie straty)?",
             "TXID_MSG_GAINMORESKIPADS": "Chcel by si získať viac (bez reklamy)?",
             "TXID_MSG_HOWTOIMPROVE": "Návrhy, ako zlepšiť hru",
             "TXID_MSG_ISLOADOK": "Načítalo sa všetko v poriadku?",

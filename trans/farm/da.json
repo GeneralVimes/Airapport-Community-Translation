@@ -499,6 +499,9 @@
             "TXID_RES_YARN": "garn"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Time Bonus",
             "TXID_REW_DISCPURCH": "Køb med rabat",
             "TXID_REW_FREEMON": "Gratis mønter.",
@@ -779,7 +782,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Gift klar!",
             "TXID_MSG_CLIPBOARD": "Tekstfil blev kopieret til udklipsholder. Du kan gemme det et eller andet sted eller e-mail til dig selv for at kunne gendanne tårnet",
             "TXID_MSG_EMAILBODY": "(Venligst skriv denne email til general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Vil du gerne få mere efter at have set annoncer (kun gevinster, ikke bruger, vil blive fordoblet)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Vil du gerne få mere efter at have set annoncer ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(kun gevinster, ikke bruger, vil blive fordoblet)?",
             "TXID_MSG_GAINMORESKIPADS": "Vil du gerne få mere (uden annoncer)?",
             "TXID_MSG_HOWTOIMPROVE": "Forslag Sådan forbedrer du spillet",
             "TXID_MSG_ISLOADOK": "Har alt læst godt?",

@@ -172,7 +172,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Presente pronto!",
             "TXID_MSG_CLIPBOARD": "O arquivo de texto foi copiado para área de transferência. Você pode guardá-lo em algum lugar ou enviar um email para si mesmo para conseguir restaurar sua torre",
             "TXID_MSG_EMAILBODY": "(Por favor, escreva este e-mail para general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Você gostaria de ganhar mais depois de assistir a anúncios (apenas ganhos, não gastos, serão duplicados)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Você gostaria de ganhar mais depois de assistir a anúncios ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(apenas ganhos, não gastos, serão duplicados)?",
             "TXID_MSG_GAINMORESKIPADS": "Você gostaria de ganhar mais (sem anúncios)?",
             "TXID_MSG_HOWTOIMPROVE": "Sugestões sobre como melhorar o jogo",
             "TXID_MSG_ISLOADOK": "Tudo carregou certo?",
@@ -477,6 +478,9 @@
             "TXID_WATERWELLRESTORATION": "Velocidade de restauração de água"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Bônus de tempo",
             "TXID_REW_DISCPURCH": "Compra com desconto",
             "TXID_REW_FREEGB": "Tijolos Dourados grátis",

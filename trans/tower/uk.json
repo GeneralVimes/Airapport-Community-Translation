@@ -3,9 +3,6 @@
     "lang_selfname": "Українська",
     "phrases": {
         "GROUP_general_interface": {
-            "TXID_SEND_COPIEDSAVEDATA": "Текст із даними збереженої гри скопійовано до буферу обміну",
-            "TXID_SEND_SAVEDATA": "Будь ласка, надішліть його розробникам на мейл: general@cardswar.com",
-            "TXID_TIMEBON_TIMESPEED": "Швидкість часу",	
             "TXID_ANS_GET": "ОТРИМАТИ!",
             "TXID_ANS_TRYBACKUP": "Скасувати",
             "TXID_AREYOUWITHME": "Ти зі мною?",
@@ -166,7 +163,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Готовий подарунок",
             "TXID_MSG_CLIPBOARD": "Текстовий файл був скопійований в буфер обміну. Ви можете зберігати його де-небудь або відправити по електронній пошті до себе, щоб бути в змозі відновити вежу",
             "TXID_MSG_EMAILBODY": "(Будь ласка, напишіть емейл на general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Ви хочете отримати більше після перегляду оголошення (тільки прибуток, не витрати, збільшиться вдвічі)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Ви хочете отримати більше після перегляду оголошення ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(тільки прибуток, не витрати, збільшиться вдвічі)?",
             "TXID_MSG_GAINMORESKIPADS": "Ви хотіли б отримати більше (без реклами)?",
             "TXID_MSG_HOWTOIMPROVE": "Пропозиції як покращити гру",
             "TXID_MSG_ISLOADOK": "Все заванажилося добре?",
@@ -199,10 +197,13 @@
             "TXID_SCORE": "рахунок",
             "TXID_SEND": "Схоже, останнього разу був збій. Ви можете спробувати завантажити це збереження ще раз або надіслати дані розробнику. Ми розглянемо це і якнайшвидше виправимо. Ви також можете повністю перезапустити гру, якщо не хочете чекати",
             "TXID_SENDREPORT": "Відправити звіт",
+            "TXID_SEND_COPIEDSAVEDATA": "Текст із даними збереженої гри скопійовано до буферу обміну",
+            "TXID_SEND_SAVEDATA": "Будь ласка, надішліть його розробникам на мейл: general@cardswar.com",
             "TXID_SOMETHINGWRONG": "Щось пішло не так...",
             "TXID_STARTNEW": "Повний зброс гри",
             "TXID_SUCCESS": "Готово!",
             "TXID_TIME": "час",
+            "TXID_TIMEBON_TIMESPEED": "Швидкість часу",
             "TXID_TIMEUNIT_DAY": "днів",
             "TXID_TIMEUNIT_HOUR": "годину",
             "TXID_TIMEUNIT_MIN": "хв",
@@ -471,6 +472,7 @@
             "TXID_WATERWELLRESTORATION": "Швидкість відновлення води"
         },
         "GROUP_tower_rewards": {
+			"TXID_REW_DISCUP": "Апгрейд зі знижкою",
             "TXID_REW_BONUSTIME": "Бонусний час",
             "TXID_REW_DISCPURCH": "Покупка зі знижкою",
             "TXID_REW_FREEGB": "Безкоштовні Золоті цеглини",

@@ -171,7 +171,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Hədiyyə hazırdır!",
             "TXID_MSG_CLIPBOARD": "Mətn faylı buferə kopyalandı. Qüllənizi bərpa etmək üçün onu bir yerdə saxlaya və ya özünüzə e-poçt göndərə bilərsiniz",
             "TXID_MSG_EMAILBODY": "(Zəhmət olmasa, bu məktubu general@cardswars.com ünvanına yazın)",
-            "TXID_MSG_GAINMOREAFTERADS": "Reklamlama baxaraq daha çox qazanmaq istəyirsiniz (xərclər deyil, yalnız qazanc ikiqat artacaq)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Reklamlama baxaraq daha çox qazanmaq istəyirsiniz ",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(xərclər deyil, yalnız qazanc ikiqat artacaq)?",
             "TXID_MSG_GAINMORESKIPADS": "Daha çox qazanmaq istəyirsiniz (reklamsız)?",
             "TXID_MSG_HOWTOIMPROVE": "Oyunu yaxşılaşdırmaq üçün təkliflər",
             "TXID_MSG_ISLOADOK": "Hər şey yaxşı yükləndi?",
@@ -476,6 +477,9 @@
             "TXID_WATERWELLRESTORATION": "Suyun bərpa sürəti"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Vaxt bonusu",
             "TXID_REW_DISCPURCH": "Endirimlə alın",
             "TXID_REW_FREEGB": "Pulsuz Qızıl Kərpic",
