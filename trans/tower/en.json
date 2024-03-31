@@ -217,6 +217,9 @@
             "TXID_TIMEUNIT_YEAR": "year",
             "TXID_TRYAGAIN": "Please, try again later",
             "TXID_TRYLOADAGAIN": "Load save",
+            "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+            "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+            "TXID_UMP_CONSENTNEEDED": "Your consent is needed",
             "TXID_UNITS_COINSEACH": "coins/ea",
             "TXID_VOTERESULT": "Thank you! You vote has been accounted.",
             "TXID_WORD_COINS": "coins"

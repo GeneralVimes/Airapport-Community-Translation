@@ -3,6 +3,7 @@
     "lang_selfname": "Русский",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",
@@ -214,6 +215,9 @@
             "TXID_TIMEUNIT_YEAR": "год",
             "TXID_TRYAGAIN": "Попробуйте, пожалуйста, попозже",
             "TXID_TRYLOADAGAIN": "Загрузить сейв",
+            "TXID_UMP_ADSONLYREW": "Игра не показывает рекламу без вашего согласия",
+            "TXID_UMP_CONSENTEXPL": "Пожалуйста, предоставьте своё согласие, чтобы позволить игре загрузить рекламу, которая предоставит вознаграждение",
+            "TXID_UMP_CONSENTNEEDED": "Необходимо ваше согласие",
             "TXID_UNITS_COINSEACH": "монеты / шт",
             "TXID_VOTERESULT": "Спасибо! Вас голос учтён.",
             "TXID_WORD_COINS": "монет"
@@ -472,9 +476,9 @@
             "TXID_WATERWELLRESTORATION": "Скорость восстановления воды"
         },
         "GROUP_tower_rewards": {
-            "TXID_REW_DISCUP": "Апгрейд со скидкой",
             "TXID_REW_BONUSTIME": "Бонусное время",
             "TXID_REW_DISCPURCH": "Покупка со скидкой",
+            "TXID_REW_DISCUP": "Апгрейд со скидкой",
             "TXID_REW_FREEGB": "Бесплатные Золотые кирпичи",
             "TXID_REW_FREEMON": "Бесплатные монеты",
             "TXID_REW_FREERES": "Бесплатный ресурс",

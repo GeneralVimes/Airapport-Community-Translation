@@ -488,9 +488,9 @@
             "TXID_RES_YARN": "пряжа"
         },
         "GROUP_farm_rewards": {
-			"TXID_REW_DISCUP": "Апгрейд со скидкой",
             "TXID_REW_BONUSTIME": "Бонусное время",
             "TXID_REW_DISCPURCH": "Покупка со скидкой",
+            "TXID_REW_DISCUP": "Апгрейд со скидкой",
             "TXID_REW_FREEMON": "Бесплатные монеты",
             "TXID_REW_FREERES": "Бесплатный ресурс",
             "TXID_REW_FREESCIENCE": "Бесплатная наука",
@@ -813,6 +813,9 @@
             "TXID_TIMEUNIT_YEAR": "год",
             "TXID_TRYAGAIN": "Попробуйте, пожалуйста, попозже",
             "TXID_TRYLOADAGAIN": "Загрузить сейв",
+            "TXID_UMP_ADSONLYREW": "Игра не показывает рекламу без вашего согласия",
+            "TXID_UMP_CONSENTEXPL": "Пожалуйста, предоставьте своё согласие, чтобы позволить игре загрузить рекламу, которая предоставит вознаграждение",
+            "TXID_UMP_CONSENTNEEDED": "Необходимо ваше согласие",
             "TXID_UNITS_COINSEACH": "монеты / шт",
             "TXID_VOTERESULT": "Спасибо! Вас голос учтён.",
             "TXID_WORD_COINS": "монет"

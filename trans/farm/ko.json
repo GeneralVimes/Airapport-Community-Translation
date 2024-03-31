@@ -491,6 +491,9 @@
             "TXID_RES_YARN": "실"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "시간 보너스",
             "TXID_REW_DISCPURCH": "할인 된 구매",
             "TXID_REW_FREEMON": "무료 동전",
@@ -607,6 +610,15 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w/sec"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
+            },
             "TXID_ANS_GET": "얻다!",
             "TXID_ANS_TRYBACKUP": "실행 취소",
             "TXID_AREYOUWITHME": "지금까지 내 말 이해 했어?",
@@ -763,8 +775,8 @@
             "TXID_MSG_CAP_REWARD_READY": "선물 준비!",
             "TXID_MSG_CLIPBOARD": "텍스트 파일이 클립 보드에 복사되었습니다. 탑을 복원 할 수 있도록 어딘가에 보관하거나 이메일을 보낼 수 있습니다.",
             "TXID_MSG_EMAILBODY": "(이 이메일을 general@cardswars.com으로 작성하십시오)",
-            "TXID_MSG_GAINMOREAFTERADS": "광고를 본 후 더 많은 것을 얻고 싶습니까 ?", 
-			"TXID_MSG_GAINMOREGAINSEXPL":"(지출이 아닌 이익 만 두 배가 될 것입니다)",
+            "TXID_MSG_GAINMOREAFTERADS": "광고를 본 후 더 많은 것을 얻고 싶습니까 ?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(지출이 아닌 이익 만 두 배가 될 것입니다)",
             "TXID_MSG_GAINMORESKIPADS": "광고없이 더 많은 것을 얻고 싶습니까?",
             "TXID_MSG_HOWTOIMPROVE": "제안 게임을 개선하는 방법",
             "TXID_MSG_ISLOADOK": "모든 것이 잘로드 되었습니까?",

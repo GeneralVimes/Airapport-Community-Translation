@@ -3,6 +3,7 @@
     "lang_selfname": "Українська",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ОТРИМАТИ!",
             "TXID_ANS_TRYBACKUP": "Скасувати",
             "TXID_AREYOUWITHME": "Ти зі мною?",
@@ -214,6 +215,9 @@
             "TXID_TIMEUNIT_YEAR": "рік",
             "TXID_TRYAGAIN": "Спробуйте, будь ласка, пізніше",
             "TXID_TRYLOADAGAIN": "Завантажити сейв",
+            "TXID_UMP_ADSONLYREW": "Гра не показує рекламу без вашої згоди",
+            "TXID_UMP_CONSENTEXPL": "Будь ласка, надайте свою згоду, щоб дозволити грі завантажити рекламу, яка надасть винагороду",
+            "TXID_UMP_CONSENTNEEDED": "Неообхідна ваша згода",
             "TXID_UNITS_COINSEACH": "монети / шт",
             "TXID_VOTERESULT": "Дякую! Ваш голос був врахований.",
             "TXID_WORD_COINS": "монет"
@@ -472,9 +476,9 @@
             "TXID_WATERWELLRESTORATION": "Швидкість відновлення води"
         },
         "GROUP_tower_rewards": {
-			"TXID_REW_DISCUP": "Апгрейд зі знижкою",
             "TXID_REW_BONUSTIME": "Бонусний час",
             "TXID_REW_DISCPURCH": "Покупка зі знижкою",
+            "TXID_REW_DISCUP": "Апгрейд зі знижкою",
             "TXID_REW_FREEGB": "Безкоштовні Золоті цеглини",
             "TXID_REW_FREEMON": "Безкоштовні монети",
             "TXID_REW_FREERES": "Безкоштовний ресурс",

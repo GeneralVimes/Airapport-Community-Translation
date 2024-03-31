@@ -491,6 +491,9 @@
             "TXID_RES_YARN": "糸"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "タイムボーナス",
             "TXID_REW_DISCPURCH": "割引で購入します",
             "TXID_REW_FREEMON": "無料のコイン",
@@ -607,6 +610,15 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w/sec"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
+            },
             "TXID_ANS_GET": "得る！",
             "TXID_ANS_TRYBACKUP": "元に戻します",
             "TXID_AREYOUWITHME": "あなたは私と一緒ですか？",
@@ -763,8 +775,8 @@
             "TXID_MSG_CAP_REWARD_READY": "ギフトレディ！",
             "TXID_MSG_CLIPBOARD": "テキストファイルはクリップボードにコピーされました。あなたはそれをどこかに保管するか、塔を復元できるように自分自身に電子メールを送ることができます",
             "TXID_MSG_EMAILBODY": "（このメールをgeneral@cardswars.comに書いてください）",
-            "TXID_MSG_GAINMOREAFTERADS": "広告を見た後、もっと多くの利益を得たいですか？", 
-			"TXID_MSG_GAINMOREGAINSEXPL":"（費やさないで、倍増するのは2倍になります）",
+            "TXID_MSG_GAINMOREAFTERADS": "広告を見た後、もっと多くの利益を得たいですか？",
+            "TXID_MSG_GAINMOREGAINSEXPL": "（費やさないで、倍増するのは2倍になります）",
             "TXID_MSG_GAINMORESKIPADS": "もっと（広告なしで）増えたいですか？",
             "TXID_MSG_HOWTOIMPROVE": "提案ゲームを改善する方法",
             "TXID_MSG_ISLOADOK": "すべてがうまくロードされましたか？",

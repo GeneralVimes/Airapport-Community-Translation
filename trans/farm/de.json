@@ -634,7 +634,10 @@
                 "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
                 "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
-                "TXID_TIMEBON_TIMESPEED": "Time speed"
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "BEKOMMEN!",
             "TXID_ANS_TRYBACKUP": "Rückgängig machen",
