@@ -7,7 +7,11 @@
     "phrases": {
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
+                "TXID_CAP_AFTERADS": "after ads",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
                 "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
                 "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
