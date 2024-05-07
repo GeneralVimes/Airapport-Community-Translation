@@ -3,7 +3,14 @@
     "lang_selfname": "Русский",
     "phrases": {
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {},
+            "TXID_TIMEUNIT_DAY_SHORT": "д",
+            "TXID_TIMEUNIT_HOUR_SHORT": "ч",
+            "TXID_TIMEUNIT_MIN_SHORT": "м",
+            "TXID_TIMEUNIT_MONTH_SHORT": "м",
+            "TXID_TIMEUNIT_MS_SHORT": "мс",
+            "TXID_TIMEUNIT_SEC_SHORT": "с",
+            "TXID_TIMEUNIT_WEEK_SHORT": "н",
+            "TXID_TIMEUNIT_YEAR_SHORT": "г",
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",

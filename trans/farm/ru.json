@@ -502,6 +502,10 @@
             "TXID_REW_TIMEFORWARD": "Время вперед"
         },
         "GROUP_farm_tutorial": {
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Оно работает само!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Смотрите, в игре встроен автокликер! Просто нажмите на объект, и он будет работать, пока вы отдыхаете. Как удобно!",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Продавец будет работать самостоятельно. А вы можете тем временем вернуться к ферме и вырастить ещё овощей",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Одна задача автоматизирована",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Вы можете разместить Автокликер на тот или ином объекте, в зависимости от того, какой в ​​настоящее время нуждается в дополнительной мощности больше всего.",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Вы были вне игры в течение",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Давайте тем временем вернёмся на ферму, чтобы вырастить больше еды и заработать больше денег",
@@ -605,7 +609,16 @@
             "TXID_UPGRUNITS_WATERPERSEC": "воды / сек"
         },
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {},
+            "CODE_aaa_untranslated": {
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y"
+            },
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",

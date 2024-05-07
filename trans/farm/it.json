@@ -516,6 +516,12 @@
             "TXID_REW_TIMEFORWARD": "tempo in avanti"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
+                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
+                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
+                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Si potrebbe desiderare di mettere l'autoclicker su un oggetto o un altro, a seconda di quale attualmente ha bisogno di energia supplementare di più.",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Sei stato via per",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Torniamo in fattoria per crescere più cibo e guadagna più soldi nel frattempo",
@@ -636,6 +642,14 @@
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
                 "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
                 "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
                 "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
                 "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
