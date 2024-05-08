@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "tiempo hacia adelante"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "¡Funciona solo!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "¡Mira, el juego tiene un autoclicker integrado! Simplemente toque un objeto una vez y funcionará mientras usted se relaja. ¡Que conveniente!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Es posible que desee colocar el autoclicker en un objeto u otra, dependiendo de lo que actualmente necesita energía adicional al máximo.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "El vendedor funcionará automáticamente. Y mientras tanto puedes volver a la granja para producir más verduras.",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "no estabas durante:",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Volvamos a la granja para crecer más alimentos y ganar más dinero en el Mientras tanto,",
             "TXID_MSGCAP_TUT_BERTHTAP": "Las plantas necesitan agua para crecer. Toque la litera para comenzar a entregar el agua del río.",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Toque en el aserradero para producir más rápido, trabajo continúa mientras que pulsas",
             "TXID_MSGCAP_TUT_MARKET": "puedes vender recursos en el mercado",
             "TXID_MSGCAP_TUT_NAVIGATION": "Puedes arrastrar la pantalla o escalarla para ver todas las instalaciones.",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Una tarea está automatizada",
             "TXID_MSGCAP_TUT_PITTAP": "Toque el pozo de arcilla a la arcilla mina",
             "TXID_MSGCAP_TUT_POPCAP": "La población ha alcanzado sus límites.",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Cada crecimiento de la población te trae nueva fuerza laboral. Y la población crece cuando vendes comida",

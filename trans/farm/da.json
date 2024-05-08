@@ -515,13 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Tid fremad"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Det virker af sig selv!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Se, spillet har en integreret autoklikker! Bare tryk på et objekt én gang, og det vil virke, mens du slapper af. Hvor praktisk!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Du vil måske placere autoklickeren på et objekt eller en anden, afhængigt af hvilken man i øjeblikket har brug for ekstra effekt mest.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Sælgeren vil arbejde automatisk. Og du kan komme tilbage til gården for at producere flere grøntsager imens",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Du var væk for",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Lad os vende tilbage til gården for at vokse mere mad og tjener flere penge i mellemtiden",
             "TXID_MSGCAP_TUT_BERTHTAP": "Planter har brug for vand til at vokse. Tryk på kajet for at begynde at levere vandet fra floden",
@@ -546,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Tryk på lumbermillen for at producere skriveborde hurtigere. Arbejdet fortsætter automatisk",
             "TXID_MSGCAP_TUT_MARKET": "Du kan sælge ressourcer på markedet",
             "TXID_MSGCAP_TUT_NAVIGATION": "Du kan trække skærmen eller skala den for at se alle faciliteter",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "En opgave er automatiseret",
             "TXID_MSGCAP_TUT_PITTAP": "Tryk på Clay Pit til min ler",
             "TXID_MSGCAP_TUT_POPCAP": "Befolkningen har nået sine grænser",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Hver befolkningsvækst bringer dig ny arbejdsstyrke. Og befolkningen vokser, når du sælger mad",

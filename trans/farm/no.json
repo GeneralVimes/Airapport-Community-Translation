@@ -515,13 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Tid fremover"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Det fungerer av seg selv!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Se, spillet har en integrert autoklikker! Bare trykk på et objekt én gang, og det vil fungere mens du slapper av. Så praktisk!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Du vil kanskje plassere autoklicker på ett objekt eller en annen, avhengig av hvilken en som for øyeblikket trenger ekstra strøm.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Selgeren vil fungere automatisk. Og du kan komme tilbake til gården for å produsere flere grønnsaker i mellomtiden",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Du var borte for",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "La oss gå tilbake til gården for å vokse mer mat og tjener mer penger i mellomtiden",
             "TXID_MSGCAP_TUT_BERTHTAP": "Planter trenger vann for å vokse. Trykk på kjernen for å begynne å levere vannet fra elva",
@@ -546,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Trykk på Lumbermill for å produsere skrivebord raskere. Arbeidet vil fortsette automatisk",
             "TXID_MSGCAP_TUT_MARKET": "Du kan selge ressurser på markedet",
             "TXID_MSGCAP_TUT_NAVIGATION": "Du kan dra skjermen eller skala den for å se alle fasilitetene",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "En oppgave er automatisert",
             "TXID_MSGCAP_TUT_PITTAP": "Trykk på leire gropen til min leire",
             "TXID_MSGCAP_TUT_POPCAP": "Befolkningen har nådd sine grenser",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Hver befolkningsvekst gir deg ny arbeidsstyrke. Og befolkningen vokser når du selger mat",

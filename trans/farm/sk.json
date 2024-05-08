@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Čas zrychlen"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funguje to samo o sebe!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Pozrite, hra má integrovaný autoclicker! Stačí raz klepnúť na objekt a bude fungovať, kým budete relaxovať. Aké pohodlné!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možná budeš chtít umístit autoklikač na nějaký objekt, v závislosti na tom, či potřebuje dodatečný výkon.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Predajca bude fungovať automaticky. A môžete sa vrátiť na farmu, aby ste medzitým vyprodukovali viac zeleniny",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Byl jsi pryč",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Poďme sa vrátiť na farmu, aby ste rástli viac jedla a zarobí viac peňazí medzitým",
             "TXID_MSGCAP_TUT_BERTHTAP": "Rastliny potrebujú vodu. Klepnutím na lôžko začať dodávať vodu z rieky",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Klepni na pilu aby se prkna vyráběli rychleji. Práce bude pokračovat automaticky",
             "TXID_MSGCAP_TUT_MARKET": "Materiál můžeš prodávat na trhu",
             "TXID_MSGCAP_TUT_NAVIGATION": "Obrazovku môžete presunúť, aby ste videli všetky zariadenia",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Jedna úloha je automatizovaná",
             "TXID_MSGCAP_TUT_PITTAP": "Ťuknite na hlinenú jamu",
             "TXID_MSGCAP_TUT_POPCAP": "Populácia dosiahla svoje limity",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Každý rast populácie vám prináša novú pracovnú silu. A obyvateľstvo rastie, keď predávate jedlo",

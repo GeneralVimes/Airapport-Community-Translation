@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Czas do przodu"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "To działa samo!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Spójrz, gra ma zintegrowany autokliker! Wystarczy raz dotknąć obiektu, a on zacznie działać, gdy będziesz się relaksować. Jak wygodnie!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Może chcesz umieścić autoclicker na jednym obiekcie lub inny, w zależności od tego, który z nich potrzebuje dodatkowego zasilania najbardziej.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Sprzedawca będzie działać automatycznie. W międzyczasie możesz wrócić na farmę i wyprodukować więcej warzyw",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Nie było Cię",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Wróćmy do gospodarstwa, aby rosnąć więcej jedzenia i zarabia więcej pieniędzy w międzyczasie",
             "TXID_MSGCAP_TUT_BERTHTAP": "Rośliny potrzebują wody do wzrostu. Dotknij Kiera, aby zacząć dostarczyć wodę z rzeki",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Dotknij tartak, żeby szybciej produkować deski. Praca będzie kontynuowana automatycznie",
             "TXID_MSGCAP_TUT_MARKET": "Możesz sprzedać zasoby na rynku",
             "TXID_MSGCAP_TUT_NAVIGATION": "Możesz przeciągnąć ekran lub skalować, aby zobaczyć wszystkie udogodnienia",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Jedno zadanie jest zautomatyzowane",
             "TXID_MSGCAP_TUT_PITTAP": "Dotknij gliny do gliny",
             "TXID_MSGCAP_TUT_POPCAP": "Ludność osiągnęła ograniczenia",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Każdy wzrost populacji przynosi nowe siły robocze. A populacja rośnie, gdy sprzedajesz jedzenie",

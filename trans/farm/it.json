@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "tempo in avanti"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funziona da solo!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Guarda, il gioco ha un clicker automatico integrato! Basta toccare un oggetto una volta e funzionerà mentre ti rilassi. Quanto conveniente!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Si potrebbe desiderare di mettere l'autoclicker su un oggetto o un altro, a seconda di quale attualmente ha bisogno di energia supplementare di più.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Il venditore funzionerà automaticamente. E nel frattempo puoi tornare alla fattoria per produrre altre verdure",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Sei stato via per",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Torniamo in fattoria per crescere più cibo e guadagna più soldi nel frattempo",
             "TXID_MSGCAP_TUT_BERTHTAP": "Le piante hanno bisogno di acqua per crescere. Tocca l'ormeggio per iniziare a liberare l'acqua dal fiume",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Toccare la segheria per la produzione di tavole più veloce. Il lavoro andrà avanti automaticamente",
             "TXID_MSGCAP_TUT_MARKET": "È possibile vendere le risorse al mercato",
             "TXID_MSGCAP_TUT_NAVIGATION": "Puoi trascinare lo schermo o scalarlo per vedere tutte le strutture",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Un'attività è automatizzata",
             "TXID_MSGCAP_TUT_PITTAP": "Tocca la fossa di argilla per il mio argilla",
             "TXID_MSGCAP_TUT_POPCAP": "La popolazione ha raggiunto i suoi limiti",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Ogni crescita della popolazione ti porta nuova forza lavoro. E la popolazione cresce quando vendi cibo",

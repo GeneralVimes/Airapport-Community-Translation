@@ -515,13 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Vrijeme naprijed"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Djeluje sam!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Pogledajte, igra ima integrirani autokliker! Samo jednom dodirnite predmet i on će raditi dok se vi opuštate. Kako prikladno!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možda želite postaviti Autoclicker na jedan objekt ili drugi, ovisno o tome koji trenutno treba najviše snage.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Prodavač će raditi automatski. A možete se vratiti na farmu da u međuvremenu proizvedete još povrća",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Bili ste odsutni",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Vratimo se na farmu da uzgajamo više hrane i u međuvremenu zarađujemo više novca",
             "TXID_MSGCAP_TUT_BERTHTAP": "Biljke trebaju vodu. Dodirnite vez da biste počeli isporučiti vodu iz rijeke",
@@ -546,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Dodirnite Limbermill da biste brže proizvode stolove. Rad će se automatski nastaviti",
             "TXID_MSGCAP_TUT_MARKET": "Možete prodavati resurse na tržištu",
             "TXID_MSGCAP_TUT_NAVIGATION": "Možete povući zaslon ili skalirati ga da biste vidjeli sve objekte",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Jedan zadatak je automatiziran",
             "TXID_MSGCAP_TUT_PITTAP": "Dodirnite glinenu jamu na minu",
             "TXID_MSGCAP_TUT_POPCAP": "Stanovništvo je dostiglo svoje granice",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Svaki rast populacije donosi vam novu radnu snagu. I stanovništvo raste kada prodajete hranu",

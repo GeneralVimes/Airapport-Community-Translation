@@ -515,13 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Zaman ileri"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Kendi kendine çalışıyor!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Bakın, oyunda entegre bir otomatik tıklayıcı var! Bir nesneye bir kez dokunmanız yeterli; siz dinlenirken o da çalışacaktır. Ne kadar uygun!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Tek bir nesne ya da bir başka üzerinde autoclicker yerleştirmek isteyebilirsiniz, hangi bağlı olarak bir anda en ek enerjiye ihtiyaç duyar.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Satıcı otomatik olarak çalışacaktır. Bu arada daha fazla sebze üretmek için çiftliğe geri dönebilirsiniz.",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Sen uzakta idi",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Daha fazla yiyecek yetiştirmek için çiftliğe dönelim ve bu arada daha fazla para kazanıyor",
             "TXID_MSGCAP_TUT_BERTHTAP": "Bitkilerin büyümek için suya ihtiyacı var. Suyu nehirden teslim edilmeye başlamak için rıhtıma dokunun.",
@@ -546,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "çabuk masaları üretmeye Odun dokunun. Çalışma otomatik olarak devam edecek",
             "TXID_MSGCAP_TUT_MARKET": "Sen pazarda kaynakları satabilirsiniz",
             "TXID_MSGCAP_TUT_NAVIGATION": "Tüm olanakları görmek için ekranı sürükleyebilir veya ölçeklendirebilirsiniz.",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Bir görev otomatikleştirildi",
             "TXID_MSGCAP_TUT_PITTAP": "Mayın kiline kil çukuruna dokunun",
             "TXID_MSGCAP_TUT_POPCAP": "Nüfus sınırlarına ulaştı",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Her nüfus artışı size yeni işgücü getiriyor. Ve nüfus yemek sattığınızda büyür",

@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Zeit vorwärts"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Es funktioniert von selbst!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Schauen Sie, das Spiel hat einen integrierten Autoclicker! Tippen Sie einfach einmal auf ein Objekt und es funktioniert, während Sie sich entspannen. Wie praktisch!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Sie könnten die Autoclicker auf ein Objekt oder eine andere, je nachdem, welche zur Zeit braucht zusätzliche Energie die meisten platzieren möchten.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Der Verkäufer wird automatisch arbeiten. Und Sie können in der Zwischenzeit zur Farm zurückkehren, um mehr Gemüse zu produzieren",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Du warst weg für",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Lassen Sie uns zur Farm zurückkehren, um mehr Essen zu wachsen und in der Zwischenzeit mehr Geld verdienen",
             "TXID_MSGCAP_TUT_BERTHTAP": "Pflanzen brauchen Wasser, um zu wachsen. Tippen Sie auf den Boden, um das Wasser vom Fluss aus zu liefern",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Tippe auf die Sägemühle um Bretter herzustellen. Halte die Maustaste um dauerhaft herzustellen",
             "TXID_MSGCAP_TUT_MARKET": "Du kannst Ressourcen auf dem Markt verkaufen",
             "TXID_MSGCAP_TUT_NAVIGATION": "Sie können den Bildschirm ziehen oder erheben, um alle Anlagen anzuzeigen",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Eine Aufgabe ist automatisiert",
             "TXID_MSGCAP_TUT_PITTAP": "Tippen Sie auf die Lehmgrube in meinen Ton",
             "TXID_MSGCAP_TUT_POPCAP": "Die Bevölkerung hat seine Grenzen erreicht",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Jedes Bevölkerungswachstum bringt Ihnen neue Belegschaft. Und Bevölkerung wächst, wenn Sie Essen verkaufen",

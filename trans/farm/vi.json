@@ -515,13 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Thời gian chuyển tiếp"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Nó tự hoạt động!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Hãy nhìn xem, trò chơi có tích hợp tính năng tự động nhấp chuột! Chỉ cần chạm vào một đối tượng một lần và nó sẽ hoạt động trong khi bạn đang thư giãn. Tiện như thế nào!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Bạn có thể muốn đặt autoclicker vào một đối tượng này hay cách khác, tùy thuộc vào một hiện nhu cầu năng lượng bổ sung nhiều nhất.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Người bán sẽ làm việc tự động. Và bạn có thể quay lại trang trại để sản xuất nhiều rau hơn trong thời gian đó",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Bạn đã đi cho",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Chúng ta hãy quay lại trang trại để trồng nhiều thức ăn hơn và kiếm được nhiều tiền hơn trong khi đó",
             "TXID_MSGCAP_TUT_BERTHTAP": "Cây cần nước để phát triển. Chạm vào bến để bắt đầu cung cấp nước từ sông",
@@ -546,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Bấm vào nhà máy cưa để sản xuất bàn nhanh hơn. Công việc sẽ tiếp tục tự động",
             "TXID_MSGCAP_TUT_MARKET": "Bạn có thể bán các nguồn lực tại chợ",
             "TXID_MSGCAP_TUT_NAVIGATION": "Bạn có thể kéo màn hình hoặc chia tỷ lệ để xem tất cả các cơ sở",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Một nhiệm vụ được tự động hóa",
             "TXID_MSGCAP_TUT_PITTAP": "Chạm vào hố đất sét để khai thác đất sét",
             "TXID_MSGCAP_TUT_POPCAP": "Dân số đã đạt đến giới hạn của nó",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Mỗi sự tăng trưởng dân số mang đến cho bạn lực lượng lao động mới. Và dân số phát triển khi bạn bán thức ăn",

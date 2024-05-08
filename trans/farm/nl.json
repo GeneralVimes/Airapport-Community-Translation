@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Tijd vooruit"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Het werkt vanzelf!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Kijk, het spel heeft een geïntegreerde autoclicker! Tik gewoon één keer op een object en het werkt terwijl u ontspant. Hoe handig!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Je kunt de autoklikker op één object tegelijk zetten. Je kunt deze verplaatsen naar het object wat het meest moet produceren. ",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "De verkoper werkt automatisch. En je kunt terug naar de boerderij om in de tussentijd meer groenten te produceren",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Je was weg voor",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Laten we terugkeren naar de boerderij om meer voedsel te laten groeien en verdient meer geld ondertussen",
             "TXID_MSGCAP_TUT_BERTHTAP": "Planten hebben water nodig om te groeien. Tik op de ligplaats om het water uit de rivier te brengen",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Tik op de houtzagerij om sneller planken te produceren. Het werk gaat automatisch door",
             "TXID_MSGCAP_TUT_MARKET": "Je kunt goederen op de markt verkopen",
             "TXID_MSGCAP_TUT_NAVIGATION": "U kunt het scherm slepen of schalen om alle faciliteiten te bekijken",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Eén taak is geautomatiseerd",
             "TXID_MSGCAP_TUT_PITTAP": "Tik op de klei-put op mijn klei",
             "TXID_MSGCAP_TUT_POPCAP": "De bevolking heeft zijn limieten bereikt",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Elke bevolkingsgroei brengt je nieuw personeelsbestand. En de bevolking groeit wanneer u voedsel verkoopt",

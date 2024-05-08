@@ -515,13 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Aika eteenpäin"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Se toimii itsestään!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Katso, pelissä on integroitu automaattinen napsautustoiminto! Napauta vain esinettä kerran, ja se toimii, kun rentoudut. Kuinka kätevää!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Haluat ehkä sijoittaa autoklickerin yhteen esineeseen tai toiseen, riippuen siitä, mikä on tällä hetkellä lisävoimaa eniten.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Myyjä toimii automaattisesti. Ja voit palata tilalle tuottamaan lisää vihanneksia sillä välin",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Olit poissa",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Palataan tilalle kasvaa enemmän ruokaa ja ansaitsee enemmän rahaa sinisesti",
             "TXID_MSGCAP_TUT_BERTHTAP": "Kasvit tarvitsevat vettä kasvaa. Napauta laituri aloittamaan veden toimittaminen joesta",
@@ -546,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Napauta Lumbermill tuottaa työpöydät nopeammin. Työ jatkuu automaattisesti",
             "TXID_MSGCAP_TUT_MARKET": "Voit myydä resursseja markkinoilla",
             "TXID_MSGCAP_TUT_NAVIGATION": "Voit vetää näytön tai asteikon nähdäksesi kaikki tilat",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Yksi tehtävä on automatisoitu",
             "TXID_MSGCAP_TUT_PITTAP": "Napauta savi kuoppaan kaivokseen",
             "TXID_MSGCAP_TUT_POPCAP": "Väestö on saavuttanut rajoitukset",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Jokainen väestönkasvu tuo sinulle uuden työvoiman. Ja väestö kasvaa, kun myyt ruokaa",

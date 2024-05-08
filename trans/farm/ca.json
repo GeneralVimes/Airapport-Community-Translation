@@ -515,13 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Temps cap endavant"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funciona per si mateix!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Mira, el joc té un clic automàtic integrat! Només cal que toqueu un objecte una vegada i funcionarà mentre us relaxeu. Què convenient!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "És possible que vulgueu col·locar l'autoclicker en un objecte o un altre, depenent del que actualment necessita una potència addicional.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "El venedor funcionarà automàticament. I podeu tornar a la granja per produir més hortalisses mentrestant",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Estàs absent",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Tornem a la granja per cultivar més menjar i guanyar més diners mentrestant",
             "TXID_MSGCAP_TUT_BERTHTAP": "Les plantes necessiten aigua per créixer. Toqueu la llitera per començar a lliurar l'aigua del riu",
@@ -546,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Toqueu el moltametre per produir escriptoris més ràpids. El treball continuarà automàticament",
             "TXID_MSGCAP_TUT_MARKET": "Podeu vendre recursos al mercat",
             "TXID_MSGCAP_TUT_NAVIGATION": "Podeu arrossegar la pantalla o escalar-la per veure totes les instal·lacions",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Una tasca està automatitzada",
             "TXID_MSGCAP_TUT_PITTAP": "Toqueu la fossa d'argila a la meva argila",
             "TXID_MSGCAP_TUT_POPCAP": "La població ha arribat als seus límits",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Cada creixement de la població us ofereix una nova força de treball. I la població creix quan vengueu menjar",

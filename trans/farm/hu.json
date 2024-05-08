@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Idő előre"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Magától működik!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Nézd, a játékban van egy integrált autoclicker! Csak érintsen meg egy tárgyat egyszer, és az működni fog, miközben Ön pihen. Milyen kényelmes!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Arra a helyre érdemes helyezni az autoklikkert, ahol több gyorsításra van szükség.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Az eladó automatikusan fog dolgozni. És visszatérhet a farmra, hogy közben még több zöldséget termeljen",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Távol voltál",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Visszatérjünk a gazdaságba, hogy több ételt termeljenek, és több pénzt keresnek",
             "TXID_MSGCAP_TUT_BERTHTAP": "A növényeknek szüksége van vízre. Érintse meg a kikötőt, hogy elkezdje a vízvezetéket a folyóból",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Koppintson a fűrészáruval, hogy gyorsabban előállítsa az íróasztalokat. A munka automatikusan folytatódik",
             "TXID_MSGCAP_TUT_MARKET": "Eladhatja az erőforrásokat a piacon",
             "TXID_MSGCAP_TUT_NAVIGATION": "Húzhatja a képernyőt, vagy méretezheti, hogy megtekinthesse az összes létesítményt",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Az egyik feladat automatizált",
             "TXID_MSGCAP_TUT_PITTAP": "Érintse meg az agyagbányát az agyagba",
             "TXID_MSGCAP_TUT_POPCAP": "A lakosság elérte a korlátait",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Minden népességnövekedés új munkaerőt hoz létre. És a népesség növekszik, amikor eladja az ételt",

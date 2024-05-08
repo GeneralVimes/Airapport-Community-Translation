@@ -507,13 +507,11 @@
             "TXID_REW_TIMEFORWARD": "前進します"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "それはそれ自体で機能します！",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "見てください、このゲームにはオートクリッカーが統合されています。オブジェクトを一度タップするだけで、リラックスしている間に動作します。なんて都合のいい！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "現在最も多くのパワーを必要とするかに応じて、オートリッカーをあるオブジェクトに配置することをお勧めします。",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "販売者は自動的に動作します。そして、その間に農場に戻ってさらに野菜を生産することができます",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "あなたは離れていました",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "その間、より多くの食べ物を育て、より多くのお金を稼ぐために農場に戻りましょう",
             "TXID_MSGCAP_TUT_BERTHTAP": "植物は成長するために水が必要です。寝台をタップして、川から水を供給し始めます",
@@ -538,6 +536,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "木材をタップして、机をより速く生産します。作業は自動的に続きます",
             "TXID_MSGCAP_TUT_MARKET": "市場でリソースを販売できます",
             "TXID_MSGCAP_TUT_NAVIGATION": "画面をドラッグしたり、すべての設備を確認したりすることができます",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "1 つのタスクが自動化される",
             "TXID_MSGCAP_TUT_PITTAP": "粘土の穴をタップして粘土を掘ります",
             "TXID_MSGCAP_TUT_POPCAP": "人口は限界に達しました",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "すべての人口増加はあなたに新しい労働力をもたらします。そして、あなたが食べ物を売ると人口は増加します",

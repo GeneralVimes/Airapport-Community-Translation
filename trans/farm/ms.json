@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "masa hadapan"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Ia berfungsi dengan sendirinya!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Lihat, permainan ini mempunyai autoclicker bersepadu! Hanya ketik objek sekali, dan ia akan berfungsi semasa anda berehat. Betapa mudahnya!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Anda mungkin mahu meletakkan autoclicker pada satu objek atau yang lain, bergantung kepada yang mana satu pada masa ini perlukan kuasa tambahan yang paling.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Penjual akan bekerja secara automatik. Dan anda boleh kembali ke ladang untuk menghasilkan lebih banyak sayur-sayuran sementara itu",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Anda tiada untuk",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Mari kita kembali ke ladang untuk mengembangkan lebih banyak makanan dan memperoleh lebih banyak wang dalam sementara itu",
             "TXID_MSGCAP_TUT_BERTHTAP": "Tumbuhan memerlukan air untuk berkembang. Ketik tempat tidur untuk mula menyampaikan air dari sungai",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Ketik lumbermill untuk menghasilkan meja lebih cepat. Kerja akan menyala secara automatik",
             "TXID_MSGCAP_TUT_MARKET": "Anda boleh menjual sumber di pasaran",
             "TXID_MSGCAP_TUT_NAVIGATION": "Anda boleh menyeret skrin atau skala untuk melihat semua kemudahan",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Satu tugas adalah automatik",
             "TXID_MSGCAP_TUT_PITTAP": "Ketik lubang tanah liat ke tanah liat lombong",
             "TXID_MSGCAP_TUT_POPCAP": "Penduduk telah mencapai hadnya",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Setiap pertumbuhan penduduk membawa anda tenaga kerja baru. Dan penduduk tumbuh apabila anda menjual makanan",

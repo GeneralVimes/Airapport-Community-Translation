@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "avant le temps"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Cela fonctionne tout seul !",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Regardez, le jeu a un autoclicker intégré ! Appuyez simplement une fois sur un objet et il fonctionnera pendant que vous vous détendez. Comme c'est pratique!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Vous pouvez placer le autoclicker sur un objet ou d'une autre, selon laquelle on a besoin actuellement une puissance supplémentaire le plus.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Le vendeur fonctionnera automatiquement. Et vous pouvez retourner à la ferme pour produire plus de légumes en attendant",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Vous étiez absent pour",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Revenons à la ferme pour développer plus de nourriture et gagne plus d'argent en attendant",
             "TXID_MSGCAP_TUT_BERTHTAP": "Les plantes ont besoin d'eau pour grandir. Appuyez sur la couchette pour commencer à livrer l'eau de la rivière",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Appuyez sur le bureau pour produire scierie plus rapide. Le travail sera automatiquement",
             "TXID_MSGCAP_TUT_MARKET": "Vous pouvez vendre des ressources sur le marché",
             "TXID_MSGCAP_TUT_NAVIGATION": "Vous pouvez faire glisser l'écran ou l'échelle pour voir toutes les installations",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Une tâche est automatisée",
             "TXID_MSGCAP_TUT_PITTAP": "Tapez sur la fosse d'argile à la mine d'argile",
             "TXID_MSGCAP_TUT_POPCAP": "La population a atteint ses limites",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Chaque croissance démographique vous apporte de nouvelles effectifs. Et la population grandit lorsque vous vendez de la nourriture",

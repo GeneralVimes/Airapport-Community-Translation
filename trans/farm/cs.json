@@ -516,13 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Čas zrýchlený"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "It works by itself!",
-                "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Look, the game has an integrated autoclicker! Just tap an object once, and it will be working while you are relaxing. How convenient!",
-                "TXID_MSGCAP_TUT_AUTOMATEOTHER": "The seller will work automatically. And you can get back to the farm to produce more vegetables in the meanwhile",
-                "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "One task is automated"
-            },
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funguje to samo o sobě!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Podívejte, hra má integrovaný autoclicker! Stačí jednou klepnout na objekt a bude fungovat, zatímco budete odpočívat. Jak pohodlné!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možno budeš chcieť umiestniť autoklikač na nejaký objekt, v závislosti na tom, či potrebuje dodatočný výkon.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Prodejce bude fungovat automaticky. A mezitím se můžete vrátit na farmu a produkovat více zeleniny",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Bol si preč",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Vraťme se na farmu, abychom pěstovali více jídla a vyděláváte více peněz v mezidobí",
             "TXID_MSGCAP_TUT_BERTHTAP": "Rostliny potřebují vodu. Klepnutím na lůžko začnete dodávat vodu z řeky",
@@ -547,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Klikni na pílu aby sa dosky vyrábali rýchlejšie. Práca bude pokračovať automaticky",
             "TXID_MSGCAP_TUT_MARKET": "Materiál môžeš predávať na trhu",
             "TXID_MSGCAP_TUT_NAVIGATION": "Obrazovku můžete přetáhnout nebo měřítko pro zobrazení všech zařízení",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Jeden úkol je automatizovaný",
             "TXID_MSGCAP_TUT_PITTAP": "Poklepejte na hliněné jámy do mé hlíny",
             "TXID_MSGCAP_TUT_POPCAP": "Populace dosáhla svých limitů",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Každý růst populace vám přináší novou pracovní sílu. A populace roste, když prodáváte jídlo",
