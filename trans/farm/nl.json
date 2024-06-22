@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "garen"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Tijdbonus",
             "TXID_REW_DISCPURCH": "Koop met korting",
             "TXID_REW_FREEMON": "Gratis munten",
@@ -513,7 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Tijd vooruit"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Het werkt vanzelf!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Kijk, het spel heeft een geïntegreerde autoclicker! Tik gewoon één keer op een object en het werkt terwijl u ontspant. Hoe handig!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Je kunt de autoklikker op één object tegelijk zetten. Je kunt deze verplaatsen naar het object wat het meest moet produceren. ",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "De verkoper werkt automatisch. En je kunt terug naar de boerderij om in de tussentijd meer groenten te produceren",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Je was weg voor",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Laten we terugkeren naar de boerderij om meer voedsel te laten groeien en verdient meer geld ondertussen",
             "TXID_MSGCAP_TUT_BERTHTAP": "Planten hebben water nodig om te groeien. Tik op de ligplaats om het water uit de rivier te brengen",
@@ -538,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Tik op de houtzagerij om sneller planken te produceren. Het werk gaat automatisch door",
             "TXID_MSGCAP_TUT_MARKET": "Je kunt goederen op de markt verkopen",
             "TXID_MSGCAP_TUT_NAVIGATION": "U kunt het scherm slepen of schalen om alle faciliteiten te bekijken",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Eén taak is geautomatiseerd",
             "TXID_MSGCAP_TUT_PITTAP": "Tik op de klei-put op mijn klei",
             "TXID_MSGCAP_TUT_POPCAP": "De bevolking heeft zijn limieten bereikt",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Elke bevolkingsgroei brengt je nieuw personeelsbestand. En de bevolking groeit wanneer u voedsel verkoopt",
@@ -620,11 +628,30 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
-                "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences"
+                "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "KRIJGEN!",
             "TXID_ANS_TRYBACKUP": "Ongedaan maken",
@@ -776,7 +803,8 @@
             "TXID_MSG_CAP_REWARD_READY": "cadeau klaar!",
             "TXID_MSG_CLIPBOARD": "Tekstbestand is gekopieerd naar het klembord. Je kunt het ergens opslaan of e -mailen naar jezelf om de toren te kunnen herstellen.",
             "TXID_MSG_EMAILBODY": "(Stuur deze e -mail alsjeblieft naar general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Zou je meer willen winnen door het bekijken van advertenties (alleen winst, niet uitgaven, worden verdubbeld)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Zou je meer willen winnen door het bekijken van advertenties ?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(alleen winst, niet uitgaven, worden verdubbeld)",
             "TXID_MSG_GAINMORESKIPADS": "Wil je meer winnen (zonder advertenties)?",
             "TXID_MSG_HOWTOIMPROVE": "Suggesties hoe het spel te verbeteren",
             "TXID_MSG_ISLOADOK": "Is alles goed geladen?",

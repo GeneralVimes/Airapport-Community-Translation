@@ -491,6 +491,9 @@
             "TXID_RES_YARN": "실"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "시간 보너스",
             "TXID_REW_DISCPURCH": "할인 된 구매",
             "TXID_REW_FREEMON": "무료 동전",
@@ -504,7 +507,11 @@
             "TXID_REW_TIMEFORWARD": "시간 앞으로"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "그것은 저절로 작동합니다!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "보세요, 이 게임에는 자동 클릭 기능이 통합되어 있습니다! 개체를 한 번만 탭하면 휴식을 취하는 동안 해당 개체가 작동합니다. 얼마나 편리한 지!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "현재 추가 전력이 가장 필요한 것에 따라 AutoClicker를 한 객체 또는 다른 객체에 배치 할 수 있습니다.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "판매자가 자동으로 작동합니다. 그리고 그 동안 농장으로 돌아가서 더 많은 야채를 생산할 수 있습니다.",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "당신은 멀리있었습니다",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "더 많은 음식을 키우고 더 많은 돈을 벌기 위해 농장으로 돌아가 봅시다.",
             "TXID_MSGCAP_TUT_BERTHTAP": "식물은 자라려면 물이 필요합니다. 강에서 물을 배달하려면 정박지를 탭하십시오.",
@@ -529,6 +536,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Lumbermill을 탭하여 책상을 더 빨리 생산하십시오. 작업은 자동으로 계속됩니다",
             "TXID_MSGCAP_TUT_MARKET": "시장에서 자원을 판매 할 수 있습니다",
             "TXID_MSGCAP_TUT_NAVIGATION": "화면을 드래그하거나 스케일링하여 모든 시설을 볼 수 있습니다.",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "하나의 작업이 자동화됩니다.",
             "TXID_MSGCAP_TUT_PITTAP": "점토 구덩이를 탭하여 점토를 채굴하십시오",
             "TXID_MSGCAP_TUT_POPCAP": "인구는 한계에 도달했습니다",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "모든 인구 증가는 새로운 인력을 가져옵니다. 음식을 팔 때 인구가 커집니다",
@@ -607,6 +615,27 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w/sec"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {
+                "TXID_CAP_AFTERADS": "after ads",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
+            },
             "TXID_ANS_GET": "얻다!",
             "TXID_ANS_TRYBACKUP": "실행 취소",
             "TXID_AREYOUWITHME": "지금까지 내 말 이해 했어?",
@@ -763,7 +792,8 @@
             "TXID_MSG_CAP_REWARD_READY": "선물 준비!",
             "TXID_MSG_CLIPBOARD": "텍스트 파일이 클립 보드에 복사되었습니다. 탑을 복원 할 수 있도록 어딘가에 보관하거나 이메일을 보낼 수 있습니다.",
             "TXID_MSG_EMAILBODY": "(이 이메일을 general@cardswars.com으로 작성하십시오)",
-            "TXID_MSG_GAINMOREAFTERADS": "광고를 본 후 더 많은 것을 얻고 싶습니까 (지출이 아닌 이익 만 두 배가 될 것입니다)?",
+            "TXID_MSG_GAINMOREAFTERADS": "광고를 본 후 더 많은 것을 얻고 싶습니까 ?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(지출이 아닌 이익 만 두 배가 될 것입니다)",
             "TXID_MSG_GAINMORESKIPADS": "광고없이 더 많은 것을 얻고 싶습니까?",
             "TXID_MSG_HOWTOIMPROVE": "제안 게임을 개선하는 방법",
             "TXID_MSG_ISLOADOK": "모든 것이 잘로드 되었습니까?",

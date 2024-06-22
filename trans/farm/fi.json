@@ -499,6 +499,9 @@
             "TXID_RES_YARN": "lanka"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Aikabonus",
             "TXID_REW_DISCPURCH": "Osta alennuksella",
             "TXID_REW_FREEMON": "Vapaa kolikot",
@@ -512,7 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Aika eteenpäin"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Se toimii itsestään!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Katso, pelissä on integroitu automaattinen napsautustoiminto! Napauta vain esinettä kerran, ja se toimii, kun rentoudut. Kuinka kätevää!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Haluat ehkä sijoittaa autoklickerin yhteen esineeseen tai toiseen, riippuen siitä, mikä on tällä hetkellä lisävoimaa eniten.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Myyjä toimii automaattisesti. Ja voit palata tilalle tuottamaan lisää vihanneksia sillä välin",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Olit poissa",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Palataan tilalle kasvaa enemmän ruokaa ja ansaitsee enemmän rahaa sinisesti",
             "TXID_MSGCAP_TUT_BERTHTAP": "Kasvit tarvitsevat vettä kasvaa. Napauta laituri aloittamaan veden toimittaminen joesta",
@@ -537,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Napauta Lumbermill tuottaa työpöydät nopeammin. Työ jatkuu automaattisesti",
             "TXID_MSGCAP_TUT_MARKET": "Voit myydä resursseja markkinoilla",
             "TXID_MSGCAP_TUT_NAVIGATION": "Voit vetää näytön tai asteikon nähdäksesi kaikki tilat",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Yksi tehtävä on automatisoitu",
             "TXID_MSGCAP_TUT_PITTAP": "Napauta savi kuoppaan kaivokseen",
             "TXID_MSGCAP_TUT_POPCAP": "Väestö on saavuttanut rajoitukset",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Jokainen väestönkasvu tuo sinulle uuden työvoiman. Ja väestö kasvaa, kun myyt ruokaa",
@@ -619,16 +627,35 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_ASKALLOWPERSADS": "Would you allow showing personalized ads to you?",
                 "TXID_CAP_ASKALLOWPERSADSEXPL": "This will make ads more relevant and it won't bother you (you can watch it only when you want to receive a reward in the game)",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGCAP_CREDITSTHANKSSOUNDS": "Sound by ",
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
-                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators"
+                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "SAADA!",
             "TXID_ANS_TRYBACKUP": "Kumota",
@@ -775,7 +802,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Lahja valmis!",
             "TXID_MSG_CLIPBOARD": "Tekstitiedosto kopioitiin leikepöydälle. Voit tallentaa sen jonnekin tai sähköpostitse itsellesi, jotta voit palauttaa tornin",
             "TXID_MSG_EMAILBODY": "(Kiitos, kirjoita tämä sähköposti@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Haluatko saada enemmän katsomassa mainoksia (vain voitot, ei viettää, kaksinkertaistuu)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Haluatko saada enemmän katsomassa mainoksia?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(vain voitot, ei viettää, kaksinkertaistuu)",
             "TXID_MSG_GAINMORESKIPADS": "Haluatko saada enemmän (ilman mainoksia)?",
             "TXID_MSG_HOWTOIMPROVE": "Ehdotukset Miten parantaa peliä",
             "TXID_MSG_ISLOADOK": "Onko kaikki kasvot hyvin?",

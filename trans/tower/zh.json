@@ -7,7 +7,25 @@
     "phrases": {
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
-                "TXID_CAP_SETTINGS": "SETTINGS"
+                "TXID_CAP_AFTERADS": "after ads",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "得到！",
             "TXID_ANS_TRYBACKUP": "撤消",
@@ -168,7 +186,8 @@
             "TXID_MSG_CAP_REWARD_READY": "准备就绪！",
             "TXID_MSG_CLIPBOARD": "文本文件被复制到剪贴板。您可以将其存储在某个地方或发送电子邮件给自己以恢复塔楼",
             "TXID_MSG_EMAILBODY": "（请将此电子邮件写给enstal@cardswars.com）",
-            "TXID_MSG_GAINMOREAFTERADS": "观看广告后，您想获得更多收益（只有收益，不花钱，会加倍）？",
+            "TXID_MSG_GAINMOREAFTERADS": "观看广告后，您想获得更多收益？",
+            "TXID_MSG_GAINMOREGAINSEXPL": "（只有收益，不花钱，会加倍）",
             "TXID_MSG_GAINMORESKIPADS": "您想获得更多（没有广告）吗？",
             "TXID_MSG_HOWTOIMPROVE": "建议如何改善游戏",
             "TXID_MSG_ISLOADOK": "一切都很好吗？",
@@ -475,6 +494,9 @@
             "TXID_WATERWELLRESTORATION": "水恢复速度"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "时间奖励",
             "TXID_REW_DISCPURCH": "以折扣购买",
             "TXID_REW_FREEGB": "免费的金砖",

@@ -499,6 +499,9 @@
             "TXID_RES_YARN": "fil"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Bonificació de temps",
             "TXID_REW_DISCPURCH": "Compra amb descompte",
             "TXID_REW_FREEMON": "Monedes gratuïtes",
@@ -512,7 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Temps cap endavant"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funciona per si mateix!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Mira, el joc té un clic automàtic integrat! Només cal que toqueu un objecte una vegada i funcionarà mentre us relaxeu. Què convenient!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "És possible que vulgueu col·locar l'autoclicker en un objecte o un altre, depenent del que actualment necessita una potència addicional.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "El venedor funcionarà automàticament. I podeu tornar a la granja per produir més hortalisses mentrestant",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Estàs absent",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Tornem a la granja per cultivar més menjar i guanyar més diners mentrestant",
             "TXID_MSGCAP_TUT_BERTHTAP": "Les plantes necessiten aigua per créixer. Toqueu la llitera per començar a lliurar l'aigua del riu",
@@ -537,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Toqueu el moltametre per produir escriptoris més ràpids. El treball continuarà automàticament",
             "TXID_MSGCAP_TUT_MARKET": "Podeu vendre recursos al mercat",
             "TXID_MSGCAP_TUT_NAVIGATION": "Podeu arrossegar la pantalla o escalar-la per veure totes les instal·lacions",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Una tasca està automatitzada",
             "TXID_MSGCAP_TUT_PITTAP": "Toqueu la fossa d'argila a la meva argila",
             "TXID_MSGCAP_TUT_POPCAP": "La població ha arribat als seus límits",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Cada creixement de la població us ofereix una nova força de treball. I la població creix quan vengueu menjar",
@@ -619,16 +627,35 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_ASKALLOWPERSADS": "Would you allow showing personalized ads to you?",
                 "TXID_CAP_ASKALLOWPERSADSEXPL": "This will make ads more relevant and it won't bother you (you can watch it only when you want to receive a reward in the game)",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGCAP_CREDITSTHANKSSOUNDS": "Sound by ",
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
-                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators"
+                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "ACONSEGUIR!",
             "TXID_ANS_TRYBACKUP": "Desfer",
@@ -775,7 +802,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Regal Ready!",
             "TXID_MSG_CLIPBOARD": "El fitxer de text es va copiar al porta-retalls. Podeu emmagatzemar-lo en algun lloc o envieu-vos un correu electrònic a vosaltres mateixos per poder restaurar la torre",
             "TXID_MSG_EMAILBODY": "(Si us plau, escriviu aquest correu electrònic a general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Voleu guanyar més després de veure anuncis (només els guanys, no gastaran, es duplicaran)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Voleu guanyar més després de veure anuncis?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(només els guanys, no gastaran, es duplicaran)",
             "TXID_MSG_GAINMORESKIPADS": "Voleu guanyar més (sense anuncis)?",
             "TXID_MSG_HOWTOIMPROVE": "Suggeriments Com millorar el joc",
             "TXID_MSG_ISLOADOK": "Tot va carregar bé?",

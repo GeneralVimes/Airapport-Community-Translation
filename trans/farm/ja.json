@@ -491,6 +491,9 @@
             "TXID_RES_YARN": "糸"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "タイムボーナス",
             "TXID_REW_DISCPURCH": "割引で購入します",
             "TXID_REW_FREEMON": "無料のコイン",
@@ -504,7 +507,11 @@
             "TXID_REW_TIMEFORWARD": "前進します"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "それはそれ自体で機能します！",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "見てください、このゲームにはオートクリッカーが統合されています。オブジェクトを一度タップするだけで、リラックスしている間に動作します。なんて都合のいい！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "現在最も多くのパワーを必要とするかに応じて、オートリッカーをあるオブジェクトに配置することをお勧めします。",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "販売者は自動的に動作します。そして、その間に農場に戻ってさらに野菜を生産することができます",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "あなたは離れていました",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "その間、より多くの食べ物を育て、より多くのお金を稼ぐために農場に戻りましょう",
             "TXID_MSGCAP_TUT_BERTHTAP": "植物は成長するために水が必要です。寝台をタップして、川から水を供給し始めます",
@@ -529,6 +536,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "木材をタップして、机をより速く生産します。作業は自動的に続きます",
             "TXID_MSGCAP_TUT_MARKET": "市場でリソースを販売できます",
             "TXID_MSGCAP_TUT_NAVIGATION": "画面をドラッグしたり、すべての設備を確認したりすることができます",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "1 つのタスクが自動化される",
             "TXID_MSGCAP_TUT_PITTAP": "粘土の穴をタップして粘土を掘ります",
             "TXID_MSGCAP_TUT_POPCAP": "人口は限界に達しました",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "すべての人口増加はあなたに新しい労働力をもたらします。そして、あなたが食べ物を売ると人口は増加します",
@@ -607,6 +615,27 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w/sec"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {
+                "TXID_CAP_AFTERADS": "after ads",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
+            },
             "TXID_ANS_GET": "得る！",
             "TXID_ANS_TRYBACKUP": "元に戻します",
             "TXID_AREYOUWITHME": "あなたは私と一緒ですか？",
@@ -763,7 +792,8 @@
             "TXID_MSG_CAP_REWARD_READY": "ギフトレディ！",
             "TXID_MSG_CLIPBOARD": "テキストファイルはクリップボードにコピーされました。あなたはそれをどこかに保管するか、塔を復元できるように自分自身に電子メールを送ることができます",
             "TXID_MSG_EMAILBODY": "（このメールをgeneral@cardswars.comに書いてください）",
-            "TXID_MSG_GAINMOREAFTERADS": "広告を見た後、もっと多くの利益を得たいですか（費やさないで、倍増するのは2倍になります）？",
+            "TXID_MSG_GAINMOREAFTERADS": "広告を見た後、もっと多くの利益を得たいですか？",
+            "TXID_MSG_GAINMOREGAINSEXPL": "（費やさないで、倍増するのは2倍になります）",
             "TXID_MSG_GAINMORESKIPADS": "もっと（広告なしで）増えたいですか？",
             "TXID_MSG_HOWTOIMPROVE": "提案ゲームを改善する方法",
             "TXID_MSG_ISLOADOK": "すべてがうまくロードされましたか？",

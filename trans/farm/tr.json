@@ -499,6 +499,9 @@
             "TXID_RES_YARN": "iplik"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Süre bonusu",
             "TXID_REW_DISCPURCH": "indirim Satın Alma",
             "TXID_REW_FREEMON": "Ücretsiz paralar",
@@ -512,7 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Zaman ileri"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Kendi kendine çalışıyor!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Bakın, oyunda entegre bir otomatik tıklayıcı var! Bir nesneye bir kez dokunmanız yeterli; siz dinlenirken o da çalışacaktır. Ne kadar uygun!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Tek bir nesne ya da bir başka üzerinde autoclicker yerleştirmek isteyebilirsiniz, hangi bağlı olarak bir anda en ek enerjiye ihtiyaç duyar.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Satıcı otomatik olarak çalışacaktır. Bu arada daha fazla sebze üretmek için çiftliğe geri dönebilirsiniz.",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Sen uzakta idi",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Daha fazla yiyecek yetiştirmek için çiftliğe dönelim ve bu arada daha fazla para kazanıyor",
             "TXID_MSGCAP_TUT_BERTHTAP": "Bitkilerin büyümek için suya ihtiyacı var. Suyu nehirden teslim edilmeye başlamak için rıhtıma dokunun.",
@@ -537,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "çabuk masaları üretmeye Odun dokunun. Çalışma otomatik olarak devam edecek",
             "TXID_MSGCAP_TUT_MARKET": "Sen pazarda kaynakları satabilirsiniz",
             "TXID_MSGCAP_TUT_NAVIGATION": "Tüm olanakları görmek için ekranı sürükleyebilir veya ölçeklendirebilirsiniz.",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Bir görev otomatikleştirildi",
             "TXID_MSGCAP_TUT_PITTAP": "Mayın kiline kil çukuruna dokunun",
             "TXID_MSGCAP_TUT_POPCAP": "Nüfus sınırlarına ulaştı",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Her nüfus artışı size yeni işgücü getiriyor. Ve nüfus yemek sattığınızda büyür",
@@ -619,14 +627,33 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGCAP_CREDITSTHANKSSOUNDS": "Sound by ",
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
-                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators"
+                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "ALMAK!",
             "TXID_ANS_TRYBACKUP": "Geri alma",
@@ -775,7 +802,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Hediye hazır!",
             "TXID_MSG_CLIPBOARD": "Metin dosyası panoya kopyalandı. Sen kuleyi restore edebilmek için bir yere saklayın veya kendinize e-posta",
             "TXID_MSG_EMAILBODY": "(General@cardswars.com bu linkten ulaşabilirsiniz)",
-            "TXID_MSG_GAINMOREAFTERADS": "Daha fazla reklam izledikten sonra (sadece kazanımlar, iki katına edilecektir harcadığı değil) kazanmak ister misiniz?",
+            "TXID_MSG_GAINMOREAFTERADS": "Daha fazla reklam izledikten sonra ?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(sadece kazanımlar, iki katına edilecektir harcadığı değil) kazanmak ister misiniz",
             "TXID_MSG_GAINMORESKIPADS": "Eğer kazanmak daha (reklamlar olmadan) ister misiniz?",
             "TXID_MSG_HOWTOIMPROVE": "nasıl oyun geliştirmek için Öneriler",
             "TXID_MSG_ISLOADOK": "herşey yükü de mi?",

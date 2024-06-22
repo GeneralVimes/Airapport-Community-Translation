@@ -491,6 +491,9 @@
             "TXID_RES_YARN": "纱"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "时间奖励",
             "TXID_REW_DISCPURCH": "以折扣购买",
             "TXID_REW_FREEMON": "免费硬币",
@@ -504,7 +507,11 @@
             "TXID_REW_TIMEFORWARD": "时间前进"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "它自己起作用！",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "看，游戏有一个集成的自动点击器！只需点击一个物体一次，它就会在您放松时开始工作。多么方便啊！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "您可能需要将自动化器放置在一个或另一个对象上，具体取决于当前最需要额外功率的对象。",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "卖家会自动工作。同时你可以回到农场生产更多的蔬菜",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "你不在",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "让我们回到农场种植更多食物并在同时赚更多的钱",
             "TXID_MSGCAP_TUT_BERTHTAP": "植物需要水才能生长。点击泊位，开始从河里输送水",
@@ -529,6 +536,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "点击伐木工人，以更快地生产桌子。工作将自动进行",
             "TXID_MSGCAP_TUT_MARKET": "您可以在市场上出售资源",
             "TXID_MSGCAP_TUT_NAVIGATION": "您可以拖动屏幕或扩展以查看所有设施",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "一项任务是自动化的",
             "TXID_MSGCAP_TUT_PITTAP": "点击粘土坑以我的粘土",
             "TXID_MSGCAP_TUT_POPCAP": "人口已达到极限",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "每个人口增长都会为您带来新的劳动力。当您出售食物时人口增长",
@@ -607,6 +615,27 @@
             "TXID_UPGRUNITS_WATERPERSEC": "sec"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {
+                "TXID_CAP_AFTERADS": "after ads",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
+            },
             "TXID_ANS_GET": "得到！",
             "TXID_ANS_TRYBACKUP": "撤消",
             "TXID_AREYOUWITHME": "你和我在一起吗？",
@@ -763,7 +792,8 @@
             "TXID_MSG_CAP_REWARD_READY": "准备就绪！",
             "TXID_MSG_CLIPBOARD": "文本文件被复制到剪贴板。您可以将其存储在某个地方或发送电子邮件给自己以恢复塔楼",
             "TXID_MSG_EMAILBODY": "（请将此电子邮件写给enstal@cardswars.com）",
-            "TXID_MSG_GAINMOREAFTERADS": "观看广告后，您想获得更多收益（只有收益，不花钱，会加倍）？",
+            "TXID_MSG_GAINMOREAFTERADS": "观看广告后，您想获得更多收益？",
+            "TXID_MSG_GAINMOREGAINSEXPL": "（只有收益，不花钱，会加倍）",
             "TXID_MSG_GAINMORESKIPADS": "您想获得更多（没有广告）吗？",
             "TXID_MSG_HOWTOIMPROVE": "建议如何改善游戏",
             "TXID_MSG_ISLOADOK": "一切都很好吗？",

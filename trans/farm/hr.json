@@ -499,6 +499,9 @@
             "TXID_RES_YARN": "pređa"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Vremenski bonus",
             "TXID_REW_DISCPURCH": "Kupnja s popustom",
             "TXID_REW_FREEMON": "Slobodni kovanice",
@@ -512,7 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Vrijeme naprijed"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Djeluje sam!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Pogledajte, igra ima integrirani autokliker! Samo jednom dodirnite predmet i on će raditi dok se vi opuštate. Kako prikladno!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možda želite postaviti Autoclicker na jedan objekt ili drugi, ovisno o tome koji trenutno treba najviše snage.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Prodavač će raditi automatski. A možete se vratiti na farmu da u međuvremenu proizvedete još povrća",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Bili ste odsutni",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Vratimo se na farmu da uzgajamo više hrane i u međuvremenu zarađujemo više novca",
             "TXID_MSGCAP_TUT_BERTHTAP": "Biljke trebaju vodu. Dodirnite vez da biste počeli isporučiti vodu iz rijeke",
@@ -537,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Dodirnite Limbermill da biste brže proizvode stolove. Rad će se automatski nastaviti",
             "TXID_MSGCAP_TUT_MARKET": "Možete prodavati resurse na tržištu",
             "TXID_MSGCAP_TUT_NAVIGATION": "Možete povući zaslon ili skalirati ga da biste vidjeli sve objekte",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Jedan zadatak je automatiziran",
             "TXID_MSGCAP_TUT_PITTAP": "Dodirnite glinenu jamu na minu",
             "TXID_MSGCAP_TUT_POPCAP": "Stanovništvo je dostiglo svoje granice",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Svaki rast populacije donosi vam novu radnu snagu. I stanovništvo raste kada prodajete hranu",
@@ -619,16 +627,35 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_ASKALLOWPERSADS": "Would you allow showing personalized ads to you?",
                 "TXID_CAP_ASKALLOWPERSADSEXPL": "This will make ads more relevant and it won't bother you (you can watch it only when you want to receive a reward in the game)",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGCAP_CREDITSTHANKSSOUNDS": "Sound by ",
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
-                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators"
+                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "DOBITI!",
             "TXID_ANS_TRYBACKUP": "Poništiti",
@@ -775,7 +802,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Dar spreman!",
             "TXID_MSG_CLIPBOARD": "Tekstualna datoteka je kopirana u međuspremnik. Možete ga pohraniti negdje ili e-mail za sebe kako biste mogli vratiti toranj",
             "TXID_MSG_EMAILBODY": "(Molimo, napišite ovu poruku e-pošte na General@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Želite li dobiti više nakon gledanja oglasa (samo dobitke, ne troši, bit će udvostručen)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Želite li dobiti više nakon gledanja oglasa?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(samo dobitke, ne troši, bit će udvostručen)",
             "TXID_MSG_GAINMORESKIPADS": "Želite li dobiti više (bez oglasa)?",
             "TXID_MSG_HOWTOIMPROVE": "Prijedlozi Kako poboljšati igru",
             "TXID_MSG_ISLOADOK": "Je li sve dobro opterećeno?",

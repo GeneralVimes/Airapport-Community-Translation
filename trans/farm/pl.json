@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "przędza"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Premia czasowa",
             "TXID_REW_DISCPURCH": "Zakup ze zniżką",
             "TXID_REW_FREEMON": "Darmowe Monety",
@@ -513,7 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Czas do przodu"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "To działa samo!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Spójrz, gra ma zintegrowany autokliker! Wystarczy raz dotknąć obiektu, a on zacznie działać, gdy będziesz się relaksować. Jak wygodnie!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Może chcesz umieścić autoclicker na jednym obiekcie lub inny, w zależności od tego, który z nich potrzebuje dodatkowego zasilania najbardziej.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Sprzedawca będzie działać automatycznie. W międzyczasie możesz wrócić na farmę i wyprodukować więcej warzyw",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Nie było Cię",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Wróćmy do gospodarstwa, aby rosnąć więcej jedzenia i zarabia więcej pieniędzy w międzyczasie",
             "TXID_MSGCAP_TUT_BERTHTAP": "Rośliny potrzebują wody do wzrostu. Dotknij Kiera, aby zacząć dostarczyć wodę z rzeki",
@@ -538,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Dotknij tartak, żeby szybciej produkować deski. Praca będzie kontynuowana automatycznie",
             "TXID_MSGCAP_TUT_MARKET": "Możesz sprzedać zasoby na rynku",
             "TXID_MSGCAP_TUT_NAVIGATION": "Możesz przeciągnąć ekran lub skalować, aby zobaczyć wszystkie udogodnienia",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Jedno zadanie jest zautomatyzowane",
             "TXID_MSGCAP_TUT_PITTAP": "Dotknij gliny do gliny",
             "TXID_MSGCAP_TUT_POPCAP": "Ludność osiągnęła ograniczenia",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Każdy wzrost populacji przynosi nowe siły robocze. A populacja rośnie, gdy sprzedajesz jedzenie",
@@ -620,14 +628,33 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGCAP_CREDITSTHANKSSOUNDS": "Sound by ",
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
-                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators"
+                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "Odbierz!",
             "TXID_ANS_TRYBACKUP": "Cofnij",
@@ -776,7 +803,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Prezent gotowy!",
             "TXID_MSG_CLIPBOARD": "plik tekstowy został skopiowany do schowka. Można przechowywać go gdzieś lub e-mail do siebie, aby być w stanie odbudować wieżę",
             "TXID_MSG_EMAILBODY": "(Proszę napisać email do general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Czy chcesz otrzymać więcej po obejrzeniu reklam (tylko zarobki, nie wydatki, będą podwojone)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Czy chcesz otrzymać więcej po obejrzeniu reklam ?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(tylko zarobki, nie wydatki, będą podwojone)",
             "TXID_MSG_GAINMORESKIPADS": "Czy chcesz otrzymać więcej (bez reklam)?",
             "TXID_MSG_HOWTOIMPROVE": "Sugestie jak poprawić grę",
             "TXID_MSG_ISLOADOK": "Czy obciążenie wszystko dobrze?",

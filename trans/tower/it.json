@@ -6,19 +6,37 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
                 "TXID_CAP_MAXLVL": "MAX LEVEL",
                 "TXID_CAP_REWARD2TESTER": "During the development we have changed the game core, so, you have fresh start. But we give you a boost to regain your progress faster",
                 "TXID_CAP_SETTINGS": "SETTINGS",
                 "TXID_CAP_STATISTICS": "STATISTICS",
                 "TXID_CAP_THANKS2TESTER": "Thank you so much for being the very first tester of this game!",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_CUR_MONEY": "money",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGANS_CANCEL": "CANCEL",
                 "TXID_NOW": "Now",
-                "TXID_TIME": "time"
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIME": "time",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "OTTENERE!",
             "TXID_ANS_TRYBACKUP": "Disfare",
@@ -168,7 +186,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Regalo pronto!",
             "TXID_MSG_CLIPBOARD": "File di testo è stato copiato negli appunti. Memorizza da qualche parte o invia a te stesso un'email per essere in grado di ripristinare la torre",
             "TXID_MSG_EMAILBODY": "(Si prega di scrivere questa email a general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Vuoi guadagnare di più dopo aver visto annunci (solo guadagni, non spende, sarà raddoppiato)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Vuoi guadagnare di più dopo aver visto annunci ?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(solo guadagni, non spende, sarà raddoppiato)",
             "TXID_MSG_GAINMORESKIPADS": "Vuoi guadagnare di più (senza pubblicità)?",
             "TXID_MSG_HOWTOIMPROVE": "Suggerisci come migliorare il gioco",
             "TXID_MSG_ISLOADOK": "Si è caricato tutto?",
@@ -473,6 +492,9 @@
             "TXID_WATERWELLRESTORATION": "Velocità di ripristino dell'acqua"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "aumento di tempo",
             "TXID_REW_DISCPURCH": "Acquisto con lo sconto",
             "TXID_REW_FREEGB": "Mattoni d'oro gratuiti",

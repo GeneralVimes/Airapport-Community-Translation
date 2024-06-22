@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "Benang"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "bonus masa",
             "TXID_REW_DISCPURCH": "Beli dengan diskaun",
             "TXID_REW_FREEMON": "Duit syiling percuma",
@@ -513,7 +516,11 @@
             "TXID_REW_TIMEFORWARD": "masa hadapan"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Ia berfungsi dengan sendirinya!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Lihat, permainan ini mempunyai autoclicker bersepadu! Hanya ketik objek sekali, dan ia akan berfungsi semasa anda berehat. Betapa mudahnya!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Anda mungkin mahu meletakkan autoclicker pada satu objek atau yang lain, bergantung kepada yang mana satu pada masa ini perlukan kuasa tambahan yang paling.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Penjual akan bekerja secara automatik. Dan anda boleh kembali ke ladang untuk menghasilkan lebih banyak sayur-sayuran sementara itu",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Anda tiada untuk",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Mari kita kembali ke ladang untuk mengembangkan lebih banyak makanan dan memperoleh lebih banyak wang dalam sementara itu",
             "TXID_MSGCAP_TUT_BERTHTAP": "Tumbuhan memerlukan air untuk berkembang. Ketik tempat tidur untuk mula menyampaikan air dari sungai",
@@ -538,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Ketik lumbermill untuk menghasilkan meja lebih cepat. Kerja akan menyala secara automatik",
             "TXID_MSGCAP_TUT_MARKET": "Anda boleh menjual sumber di pasaran",
             "TXID_MSGCAP_TUT_NAVIGATION": "Anda boleh menyeret skrin atau skala untuk melihat semua kemudahan",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Satu tugas adalah automatik",
             "TXID_MSGCAP_TUT_PITTAP": "Ketik lubang tanah liat ke tanah liat lombong",
             "TXID_MSGCAP_TUT_POPCAP": "Penduduk telah mencapai hadnya",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Setiap pertumbuhan penduduk membawa anda tenaga kerja baru. Dan penduduk tumbuh apabila anda menjual makanan",
@@ -620,14 +628,33 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGCAP_CREDITSTHANKSSOUNDS": "Sound by ",
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
-                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators"
+                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "DAPAT!",
             "TXID_ANS_TRYBACKUP": "batal",
@@ -776,7 +803,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Hadiah bersedia!",
             "TXID_MSG_CLIPBOARD": "fail teks disalin ke papan keratan. Anda boleh menyimpannya di suatu tempat atau e-mel kepada diri sendiri untuk dapat memulihkan menara",
             "TXID_MSG_EMAILBODY": "(Sila, menulis e-mel ini kepada general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Adakah anda ingin untuk mendapatkan lebih banyak selepas menonton iklan (hanya keuntungan, tidak membelanjakan, akan dua kali ganda)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Adakah anda ingin untuk mendapatkan lebih banyak selepas menonton iklan ?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(hanya keuntungan, tidak membelanjakan, akan dua kali ganda)",
             "TXID_MSG_GAINMORESKIPADS": "Adakah anda ingin untuk mendapatkan lebih banyak (tanpa iklan)?",
             "TXID_MSG_HOWTOIMPROVE": "Cadangan bagaimana untuk meningkatkan permainan",
             "TXID_MSG_ISLOADOK": "Adakah beban segala-galanya dengan baik?",

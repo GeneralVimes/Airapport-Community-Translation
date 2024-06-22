@@ -500,6 +500,9 @@
             "TXID_RES_YARN": "příze"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Časový bonus",
             "TXID_REW_DISCPURCH": "Nákup so zľavou",
             "TXID_REW_FREEMON": "Bezplatné Mince",
@@ -513,7 +516,11 @@
             "TXID_REW_TIMEFORWARD": "Čas zrýchlený"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funguje to samo o sobě!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Podívejte, hra má integrovaný autoclicker! Stačí jednou klepnout na objekt a bude fungovat, zatímco budete odpočívat. Jak pohodlné!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možno budeš chcieť umiestniť autoklikač na nejaký objekt, v závislosti na tom, či potrebuje dodatočný výkon.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Prodejce bude fungovat automaticky. A mezitím se můžete vrátit na farmu a produkovat více zeleniny",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Bol si preč",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Vraťme se na farmu, abychom pěstovali více jídla a vyděláváte více peněz v mezidobí",
             "TXID_MSGCAP_TUT_BERTHTAP": "Rostliny potřebují vodu. Klepnutím na lůžko začnete dodávat vodu z řeky",
@@ -538,6 +545,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Klikni na pílu aby sa dosky vyrábali rýchlejšie. Práca bude pokračovať automaticky",
             "TXID_MSGCAP_TUT_MARKET": "Materiál môžeš predávať na trhu",
             "TXID_MSGCAP_TUT_NAVIGATION": "Obrazovku můžete přetáhnout nebo měřítko pro zobrazení všech zařízení",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Jeden úkol je automatizovaný",
             "TXID_MSGCAP_TUT_PITTAP": "Poklepejte na hliněné jámy do mé hlíny",
             "TXID_MSGCAP_TUT_POPCAP": "Populace dosáhla svých limitů",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Každý růst populace vám přináší novou pracovní sílu. A populace roste, když prodáváte jídlo",
@@ -620,14 +628,33 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGCAP_CREDITSTHANKSSOUNDS": "Sound by ",
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
-                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators"
+                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "ZÍSKAŤ!",
             "TXID_ANS_TRYBACKUP": "Vrátiť späť",
@@ -776,7 +803,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Dar je pripravený!",
             "TXID_MSG_CLIPBOARD": "Textový súbor bol skopírovaný do schránky. Môžeš si ho niekam uložiť alebo si ho poslať mailom, aby si si mohol obnoviť svoju vež.",
             "TXID_MSG_EMAILBODY": "(Prosím, odošlite tento email na adresu general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Chcel by si získať viac po zhliadnutí reklamy (zdvojnásobia sa iba zisky, nie straty)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Chcel by si získať viac po zhliadnutí reklamy?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(zdvojnásobia sa iba zisky, nie straty)",
             "TXID_MSG_GAINMORESKIPADS": "Chcel by si získať viac (bez reklamy)?",
             "TXID_MSG_HOWTOIMPROVE": "Návrhy, ako zlepšiť hru",
             "TXID_MSG_ISLOADOK": "Načítalo sa všetko v poriadku?",

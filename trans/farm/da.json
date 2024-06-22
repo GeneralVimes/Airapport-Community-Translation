@@ -499,6 +499,9 @@
             "TXID_RES_YARN": "garn"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {
+                "TXID_REW_DISCUP": "Upgrade with discount"
+            },
             "TXID_REW_BONUSTIME": "Time Bonus",
             "TXID_REW_DISCPURCH": "Køb med rabat",
             "TXID_REW_FREEMON": "Gratis mønter.",
@@ -512,7 +515,11 @@
             "TXID_REW_TIMEFORWARD": "Tid fremad"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
+            "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Det virker af sig selv!",
+            "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Se, spillet har en integreret autoklikker! Bare tryk på et objekt én gang, og det vil virke, mens du slapper af. Hvor praktisk!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Du vil måske placere autoklickeren på et objekt eller en anden, afhængigt af hvilken man i øjeblikket har brug for ekstra effekt mest.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Sælgeren vil arbejde automatisk. Og du kan komme tilbage til gården for at producere flere grøntsager imens",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Du var væk for",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Lad os vende tilbage til gården for at vokse mere mad og tjener flere penge i mellemtiden",
             "TXID_MSGCAP_TUT_BERTHTAP": "Planter har brug for vand til at vokse. Tryk på kajet for at begynde at levere vandet fra floden",
@@ -537,6 +544,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Tryk på lumbermillen for at producere skriveborde hurtigere. Arbejdet fortsætter automatisk",
             "TXID_MSGCAP_TUT_MARKET": "Du kan sælge ressourcer på markedet",
             "TXID_MSGCAP_TUT_NAVIGATION": "Du kan trække skærmen eller skala den for at se alle faciliteter",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "En opgave er automatiseret",
             "TXID_MSGCAP_TUT_PITTAP": "Tryk på Clay Pit til min ler",
             "TXID_MSGCAP_TUT_POPCAP": "Befolkningen har nået sine grænser",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Hver befolkningsvækst bringer dig ny arbejdsstyrke. Og befolkningen vokser, når du sælger mad",
@@ -619,16 +627,35 @@
         "GROUP_general_interface": {
             "CODE_aaa_untranslated": {
                 "TXID_CAP_ACCEPTCONT": "Accept & Continue",
+                "TXID_CAP_AFTERADS": "after ads",
                 "TXID_CAP_ASKALLOWPERSADS": "Would you allow showing personalized ads to you?",
                 "TXID_CAP_ASKALLOWPERSADSEXPL": "This will make ads more relevant and it won't bother you (you can watch it only when you want to receive a reward in the game)",
                 "TXID_CAP_AVAILABLEWORLDS": "Available farms",
                 "TXID_CAP_BACKUPSEXPLANATION": "Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)",
+                "TXID_CAP_BONRESTOREIN": "Bonuses will be restored in",
                 "TXID_CAP_CONTINUE": "Continue",
+                "TXID_CAP_HOURLYBONUS": "HOURLY BONUS",
+                "TXID_CAP_SETTINGS": "SETTINGS",
+                "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_MSGCAP_CREDITSTHANKSSOUNDS": "Sound by ",
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
-                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators"
+                "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
+                "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_TIMEBON_TIMESPEED": "Time speed",
+                "TXID_TIMEUNIT_DAY_SHORT": "d",
+                "TXID_TIMEUNIT_HOUR_SHORT": "h",
+                "TXID_TIMEUNIT_MIN_SHORT": "m",
+                "TXID_TIMEUNIT_MONTH_SHORT": "m",
+                "TXID_TIMEUNIT_MS_SHORT": "ms",
+                "TXID_TIMEUNIT_SEC_SHORT": "s",
+                "TXID_TIMEUNIT_WEEK_SHORT": "w",
+                "TXID_TIMEUNIT_YEAR_SHORT": "y",
+                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
+                "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
             "TXID_ANS_GET": "FÅ!",
             "TXID_ANS_TRYBACKUP": "Fortryd",
@@ -775,7 +802,8 @@
             "TXID_MSG_CAP_REWARD_READY": "Gift klar!",
             "TXID_MSG_CLIPBOARD": "Tekstfil blev kopieret til udklipsholder. Du kan gemme det et eller andet sted eller e-mail til dig selv for at kunne gendanne tårnet",
             "TXID_MSG_EMAILBODY": "(Venligst skriv denne email til general@cardswars.com)",
-            "TXID_MSG_GAINMOREAFTERADS": "Vil du gerne få mere efter at have set annoncer (kun gevinster, ikke bruger, vil blive fordoblet)?",
+            "TXID_MSG_GAINMOREAFTERADS": "Vil du gerne få mere efter at have set annoncer?",
+            "TXID_MSG_GAINMOREGAINSEXPL": "(kun gevinster, ikke bruger, vil blive fordoblet)",
             "TXID_MSG_GAINMORESKIPADS": "Vil du gerne få mere (uden annoncer)?",
             "TXID_MSG_HOWTOIMPROVE": "Forslag Sådan forbedrer du spillet",
             "TXID_MSG_ISLOADOK": "Har alt læst godt?",
