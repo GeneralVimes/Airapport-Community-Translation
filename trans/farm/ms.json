@@ -94,16 +94,20 @@
             "CODE_aaa_untranslated": {
                 "TXID_INVDESC_BANKING": "Bank construction enabled",
                 "TXID_INVDESC_COTTON": "Cotton farming is enabled",
+                "TXID_INVDESC_CRANE": "Enables multi-floored houses construction",
                 "TXID_INVDESC_LAVENDER": "Lavender farming is enabled",
                 "TXID_INVDESC_LIBRARY": "Library construction enabled",
+                "TXID_INVDESC_MARKETING": "Increases amount of sales by 1 per level",
                 "TXID_INVDESC_PERFUME": "Can produce perfume from lavender",
                 "TXID_INVDESC_TEXTILE": "Can produce textile from cotton",
                 "TXID_INVDESC_TSHIRTS": "Can produce T-shirts from textile",
                 "TXID_INVDESC_WORKFORCE": "Workforce growth speed +20% per level",
                 "TXID_INVNAME_BANKING": "Banking",
                 "TXID_INVNAME_COTTON": "Cotton farming",
+                "TXID_INVNAME_CRANE": "Skyscrapers",
                 "TXID_INVNAME_LAVENDER": "Lavender farming",
                 "TXID_INVNAME_LIBRARY": "Encyclopedias",
+                "TXID_INVNAME_MARKETING": "Marketing",
                 "TXID_INVNAME_PERFUME": "Perfumery",
                 "TXID_INVNAME_TEXTILE": "Textile",
                 "TXID_INVNAME_TSHIRTS": "Sewing",
@@ -206,6 +210,7 @@
             "CODE_aaa_untranslated": {
                 "TXID_MACH_DESC_BANK": "Generates money for use after restart",
                 "TXID_MACH_DESC_COTTONSTRG": "Stores cotton",
+                "TXID_MACH_DESC_CRANE": "Constructs higher houses",
                 "TXID_MACH_DESC_FARM_COTTON": "Grows cotton",
                 "TXID_MACH_DESC_FARM_LAVENDER": "Grows lavender",
                 "TXID_MACH_DESC_LAVENDERSTRG": "Stores lavender",
@@ -221,6 +226,7 @@
                 "TXID_MACH_DESC_TSHIRTSSHOP": "Sells T-shirts",
                 "TXID_MACH_NAME_BANK": "Bank",
                 "TXID_MACH_NAME_COTTONSTRG": "Cotton storage",
+                "TXID_MACH_NAME_CRANE": "Сonstruction crane",
                 "TXID_MACH_NAME_FARM_COTTON": "Cotton farm",
                 "TXID_MACH_NAME_FARM_LAVENDER": "Lavender farm",
                 "TXID_MACH_NAME_LAVENDERSTRG": "Lavender storage",
@@ -438,6 +444,9 @@
             "TXID_MACH_NAME_YARN": "Roda berputar"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "CODE_aaa_untranslated": {
+                "TXID_HOUSETOOHIGH": "House is too high"
+            },
             "TXID_COW_MILK": "Ketuk lembu untuk susu",
             "TXID_COW_OPENDOORS_IN": "Ketik lembu untuk membiarkan lembu masuk",
             "TXID_COW_OPENDOORS_OUT": "Ketik lembu untuk membiarkan lembu keluar",
@@ -516,7 +525,6 @@
             "TXID_REW_TIMEFORWARD": "masa hadapan"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Ia berfungsi dengan sendirinya!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Lihat, permainan ini mempunyai autoclicker bersepadu! Hanya ketik objek sekali, dan ia akan berfungsi semasa anda berehat. Betapa mudahnya!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Anda mungkin mahu meletakkan autoclicker pada satu objek atau yang lain, bergantung kepada yang mana satu pada masa ini perlukan kuasa tambahan yang paling.",
@@ -559,6 +567,8 @@
             "CODE_aaa_untranslated": {
                 "TXID_UNIT_IDEAS_H": "Ideas per hour",
                 "TXID_UPGRNAME_BANK": "Bank interest rate per hour",
+                "TXID_UPGRNAME_CRANE_CAPACITY": "Lifting capacity",
+                "TXID_UPGRNAME_CRANE_FLOORS": "Maximum house height",
                 "TXID_UPGRNAME_FARMCOTTON_PRODUCTION": "Cotton production per cycle",
                 "TXID_UPGRNAME_FARMLAVENDER_PRODUCTION": "Lavender production per cycle",
                 "TXID_UPGRNAME_LIBRARY": "Library ideas generation",
@@ -802,6 +812,7 @@
             "TXID_MSGCAP_YOURECEIVED": "anda menerima",
             "TXID_MSG_CAP_REWARD_READY": "Hadiah bersedia!",
             "TXID_MSG_CLIPBOARD": "fail teks disalin ke papan keratan. Anda boleh menyimpannya di suatu tempat atau e-mel kepada diri sendiri untuk dapat memulihkan menara",
+            "TXID_MSG_COMPATARTIFACTS": "Artifak yang serasi",
             "TXID_MSG_EMAILBODY": "(Sila, menulis e-mel ini kepada general@cardswars.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Adakah anda ingin untuk mendapatkan lebih banyak selepas menonton iklan ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(hanya keuntungan, tidak membelanjakan, akan dua kali ganda)",
@@ -822,6 +833,8 @@
             "TXID_MSG_SLOTTAKENCONFIRM": "slot ini telah diambil. Adakah anda benar-benar mahu menulis semula?",
             "TXID_MSG_SORRYSAVE": "Maaf, kami tidak dapat memuatkan jimat",
             "TXID_MSG_TEXTAFTERSCREENSHOTOK": "Sekarang masyarakat pemain boleh mengagumi pencapaian anda",
+            "TXID_MSG_THANKS": "Terima kasih",
+            "TXID_MSG_WORKARTIFACTS": "Artifak berfungsi",
             "TXID_MSG_WRONGSAVEOPTIONS": "Berikut adalah apa yang anda boleh lakukan sebelum memulakan semula permainan:",
             "TXID_MSG_YOUCANREVERT2BACKUP": "Jika anda mahu, anda boleh membatalkan yang lama jimat",
             "TXID_NOW": "Sekarang",

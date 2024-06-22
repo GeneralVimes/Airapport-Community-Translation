@@ -94,16 +94,20 @@
             "CODE_aaa_untranslated": {
                 "TXID_INVDESC_BANKING": "Bank construction enabled",
                 "TXID_INVDESC_COTTON": "Cotton farming is enabled",
+                "TXID_INVDESC_CRANE": "Enables multi-floored houses construction",
                 "TXID_INVDESC_LAVENDER": "Lavender farming is enabled",
                 "TXID_INVDESC_LIBRARY": "Library construction enabled",
+                "TXID_INVDESC_MARKETING": "Increases amount of sales by 1 per level",
                 "TXID_INVDESC_PERFUME": "Can produce perfume from lavender",
                 "TXID_INVDESC_TEXTILE": "Can produce textile from cotton",
                 "TXID_INVDESC_TSHIRTS": "Can produce T-shirts from textile",
                 "TXID_INVDESC_WORKFORCE": "Workforce growth speed +20% per level",
                 "TXID_INVNAME_BANKING": "Banking",
                 "TXID_INVNAME_COTTON": "Cotton farming",
+                "TXID_INVNAME_CRANE": "Skyscrapers",
                 "TXID_INVNAME_LAVENDER": "Lavender farming",
                 "TXID_INVNAME_LIBRARY": "Encyclopedias",
+                "TXID_INVNAME_MARKETING": "Marketing",
                 "TXID_INVNAME_PERFUME": "Perfumery",
                 "TXID_INVNAME_TEXTILE": "Textile",
                 "TXID_INVNAME_TSHIRTS": "Sewing",
@@ -206,6 +210,7 @@
             "CODE_aaa_untranslated": {
                 "TXID_MACH_DESC_BANK": "Generates money for use after restart",
                 "TXID_MACH_DESC_COTTONSTRG": "Stores cotton",
+                "TXID_MACH_DESC_CRANE": "Constructs higher houses",
                 "TXID_MACH_DESC_FARM_COTTON": "Grows cotton",
                 "TXID_MACH_DESC_FARM_LAVENDER": "Grows lavender",
                 "TXID_MACH_DESC_LAVENDERSTRG": "Stores lavender",
@@ -221,6 +226,7 @@
                 "TXID_MACH_DESC_TSHIRTSSHOP": "Sells T-shirts",
                 "TXID_MACH_NAME_BANK": "Bank",
                 "TXID_MACH_NAME_COTTONSTRG": "Cotton storage",
+                "TXID_MACH_NAME_CRANE": "Сonstruction crane",
                 "TXID_MACH_NAME_FARM_COTTON": "Cotton farm",
                 "TXID_MACH_NAME_FARM_LAVENDER": "Lavender farm",
                 "TXID_MACH_NAME_LAVENDERSTRG": "Lavender storage",
@@ -438,6 +444,9 @@
             "TXID_MACH_NAME_YARN": "Kolovrat"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "CODE_aaa_untranslated": {
+                "TXID_HOUSETOOHIGH": "House is too high"
+            },
             "TXID_COW_MILK": "Ťuknite na krava do mlieka",
             "TXID_COW_OPENDOORS_IN": "Ťuknite na kohútiku, aby ste nechali kravu",
             "TXID_COW_OPENDOORS_OUT": "Ťuknite na kohútik, aby ste nechali kravu von",
@@ -516,7 +525,6 @@
             "TXID_REW_TIMEFORWARD": "Čas zrychlen"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funguje to samo o sebe!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Pozrite, hra má integrovaný autoclicker! Stačí raz klepnúť na objekt a bude fungovať, kým budete relaxovať. Aké pohodlné!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možná budeš chtít umístit autoklikač na nějaký objekt, v závislosti na tom, či potřebuje dodatečný výkon.",
@@ -559,6 +567,8 @@
             "CODE_aaa_untranslated": {
                 "TXID_UNIT_IDEAS_H": "Ideas per hour",
                 "TXID_UPGRNAME_BANK": "Bank interest rate per hour",
+                "TXID_UPGRNAME_CRANE_CAPACITY": "Lifting capacity",
+                "TXID_UPGRNAME_CRANE_FLOORS": "Maximum house height",
                 "TXID_UPGRNAME_FARMCOTTON_PRODUCTION": "Cotton production per cycle",
                 "TXID_UPGRNAME_FARMLAVENDER_PRODUCTION": "Lavender production per cycle",
                 "TXID_UPGRNAME_LIBRARY": "Library ideas generation",
@@ -802,6 +812,7 @@
             "TXID_MSGCAP_YOURECEIVED": "Obdržel jsi",
             "TXID_MSG_CAP_REWARD_READY": "Dar je připraven!",
             "TXID_MSG_CLIPBOARD": "Textový soubor byl zkopírován do schránky. Můžeš si ho někam uložit nebo si ho poslat mailem, aby sis mohl obnovit svou věž.",
+            "TXID_MSG_COMPATARTIFACTS": "Kompatibilné artefakty",
             "TXID_MSG_EMAILBODY": "(Prosím, odešlete tento email na adresu general@cardswars.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Chtěl bys získat více po shlédnutí reklamy ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(zdvojnásobí se pouze zisky, ne straty)",
@@ -822,6 +833,8 @@
             "TXID_MSG_SLOTTAKENCONFIRM": "Tahle pozice je již obsazena. Opravdu ji chcete přepsat?",
             "TXID_MSG_SORRYSAVE": "Je nám líto, ale nepodařilo se nám načíst uložený soubor",
             "TXID_MSG_TEXTAFTERSCREENSHOTOK": "Teraz môže komunita hráči obdivovať váš úspech",
+            "TXID_MSG_THANKS": "Ďakujem",
+            "TXID_MSG_WORKARTIFACTS": "Artefakty fungujú",
             "TXID_MSG_WRONGSAVEOPTIONS": "Zde je něco, co můžeš udělat před restartováním hry:",
             "TXID_MSG_YOUCANREVERT2BACKUP": "Chceš-li, můžeš se vrátit zpět na předchozí uložený soubor",
             "TXID_NOW": "Teraz",

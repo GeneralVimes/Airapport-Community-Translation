@@ -88,6 +88,12 @@
             "TXID_WORLDNAME_FARMANDMINE": "농장과 광산!"
         },
         "GROUP_farm_inventions": {
+            "CODE_aaa_untranslated": {
+                "TXID_INVDESC_CRANE": "Enables multi-floored houses construction",
+                "TXID_INVDESC_MARKETING": "Increases amount of sales by 1 per level",
+                "TXID_INVNAME_CRANE": "Skyscrapers",
+                "TXID_INVNAME_MARKETING": "Marketing"
+            },
             "TXID_INVDESC_AGRICULTURE": "농작물 성장 속도 +레벨 당 15%",
             "TXID_INVDESC_BAKING": "밀가루에서 빵을 굽을 수 있습니다",
             "TXID_INVDESC_BANKING": "은행 건설이 가능합니다",
@@ -198,6 +204,10 @@
             "TXID_INVNAME_YARN": "제사"
         },
         "GROUP_farm_machines": {
+            "CODE_aaa_untranslated": {
+                "TXID_MACH_DESC_CRANE": "Constructs higher houses",
+                "TXID_MACH_NAME_CRANE": "Сonstruction crane"
+            },
             "TXID_MACH_DESC_APIARY": "꿀을 생산하고 나무와 꽃을 피하는 꿀벌을 유지합니다.",
             "TXID_MACH_DESC_BAKERY": "밀가루에서 빵을 굽습니다",
             "TXID_MACH_DESC_BANK": "다시 시작한 후 사용할 돈을 생성합니다",
@@ -431,6 +441,9 @@
             "TXID_MACH_NAME_YARN": "물레"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "CODE_aaa_untranslated": {
+                "TXID_HOUSETOOHIGH": "House is too high"
+            },
             "TXID_COW_MILK": "젖소를 눌러 젖을 짜십시오",
             "TXID_COW_OPENDOORS_IN": "암소를 두드려 젖소를 넣으십시오",
             "TXID_COW_OPENDOORS_OUT": "암소를 두드려 젖소를 꺼냅니다",
@@ -507,7 +520,6 @@
             "TXID_REW_TIMEFORWARD": "시간 앞으로"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "그것은 저절로 작동합니다!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "보세요, 이 게임에는 자동 클릭 기능이 통합되어 있습니다! 개체를 한 번만 탭하면 휴식을 취하는 동안 해당 개체가 작동합니다. 얼마나 편리한 지!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "현재 추가 전력이 가장 필요한 것에 따라 AutoClicker를 한 객체 또는 다른 객체에 배치 할 수 있습니다.",
@@ -547,6 +559,10 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "인구 증가는 인력을 제공합니다. 근로자를 고용하고 시설을 업그레이드하기 위해 돈을 쓸 수있는 인력을 지출 할 수 있습니다."
         },
         "GROUP_farm_upgrades": {
+            "CODE_aaa_untranslated": {
+                "TXID_UPGRNAME_CRANE_CAPACITY": "Lifting capacity",
+                "TXID_UPGRNAME_CRANE_FLOORS": "Maximum house height"
+            },
             "TXID_UNIT_IDEAS_H": "시간당 아이디어",
             "TXID_UPGRNAME_BANK": "시간당 은행 이자율",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "꿀벌 속도",
@@ -791,6 +807,7 @@
             "TXID_MSGCAP_YOURECEIVED": "너는 받았다",
             "TXID_MSG_CAP_REWARD_READY": "선물 준비!",
             "TXID_MSG_CLIPBOARD": "텍스트 파일이 클립 보드에 복사되었습니다. 탑을 복원 할 수 있도록 어딘가에 보관하거나 이메일을 보낼 수 있습니다.",
+            "TXID_MSG_COMPATARTIFACTS": "호환 가능한 아티팩트",
             "TXID_MSG_EMAILBODY": "(이 이메일을 general@cardswars.com으로 작성하십시오)",
             "TXID_MSG_GAINMOREAFTERADS": "광고를 본 후 더 많은 것을 얻고 싶습니까 ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(지출이 아닌 이익 만 두 배가 될 것입니다)",
@@ -811,6 +828,8 @@
             "TXID_MSG_SLOTTAKENCONFIRM": "이 슬롯은 이미 촬영되었습니다. 정말로 다시 쓰고 싶습니까?",
             "TXID_MSG_SORRYSAVE": "죄송합니다. 저장을로드 할 수 없었습니다",
             "TXID_MSG_TEXTAFTERSCREENSHOTOK": "이제 플레이어의 커뮤니티는 귀하의 업적을 감상 할 수 있습니다",
+            "TXID_MSG_THANKS": "감사합니다",
+            "TXID_MSG_WORKARTIFACTS": "유물이 작동 중입니다.",
             "TXID_MSG_WRONGSAVEOPTIONS": "게임을 다시 시작하기 전에 할 수있는 일은 다음과 같습니다.",
             "TXID_MSG_YOUCANREVERT2BACKUP": "원한다면 이전 저장으로 롤백 할 수 있습니다.",
             "TXID_NOW": "지금",

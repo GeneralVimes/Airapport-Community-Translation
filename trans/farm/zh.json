@@ -88,6 +88,12 @@
             "TXID_WORLDNAME_FARMANDMINE": "农场和我的！"
         },
         "GROUP_farm_inventions": {
+            "CODE_aaa_untranslated": {
+                "TXID_INVDESC_CRANE": "Enables multi-floored houses construction",
+                "TXID_INVDESC_MARKETING": "Increases amount of sales by 1 per level",
+                "TXID_INVNAME_CRANE": "Skyscrapers",
+                "TXID_INVNAME_MARKETING": "Marketing"
+            },
             "TXID_INVDESC_AGRICULTURE": "农作物的生长速度 +每个水平15％",
             "TXID_INVDESC_BAKING": "可以用面粉烘烤面包吗",
             "TXID_INVDESC_BANKING": "启用了银行建设",
@@ -198,6 +204,10 @@
             "TXID_INVNAME_YARN": "旋转"
         },
         "GROUP_farm_machines": {
+            "CODE_aaa_untranslated": {
+                "TXID_MACH_DESC_CRANE": "Constructs higher houses",
+                "TXID_MACH_NAME_CRANE": "Сonstruction crane"
+            },
             "TXID_MACH_DESC_APIARY": "保持蜜蜂产生蜂蜜，授粉树木和花朵",
             "TXID_MACH_DESC_BAKERY": "面粉面包",
             "TXID_MACH_DESC_BANK": "重新启动后产生资金供使用",
@@ -431,6 +441,9 @@
             "TXID_MACH_NAME_YARN": "旋转轮"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "CODE_aaa_untranslated": {
+                "TXID_HOUSETOOHIGH": "House is too high"
+            },
             "TXID_COW_MILK": "点击牛挤奶",
             "TXID_COW_OPENDOORS_IN": "点击牛棚，让牛进去",
             "TXID_COW_OPENDOORS_OUT": "点击牛s，让牛出去",
@@ -507,7 +520,6 @@
             "TXID_REW_TIMEFORWARD": "时间前进"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "它自己起作用！",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "看，游戏有一个集成的自动点击器！只需点击一个物体一次，它就会在您放松时开始工作。多么方便啊！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "您可能需要将自动化器放置在一个或另一个对象上，具体取决于当前最需要额外功率的对象。",
@@ -547,6 +559,10 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "人口增长为您提供劳动力。您可以花费劳动力来雇用工人并花钱升级设施"
         },
         "GROUP_farm_upgrades": {
+            "CODE_aaa_untranslated": {
+                "TXID_UPGRNAME_CRANE_CAPACITY": "Lifting capacity",
+                "TXID_UPGRNAME_CRANE_FLOORS": "Maximum house height"
+            },
             "TXID_UNIT_IDEAS_H": "每小时的想法",
             "TXID_UPGRNAME_BANK": "每小时银行利率",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "蜜蜂速度",
@@ -791,6 +807,7 @@
             "TXID_MSGCAP_YOURECEIVED": "你收到",
             "TXID_MSG_CAP_REWARD_READY": "准备就绪！",
             "TXID_MSG_CLIPBOARD": "文本文件被复制到剪贴板。您可以将其存储在某个地方或发送电子邮件给自己以恢复塔楼",
+            "TXID_MSG_COMPATARTIFACTS": "兼容的工件",
             "TXID_MSG_EMAILBODY": "（请将此电子邮件写给enstal@cardswars.com）",
             "TXID_MSG_GAINMOREAFTERADS": "观看广告后，您想获得更多收益？",
             "TXID_MSG_GAINMOREGAINSEXPL": "（只有收益，不花钱，会加倍）",
@@ -811,6 +828,8 @@
             "TXID_MSG_SLOTTAKENCONFIRM": "这个插槽已经采用。您真的想重写它吗？",
             "TXID_MSG_SORRYSAVE": "抱歉，我们无法加载保存",
             "TXID_MSG_TEXTAFTERSCREENSHOTOK": "现在，玩家的社区可以欣赏您的成就",
+            "TXID_MSG_THANKS": "谢谢",
+            "TXID_MSG_WORKARTIFACTS": "工件正在工作",
             "TXID_MSG_WRONGSAVEOPTIONS": "这是在重新启动游戏之前可以做的事情：",
             "TXID_MSG_YOUCANREVERT2BACKUP": "如果愿意，您可以回到上一个保存",
             "TXID_NOW": "现在",

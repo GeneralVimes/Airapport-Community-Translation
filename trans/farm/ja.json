@@ -88,6 +88,12 @@
             "TXID_WORLDNAME_FARMANDMINE": "農場と私のもの！"
         },
         "GROUP_farm_inventions": {
+            "CODE_aaa_untranslated": {
+                "TXID_INVDESC_CRANE": "Enables multi-floored houses construction",
+                "TXID_INVDESC_MARKETING": "Increases amount of sales by 1 per level",
+                "TXID_INVNAME_CRANE": "Skyscrapers",
+                "TXID_INVNAME_MARKETING": "Marketing"
+            },
             "TXID_INVDESC_AGRICULTURE": "作物の成長速度 +レベルあたり15％",
             "TXID_INVDESC_BAKING": "小麦粉からパンを焼くことができます",
             "TXID_INVDESC_BANKING": "銀行の建設が可能になりました",
@@ -198,6 +204,10 @@
             "TXID_INVNAME_YARN": "紡糸"
         },
         "GROUP_farm_machines": {
+            "CODE_aaa_untranslated": {
+                "TXID_MACH_DESC_CRANE": "Constructs higher houses",
+                "TXID_MACH_NAME_CRANE": "Сonstruction crane"
+            },
             "TXID_MACH_DESC_APIARY": "蜂蜜を生産し、木や花を受粉するミツバチを保ちます",
             "TXID_MACH_DESC_BAKERY": "小麦粉のパンを焼きます",
             "TXID_MACH_DESC_BANK": "再起動後に使用するためのお金を生成します",
@@ -431,6 +441,9 @@
             "TXID_MACH_NAME_YARN": "回転する車輪"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "CODE_aaa_untranslated": {
+                "TXID_HOUSETOOHIGH": "House is too high"
+            },
             "TXID_COW_MILK": "牛をタップして搾乳します",
             "TXID_COW_OPENDOORS_IN": "牛をタップして牛を入れます",
             "TXID_COW_OPENDOORS_OUT": "牛をタップして牛を出します",
@@ -507,7 +520,6 @@
             "TXID_REW_TIMEFORWARD": "前進します"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "それはそれ自体で機能します！",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "見てください、このゲームにはオートクリッカーが統合されています。オブジェクトを一度タップするだけで、リラックスしている間に動作します。なんて都合のいい！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "現在最も多くのパワーを必要とするかに応じて、オートリッカーをあるオブジェクトに配置することをお勧めします。",
@@ -547,6 +559,10 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "人口増加はあなたに労働力を提供します。労働者を雇って施設をアップグレードするためにお金を使うために労働力を使うことができます"
         },
         "GROUP_farm_upgrades": {
+            "CODE_aaa_untranslated": {
+                "TXID_UPGRNAME_CRANE_CAPACITY": "Lifting capacity",
+                "TXID_UPGRNAME_CRANE_FLOORS": "Maximum house height"
+            },
             "TXID_UNIT_IDEAS_H": "1時間あたりのアイデア",
             "TXID_UPGRNAME_BANK": "1時間あたりの銀行金利",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "ミツバチの速度",
@@ -791,6 +807,7 @@
             "TXID_MSGCAP_YOURECEIVED": "あなたが受け取りました",
             "TXID_MSG_CAP_REWARD_READY": "ギフトレディ！",
             "TXID_MSG_CLIPBOARD": "テキストファイルはクリップボードにコピーされました。あなたはそれをどこかに保管するか、塔を復元できるように自分自身に電子メールを送ることができます",
+            "TXID_MSG_COMPATARTIFACTS": "互換性のあるアーティファクト",
             "TXID_MSG_EMAILBODY": "（このメールをgeneral@cardswars.comに書いてください）",
             "TXID_MSG_GAINMOREAFTERADS": "広告を見た後、もっと多くの利益を得たいですか？",
             "TXID_MSG_GAINMOREGAINSEXPL": "（費やさないで、倍増するのは2倍になります）",
@@ -811,6 +828,8 @@
             "TXID_MSG_SLOTTAKENCONFIRM": "このスロットはすでに撮影されています。本当に書き直したいですか？",
             "TXID_MSG_SORRYSAVE": "申し訳ありませんが、保存をロードできませんでした",
             "TXID_MSG_TEXTAFTERSCREENSHOTOK": "今、プレイヤーのコミュニティはあなたの成果を賞賛することができます",
+            "TXID_MSG_THANKS": "ありがとう",
+            "TXID_MSG_WORKARTIFACTS": "アーティファクトは機能しています",
             "TXID_MSG_WRONGSAVEOPTIONS": "ゲームを再起動する前にできることは次のとおりです。",
             "TXID_MSG_YOUCANREVERT2BACKUP": "必要に応じて、以前の保存にロールバックすることができます",
             "TXID_NOW": "今",

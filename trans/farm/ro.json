@@ -1,8 +1,8 @@
 {
     "lang_code": "ro",
     "lang_selfname": "Română",
-	"lang_translator": "Madalin Buricea aka madliv",
     "lang_translation_comment": "",
+    "lang_translator": "Madalin Buricea aka madliv",
     "phrases": {
         "GROUP_farm_artifacts": {
             "TXID_AFT_DESC_ADSSKIPS": "21 omiteri de anunțuri",
@@ -87,6 +87,10 @@
             "TXID_WORLDNAME_FARMANDMINE": "Ferma și mina!"
         },
         "GROUP_farm_inventions": {
+            "TXID_INVDESC_CRANE": "Permite constructia pe mai multe etaje",
+            "TXID_INVDESC_MARKETING": "Creste numarul de vanzari cu 1 pe nivel",
+            "TXID_INVNAME_CRANE": "Zgârie-nori",
+            "TXID_INVNAME_MARKETING": "Marketing",
             "TXID_INVDESC_AGRICULTURE": "Viteza de creștere a culturilor +15% pe nivel",
             "TXID_INVDESC_BAKING": "Poate coace pâinea din făină",
             "TXID_INVDESC_BANKING": "Construcția băncii activată",
@@ -197,6 +201,8 @@
             "TXID_INVNAME_YARN": "Se produc fire"
         },
         "GROUP_farm_machines": {
+            "TXID_MACH_DESC_CRANE": "Construieste case mai mari",
+            "TXID_MACH_NAME_CRANE": "Schele de constructie",
             "TXID_MACH_DESC_APIARY": "Păstrează albinele care produc miere și polenizează copaci și flori",
             "TXID_MACH_DESC_BAKERY": "Coaceți pâine din făină",
             "TXID_MACH_DESC_BANK": "Generează bani la reset",
@@ -430,6 +436,7 @@
             "TXID_MACH_NAME_YARN": "Invârte roata"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "TXID_HOUSETOOHIGH": "Casa e prea sus!",
             "TXID_COW_MILK": "Atingeți vaca pentru lapte",
             "TXID_COW_OPENDOORS_IN": "Atingeți pentru a lasa vaca înăuntru",
             "TXID_COW_OPENDOORS_OUT": "Atingeți pentru a lăsa vaca afară",
@@ -506,9 +513,8 @@
         "GROUP_farm_tutorial": {
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funcționează de la sine!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Jocul are un autoclicker integrat! Trebuie doar să atingi o dată un obiect, iar acesta va funcționa în timp ce te relaxezi. Cât de convenabil!",
-            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Vânzătorul va lucra automat. Vă puteți întoarce la fermă pentru a produce mai multe legume între timp",
-            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Sarcina este automatizată!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "S-ar putea dori să plasați Autoclicker pe un anumit obiect sau altul, în funcție de care este nevoie în prezent de putere suplimentară cel mai mult.",
+            "TXID_MSGCAP_TUT_AUTOMATEOTHER": "Vânzătorul va lucra automat. Vă puteți întoarce la fermă pentru a produce mai multe legume între timp",
             "TXID_MSGCAP_TUT_AWAYPHRASE": "Ai fost plecat pentru",
             "TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY": "Să ne întoarcem la fermă pentru a crește mai mult alimente și câștigă mai mulți bani în timp",
             "TXID_MSGCAP_TUT_BERTHTAP": "Plantele au nevoie de apă să crească. Atingeți apa pentru a începe livrarea apei din râu",
@@ -533,6 +539,7 @@
             "TXID_MSGCAP_TUT_LUMBERMILL": "Atingeți pentru a produce depozit de lemne mai repede. Lucrările vor continua în mod automat",
             "TXID_MSGCAP_TUT_MARKET": "Aveți posibilitatea de a vinde resurse la piata",
             "TXID_MSGCAP_TUT_NAVIGATION": "Puteți glisa ecranul sau puteți scala pentru a vedea toate facilitățile",
+            "TXID_MSGCAP_TUT_ONETASKAUTOMATED": "Sarcina este automatizată!",
             "TXID_MSGCAP_TUT_PITTAP": "Atingeți groapa de argilă la argila mea",
             "TXID_MSGCAP_TUT_POPCAP": "Populația și-a atins limitele",
             "TXID_MSGCAP_TUT_POPULATIONEXPL": "Fiecare creștere a populației vă aduce o nouă forță de muncă. Și populația crește atunci când vindeți alimente",
@@ -543,6 +550,8 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Creșterea populației vă oferă forța de muncă. Puteți folosi forța de muncă pentru a închiria lucrători și pentru a cheltui bani pentru a upgrade facilitățile"
         },
         "GROUP_farm_upgrades": {
+            "TXID_UPGRNAME_CRANE_CAPACITY": "Capacitatea de ridicare",
+            "TXID_UPGRNAME_CRANE_FLOORS": "Intalnimea maxima permisa",
             "TXID_UNIT_IDEAS_H": "Idei pe ora",
             "TXID_UPGRNAME_BANK": "Dobândă la banca pe ora",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Viteza albinelor",
@@ -771,6 +780,7 @@
             "TXID_MSGCAP_YOURECEIVED": "Ai primit",
             "TXID_MSG_CAP_REWARD_READY": "Cadoul este aici!",
             "TXID_MSG_CLIPBOARD": "fișier text a fost copiat în clipboard. Puteți să-l stoca undeva sau e-mail pentru a te pentru a fi capabil de a restabili jocul",
+            "TXID_MSG_COMPATARTIFACTS": "Artefacte compatibile",
             "TXID_MSG_EMAILBODY": "(Vă rugăm, scrie acest e-mail la general@cardswars.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Doriți să câștigi mai mult după vizionarea anunțurilor ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(doar câștigurile, nu și timpul de așteptare, va fi dublat)",
@@ -791,6 +801,8 @@
             "TXID_MSG_SLOTTAKENCONFIRM": "Acest interval este deja utilizat. Doriți într-adevăr să-l rescrieți?",
             "TXID_MSG_SORRYSAVE": "Din păcate, nu am putut încărca salvarea",
             "TXID_MSG_TEXTAFTERSCREENSHOTOK": "Acum, comunitatea jucătorilor vă poate admira realizarea",
+            "TXID_MSG_THANKS": "Mulțumesc",
+            "TXID_MSG_WORKARTIFACTS": "Artefactele funcționează",
             "TXID_MSG_WRONGSAVEOPTIONS": "Iată ce puteți face înainte de a reporni jocul:",
             "TXID_MSG_YOUCANREVERT2BACKUP": "Dacă doriți, puteți rula înapoi la salvare anterioară",
             "TXID_NOW": "Acum",
@@ -814,21 +826,21 @@
             "TXID_TIME": "timp",
             "TXID_TIMEBON_TIMESPEED": "Viteza timpului",
             "TXID_TIMEUNIT_DAY": "zile",
-            "TXID_TIMEUNIT_HOUR": "ore",
-            "TXID_TIMEUNIT_MIN": "minute",
-            "TXID_TIMEUNIT_MONTH": "luni",
-            "TXID_TIMEUNIT_MS": "milisecunde",
-            "TXID_TIMEUNIT_SEC": "secunde",
-            "TXID_TIMEUNIT_WEEK": "săptămâni",
-            "TXID_TIMEUNIT_YEAR": "an",
             "TXID_TIMEUNIT_DAY_SHORT": "z",
+            "TXID_TIMEUNIT_HOUR": "ore",
             "TXID_TIMEUNIT_HOUR_SHORT": "o",
+            "TXID_TIMEUNIT_MIN": "minute",
             "TXID_TIMEUNIT_MIN_SHORT": "m",
+            "TXID_TIMEUNIT_MONTH": "luni",
             "TXID_TIMEUNIT_MONTH_SHORT": "l",
+            "TXID_TIMEUNIT_MS": "milisecunde",
             "TXID_TIMEUNIT_MS_SHORT": "ms",
+            "TXID_TIMEUNIT_SEC": "secunde",
             "TXID_TIMEUNIT_SEC_SHORT": "s",
+            "TXID_TIMEUNIT_WEEK": "săptămâni",
             "TXID_TIMEUNIT_WEEK_SHORT": "s",
-            "TXID_TIMEUNIT_YEAR_SHORT": "a",			
+            "TXID_TIMEUNIT_YEAR": "an",
+            "TXID_TIMEUNIT_YEAR_SHORT": "a",
             "TXID_TRYAGAIN": "Vă rugăm să încercați din nou mai târziu",
             "TXID_TRYLOADAGAIN": "Incarcă salvarea",
             "TXID_UMP_ADSONLYREW": "Jocul nu afișează reclame fără aprobarea ta",

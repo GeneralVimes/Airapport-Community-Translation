@@ -1,0 +1,821 @@
+TXID_AFT_NAME_RUBIES_100	100 Rubies	100 Rubies
+TXID_AFT_NAME_RUBIES_1000	1000 Rubies	1000 Rubies
+TXID_AFT_DESC_ADSSKIPS	21 skips of ads	21 Skips av annonser
+TXID_AFT_DESC_MBOX	Transport capacity x5	Transportkapacitet X5
+TXID_AFT_DESC_MDRILL	Deposits mining x5	Deponerar mining x5
+TXID_AFT_DESC_MGLOVE	Clicker power x5	Clicker Power X5
+TXID_AFT_DESC_MPRICE	Market prices x5	Marknadspriserna x5
+TXID_AFT_DESC_MRAKE	Crops growth x5	Grödor tillväxt x5
+TXID_AFT_DESC_MSTORK	Population growth x5	Befolkningstillväxt X5
+TXID_AFT_DESC_VORTEX	prestige after restart +50%	Prestige efter omstart + 50%
+TXID_AFT_NAME_ADSSKIPS	Ads skips	Annonser hoppar över
+TXID_AFT_NAME_MBOX	Magic Box	magisk låda
+TXID_AFT_NAME_MDRILL	Magic Drill	Magisk borr
+TXID_AFT_NAME_MGLOVE	Magic Glove	Magisk handske
+TXID_AFT_NAME_MPRICE	Magic Pricetag	Magic Pricetag
+TXID_AFT_NAME_MRAKE	Magic Rake	Magisk rake
+TXID_AFT_NAME_MSTORK	Magic Stork	Magisk stork
+TXID_AFT_NAME_VORTEX	Magic Vortex	Magisk vortex
+TXID_CAP_AVINV	Available inventions	Tillgängliga uppfinningar
+TXID_CURR_DESC_ADSSKIPS	you can skip ads view and still receive a bonus	Du kan hoppa över annonserna och få fortfarande en bonus
+TXID_CURR_DESC_GEMS	Can be used for powerful boosts	Kan användas för kraftfulla boosts
+TXID_CURR_NAME_ADSSKIPS	ads skips	Annonser hoppar över
+TXID_CURR_NAME_GEMS	Rubies	Rubiner
+TXID_CAP_ROLLBACKUPALLINFO	Or you can roll back all upgrades and get	Or you can roll back all upgrades and get
+TXID_MSGANS_ROLLBACKALL	ROLL BACK All!	ROLL BACK All!
+TXID_PRESTIGE_DESC_WORKFORCE	Workforce growth	Workforce growth
+TXID_PRESTIGE_NAME_WORKFORCE	Workforce	Workforce
+TXID_CAP_DITRIBUTEPR	Distribute your new prestige points	Distribuera dina nya prestigpunkter
+TXID_CAP_HIRE	HIRE	HYRA
+TXID_CAP_INVENTED	INVENTED	Uppfunnad
+TXID_CAP_INVENTIONS	INVENTIONS	Uppfinn
+TXID_CAP_NOWINV	Now Inventing	Nu uppfinnar
+TXID_CAP_ROLLBACKUPINFO	You can roll back the upgrade and receive	Du kan rulla tillbaka uppgradera och ta emot
+TXID_CAP_SELRESTARTBON	SELECT BONUS	Välj bonus
+TXID_CAP_UNDISTPR	Undistributed prestige points	Utdelade prestigepunkter
+TXID_CAP_UNIDEAS	Unspent ideas	Oförstörda idéer
+TXID_CURR_FOODSUP	Food supply	Matförråd
+TXID_CURR_FOODVAR	Food variety	Matvariant
+TXID_CURR_IDEA	Idea	Aning
+TXID_CURR_MAXPOP	Max population	Max befolkning
+TXID_CURR_POP	Population	Befolkning
+TXID_CURR_WORKFORCE	Workforce	Arbetskraft
+TXID_DEPTHPRICE	Price to increase depth	Pris för att öka djupet
+TXID_FROM	from	från
+TXID_HINT_NOOUT	Output overflow	Utgångsflöde
+TXID_HINT_NORES	Not enough	Inte tillräckligt
+TXID_MSGCAP_PRESTIGESELECTS	Which prestige boost would you like to receive?	Vilken prestige boost skulle du vilja ta emot?
+TXID_MSGCAP_RESTARTWARNING	You are going to restart the building	Du kommer att starta om byggnaden
+TXID_MSG_RESTART_NOWGET_BEG	If you restart now, you will get	Om du startar om nu får du
+TXID_MSG_RESTART_NOWGET_END	prestige	prestige
+TXID_MSG_RESTART_POP	The population is	Befolkningen är
+TXID_MSG_RESTART_POPIF_BEG	If you grow the population up to	Om du växer upp till
+TXID_MSG_RESTART_POPIF_END	prestige	prestige
+TXID_MSG_RESTART_POPIF_MID	you will get	du kommer att få
+TXID_PRESTIGE_DESC_CLICK	Stronger clicks	Starkare klick
+TXID_PRESTIGE_DESC_MAXPOP	Housing capacity	Bostadsförmåga
+TXID_PRESTIGE_DESC_POP	Population growth	Befolkningstillväxt
+TXID_PRESTIGE_DESC_PRICE	Prices level	Prisnivån
+TXID_PRESTIGE_DESC_PROD	Production boost	Produktionshöjning
+TXID_PRESTIGE_DESC_SCIENCE	Invention speed	Uppfinningens hastighet
+TXID_PRESTIGE_DESC_TRANSP	Transport capacity	Transportkapacitet
+TXID_PRESTIGE_NAME_CLICK	Clicks	Klick
+TXID_PRESTIGE_NAME_MAXPOP	Housing	Hus
+TXID_PRESTIGE_NAME_POP	Population	Befolkning
+TXID_PRESTIGE_NAME_PRESTIGE	Prestige	Prestige
+TXID_PRESTIGE_NAME_PRICE	Price	Pris
+TXID_PRESTIGE_NAME_PROD	Production	Produktion
+TXID_PRESTIGE_NAME_SCIENCE	Inventions	Uppfinn
+TXID_PRESTIGE_NAME_TRANSP	Transport	Transport
+TXID_PRODUCES	Produces	Produceras
+TXID_PROD_FROM	from	från
+TXID_PROD_PRODUCEDIN	produced by	producerad av
+TXID_PROGRESS	Progress	Framsteg
+TXID_REW_PRESTIGEINC	Prestige increased	Prestige ökade
+TXID_TXT_TOTALPRESTIGE	Total prestige	Total Prestige
+TXID_UNLOCKS	Unlocks	Låsa upp
+TXID_WORLDDESC_FARMANDMINE	Grow food, sell it, invent, develop industry and grow your city	Odla mat, sälja det, uppfinna, utveckla industrin och odla din stad
+TXID_WORLDNAME_FARMANDMINE	Farm and Mine!	Farm och min!
+TXID_INVDESC_BANKING	Bank construction enabled	Bank construction enabled
+TXID_INVDESC_COTTON	Cotton farming is enabled	Cotton farming is enabled
+TXID_INVDESC_LAVENDER	Lavender farming is enabled	Lavender farming is enabled
+TXID_INVDESC_LIBRARY	Library construction enabled	Library construction enabled
+TXID_INVDESC_PERFUME	Can produce perfume from lavender	Can produce perfume from lavender
+TXID_INVDESC_TEXTILE	Can produce textile from cotton	Can produce textile from cotton
+TXID_INVDESC_TSHIRTS	Can produce T-shirts from textile	Can produce T-shirts from textile
+TXID_INVDESC_WORKFORCE	Workforce growth speed +20% per level	Workforce growth speed +20% per level
+TXID_INVNAME_BANKING	Banking	Banking
+TXID_INVNAME_COTTON	Cotton farming	Cotton farming
+TXID_INVNAME_LAVENDER	Lavender farming	Lavender farming
+TXID_INVNAME_LIBRARY	Encyclopedias	Encyclopedias
+TXID_INVNAME_PERFUME	Perfumery	Perfumery
+TXID_INVNAME_TEXTILE	Textile	Textile
+TXID_INVNAME_TSHIRTS	Sewing	Sewing
+TXID_INVNAME_WORKFORCE	Professionalism	Professionalism
+TXID_INVDESC_AGRICULTURE	Crops growth speed +15% per level	Grödor tillväxthastighet +15% per nivå
+TXID_INVDESC_BAKING	Can bake bread from flour	Kan baka bröd från mjöl
+TXID_INVDESC_BELLOWS	Can increase the efficiency of Forge	Kan öka effektiviteten av smed
+TXID_INVDESC_BRICK	Can make bricks and construct buildings	Kan göra tegelstenar och konstruera byggnader
+TXID_INVDESC_CATS	Cats will appear in the village, boosting various facilities	Katter kommer att dyka upp i byn, vilket ökar olika faciliteter
+TXID_INVDESC_CHEESE	Can produce cheese from milk	Kan producera ost från mjölk
+TXID_INVDESC_CLAY	Can mine clay	Kan min lera
+TXID_INVDESC_COW	Can produce milk	Kan producera mjölk
+TXID_INVDESC_ECONOMY	Prices increase +10% per level	Priserna ökar +10% per nivå
+TXID_INVDESC_FERRY	Enables transporting along the river	Aktiverar transport längs floden
+TXID_INVDESC_FISHING	Fish will be added to the food resources	Fisken kommer att läggas till i livsmedelsresurserna
+TXID_INVDESC_FORGE	Can produce rebar from iron	Kan producera rebar från järn
+TXID_INVDESC_FOUNDRY	Can produces iron from coal and iron ore	Kan producera järn från kol och järnmalm
+TXID_INVDESC_GASMAKING	Enables production of fuel from oil	Möjliggör produktion av bränsle från olja
+TXID_INVDESC_GROCERY	Selling higher variety of food	Säljer högre variation av mat
+TXID_INVDESC_HONEY	Can produce honey	Kan producera honung
+TXID_INVDESC_ICE	Can produce ice	Kan producera is
+TXID_INVDESC_KNIT	Enables socks production from yarn	Möjliggör strumpor från garn
+TXID_INVDESC_LAMB	Enables wool production	Möjliggör ullproduktion
+TXID_INVDESC_LEMON	Can grow lemons	Kan växa citroner
+TXID_INVDESC_LEMONADE	Can produce lemonade from lemons, sugar and ice	Kan producera limonad från citroner, socker och is
+TXID_INVDESC_LOGISTICS	Transport capacity +25% per level	Transportkacity +25% per nivå
+TXID_INVDESC_LUMBERMILL	Can produce planks from wood	Kan producera plankor från trä
+TXID_INVDESC_METEO	Can build weather station which generates ideas	Kan bygga väderstation som genererar idéer
+TXID_INVDESC_MINE	Can construct mine	Kan konstruera min
+TXID_INVDESC_MINEDRILL	Can make the mine deeper	Kan göra gruvan djupare
+TXID_INVDESC_MINEENGINE	Can construct engine which powers the mine	Kan konstruera motor som driver gruvan
+TXID_INVDESC_OILMINING	Enables oil mining	Aktiverar oljebrytning
+TXID_INVDESC_PIZZA	Can produce pizza	Kan producera pizza
+TXID_INVDESC_POTTER	Can create pottery from clay	Kan skapa keramik från lera
+TXID_INVDESC_PUMPKIN	Pumpkin farming is enabled	Pumpa jordbruk är aktiverad
+TXID_INVDESC_SALADSMAKING	Can cook dishes from vegetables	Kan laga rätter från grönsaker
+TXID_INVDESC_SCIENCE	Inventions speed +50% per level	Uppfinningar hastighet +50% per nivå
+TXID_INVDESC_SUGARCANE	Can grow sugarcane	Kan odla sockerrör
+TXID_INVDESC_SUGARMAKING	Can produce sugar from sugarcane	Kan producera socker från sockerrör
+TXID_INVDESC_SUNFLOWER	Sunflower farming is enabled	Solrosodling är aktiverat
+TXID_INVDESC_SUNFLOWEROIL	Can produce sunflower oil	Kan producera solrosolja
+TXID_INVDESC_TRACKTOR	Can mechanize food production	Kan mekanisera livsmedelsproduktion
+TXID_INVDESC_TRANSMISSION	Can connect the steam engine to the distand receivers	Kan ansluta ångmotorn till distandmottagarna
+TXID_INVDESC_VEGFARMING	Can farm vegetables	Kan gård grönsaker
+TXID_INVDESC_WATER	Can water the fields automatically	Kan vattna fälten automatiskt
+TXID_INVDESC_WATERWHEEL	Can fill water tower automatically	Kan automatiskt fylla vattentornet
+TXID_INVDESC_WEATHER	Lets you call the rain to water the fields	Låter dig ringa regnet för att vattna fälten
+TXID_INVDESC_WHEATFARMING	Can farm wheat	Kan gårdsvete
+TXID_INVDESC_WINDMILL	Can produce flour from wheat	Kan producera mjöl från vete
+TXID_INVDESC_YARN	Enables yarn production from wool	Möjliggör garnproduktion från ull
+TXID_INVNAME_AGRICULTURE	Agriculture	Lantbruk
+TXID_INVNAME_BAKING	Bread baking	Brödbakning
+TXID_INVNAME_BELLOWS	Air pumping	Luftpumpning
+TXID_INVNAME_BRICK	Bricks making	Tegelstenar
+TXID_INVNAME_CATS	Cats	Katter
+TXID_INVNAME_CHEESE	Cheese making	Osttillverkning
+TXID_INVNAME_CLAY	Clay mining	Lera gruvdrift
+TXID_INVNAME_COW	Cow husbandry	Kothållning
+TXID_INVNAME_ECONOMY	Economy	Ekonomi
+TXID_INVNAME_FERRY	Ferry	Färja
+TXID_INVNAME_FISHING	Fishing	Fiske
+TXID_INVNAME_FORGE	Forge	Förfalska
+TXID_INVNAME_FOUNDRY	Iron smelting	Järnmältning
+TXID_INVNAME_GASMAKING	Oil refining	Oljeraffinering
+TXID_INVNAME_GROCERY	Grocery store	Mat affär
+TXID_INVNAME_HONEY	Beekeeping	Biodling
+TXID_INVNAME_ICE	Freezing	Frysning
+TXID_INVNAME_KNIT	Knitting	Stickning
+TXID_INVNAME_LAMB	Sheep herding	Fårbesättning
+TXID_INVNAME_LEMON	Lemon gardening	Citronträdgårdsskötsel
+TXID_INVNAME_LEMONADE	Lemonade	Citronsaft
+TXID_INVNAME_LOGISTICS	Logistics	Logistik
+TXID_INVNAME_LUMBERMILL	Wood processing	Träbearbetning
+TXID_INVNAME_METEO	Meteorology	Meteorologi
+TXID_INVNAME_MINE	Mining	Brytning
+TXID_INVNAME_MINEDRILL	Drilling	Borrning
+TXID_INVNAME_MINEENGINE	Steam engine	Ångmotor
+TXID_INVNAME_OILMINING	Oil mining	Oljebrytning
+TXID_INVNAME_PIZZA	Pizza making	Pizza
+TXID_INVNAME_POTTER	Pottery	Krukmakeri
+TXID_INVNAME_PUMPKIN	Pumpkin farming	Pumpa jordbruk
+TXID_INVNAME_SALADSMAKING	Food cooking	Matlagning
+TXID_INVNAME_SCIENCE	Science	Vetenskap
+TXID_INVNAME_SUGARCANE	Sugarcane farming	Sockerrörsodling
+TXID_INVNAME_SUGARMAKING	Sugar production	Sockerproduktion
+TXID_INVNAME_SUNFLOWER	Sunflower farming	Solrosodling
+TXID_INVNAME_SUNFLOWEROIL	Sunflower oil production	Solrosoljeproduktion
+TXID_INVNAME_TRACKTOR	Tractor	Traktor
+TXID_INVNAME_TRANSMISSION	Gear transmission	Växellåda
+TXID_INVNAME_VEGFARMING	Vegetable farming	Grönsaksodling
+TXID_INVNAME_WATER	Plumbing	Rörmokare
+TXID_INVNAME_WATERWHEEL	Water wheel	Vattenhjul
+TXID_INVNAME_WEATHER	Weather control	Väderkontroll
+TXID_INVNAME_WHEATFARMING	Wheat farming	Vete jordbruk
+TXID_INVNAME_WINDMILL	Windmill	Väderkvarn
+TXID_INVNAME_YARN	Spinning	Spinning
+TXID_MACH_DESC_BANK	Generates money for use after restart	Generates money for use after restart
+TXID_MACH_DESC_COTTONSTRG	Stores cotton	Stores cotton
+TXID_MACH_DESC_FARM_COTTON	Grows cotton	Grows cotton
+TXID_MACH_DESC_FARM_LAVENDER	Grows lavender	Grows lavender
+TXID_MACH_DESC_LAVENDERSTRG	Stores lavender	Stores lavender
+TXID_MACH_DESC_LIBRARY	Generates ideas for use after restart	Generates ideas for use after restart
+TXID_MACH_DESC_PERFUMABOUTIQUE	Sells perfume	Sells perfume
+TXID_MACH_DESC_PERFUMELAB	Produces perfume	Produces perfume
+TXID_MACH_DESC_PERFUMEMAKER	Works at the laboratory	Works at the laboratory
+TXID_MACH_DESC_PERFUMESELLER	Sells perfume	Sells perfume
+TXID_MACH_DESC_SEWINGMACHINE	Produces T-shirts	Produces T-shirts
+TXID_MACH_DESC_TAYLOR	Produces T-shirts	Produces T-shirts
+TXID_MACH_DESC_TEXTILEMACHINE	Produces textile	Produces textile
+TXID_MACH_DESC_TSHIRTSSELLER	Sells T-shirts	Sells T-shirts
+TXID_MACH_DESC_TSHIRTSSHOP	Sells T-shirts	Sells T-shirts
+TXID_MACH_DESC_WORKERKNITTER	Knits socks from wool	Knits socks from wool
+TXID_MACH_NAME_BANK	Bank	Bank
+TXID_MACH_NAME_COTTONSTRG	Cotton storage	Cotton storage
+TXID_MACH_NAME_FARM_COTTON	Cotton farm	Cotton farm
+TXID_MACH_NAME_FARM_LAVENDER	Lavender farm	Lavender farm
+TXID_MACH_NAME_LAVENDERSTRG	Lavender storage	Lavender storage
+TXID_MACH_NAME_LIBRARY	Library	Library
+TXID_MACH_NAME_PERFUMABOUTIQUE	Perfume boutique	Perfume boutique
+TXID_MACH_NAME_PERFUMELAB	Perfume laboratory	Perfume laboratory
+TXID_MACH_NAME_PERFUMEMAKER	Perfume maker	Perfume maker
+TXID_MACH_NAME_PERFUMESELLER	Pefume seller	Pefume seller
+TXID_MACH_NAME_SEWINGMACHINE	Sewing machine	Sewing machine
+TXID_MACH_NAME_TAYLOR	Taylor	Taylor
+TXID_MACH_NAME_TEXTILEMACHINE	Textile machine	Textile machine
+TXID_MACH_NAME_TSHIRTSSELLER	Clothes seller	Clothes seller
+TXID_MACH_NAME_TSHIRTSSHOP	Clothes shop	Clothes shop
+TXID_MACH_DESC_APIARY	Keeps bees who produce honey and pollinate trees and flowers	Håller bin som producerar honung och pollinerar träd och blommor
+TXID_MACH_DESC_BAKERY	Bakes bread from flour	Bakar bröd från mjöl
+TXID_MACH_DESC_BEEKEEPER	Takes care of the bees at the apiary	Tar hand om binen i Apiary
+TXID_MACH_DESC_BELLOWS	Blows air to the forge furnace, thus increasing its efficiency	Blåser luft till smedsugnen, vilket ökar dess effektivitet
+TXID_MACH_DESC_BLACKSMITH	Works in the forge	Fungerar i smeden
+TXID_MACH_DESC_BRICKSFACTORY	Produces bricks from clay	Producerar tegel från lera
+TXID_MACH_DESC_BRIDGE	Lets you expand to the other river bank	Låter dig expandera till den andra flodbanken
+TXID_MACH_DESC_CART	Transports resources	Transporterar resurser
+TXID_MACH_DESC_CASHIER	Sells food from the grocery	Säljer mat från livsmedelsbutiken
+TXID_MACH_DESC_CAT	Boosts various facilities, and does it even more when purring	Ökar olika anläggningar, och gör det ännu mer när det är öppet
+TXID_MACH_DESC_CAT_CHEASEMAKER	Increases cheese production	Ökar ostproduktionen
+TXID_MACH_DESC_CAT_FISHSELLER	Increases fish price	Ökar fiskpriset
+TXID_MACH_DESC_CAT_METEO	Increases ideas generation	Ökar idéer generation
+TXID_MACH_DESC_CAT_MILKMAKER	Increases milk production	Ökar mjölkproduktionen
+TXID_MACH_DESC_CAT_MILKSELLER	Increases milk price	Ökar mjölkpriset
+TXID_MACH_DESC_CAT_MILLER	Increases flour production	Ökar mjölproduktionen
+TXID_MACH_DESC_CHEASEMAKER	Produces cheese from milk	Producerar ost från mjölk
+TXID_MACH_DESC_CHEASESELLER	Sells cheese	Säljer ost
+TXID_MACH_DESC_CHOPPER	Chops wood	Chops trä
+TXID_MACH_DESC_CLAYPIT	Produces clay	Producerar lera
+TXID_MACH_DESC_CLOUD	Waters the fields	Vatten fälten
+TXID_MACH_DESC_COALSHAFT	Mine coal	Gruvkol
+TXID_MACH_DESC_COALSTORAGE	Stores coal	Butiker kol
+TXID_MACH_DESC_CONNECTION	Connects objects	Ansluter objekt
+TXID_MACH_DESC_CONVEYORBELT	Transports resources	Transporterar resurser
+TXID_MACH_DESC_COOK	Cooks food	Lagar mat
+TXID_MACH_DESC_COW	Produces milk	Producerar mjölk
+TXID_MACH_DESC_COWSHED	Place where the cow lives	Plats där koen bor
+TXID_MACH_DESC_FARM	Produces vegetables	Producerar grönsaker
+TXID_MACH_DESC_FARMER	Works in the field	Arbetar på fältet
+TXID_MACH_DESC_FARM_PUMPKIN	Grows pumpkins	Växer pumpor
+TXID_MACH_DESC_FARM_SUGARCANE	Grows sugarcane	Odlar sockerrör
+TXID_MACH_DESC_FARM_SUNFLOWER	Grows sunflower	Växer solros
+TXID_MACH_DESC_FARM_VEG	Grows vegetables	Växer grönsaker
+TXID_MACH_DESC_FARM_WHEAT	Grows wheat	Växter vete
+TXID_MACH_DESC_FERRY	Enables transporting along the river	Aktiverar transport längs floden
+TXID_MACH_DESC_FIELD	Grows crops	Växer grödor
+TXID_MACH_DESC_FISHER	Catches fish	Fångar fisk
+TXID_MACH_DESC_FISHMARKET	Sells fish	Säljer fisk
+TXID_MACH_DESC_FOREST	Source of wood, depletes quickly but restores slowly	Källa av trä, uttömningar snabbt men återställer långsamt
+TXID_MACH_DESC_FORGE	Produces rebar from iron	Producerar rebar från järn
+TXID_MACH_DESC_FOUNDRY	Produces iron from iron ore and coal	Producerar järn från järnmalm och kol
+TXID_MACH_DESC_FRIDGE	Produces ice	Producerar is
+TXID_MACH_DESC_GARAGE	Place where the tractor stays	Plats där traktorn stannar
+TXID_MACH_DESC_GARDEN	Grows lemon trees	Odlar citronträd
+TXID_MACH_DESC_GARDENER	Gathers fruit and help lemons ripe faster	Samlar frukt och hjälper citroner mogna snabbare
+TXID_MACH_DESC_GAS	Produces gasoline from oil	Producerar bensin från olja
+TXID_MACH_DESC_GASSTORAGE	Fuel is stored here	Bränsle lagras här
+TXID_MACH_DESC_GROCERY	Stores various types of food forselling	Lagrar olika typer av mat
+TXID_MACH_DESC_GROCERYCASHIER	Sells food from the grocery store	Säljer mat från livsmedelsbutiken
+TXID_MACH_DESC_HATA	Produces living space	Producerar bostadsutrymme
+TXID_MACH_DESC_KITCHEN	Cooks dishes from vegetables	Kockar rätter från grönsaker
+TXID_MACH_DESC_KNITTER	Socks are knit here	Strumpor är stickade här
+TXID_MACH_DESC_LEMONADEMAKER	Produces lemonade from lemons, sugar and ice	Producerar limonad från citroner, socker och is
+TXID_MACH_DESC_LUMBERMILL	Produces planks from wood	Producerar plankor från trä
+TXID_MACH_DESC_MILKSELLER	Sells milk	Säljer mjölk
+TXID_MACH_DESC_MINE	Miners work here	Miners arbetar här
+TXID_MACH_DESC_MINEDRILL	Increases the depth of the mine	Ökar mindjupet
+TXID_MACH_DESC_MINEFACE	Resources mining goes on there	Resurser gruvdrift går där
+TXID_MACH_DESC_MINER	Mines valuable resources	Minor värdefulla resurser
+TXID_MACH_DESC_OIL	Takes oil from the deposit to the surface	Tar olja från insättningen till ytan
+TXID_MACH_DESC_OILDEPOSIT	Depletable source of oil	Utplånlig olja
+TXID_MACH_DESC_OILSTORAGE	Oil is stored here	Olja lagras här
+TXID_MACH_DESC_ORESHAFT	Mine iron ore	Min järnmalm
+TXID_MACH_DESC_ORESTORAGE	Stores iron ore	Butiker järnmalm
+TXID_MACH_DESC_PASTURE	Provides food to the cow	Ger mat till koen
+TXID_MACH_DESC_PIZZAMAKER	Works at the pizzeria	Fungerar på pizzeria
+TXID_MACH_DESC_PIZZASELLER	Sells pizza	Säljer pizza
+TXID_MACH_DESC_PIZZERIA	Produces pizza	Producerar pizza
+TXID_MACH_DESC_POTTER	Automates pottery production	Automatiserar keramikproduktion
+TXID_MACH_DESC_POTTERWHEEL	Produces pottery from clay	Producerar keramik från lera
+TXID_MACH_DESC_PUMPKINMARKET	Sells pumpkins	Säljer pumpor
+TXID_MACH_DESC_RIVERBERTH	You can take water here to water the fields	Du kan ta vatten här för att vattna fälten
+TXID_MACH_DESC_ROAD	Connects different facilities	Ansluter olika anläggningar
+TXID_MACH_DESC_SELLER	Sells goods	Säljer varor
+TXID_MACH_DESC_SHAFT	Transports resources to the surface	Transporterar resurser till ytan
+TXID_MACH_DESC_SHED	Stores shovels and other utensils	Lagrar skovlar och andra redskap
+TXID_MACH_DESC_SHEEP	Eats grass and produces wool	Äter gräs och producerar ull
+TXID_MACH_DESC_SHEEP_HERDER	Takes care of the sheep	Tar hand om fåren
+TXID_MACH_DESC_SHEPHARD	Takes care of the cow	Tar hand om koen
+TXID_MACH_DESC_SLOT	Slot for the next object	Slot för nästa objekt
+TXID_MACH_DESC_SOCKSSELLER	Sells socks	Säljer strumpor
+TXID_MACH_DESC_STEAMENGINE	Powers the work of the mine elevator	Krafter för minhissens arbete
+TXID_MACH_DESC_SUGARCANESTORAGE	Stores sugarcane	Lagrar sockerrör
+TXID_MACH_DESC_SUGARMAKER	Produces sugar	Producerar socker
+TXID_MACH_DESC_SUNOILMAKER	Produces sunflower oil	Producerar solrosolja
+TXID_MACH_DESC_SUNSEEDSSTORAGE	Stores sunflower seeds	Lagrar solrosfrön
+TXID_MACH_DESC_TAKEAWAY	Sell food from the kitchen	Sälja mat från köket
+TXID_MACH_DESC_TRACKTOR	Automatically performs all the work on the fields	Utför automatiskt allt arbete på fälten
+TXID_MACH_DESC_TRANSMB	Connects the bellows to the steam engine	Ansluter bälgen till ångmotorn
+TXID_MACH_DESC_TRANSMD	Connects the drill to the steam engine	Ansluter borren till ångmotorn
+TXID_MACH_DESC_TRANSMO	Transfers power from the Steam engine to the Oil pump	Överför kraft från ångmotorn till oljepumpen
+TXID_MACH_DESC_TRANSPORTER	Transports goods	Transporterar varor
+TXID_MACH_DESC_VEGETABLESTORAGE	Stores vegetables	Butiker grönsaker
+TXID_MACH_DESC_VEGMARKET	Sells vegetables and earns money	Säljer grönsaker och tjänar pengar
+TXID_MACH_DESC_WAITER	Sells pizza	Säljer pizza
+TXID_MACH_DESC_WATERTOWER	Stores water which can be delivered to the fields from the standpipes	Lagrar vatten som kan levereras till fälten från stativet
+TXID_MACH_DESC_WATERWELL	Automatically waters the field (if there is water inside the water tower)	Automatiskt vatten i fältet (om det finns vatten i vattentornet)
+TXID_MACH_DESC_WATERWHEEL	Fills the water tower with water	Fyller vattentornet med vatten
+TXID_MACH_DESC_WEATHER	Slowly generates ideas automatically	Genererar långsamt idéer automatiskt
+TXID_MACH_DESC_WINDMILL	Produces flour from grain	Producerar mjöl från korn
+TXID_MACH_DESC_WOODSTORAGE	Stores Wood. Wood can be sold from it	Butiker trä. Trä kan säljas från det
+TXID_MACH_DESC_WOOLSTORAGE	Stores wool	Butiker ull
+TXID_MACH_DESC_YARN	Produces yarn from wool	Producerar garn från ull
+TXID_MACH_NAME_APIARY	Apiary	Bigård
+TXID_MACH_NAME_BAKERY	Bakery	Bageri
+TXID_MACH_NAME_BEEKEEPER	Beekeeper	Biodlare
+TXID_MACH_NAME_BELLOWS	Bellows	Bälg
+TXID_MACH_NAME_BLACKSMITH	Blacksmith	Smed
+TXID_MACH_NAME_BRICKSFACTORY	Bricks factory	Bricks fabrik
+TXID_MACH_NAME_BRIDGE	Bridge	Bro
+TXID_MACH_NAME_CART	Cart transporter	Varukorgtransportör
+TXID_MACH_NAME_CASHIER	Cashier	Kassör
+TXID_MACH_NAME_CAT	Cat	Katt
+TXID_MACH_NAME_CHEASEMAKER	Cheesemaking factory	Cheesemaking Factory
+TXID_MACH_NAME_CHEASESELLER	Cheese seller	Ost säljare
+TXID_MACH_NAME_CHOPPER	Chopper	Chopper
+TXID_MACH_NAME_CLAYPIT	Clay pit	Lera pit
+TXID_MACH_NAME_CLOUD	Rain cloud	Regnmoln
+TXID_MACH_NAME_COALSHAFT	Mine with coal	Min med kol
+TXID_MACH_NAME_COALSTORAGE	Coal storage	Kolförvaring
+TXID_MACH_NAME_CONNECTION	Connection	Förbindelse
+TXID_MACH_NAME_CONVEYORBELT	Conveyor belt	Löpande band
+TXID_MACH_NAME_COOK	Cook	laga mat
+TXID_MACH_NAME_COW	Cow	Ko
+TXID_MACH_NAME_COWSHED	Cowshed	Ladugård
+TXID_MACH_NAME_FARM	Farm	Odla
+TXID_MACH_NAME_FARMER	Farmer	Jordbrukare
+TXID_MACH_NAME_FARM_PUMPKIN	Pumpkin farm	Pumpa gård
+TXID_MACH_NAME_FARM_SUGARCANE	Sugarcane farm	Sockerrör
+TXID_MACH_NAME_FARM_SUNFLOWER	Sunflower field	Solrosfält
+TXID_MACH_NAME_FARM_VEG	Vegetables farm	Grönsaksgård
+TXID_MACH_NAME_FARM_WHEAT	Wheat farm	Vete gård
+TXID_MACH_NAME_FERRY	Ferry	Färja
+TXID_MACH_NAME_FIELD	Field	Fält
+TXID_MACH_NAME_FISHER	Fisher	Fiskare
+TXID_MACH_NAME_FISHMARKET	Fish Market	Fiskmarknad
+TXID_MACH_NAME_FOREST	Forest	Skog
+TXID_MACH_NAME_FORGE	Forge	Förfalska
+TXID_MACH_NAME_FOUNDRY	Foundry	Gjuteri
+TXID_MACH_NAME_FRIDGE	Fridge	Kylskåp
+TXID_MACH_NAME_GARAGE	Garage	Garage
+TXID_MACH_NAME_GARDEN	Garden	Trädgård
+TXID_MACH_NAME_GARDENER	Gardener	Trädgårdsmästare
+TXID_MACH_NAME_GAS	Refinery	Raffinaderi
+TXID_MACH_NAME_GASSTORAGE	Gasoline storage	Bensinförvaring
+TXID_MACH_NAME_GROCERY	Grocery storage	Livsmedelsförvaring
+TXID_MACH_NAME_GROCERYCASHIER	Grocery	Livsmedelsaffär
+TXID_MACH_NAME_HATA	House	Hus
+TXID_MACH_NAME_KITCHEN	Kitchen	Kök
+TXID_MACH_NAME_KNITTER	Armchair	Fåtölj
+TXID_MACH_NAME_LEMONADEMAKER	Lemonade factory	Limonadfabrik
+TXID_MACH_NAME_LUMBERMILL	Lumbermill	Sågverk
+TXID_MACH_NAME_MILKSELLER	Milk seller	Mjölkförsäljare
+TXID_MACH_NAME_MINE	Mine	Mina
+TXID_MACH_NAME_MINEDRILL	Drill	Borra
+TXID_MACH_NAME_MINEFACE	Mine face	Mitt ansikte
+TXID_MACH_NAME_MINER	Miner	Gruvarbetare
+TXID_MACH_NAME_OIL	Oil pump	Oljepump
+TXID_MACH_NAME_OILDEPOSIT	Oil deposit	Oljekost
+TXID_MACH_NAME_OILSTORAGE	Oil storage	Oljelagring
+TXID_MACH_NAME_ORESHAFT	Mine with iron ore	Min med järnmalm
+TXID_MACH_NAME_ORESTORAGE	Iron ore storage	Järnmalmförvaring
+TXID_MACH_NAME_PASTURE	Pasture	Bete
+TXID_MACH_NAME_PIZZAMAKER	Pizzaiolo	Pizzaiolo
+TXID_MACH_NAME_PIZZASELLER	Pizza seller	Pizza säljare
+TXID_MACH_NAME_PIZZERIA	Pizzeria	Pizzeria
+TXID_MACH_NAME_POTTER	Potter	Krukmakare
+TXID_MACH_NAME_POTTERWHEEL	Potter's wheel	Potters hjul
+TXID_MACH_NAME_PUMPKINMARKET	Pumpkin market	Pumpa
+TXID_MACH_NAME_RIVERBERTH	Berth	Förtöja
+TXID_MACH_NAME_ROAD	Road	Väg
+TXID_MACH_NAME_SELLER	Seller	Säljare
+TXID_MACH_NAME_SHAFT	Shaft	Axel
+TXID_MACH_NAME_SHED	Shed	Skjul
+TXID_MACH_NAME_SHEEP	Sheep	Får
+TXID_MACH_NAME_SHEPHARD	Shephard	Shephard
+TXID_MACH_NAME_SLOT	Purchase Slot	Köpplats
+TXID_MACH_NAME_SOCKSSELLER	Socks seller	Strumpor säljare
+TXID_MACH_NAME_STEAMENGINE	Steam engine	Ångmotor
+TXID_MACH_NAME_SUGARCANESTORAGE	Sugarcane storage	Sockerrör lagring
+TXID_MACH_NAME_SUGARMAKER	Sugar factory	Sockerfabrik
+TXID_MACH_NAME_SUNOILMAKER	Sunflower oil factory	Solrosoljefabrik
+TXID_MACH_NAME_SUNSEEDSSTORAGE	Sunflower seeds storage	Solrosfrön förvaring
+TXID_MACH_NAME_TAKEAWAY	Takeaway Canteen	Takeaway matsal
+TXID_MACH_NAME_TRACKTOR	Tractor	Traktor
+TXID_MACH_NAME_TRANSM	Gear transmission	Växellåda
+TXID_MACH_NAME_TRANSPORTER	Transporter	Transporter
+TXID_MACH_NAME_VEGETABLESTORAGE	Vegetable storage	Grönsaksförvaring
+TXID_MACH_NAME_VEGMARKET	Vegetable market	Grönsaksmarknad
+TXID_MACH_NAME_WAITER	Waiter	Servitör
+TXID_MACH_NAME_WATERTOWER	Water tower	Vattentorn
+TXID_MACH_NAME_WATERWELL	Standpipe	Stilla
+TXID_MACH_NAME_WATERWHEEL	Water wheel	Vattenhjul
+TXID_MACH_NAME_WEATHER	Weather station	Väderstation
+TXID_MACH_NAME_WINDMILL	Windmill	Väderkvarn
+TXID_MACH_NAME_WOODSTORAGE	Wood Storage	Träförvaring
+TXID_MACH_NAME_WOOLSTORAGE	Wool storage	Ulllagring
+TXID_MACH_NAME_WORKERKNITTER	Knitter	Knitte
+TXID_MACH_NAME_YARN	Spinning wheel	Snurrande hjul
+TXID_COW_MILK	Tap the cow to milk it	Tryck på koen för att mjölka den
+TXID_COW_OPENDOORS_IN	Tap the cowshed to let the cow in	Tryck på cowshed för att låta koen i
+TXID_COW_OPENDOORS_OUT	Tap the cowshed to let the cow out	Tryck på koholen för att låta koen ut
+TXID_COW_SLEEPING	The cow is sleeping...	Koen sover ...
+TXID_FARMHINT_0	Press the shed to plough	Tryck på shed till plog
+TXID_FARMHINT_1	Press the field to seed	Tryck på fältet till frö
+TXID_FARMHINT_2	Press the berth to water	Tryck på kajen till vatten
+TXID_FARMHINT_3	Press the field to harvest	Tryck på fältet för att skörda
+TXID_FARMHINT_4	Press the basket to deliver	Tryck på korgen för att leverera
+TXID_STATS_CONSUMPTIONSPEED	Consumption speed	Förbrukningshastighet
+TXID_STATS_EARNINGSPEED	Earning speed	Intjänande hastighet
+TXID_STATS_EARNINGSPEED_SCIENCE	Science generation speed	Vetenskapsgenereringshastighet
+TXID_STATS_GENERATIONSPEED	Production speed	Produktionshastighet
+TXID_STATS_TRANSPORTATIONSPEED	Transportation speed	Transporthastighet
+TXID_WATERFLOW	Water flow	Vattenflöde
+TXID_RES_COTTON	cotton	cotton
+TXID_RES_LAVENDER	lavender	lavender
+TXID_RES_PERFUME	perfume	perfume
+TXID_RES_TEXTILE	textile	textile
+TXID_RES_TSHIRT	T-shirt	T-shirt
+TXID_RES_BREAD	bread	bröd
+TXID_RES_BRICK	Brick	Tegel
+TXID_RES_CHEASE	Cheese	Ost
+TXID_RES_CLAY	clay	lera
+TXID_RES_COAL	Coal	Kol
+TXID_RES_ENERGY	energy	energi
+TXID_RES_FISH	Fish	Fisk
+TXID_RES_FLOUR	Flour	Mjöl
+TXID_RES_GAS	Gasoline	Bensin
+TXID_RES_GRAIN	Grain	Spannmål
+TXID_RES_GRASS	Grass	Gräs
+TXID_RES_HARVEST	Harvest per cycle	Skörd per cykel
+TXID_RES_HONEY	Honey	Älskling
+TXID_RES_ICE	Ice	Is
+TXID_RES_IRON	Iron	Järn
+TXID_RES_IRONORE	Iron ore	Järnmalm
+TXID_RES_LEMON	Lemon	Citron
+TXID_RES_LEMONADE	Lemonade	Citronsaft
+TXID_RES_MILK	Milk	Mjölk
+TXID_RES_OIL	Crude oil	Råolja
+TXID_RES_PIZZA	Pizza	Pizza
+TXID_RES_PLANK	Plank	Planka
+TXID_RES_POTTERY	Pottery	Krukmakeri
+TXID_RES_PUMPKIN	Pumpkin	Pumpa
+TXID_RES_REBAR	Rebar	Rebar
+TXID_RES_SALAD	salad	sallad
+TXID_RES_SOCKS	socks	strumpor
+TXID_RES_SUGAR	Sugar	Socker
+TXID_RES_SUGARCANE	Sugarcane	Sockerrör
+TXID_RES_SUNFLOWEROIL	Sunflower oil	Solrosolja
+TXID_RES_SUNFLOWERSEEDS	Sunflower seeds	Solrosfrön
+TXID_RES_TREE	tree	träd
+TXID_RES_VEGETABLES	Vegetables	Grönsaker
+TXID_RES_WOOD	Wood	Trä
+TXID_RES_WOOL	wool	ull-
+TXID_RES_YARN	yarn	garn
+TXID_REW_DISCUP	Upgrade with discount	Upgrade with discount
+TXID_REW_BONUSTIME	Time bonus	Tidsbonus
+TXID_REW_DISCPURCH	Purchase with discount	Köp med rabatt
+TXID_REW_FREEMON	Free Coins	Gratis mynt
+TXID_REW_FREERES	Free Resource	Fri resurs
+TXID_REW_FREESCIENCE	Free science	Fri vetenskap
+TXID_REW_FREEUP	Free upgrade	Gratis uppgradering
+TXID_REW_MULTMON	Money multiplied	Pengar multiplicerade
+TXID_REW_MULTSCI	Science multiplied	Vetenskap multiplicerad
+TXID_REW_OFFLINEINC	Offline earnings doubled!	Offline intäkter fördubblats!
+TXID_REW_RESMULT	Resources Multiplied	Resurser multiplicerat
+TXID_REW_TIMEFORWARD	Time forward	Gång framåt
+TXID_MSGCAP_TUT_AUTOCLICKER	You might want to place the autoclicker on one object or another, depending on which one currently needs additional power the most.	Du kanske vill placera Autoclicker på ett objekt eller en annan, beroende på vilken man för närvarande behöver extra kraft mest.
+TXID_MSGCAP_TUT_AWAYPHRASE	You were away for	Du var borta för
+TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY	Let's return to the farm to grow more food and earn more money in the meanwhile	Låt oss återvända till gården för att växa mer mat och tjäna mer pengar under tiden
+TXID_MSGCAP_TUT_BERTHTAP	Plants need water to grow. Tap the berth to start delivering the water from the river	Växter behöver vatten att växa. Tryck på kajen för att börja leverera vattnet från floden
+TXID_MSGCAP_TUT_BONUSTIMEEARN	Time bonus received	Tidsbonus mottagen
+TXID_MSGCAP_TUT_BUILDHOUSE	Let's build more houses to accomodate more people	Låt oss bygga fler hus för att passa fler människor
+TXID_MSGCAP_TUT_BUYCLAYPIT	Now you can buy a Clay pit. It produces clay, which is needed to produce bricks and build houses	Nu kan du köpa en lera grop. Det producerar lera, vilket behövs för att producera tegelstenar och bygga hus
+TXID_MSGCAP_TUT_CANHIREFARMERS	You can hire a farmer now	Du kan anställa en bonde nu
+TXID_MSGCAP_TUT_CHOP	Tap the Forest to chop wood. Chopping will go on automatically	Tryck på skogen för att hugga trä. Chopping kommer att gå på automatiskt
+TXID_MSGCAP_TUT_CLAYLATER	We will need clay and bricks when we reach the population limits	Vi behöver lera och tegelstenar när vi når befolkningsgränserna
+TXID_MSGCAP_TUT_CONVTAP	Tap the conveyor belt to transport the clay to the bricks factory	Tryck på transportbandet för att transportera leran till tegelfabriken
+TXID_MSGCAP_TUT_FARMANAGAIN	Let's get back to the farm to grow and harvest more food	Låt oss komma tillbaka till gården för att växa och skörda mer mat
+TXID_MSGCAP_TUT_FARMGATHERTAP	The farm has crops ready to be harvested. Tap the farm to dig and harvest the vegetables	Gården har grödor redo att skördas. Tryck på gården för att gräva och skörda grönsakerna
+TXID_MSGCAP_TUT_FARMSEEDTAP	Soil is ready! Tap the farm to seed plants	Jord är redo! Tryck på gården till fröplantor
+TXID_MSGCAP_TUT_FARMTRANSPORTTAP	Tap the basket to deliver the gathered vegetables to the storage	Tryck på korgen för att leverera de samlade grönsakerna till lagringen
+TXID_MSGCAP_TUT_FIRSTEARNINGS	You have earned money and the population has grown!	Du har tjänat pengar och befolkningen har vuxit!
+TXID_MSGCAP_TUT_INDUSTRY	Industry allows you to build houses to accomodate more people and to produce goods	Industri gör att du kan bygga hus för att passa fler människor och att producera varor
+TXID_MSGCAP_TUT_INVENTED	You have invented	Du har uppfunnit
+TXID_MSGCAP_TUT_INVENTOR	Look! Inventor!	Se! Uppfinnare!
+TXID_MSGCAP_TUT_INVENTOREXPL	Sometimes inventors walk along the streets. Click them to collect ideas and unlock new inventions	Ibland går uppfinnare längs gatorna. Klicka på dem för att samla in idéer och låsa upp nya uppfinningar
+TXID_MSGCAP_TUT_INVENTSCREEN	The following inventions are needed	Följande uppfinningar behövs
+TXID_MSGCAP_TUT_LOOKINDUSTRY	Let's look at the mining part	Låt oss titta på gruvdelen
+TXID_MSGCAP_TUT_LUMBERMILL	Tap the lumbermill to produce desks quicker. Work will go on automatically	Tryck på Lumbermill för att producera skrivbord snabbare. Arbetet kommer att gå på automatiskt
+TXID_MSGCAP_TUT_MARKET	You can sell resources at the market	Du kan sälja resurser på marknaden
+TXID_MSGCAP_TUT_NAVIGATION	You can drag the screen or scale it to see all the facilities	Du kan dra skärmen eller skala den för att se alla anläggningar
+TXID_MSGCAP_TUT_PITTAP	Tap the clay pit to mine clay	Tryck på lerpiten till min lera
+TXID_MSGCAP_TUT_POPCAP	The population has reached its limits	Befolkningen har nått sina gränser
+TXID_MSGCAP_TUT_POPULATIONEXPL	Every population growth brings you new workforce. And population grows when you sell food	Varje befolkningstillväxt ger dig ny arbetskraft. Och befolkningen växer när du säljer mat
+TXID_MSGCAP_TUT_PRODUCEBRICKS	Tap the tent to produce bricks quicker. Work will go on automatically	Tryck på tältet för att producera tegelstenar snabbare. Arbetet kommer att gå på automatiskt
+TXID_MSGCAP_TUT_RESTART	Check which bonuses will you gain if you restart the building	Kontrollera vilka bonusar du får om du startar om byggnaden
+TXID_MSGCAP_TUT_SELLTAP	Now when we have the vegetables in the storage, tap the market to sell them and earn money	Nu när vi har grönsakerna i lagringen, tryck på marknaden för att sälja dem och tjäna pengar
+TXID_MSGCAP_TUT_SHEDTAP	Let's start preparing the soil. Tap the shed to start ploughing the field	Låt oss börja förbereda jorden. Tryck på skjulet för att börja ploga fältet
+TXID_MSGCAP_TUT_UPGRADESEXPL	Population growth provides you workforce. You can spend workforce to hire workers and spend money to upgrade facilities	Befolkningstillväxt ger dig arbetskraft. Du kan tillbringa arbetskraft för att anställa arbetare och spendera pengar för att uppgradera anläggningar
+TXID_UNIT_IDEAS_H	Ideas per hour	Ideas per hour
+TXID_UPGRNAME_BANK	Bank interest rate per hour	Bank interest rate per hour
+TXID_UPGRNAME_FARMCOTTON_PRODUCTION	Cotton production per cycle	Cotton production per cycle
+TXID_UPGRNAME_FARMLAVENDER_PRODUCTION	Lavender production per cycle	Lavender production per cycle
+TXID_UPGRNAME_LIBRARY	Library ideas generation	Library ideas generation
+TXID_UPGRNAME_LIBRARY_CAPACITY	Library capacity	Library capacity
+TXID_UPGRNAME_BEEKEEPER_BEESSPEED	Bees speed	Bin
+TXID_UPGRNAME_BEEKEEPER_HONEY	Takes honey from the hive	Tar honung från bikupan
+TXID_UPGRNAME_BRICKFACTORY_SIMULTAN	Simultaneous productions	Samtidiga produktioner
+TXID_UPGRNAME_BRICKNUMBER	Number of bricks created	Antal tegelstenar skapade
+TXID_UPGRNAME_BRICKTIME	Brick processing time	Tegelbehandlingstid
+TXID_UPGRNAME_CAPACITY	Max capacity	Max kapacitet
+TXID_UPGRNAME_CART_CAPACITY	Cart capacity	Vagnkapacitet
+TXID_UPGRNAME_CAT_BOOST	Value of the boost	Värdet av ökningen
+TXID_UPGRNAME_CHOPPERS	Choppers	Chopper
+TXID_UPGRNAME_CLAYCONVEYER_WEIGHT	Transported clay weight	Transporterad lera vikt
+TXID_UPGRNAME_CLAYPITPROD	Clay production	Leraproduktion
+TXID_UPGRNAME_CLAYPIT_WORKERSPEED	Work speed	Arbetshastighet
+TXID_UPGRNAME_EFFICIENCY	Efficiency	Effektivitet
+TXID_UPGRNAME_ELEV_CAPACITY	Elevator capacity	Hisskapacitet
+TXID_UPGRNAME_ENERGYPROD	Energy production	Energiproduktion
+TXID_UPGRNAME_FARMER_SPEED	Work speed	Arbetshastighet
+TXID_UPGRNAME_FARMSUGAR_PRODUCTION	Sugarcane production per cycle	Sockerrörsproduktion per cykel
+TXID_UPGRNAME_FARMSUN_PRODUCTION	Sunflower seeds production per cycle	Solrosfrön Produktion per cykel
+TXID_UPGRNAME_FARMVEG_PRODUCTION	Vegetables production per cycle	Grönsaker produktion per cykel
+TXID_UPGRNAME_FARMWHEAT_PRODUCTION	Wheat production per cycle	Veteproduktion per cykel
+TXID_UPGRNAME_FARM_FARMERS	Farmers	Jordbrukare
+TXID_UPGRNAME_FIELD	Grass from tap	Gräs från kranen
+TXID_UPGRNAME_FISHERSIMULTAN	Simultaneous catches	Samtidiga fångster
+TXID_UPGRNAME_FORESTGROWTHSPEED	Growth speed	Tillväxthastighet
+TXID_UPGRNAME_FORESTMAXTREES	Max trees	Max träd
+TXID_UPGRNAME_GARDENER_LEMONSGATHERED	Lemons gathered by the gardener	Citroner samlade av trädgårdsmästaren
+TXID_UPGRNAME_GARDENER_LEMONSRIPING	Speed of lemons riping	Hastighet av citroner ripning
+TXID_UPGRNAME_GRASSGROWTHONPASTURE	Grass growth speed	Gräs tillväxthastighet
+TXID_UPGRNAME_GRASSONPASTURE	Max grass on the pasture	Max gräs på betesmarken
+TXID_UPGRNAME_GROCERY_PRICE_BONUS	Price bonus	Prisbonus
+TXID_UPGRNAME_HONEYFROMBEE	Honey brought by bee	Honung med biet
+TXID_UPGRNAME_LEMONSFROMTREE	Lemons from one tree	Citroner från ett träd
+TXID_UPGRNAME_MARKET_PRICE	Vegetables price	Grönsaker Pris
+TXID_UPGRNAME_MARKET_SELLERS	Sellers	Säljare
+TXID_UPGRNAME_MARKET_SIMULTAN	Simultaneous sales performed	Samtidig försäljning utförd
+TXID_UPGRNAME_MAXLOADEDWEIGHT	Weight of loads	Vikt av belastningar
+TXID_UPGRNAME_MILKFROMGRASS	Milk production from grass	Mjölkproduktion från gräs
+TXID_UPGRNAME_MINEBELT_SPEED	Belt speed	Bälteshastighet
+TXID_UPGRNAME_MINERS	Miners	Gruvarbetare
+TXID_UPGRNAME_MINING_SPEED	Mining speed	Gruvhastighet
+TXID_UPGRNAME_NUMBEES	Number of bees	Antal bin
+TXID_UPGRNAME_NUMGRASSCOWEATS	Grass eaten by cow	Gräs ätit av ko
+TXID_UPGRNAME_NUMHIVES	Number of hives	Antal bikupor
+TXID_UPGRNAME_NUMTREES	Number of trees	Antal träd
+TXID_UPGRNAME_NUMWOODCHOPPERS	Choppers	Chopper
+TXID_UPGRNAME_PLANKSTIME	Number of planks created	Antal tillverkade plankor
+TXID_UPGRNAME_PRICEINCREASE	Price increase	Prisökning
+TXID_UPGRNAME_PUMPPOWER	Water pumping power	Vattenpumpkraft
+TXID_UPGRNAME_RAINWATER	Water in the cloud	Vatten i molnet
+TXID_UPGRNAME_RESTARTMONEY	Money left after restart	Pengar kvar efter omstart
+TXID_UPGRNAME_RESTARTTIME	Offline time bonus after restart	Offline Time Bonus efter omstart
+TXID_UPGRNAME_SCIENCEBOOST	Science gathering bonus	Vetenskapsuppsamlingsbonus
+TXID_UPGRNAME_STONE	Stone from tap	Sten från kranen
+TXID_UPGRNAME_TRANSPORT	Transport capacity	Transportkapacitet
+TXID_UPGRNAME_WATEREXTRACTION	Water extraction	Vattenutvinning
+TXID_UPGRNAME_WINDMILLNUMLOADS	Number of simultaneous productions	Antal samtidiga produktioner
+TXID_UPGRNAME_WOOD	Wood from tap	Trä från kran
+TXID_UPGRNAME_WOODTIME	Wood processing time	Träförädlingstid
+TXID_UPGRUNITS_SEC	sec	sänka
+TXID_UPGRUNITS_WATERPERSEC	w/sec	w / sek
+TXID_CAP_ACCEPTCONT	Accept & Continue	Accept & Continue
+TXID_CAP_ASKALLOWPERSADS	Would you allow showing personalized ads to you?	Would you allow showing personalized ads to you?
+TXID_CAP_ASKALLOWPERSADSEXPL	This will make ads more relevant and it won't bother you (you can watch it only when you want to receive a reward in the game)	This will make ads more relevant and it won't bother you (you can watch it only when you want to receive a reward in the game)
+TXID_CAP_AVAILABLEWORLDS	Available farms	Available farms
+TXID_CAP_BACKUPSEXPLANATION	Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)	Backup lets you store and revert your current game world, while it has no effect on the currencies which are linked to your account (Rubies)
+TXID_CAP_CONTINUE	Continue	Continue
+TXID_CAP_SETTINGS	SETTINGS	SETTINGS
+TXID_CLEAR	CLEAR	CLEAR
+TXID_GDPR_APPLE_ADD_ALT	As you continue you will be able to select your tracking preferences	As you continue you will be able to select your tracking preferences
+TXID_MSGCAP_CREDITSTHANKSSOUNDS	Sound by	Sound by 
+TXID_MSGCAP_CREDITSTHANKSSPECIAL	Special thanks to	Special thanks to
+TXID_MSGCAP_CREDITSTHANKSTRANSLATORS	Many thanks to translators	Many thanks to translators
+TXID_SEND_COPIEDSAVEDATA	The text with your save data was copied to clipboard	The text with your save data was copied to clipboard
+TXID_SEND_SAVEDATA	Please, send it by email to the developer: general@cardswar.com	Please, send it by email to the developer: general@cardswar.com
+TXID_TIMEBON_TIMESPEED	Time speed	Time speed
+TXID_UMP_ADSONLYREW	Game does not show ads without your approval	Game does not show ads without your approval
+TXID_UMP_CONSENTEXPL	Please, give your consent to let the game load advertisement which will provide rewards.	Please, give your consent to let the game load advertisement which will provide rewards.
+TXID_UMP_CONSENTNEEDED	Your consent is needed	Your consent is needed
+TXID_ANS_GET	GET!	SKAFFA SIG!
+TXID_ANS_TRYBACKUP	Undo	Ångra
+TXID_AREYOUWITHME	Are you with me?	Är du med mig?
+TXID_BEST	Best result	Bästa resultat
+TXID_CAP_ACCEPT	Accept & Start!	Acceptera och börja!
+TXID_CAP_AIRAPPORT	by Airapport	av AirPort
+TXID_CAP_ARTIFACTS	ARTIFACTS	Artefakter
+TXID_CAP_BACKUPS	BACKUPS	Backup
+TXID_CAP_BESTRESULT	This is your best result!	Detta är ditt bästa resultat!
+TXID_CAP_BOOSTS	BOOSTS	Ökning
+TXID_CAP_BREAKCODE	Guess the code to get your weekly gift	Gissa koden för att få din veckovisa gåva
+TXID_CAP_CONGRATULATIONS	Congratulations!	Grattis!
+TXID_CAP_CONTESTCOMPLETE	CONTEST IS COMPLETE!	Tävling är komplett!
+TXID_CAP_CONTESTLOCKED	Contest mode locked	Tävlingsläge låst
+TXID_CAP_CREDITS	CREDITS	Krediter
+TXID_CAP_DAILYBONUS	DAILY BONUS	DAGLIG BONUS
+TXID_CAP_DOYOULIKEGAME	Do you like the game?	Gillar du spelet?
+TXID_CAP_EMPTYSLOT	EMPTY SLOT	TOM PLATS
+TXID_CAP_ENTERCODE	ENTER CODE	ANGE KOD
+TXID_CAP_EXIT	QUIT	SLUTA MED
+TXID_CAP_EXPORT	EXPORT	EXPORTERA
+TXID_CAP_EXPORTOK	Save exporting complete	Spara export av komplett
+TXID_CAP_FINDHINTS	Find the hints inside the game or...	Hitta tips inuti spelet eller ...
+TXID_CAP_FREE	FREE	FRI
+TXID_CAP_GETBIGGERBONUS	BIGGER BONUS	BIGGER BONUS
+TXID_CAP_GETMORECODESINDISCORD	Get more codes in our Discord	Få fler koder i vårt diskord
+TXID_CAP_IMPORT	IMPORT	IMPORTERA
+TXID_CAP_IMPORTINCORRECT	Incorrect save file	Felaktig spara fil
+TXID_CAP_IMPORTNOTHING	Nothing to import	Inget att importera
+TXID_CAP_INDISCORD	in Discord	i discord
+TXID_CAP_INF_ACTIVEBOOST	Current boost	Nuvarande boost
+TXID_CAP_INF_BOOSTDURATION	active during	aktiv under
+TXID_CAP_INF_LEVEL	level	nivå
+TXID_CAP_INF_MONEY	Coins	Mynt
+TXID_CAP_INF_NEXTBOOSTPRICE	Next boost price	Nästa boostpris
+TXID_CAP_INF_NOTENOGHMONEY	Not enough money	Inte tillräckligt med pengar
+TXID_CAP_INF_NOTENOUGHRES	Not enough resources	Inte tillräckligt med resurser
+TXID_CAP_INF_PURCHPRICE	PURCHASE PRICE	KÖP PRIS
+TXID_CAP_INF_SCIENCE	Science	Vetenskap
+TXID_CAP_INVITEFRIENDS	Invite friends	Bjuda in vänner
+TXID_CAP_JOINGROUP	Join the community	Gå med i samhället
+TXID_CAP_LEADERBOARDS	Leaderboards	Leaderboards
+TXID_CAP_LOAD	LOAD	LADDA
+TXID_CAP_LOCKED	LOCKED	Låst
+TXID_CAP_MAKEBACKUPS	You can backup your tower to load it later	Du kan säkerhetskopiera ditt torn för att ladda det senare
+TXID_CAP_MARKET	MARKET	MARKNADSFÖRA
+TXID_CAP_MAXLVL	MAX LEVEL	Max nivå
+TXID_CAP_MODS	SELECT MOD	Välj mod
+TXID_CAP_MOREGAMES	MORE GAMES	MER SPEL
+TXID_CAP_NEWS	NEWS	NYHETER
+TXID_CAP_NEWSET	READY TO START THE CONTEST!	Klar för att starta tävlingen!
+TXID_CAP_NEXTBONUSIN	Time till the next bonus	Tid till nästa bonus
+TXID_CAP_NOMOD	No mods	Inga mods
+TXID_CAP_NOWCURRENCIES	You have	Du har
+TXID_CAP_NOWCURRENCIESONLY	You have only	Du har bara
+TXID_CAP_NOWCURRENCIESONLY_END	 	 
+TXID_CAP_PENDING	Pending...	I väntan på...
+TXID_CAP_PENDINGCAP	Purchase is pending	Köp pågående
+TXID_CAP_PENDINGMSG	Thank you for making purchase! When the transaction completes processing, the purchase will become available	Tack för att du köpte! När transaktionen slutför bearbetningen kommer köpet att bli tillgängligt
+TXID_CAP_PLAYAGAIN	Play again	Spela igen
+TXID_CAP_POLICY	Privacy policy	Integritetspolicy
+TXID_CAP_PURCHASE	PURCHASE	INKÖP
+TXID_CAP_PURCHASE_DISCOUNT	DISCOUNT	RABATT
+TXID_CAP_RATEGAME	Could you, please, leave a public review to let more people find the game?	Kan du, snälla, lämna en offentlig recension för att låta fler människor hitta spelet?
+TXID_CAP_RESTART	RESTART	OMSTART
+TXID_CAP_REWARD2TESTER	During the development we have changed the game core, so, you have fresh start. But we give you a boost to regain your progress faster	Under utvecklingen har vi ändrat spelkärnan, så har du nystart. Men vi ger dig en boost för att återfå din framsteg snabbare
+TXID_CAP_SAVE	SAVE	SPARA
+TXID_CAP_SELECT	SELECT	VÄLJ
+TXID_CAP_SELECTPLAYERNAME	Select player name	Välj spelarnamn
+TXID_CAP_SELECTSLOT	Select slot to save	Välj Slot för att spara
+TXID_CAP_SMALLQUESTION	I want to ask you one small question...	Jag vill fråga dig en liten fråga ...
+TXID_CAP_SORRY	Sorry for that...	Förlåt för det...
+TXID_CAP_START	START	START
+TXID_CAP_STATISTICS	STATISTICS	STATISTIK
+TXID_CAP_SUBMIT	Submit	Skicka in
+TXID_CAP_SWITCHSKIN	GRAPHICS SWITCH	Grafikknapp
+TXID_CAP_TELLWHY	Would you, please, suggest some ways how to make it enjoyable?	Skulle du, snälla, föreslå några sätt hur man gör det roligt?
+TXID_CAP_THANKS2TESTER	Thank you so much for being the very first tester of this game!	Tack så mycket för att vara den första testade av det här spelet!
+TXID_CAP_THANKYOU	Thank you so much!	Tack så mycket!
+TXID_CAP_UNLOCK	UNLOCK	LÅSA UPP
+TXID_CAP_UPGRADE	UPGRADE	Uppgradering
+TXID_CAP_UPGRADEPRICE	UPGRADE PRICE	Uppgraderingspris
+TXID_CAP_WEEKLYBONUS	WEEKLY GIFTS	Veckovisa gåvor
+TXID_CAP_WOULDYOULIKE2BUY	Would you like to buy more?	Vill du köpa mer?
+TXID_CAP_YOUAREHERE	YOU ARE HERE	DU ÄR HÄR
+TXID_CODEERR_ALREADYUSED	You have already used this code	Du har redan använt den här koden
+TXID_CODEERR_EXPIRED	This code has expired or not yet active	Denna kod har löpt ut eller ännu inte aktiv
+TXID_CODEERR_MAYBEWOLD	May be from	Kan vara från
+TXID_CODEERR_NOEFFECT	At the current game state the code will not have any effect. Please, try again later	Vid det aktuella spelstaten har koden ingen effekt. Vänligen försök igen senare
+TXID_CODEERR_ONLYNUMBERS	Code must have only numbers and latin letters	Koden måste bara ha siffror och latinska bokstäver
+TXID_CODEERR_WRONGPLAYER	This gift is for another player	Den här gåvan är för en annan spelare
+TXID_CODEERR_WRONGVERSION	This code is for newer game version. Please, update the game	Den här koden är för nyare spelversion. Vänligen uppdatera spelet
+TXID_CODEERR_WRONGWORLD	This code is for another game world (maybe)	Denna kod är för en annan spelvärld (kanske)
+TXID_CODE_CODE	CODE	KODA
+TXID_CODE_FOREVERYONE	for everyone	för alla
+TXID_CODE_FORPLAYER	for the player	För spelaren
+TXID_CODE_TILL	till	till
+TXID_CODE_VALIDFROM	valid from	giltig från
+TXID_CODE_VALIDINF	valid always	Gäller alltid
+TXID_CODE_WORLD	for the world	för världen
+TXID_CONTESTMODE	contest mode	tävlingsläge
+TXID_CUR_MONEY	money	pengar
+TXID_DISCORDSUGGESTIONS	You can check the results and current suggestions in our community	Du kan kontrollera resultaten och aktuella förslag i vårt samhälle
+TXID_EXPL_NEWSET	Select your contest mode	Välj ditt tävlingsläge
+TXID_GDPR_CAP	Ready to start!	Redo att börja!
+TXID_GDPR_EXPLANATION	The game uses the players data (ads cookies and usage statistics) to enhance the gameplay and serve relevant ads to stay free. Please, accept our terms of use and privacy policy (or let your legal guardian agree if you are below the age of consent)	Spelet använder spelarens data (annonser cookies och användarstatistik) för att förbättra spelet och servera relevanta annonser för att vara gratis. Vänligen acceptera våra användarvillkor och sekretesspolicy (eller låt din vårdnadshavare komma överens om du är under samtycke)
+TXID_IMPLAYINGGAME	I'm playing the game	Jag spelar spelet
+TXID_KEEPWORKING	Keep working	Fortsätta arbeta
+TXID_LANGSEL	LANGUAGE SELECTION	SPRÅKVAL
+TXID_LASTLOADATTEMPT	Last time there was an error	Förra gången var det ett fel
+TXID_MSGANS_CANCEL	CANCEL	AVBRYT
+TXID_MSGANS_CHANGEUSERNAME	Change username	Ändra användarnamn
+TXID_MSGANS_CHECKBOOSTS	CHECK FUTURE BONUSES	Kontrollera framtida bonusar
+TXID_MSGANS_COMMUNITY	Open community	Öppet samhälle
+TXID_MSGANS_CONTACT	CONTACT	KONTAKT
+TXID_MSGANS_GETMORE	GET MORE!	FÅ MER!
+TXID_MSGANS_LATER	Later	Senare
+TXID_MSGANS_LOOK	LOOK	SE
+TXID_MSGANS_NO	NO	NEJ
+TXID_MSGANS_OK	OK	OK
+TXID_MSGANS_ROLLBACK	ROLL BACK	RULLA TILLBAKA
+TXID_MSGANS_SEND	Send	Skicka
+TXID_MSGANS_SUBMIT	SUBMIT	SKICKA IN
+TXID_MSGANS_WRITE	Write	Skriva
+TXID_MSGANS_YES	YES	JA
+TXID_MSGCAP_CREDITSAUTHORS	Game by Airapport team Alexey Izvalov & Nadiia Serbina © 2020 All rights reserved	Spel av AirPort Team Alexey Izvalov & Nadiia Serbina © 2021 Alla rättigheter förbehållna
+TXID_MSGCAP_ERRORLOADING	Error while loading file	Fel vid laddning av filen
+TXID_MSGCAP_MADEINUKRAINE	Made in Ukraine	Gjord i Ukraina
+TXID_MSGCAP_MENU	MENU	MENY
+TXID_MSGCAP_MODAUTHOR	Author of the mod	Författare till mod
+TXID_MSGCAP_NEXTRUNBOOSTS	On the next run you'll have such boosts	På nästa körning har du sådana ökningar
+TXID_MSGCAP_NOTHING2SELL	Nothing to sell	Inget att sälja
+TXID_MSGCAP_PLAYERNAMECHANGED	Username changed	Användarnamnet ändrats
+TXID_MSGCAP_RESTART_BOOST_CAP	You have the following boosts now:	Du har följande boost nu:
+TXID_MSGCAP_RESTART_INFORMATION	Congratulations, you have restarted!	Grattis, du har startat om!
+TXID_MSGCAP_RESTART_QUESTION	Do you really want to restart the building?	Vill du verkligen starta om byggnaden?
+TXID_MSGCAP_SCREENSHOTOK	Screenshot submitted!	Skärmdump skickad!
+TXID_MSGCAP_SELLRESOURCES	SELL RESOURCES	Sälja resurser
+TXID_MSGCAP_UNLOCKCONFIRM	Unlock is possible	Lås upp är möjligt
+TXID_MSGCAP_UNLOCKOK	Tower is unlocked!	Tornet är upplåst!
+TXID_MSGCAP_VICTORY	Victory! You reached the highest designed level! You can keep building beyond this limit, or play other games by Airapport	Seger! Du nådde den högsta utformade nivån! Du kan fortsätta bygga bortom den här gränsen, eller spela andra spel av AirPort
+TXID_MSGCAP_YOURECEIVED	You received	Du fick
+TXID_MSG_CAP_REWARD_READY	Gift ready!	Gåva redo!
+TXID_MSG_CLIPBOARD	Text file was copied to clipboard. You can store it somewhere or email to yourself to be able to restore the tower	Textfilen kopierades till Urklipp. Du kan lagra den någonstans eller maila till dig själv för att kunna återställa tornet
+TXID_MSG_EMAILBODY	(Please, write this email to general@cardswars.com)	(Vänligen skriv det här e-postmeddelandet till general@cardswars.com)
+TXID_MSG_GAINMOREAFTERADS	Would you like to gain more after watching ads?	Vill du få mer efter att ha tittat på annonser ?
+TXID_MSG_GAINMOREGAINSEXPL	(only gains, not spends, will be doubled)	(bara vinster, inte spenderar, kommer att fördubblas)
+TXID_MSG_GAINMORESKIPADS	Would you like to gain more (without ads)?	Vill du få mer (utan annonser)?
+TXID_MSG_HOWTOIMPROVE	Suggestions how to improve the game	Förslag Hur man förbättrar spelet
+TXID_MSG_ISLOADOK	Did everything load well?	Fick allt bra?
+TXID_MSG_LOADING_COMPLETE	Loading complete	Laddar komplett
+TXID_MSG_MUSTIMPORTFROMCLIPBOARD	Before importing please select the save text string and copy it to clipboard	Innan du importerar väljer du Spara textsträng och kopiera den till Urklipp
+TXID_MSG_NOTASAVETEXT	The file you copied to clipboards is not a proper save file	Den fil du kopierade till Clipboards är inte en korrekt spara fil
+TXID_MSG_PLAYERNAME	Username	Användarnamn
+TXID_MSG_RESOURCESGAINED	You gained these resources	Du fick dessa resurser
+TXID_MSG_REWARD_READY	You have received an unexpected gift! Check, what it is	Du har fått en oväntad present! Kontrollera, vad det är
+TXID_MSG_REWRECEIVED	Reward received	Belöning mottagen
+TXID_MSG_SCREENSHOTSUBMITTEDFROM	Screenshot submitted from	Skärmdump som skickats från
+TXID_MSG_SELL	Sell	Sälja
+TXID_MSG_SKIPSREMAINING	ads skips remaining	Annonser hoppar kvar
+TXID_MSG_SLOTTAKEN	Slot not empty	Slot inte tom
+TXID_MSG_SLOTTAKENCONFIRM	This slot is already taken. Do you really want to rewrite it?	Denna slits är redan tagen. Vill du verkligen skriva om det?
+TXID_MSG_SORRYSAVE	Sorry, we were unable to load the save	Tyvärr, vi kunde inte ladda spara
+TXID_MSG_TEXTAFTERSCREENSHOTOK	Now the players' community can admire your achievement	Nu kan spelarens samhälle beundra din prestation
+TXID_MSG_WRONGSAVEOPTIONS	Here is what you can do before restarting the game:	Här är vad du kan göra innan du startar om spelet:
+TXID_MSG_YOUCANREVERT2BACKUP	If you want, you can roll back to the previous save	Om du vill kan du rulla tillbaka till den tidigare spara
+TXID_NOW	Now	Nu
+TXID_OR	Or	Eller
+TXID_PHRASE_ARTIFACTS_BEG	You have	Du har
+TXID_PHRASE_ARTIFACTS_END	artifacts. Check if you can buy more	artefakter. Kontrollera om du kan köpa mer
+TXID_PURCHASEFAILED	Purchase failed	Köp misslyckades
+TXID_PURCHASESRESTORED	Purchases restored!	Inköp återställda!
+TXID_PURCH_SUCCESS	Purchase successful!	Köp framgångsrik!
+TXID_RESTOREFAILED	Restore failed	Återställ misslyckades
+TXID_RESTOREPURCHASES	Restore purchases	Återställa köp
+TXID_SAVEDATA	Appreciate your help! This is your save data. Please, select it all (long press -> select all), copy (long press -> copy) and send in email to the developer: general@cardswar.com	Uppskattar din hjälp! Detta är din spara data. Vänligen välj allt (lång tryck -> välj alla), kopiera (lång tryck -> kopiera) och skicka e-post till utvecklaren: general@cardswar.com
+TXID_SCORE	Score	Göra
+TXID_SEND	Looks like the game crashed last time. You can try loading this save again or send the data to the developer. We will look at it and fix as soon as possible. You can also completely restart the game if you don't want to wait	Ser ut som att spelet kraschade förra gången. Du kan försöka ladda den här spara igen eller skicka data till utvecklaren. Vi kommer att titta på det och fixa så snart som möjligt. Du kan också helt starta om spelet om du inte vill vänta
+TXID_SENDREPORT	Send report	Skicka rapport
+TXID_SOMETHINGWRONG	Something went wrong...	Något gick fel...
+TXID_STARTNEW	Complete reset	Komplett återställning
+TXID_SUCCESS	Success!	Framgång!
+TXID_TIME	time	tid
+TXID_TIMEUNIT_DAY	days	dagar
+TXID_TIMEUNIT_HOUR	hour	timme
+TXID_TIMEUNIT_MIN	m	m
+TXID_TIMEUNIT_MONTH	month	månad
+TXID_TIMEUNIT_MS	ms	Fröken
+TXID_TIMEUNIT_SEC	s	s
+TXID_TIMEUNIT_WEEK	week	vecka
+TXID_TIMEUNIT_YEAR	year	år
+TXID_TRYAGAIN	Please, try again later	Vänligen försök igen senare
+TXID_TRYLOADAGAIN	Load save	Ladda spara
+TXID_UNITS_COINSEACH	coins/ea	mynt / ea
+TXID_VOTERESULT	Thank you! You vote has been accounted.	Tack! Du röstar har redovisats.
+TXID_WORD_COINS	coins	mynt
+TXID_MSG_SELLREING_BEG	Sell	Sälja
+TXID_MSG_SELLREING_END	coins	mynt
+TXID_MSG_SELLREING_MID	for	för
+TXID_GAMEDESC_20KCOGS	Underwater exploration	Undervattensutforskning
+TXID_GAMEDESC_BOTTLE	Most popular flash-mob of 2019	Mest populära Flash-mob av 2019
+TXID_GAMEDESC_CHICKENFARM	Chicken farm tycoon	Kyckling gård tycoon
+TXID_GAMEDESC_ENGINEER	Money making factory	Pengar som gör fabrik
+TXID_GAMEDESC_FARMANDMINE	Grow vegetables and mine resources	Växa grönsaker och mina resurser
+TXID_GAMEDESC_IDLEEATERS	Feed'em all!	Feed'em allt!
+TXID_GAMEDESC_IDLETOWERBUILDER	Build the tower to the sky and beyond!	Bygg tornet till himlen och bortom!
+TXID_GAMEDESC_STEAMPUNK	Incredible machines and steampunk contraptions	Otroliga maskiner och steampunk contraptions
+TXID_GAMEDESC_TRANSMUTATION	Idle alchemy and world creation	Idle Alchemy och World Creation
+TXID_GAMEDESC_TVADS	Make people watch ads	Få folk att titta på annonser
+TXID_GAMENAME_20KCOGS	20 000 Cogs under the sea	20 000 kuggar under havet
+TXID_GAMENAME_BOTTLE	Bottle Cap Challenge	Flaska cap utmaning
+TXID_GAMENAME_CHICKENFARM	Eggs factory	Äggfabrik
+TXID_GAMENAME_ENGINEER	Engineer Millionaire	Ingenjörs miljonär
+TXID_GAMENAME_FARMANDMINE	Farm and Mine	Gård och min
+TXID_GAMENAME_IDLEEATERS	Idle Eaters	Tomgångsätare
+TXID_GAMENAME_IDLETOWERBUILDER	Idle Tower Builder	Tomgångstornbyggare
+TXID_GAMENAME_STEAMPUNK	Steampunk Idle Spinner	Steampunk Idle Spinner
+TXID_GAMENAME_TRANSMUTATION	Transmutation	Transmutation
+TXID_GAMENAME_TVADS	TV Ads factory	TV-annonser

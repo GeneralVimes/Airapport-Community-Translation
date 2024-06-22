@@ -94,16 +94,20 @@
             "CODE_aaa_untranslated": {
                 "TXID_INVDESC_BANKING": "Bank construction enabled",
                 "TXID_INVDESC_COTTON": "Cotton farming is enabled",
+                "TXID_INVDESC_CRANE": "Enables multi-floored houses construction",
                 "TXID_INVDESC_LAVENDER": "Lavender farming is enabled",
                 "TXID_INVDESC_LIBRARY": "Library construction enabled",
+                "TXID_INVDESC_MARKETING": "Increases amount of sales by 1 per level",
                 "TXID_INVDESC_PERFUME": "Can produce perfume from lavender",
                 "TXID_INVDESC_TEXTILE": "Can produce textile from cotton",
                 "TXID_INVDESC_TSHIRTS": "Can produce T-shirts from textile",
                 "TXID_INVDESC_WORKFORCE": "Workforce growth speed +20% per level",
                 "TXID_INVNAME_BANKING": "Banking",
                 "TXID_INVNAME_COTTON": "Cotton farming",
+                "TXID_INVNAME_CRANE": "Skyscrapers",
                 "TXID_INVNAME_LAVENDER": "Lavender farming",
                 "TXID_INVNAME_LIBRARY": "Encyclopedias",
+                "TXID_INVNAME_MARKETING": "Marketing",
                 "TXID_INVNAME_PERFUME": "Perfumery",
                 "TXID_INVNAME_TEXTILE": "Textile",
                 "TXID_INVNAME_TSHIRTS": "Sewing",
@@ -206,6 +210,7 @@
             "CODE_aaa_untranslated": {
                 "TXID_MACH_DESC_BANK": "Generates money for use after restart",
                 "TXID_MACH_DESC_COTTONSTRG": "Stores cotton",
+                "TXID_MACH_DESC_CRANE": "Constructs higher houses",
                 "TXID_MACH_DESC_FARM_COTTON": "Grows cotton",
                 "TXID_MACH_DESC_FARM_LAVENDER": "Grows lavender",
                 "TXID_MACH_DESC_LAVENDERSTRG": "Stores lavender",
@@ -221,6 +226,7 @@
                 "TXID_MACH_DESC_TSHIRTSSHOP": "Sells T-shirts",
                 "TXID_MACH_NAME_BANK": "Bank",
                 "TXID_MACH_NAME_COTTONSTRG": "Cotton storage",
+                "TXID_MACH_NAME_CRANE": "Сonstruction crane",
                 "TXID_MACH_NAME_FARM_COTTON": "Cotton farm",
                 "TXID_MACH_NAME_FARM_LAVENDER": "Lavender farm",
                 "TXID_MACH_NAME_LAVENDERSTRG": "Lavender storage",
@@ -438,6 +444,9 @@
             "TXID_MACH_NAME_YARN": "Ruota girevole"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "CODE_aaa_untranslated": {
+                "TXID_HOUSETOOHIGH": "House is too high"
+            },
             "TXID_COW_MILK": "Tocca la mucca per latte",
             "TXID_COW_OPENDOORS_IN": "Tocca la cowedshed per lasciare che la mucca",
             "TXID_COW_OPENDOORS_OUT": "Tocca la cowedshed per lasciare fuori la mucca",
@@ -516,7 +525,6 @@
             "TXID_REW_TIMEFORWARD": "tempo in avanti"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funziona da solo!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Guarda, il gioco ha un clicker automatico integrato! Basta toccare un oggetto una volta e funzionerà mentre ti rilassi. Quanto conveniente!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Si potrebbe desiderare di mettere l'autoclicker su un oggetto o un altro, a seconda di quale attualmente ha bisogno di energia supplementare di più.",
@@ -559,6 +567,8 @@
             "CODE_aaa_untranslated": {
                 "TXID_UNIT_IDEAS_H": "Ideas per hour",
                 "TXID_UPGRNAME_BANK": "Bank interest rate per hour",
+                "TXID_UPGRNAME_CRANE_CAPACITY": "Lifting capacity",
+                "TXID_UPGRNAME_CRANE_FLOORS": "Maximum house height",
                 "TXID_UPGRNAME_FARMCOTTON_PRODUCTION": "Cotton production per cycle",
                 "TXID_UPGRNAME_FARMLAVENDER_PRODUCTION": "Lavender production per cycle",
                 "TXID_UPGRNAME_LIBRARY": "Library ideas generation",
@@ -802,6 +812,7 @@
             "TXID_MSGCAP_YOURECEIVED": "Hai ricevuto",
             "TXID_MSG_CAP_REWARD_READY": "Regalo pronto!",
             "TXID_MSG_CLIPBOARD": "File di testo è stato copiato negli appunti. Memorizza da qualche parte o invia a te stesso un'email per essere in grado di ripristinare la torre",
+            "TXID_MSG_COMPATARTIFACTS": "Artefatti compatibili",
             "TXID_MSG_EMAILBODY": "(Si prega di scrivere questa email a general@cardswars.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Vuoi guadagnare di più dopo aver visto annunci ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(solo guadagni, non spende, sarà raddoppiato)",
@@ -822,6 +833,8 @@
             "TXID_MSG_SLOTTAKENCONFIRM": "Questo slot è già utilizzato. Vuoi davvero sovrascriverlo?",
             "TXID_MSG_SORRYSAVE": "Siamo spiacenti, non siamo riusciti a caricare il salvataggio",
             "TXID_MSG_TEXTAFTERSCREENSHOTOK": "Ora, i giocatore della comunità possono ammirare la tua conquista ",
+            "TXID_MSG_THANKS": "Grazie",
+            "TXID_MSG_WORKARTIFACTS": "Gli artefatti funzionano",
             "TXID_MSG_WRONGSAVEOPTIONS": "Ecco cosa puoi fare prima di riavviare il gioco:",
             "TXID_MSG_YOUCANREVERT2BACKUP": "Se si desidera, è possibile tornare indietro al precedente Salvataggio ",
             "TXID_NOW": "Ora",
