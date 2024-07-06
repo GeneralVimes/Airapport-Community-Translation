@@ -460,6 +460,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "tốc độ thế hệ khoa học",
             "TXID_STATS_GENERATIONSPEED": "tốc độ sản xuất",
             "TXID_STATS_TRANSPORTATIONSPEED": "tốc độ vận chuyển",
+            "TXID_TODO_UGRADETRANSP": "Nâng cấp xe vận chuyển",
             "TXID_WATERFLOW": "Dòng nước"
         },
         "GROUP_farm_resources": {
@@ -524,6 +525,7 @@
             "TXID_REW_TIMEFORWARD": "Thời gian chuyển tiếp"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Nó tự hoạt động!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Hãy nhìn xem, trò chơi có tích hợp tính năng tự động nhấp chuột! Chỉ cần chạm vào một đối tượng một lần và nó sẽ hoạt động trong khi bạn đang thư giãn. Tiện như thế nào!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Bạn có thể muốn đặt autoclicker vào một đối tượng này hay cách khác, tùy thuộc vào một hiện nhu cầu năng lượng bổ sung nhiều nhất.",
@@ -560,6 +562,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Kiểm tra các khoản tiền thưởng, bạn sẽ đạt được nếu bạn khởi động việc xây dựng",
             "TXID_MSGCAP_TUT_SELLTAP": "Bây giờ khi chúng ta có rau trong kho, hãy nhấn vào thị trường để bán chúng và kiếm tiền",
             "TXID_MSGCAP_TUT_SHEDTAP": "Hãy bắt đầu chuẩn bị đất. Chạm vào nhà kho để bắt đầu cày ruộng",
+            "TXID_MSGCAP_TUT_TODOCAP": "Nhiệm vụ mới có sẵn",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Hoàn thành nhiệm vụ và kiếm được tài nguyên có giá trị",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Tăng trưởng dân số cung cấp cho bạn lực lượng lao động. Bạn có thể dành lực lượng lao động để thuê nhân công và chi tiền để nâng cấp các cơ sở"
         },
         "GROUP_farm_upgrades": {
@@ -683,6 +687,7 @@
             "TXID_CAP_CONTESTLOCKED": "chế độ thi khóa",
             "TXID_CAP_CREDITS": "TÍN DỤNG",
             "TXID_CAP_DAILYBONUS": "THƯỞNG NGÀY",
+            "TXID_CAP_DISCARD": "Loại bỏ",
             "TXID_CAP_DOYOULIKEGAME": "Bạn có thích trò chơi?",
             "TXID_CAP_EMPTYSLOT": "CHỖ TRỐNG",
             "TXID_CAP_ENTERCODE": "NHẬP MÃ",
@@ -723,6 +728,7 @@
             "TXID_CAP_NOWCURRENCIES": "Bạn có",
             "TXID_CAP_NOWCURRENCIESONLY": "Bạn chỉ có",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "bật/tắt",
             "TXID_CAP_PENDING": "Chưa giải quyết...",
             "TXID_CAP_PENDINGCAP": "Mua đang chờ xử lý",
             "TXID_CAP_PENDINGMSG": "Cảm ơn bạn đã mua hàng! Khi giao dịch hoàn thành việc xử lý, việc mua sẽ có sẵn",
@@ -731,7 +737,9 @@
             "TXID_CAP_PURCHASE": "MUA, TỰA VÀO, BÁM VÀO",
             "TXID_CAP_PURCHASE_DISCOUNT": "GIẢM GIÁ",
             "TXID_CAP_RATEGAME": "Có thể giúp bạn, xin vui lòng, để lại một bài đánh giá nào để cho nhiều người tìm thấy các trò chơi?",
+            "TXID_CAP_REPLACE": "Thay thế",
             "TXID_CAP_RESTART": "KHỞI ĐỘNG LẠI",
+            "TXID_CAP_REWARD": "Phần thưởng",
             "TXID_CAP_REWARD2TESTER": "Trong quá trình phát triển, chúng tôi đã thay đổi lõi trò chơi, vì vậy, bạn có khởi đầu mới. Nhưng chúng tôi cung cấp cho bạn một sự thúc đẩy để lấy lại sự tiến bộ của bạn nhanh hơn",
             "TXID_CAP_SAVE": "TIẾT KIỆM",
             "TXID_CAP_SELECT": "LỰA CHỌN",
@@ -746,6 +754,12 @@
             "TXID_CAP_TELLWHY": "Sẽ bạn, xin vui lòng, đề xuất một số cách làm thế nào để làm cho nó trở nên thú vị?",
             "TXID_CAP_THANKS2TESTER": "Cảm ơn bạn rất nhiều vì đã được thử nghiệm đầu tiên về trò chơi này!",
             "TXID_CAP_THANKYOU": "Cảm ơn bạn rất nhiều!",
+            "TXID_CAP_TODO": "Danh sách nhiệm vụ",
+            "TXID_CAP_TODOIN": "Nhiệm vụ mới trong:",
+            "TXID_CAP_TODOMAX": "Bạn có số lượng nhiệm vụ tối đa. Hoàn thành hoặc loại bỏ chúng để có cái mới",
+            "TXID_CAP_TODOREPLACEIN": "Bạn sẽ có thể thay thế nhiệm vụ trong:",
+            "TXID_CAP_TODOSOON": "Nhiệm vụ mới sẽ sớm xuất hiện",
+            "TXID_CAP_TODOTOTAL": "Nhiệm vụ đã hoàn thành",
             "TXID_CAP_UNLOCK": "UNLOCK",
             "TXID_CAP_UPGRADE": "UPGRADE",
             "TXID_CAP_UPGRADEPRICE": "GIÁ UPGRADE",
@@ -861,6 +875,8 @@
             "TXID_TIMEUNIT_SEC": "S",
             "TXID_TIMEUNIT_WEEK": "tuần",
             "TXID_TIMEUNIT_YEAR": "năm",
+            "TXID_TODO_HAVE": "Có",
+            "TXID_TODO_PRODUCE": "Sản xuất",
             "TXID_TRYAGAIN": "Vui lòng thử lại sau",
             "TXID_TRYLOADAGAIN": "tải tiết kiệm",
             "TXID_UNITS_COINSEACH": "xu / ea",

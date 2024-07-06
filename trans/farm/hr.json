@@ -460,6 +460,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Brzina stvaranja znanosti",
             "TXID_STATS_GENERATIONSPEED": "Brzina proizvodnje",
             "TXID_STATS_TRANSPORTATIONSPEED": "Brzina prijevoza",
+            "TXID_TODO_UGRADETRANSP": "Nadogradite transportna kolica",
             "TXID_WATERFLOW": "Protok vode"
         },
         "GROUP_farm_resources": {
@@ -524,6 +525,7 @@
             "TXID_REW_TIMEFORWARD": "Vrijeme naprijed"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Djeluje sam!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Pogledajte, igra ima integrirani autokliker! Samo jednom dodirnite predmet i on će raditi dok se vi opuštate. Kako prikladno!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možda želite postaviti Autoclicker na jedan objekt ili drugi, ovisno o tome koji trenutno treba najviše snage.",
@@ -560,6 +562,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Provjerite koje ćete bonuse dobiti ako ponovno pokrenete zgradu",
             "TXID_MSGCAP_TUT_SELLTAP": "Sada kada imamo povrće u skladištu, dodirnite tržište da biste ih prodali i zaradili novac",
             "TXID_MSGCAP_TUT_SHEDTAP": "Počnimo pripremati tlo. Dodirnite šupu da biste počeli ojaviti polje",
+            "TXID_MSGCAP_TUT_TODOCAP": "Dostupni su novi zadaci",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Dovršite zadatke i zaradite vrijedne resurse",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Rast stanovništva pruža vam radnu snagu. Možete provesti radnu snagu da zaposlimo radnike i trošimo novac za nadogradnju objekata"
         },
         "GROUP_farm_upgrades": {
@@ -683,6 +687,7 @@
             "TXID_CAP_CONTESTLOCKED": "Način natjecanja zaključan",
             "TXID_CAP_CREDITS": "Krediti",
             "TXID_CAP_DAILYBONUS": "Dnevni bonus",
+            "TXID_CAP_DISCARD": "Odbaciti",
             "TXID_CAP_DOYOULIKEGAME": "Volite li igru?",
             "TXID_CAP_EMPTYSLOT": "Prazan utor",
             "TXID_CAP_ENTERCODE": "UNESITE KOD",
@@ -723,6 +728,7 @@
             "TXID_CAP_NOWCURRENCIES": "Imaš",
             "TXID_CAP_NOWCURRENCIESONLY": "Imate samo",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "Uključeno, Isključeno",
             "TXID_CAP_PENDING": "U tijeku...",
             "TXID_CAP_PENDINGCAP": "Kupnja na čekanju",
             "TXID_CAP_PENDINGMSG": "Hvala vam što ste napravili kupnju! Kada transakcija završi obradu, kupnja će postati dostupna",
@@ -731,7 +737,9 @@
             "TXID_CAP_PURCHASE": "KUPITI",
             "TXID_CAP_PURCHASE_DISCOUNT": "POPUST",
             "TXID_CAP_RATEGAME": "Možete li, molim vas, ostaviti javni pregled kako biste više ljudi pronašli igru?",
+            "TXID_CAP_REPLACE": "Zamijeniti",
             "TXID_CAP_RESTART": "Ponovo pokrenuti",
+            "TXID_CAP_REWARD": "Nagrada",
             "TXID_CAP_REWARD2TESTER": "Tijekom razvoja promijenili smo jezgru igre, tako da imate novi početak. Ali dajemo vam poticaj da brže povratite napredak",
             "TXID_CAP_SAVE": "UŠTEDJETI",
             "TXID_CAP_SELECT": "IZABERI",
@@ -746,6 +754,12 @@
             "TXID_CAP_TELLWHY": "Hoćete li, molim vas, predložiti neke načine kako to učiniti ugodno?",
             "TXID_CAP_THANKS2TESTER": "Puno vam hvala što ste prvi put testirani od ove igre!",
             "TXID_CAP_THANKYOU": "Puno ti hvala!",
+            "TXID_CAP_TODO": "Popis zadataka",
+            "TXID_CAP_TODOIN": "Novi zadatak u:",
+            "TXID_CAP_TODOMAX": "Imate maksimalan broj zadataka. Dovršite ih ili odbacite da biste dobili nove",
+            "TXID_CAP_TODOREPLACEIN": "Zadatak ćete moći zamijeniti u:",
+            "TXID_CAP_TODOSOON": "Uskoro će se pojaviti novi zadatak",
+            "TXID_CAP_TODOTOTAL": "Izvršeni zadaci",
             "TXID_CAP_UNLOCK": "OTKLJUČATI",
             "TXID_CAP_UPGRADE": "Nadograditi",
             "TXID_CAP_UPGRADEPRICE": "Nadogradite cijenu",
@@ -861,6 +875,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "tjedan",
             "TXID_TIMEUNIT_YEAR": "godina",
+            "TXID_TODO_HAVE": "Imati",
+            "TXID_TODO_PRODUCE": "Proizvoditi",
             "TXID_TRYAGAIN": "Molimo pokušajte ponovo kasnije",
             "TXID_TRYLOADAGAIN": "Učitavanje Spremi",
             "TXID_UNITS_COINSEACH": "kovanice / ea",

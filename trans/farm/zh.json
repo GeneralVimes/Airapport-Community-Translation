@@ -458,6 +458,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "科学生成速度",
             "TXID_STATS_GENERATIONSPEED": "生产速度",
             "TXID_STATS_TRANSPORTATIONSPEED": "运输速度",
+            "TXID_TODO_UGRADETRANSP": "升级运输车",
             "TXID_WATERFLOW": "水流"
         },
         "GROUP_farm_resources": {
@@ -520,6 +521,7 @@
             "TXID_REW_TIMEFORWARD": "时间前进"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "它自己起作用！",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "看，游戏有一个集成的自动点击器！只需点击一个物体一次，它就会在您放松时开始工作。多么方便啊！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "您可能需要将自动化器放置在一个或另一个对象上，具体取决于当前最需要额外功率的对象。",
@@ -556,6 +558,8 @@
             "TXID_MSGCAP_TUT_RESTART": "检查如果重新启动建筑物，您将获得哪些奖金",
             "TXID_MSGCAP_TUT_SELLTAP": "现在，当我们将蔬菜放在存储中时，点击市场出售并赚钱",
             "TXID_MSGCAP_TUT_SHEDTAP": "让我们开始准备土壤。点击棚子开始耕种场地",
+            "TXID_MSGCAP_TUT_TODOCAP": "有新任务可供使用",
+            "TXID_MSGCAP_TUT_TODOEXPL": "完成任务并获得宝贵的资源",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "人口增长为您提供劳动力。您可以花费劳动力来雇用工人并花钱升级设施"
         },
         "GROUP_farm_upgrades": {
@@ -674,6 +678,7 @@
             "TXID_CAP_CONTINUE": "继续",
             "TXID_CAP_CREDITS": "学分",
             "TXID_CAP_DAILYBONUS": "每日奖金",
+            "TXID_CAP_DISCARD": "丢弃",
             "TXID_CAP_DOYOULIKEGAME": "你喜欢游戏吗？",
             "TXID_CAP_EMPTYSLOT": "空位",
             "TXID_CAP_ENTERCODE": "输入代码",
@@ -714,6 +719,7 @@
             "TXID_CAP_NOWCURRENCIES": "你有",
             "TXID_CAP_NOWCURRENCIESONLY": "你只有",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "开关",
             "TXID_CAP_PENDING": "待办的...",
             "TXID_CAP_PENDINGCAP": "购买正在等待",
             "TXID_CAP_PENDINGMSG": "谢谢您的购买！交易完成处理后，购买将可用",
@@ -722,7 +728,9 @@
             "TXID_CAP_PURCHASE": "购买",
             "TXID_CAP_PURCHASE_DISCOUNT": "折扣",
             "TXID_CAP_RATEGAME": "您能否留下公众的评论，让更多​​的人找到游戏？",
+            "TXID_CAP_REPLACE": "代替",
             "TXID_CAP_RESTART": "重新开始",
+            "TXID_CAP_REWARD": "报酬",
             "TXID_CAP_REWARD2TESTER": "在开发过程中，我们改变了游戏核心，因此，您有了新的开始。但是我们为您提供了更快的进步速度",
             "TXID_CAP_SAVE": "节省",
             "TXID_CAP_SELECT": "选择",
@@ -737,6 +745,12 @@
             "TXID_CAP_TELLWHY": "请您提出一些使它令人愉悦的方法吗？",
             "TXID_CAP_THANKS2TESTER": "非常感谢您成为这款游戏的第一个测试仪！",
             "TXID_CAP_THANKYOU": "太感谢了！",
+            "TXID_CAP_TODO": "任务清单",
+            "TXID_CAP_TODOIN": "新任务在：",
+            "TXID_CAP_TODOMAX": "您的任务数量已达到上限。完成或丢弃它们以获得新的",
+            "TXID_CAP_TODOREPLACEIN": "您可以将任务替换为：",
+            "TXID_CAP_TODOSOON": "新任务即将出现",
+            "TXID_CAP_TODOTOTAL": "已完成的任务",
             "TXID_CAP_UNLOCK": "开锁",
             "TXID_CAP_UPGRADE": "升级",
             "TXID_CAP_UPGRADEPRICE": "升级价格",
@@ -857,6 +871,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "星期",
             "TXID_TIMEUNIT_YEAR": "年",
+            "TXID_TODO_HAVE": "有",
+            "TXID_TODO_PRODUCE": "生产",
             "TXID_TRYAGAIN": "请稍后再试",
             "TXID_TRYLOADAGAIN": "加载保存",
             "TXID_UNITS_COINSEACH": "硬币/ea",

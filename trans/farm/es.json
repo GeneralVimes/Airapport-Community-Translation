@@ -461,6 +461,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "la velocidad de generación de la ciencia",
             "TXID_STATS_GENERATIONSPEED": "velocidad de producción",
             "TXID_STATS_TRANSPORTATIONSPEED": "velocidad de transporte",
+            "TXID_TODO_UGRADETRANSP": "Actualiza el carro transportador",
             "TXID_WATERFLOW": "Flujo de agua"
         },
         "GROUP_farm_resources": {
@@ -525,6 +526,7 @@
             "TXID_REW_TIMEFORWARD": "tiempo hacia adelante"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "¡Funciona solo!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "¡Mira, el juego tiene un autoclicker integrado! Simplemente toque un objeto una vez y funcionará mientras usted se relaja. ¡Que conveniente!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Es posible que desee colocar el autoclicker en un objeto u otra, dependiendo de lo que actualmente necesita energía adicional al máximo.",
@@ -561,6 +563,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Compruebe qué bonos va a ganar si reinicia el edificio",
             "TXID_MSGCAP_TUT_SELLTAP": "Ahora, cuando tenemos las verduras en el almacenamiento, toque el mercado para venderlos y ganar dinero.",
             "TXID_MSGCAP_TUT_SHEDTAP": "Vamos a empezar a preparar el suelo. Toque el cobertizo para comenzar a arar el campo",
+            "TXID_MSGCAP_TUT_TODOCAP": "Hay nuevas tareas disponibles",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Completa las tareas y gana recursos valiosos.",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "El crecimiento de la población le proporciona fuerza laboral. Puede gastar la fuerza laboral para contratar trabajadores y gastar dinero para mejorar las instalaciones."
         },
         "GROUP_farm_upgrades": {
@@ -684,6 +688,7 @@
             "TXID_CAP_CONTESTLOCKED": "modo de concurso bloqueado",
             "TXID_CAP_CREDITS": "CRÉDITOS",
             "TXID_CAP_DAILYBONUS": "BONUS DIARIO",
+            "TXID_CAP_DISCARD": "Desechar",
             "TXID_CAP_DOYOULIKEGAME": "¿Te gusta el juego?",
             "TXID_CAP_EMPTYSLOT": "RANURA VACÍA",
             "TXID_CAP_ENTERCODE": "INTRODUZCA EL CÓDIGO",
@@ -724,6 +729,7 @@
             "TXID_CAP_NOWCURRENCIES": "Tienes",
             "TXID_CAP_NOWCURRENCIESONLY": "Sólo tiene",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "encendido apagado",
             "TXID_CAP_PENDING": "Pendiente...",
             "TXID_CAP_PENDINGCAP": "La compra está pendiente",
             "TXID_CAP_PENDINGMSG": "¡Gracias por hacer la compra! Cuando la transacción completa el procesamiento, la compra estará disponible",
@@ -732,7 +738,9 @@
             "TXID_CAP_PURCHASE": "COMPRAR",
             "TXID_CAP_PURCHASE_DISCOUNT": "DESCUENTO",
             "TXID_CAP_RATEGAME": "¿Podría, por favor, dejar un comentario público para permitir que más personas encuentran el juego?",
+            "TXID_CAP_REPLACE": "Reemplazar",
             "TXID_CAP_RESTART": "REINICIAR",
+            "TXID_CAP_REWARD": "Premio",
             "TXID_CAP_REWARD2TESTER": "Durante el desarrollo, hemos cambiado el núcleo del juego, por lo que, usted tiene un nuevo comienzo. Pero te damos un impulso para recuperar tu progreso más rápido.",
             "TXID_CAP_SAVE": "SAVE",
             "TXID_CAP_SELECT": "SELECCIONE",
@@ -747,6 +755,12 @@
             "TXID_CAP_TELLWHY": "¿Podría usted, por favor, sugerir algunas maneras de cómo para que sea agradable?",
             "TXID_CAP_THANKS2TESTER": "¡Muchas gracias por ser la primera prueba de este juego!",
             "TXID_CAP_THANKYOU": "Muchas gracias!",
+            "TXID_CAP_TODO": "Lista de tareas",
+            "TXID_CAP_TODOIN": "Nueva tarea en:",
+            "TXID_CAP_TODOMAX": "Tienes el número máximo de tareas. Complétalos o deséchalos para obtener otros nuevos.",
+            "TXID_CAP_TODOREPLACEIN": "Podrás reemplazar la tarea en:",
+            "TXID_CAP_TODOSOON": "Pronto aparecerá una nueva tarea",
+            "TXID_CAP_TODOTOTAL": "Tareas completadas",
             "TXID_CAP_UNLOCK": "DESBLOQUEAR",
             "TXID_CAP_UPGRADE": "MEJORAR",
             "TXID_CAP_UPGRADEPRICE": "precio de mejora",
@@ -862,6 +876,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "semana",
             "TXID_TIMEUNIT_YEAR": "año",
+            "TXID_TODO_HAVE": "Tener",
+            "TXID_TODO_PRODUCE": "Producir",
             "TXID_TRYAGAIN": "Por favor, inténtelo de nuevo más tarde",
             "TXID_TRYLOADAGAIN": "Cargar guarda",
             "TXID_UNITS_COINSEACH": "monedas / ea",

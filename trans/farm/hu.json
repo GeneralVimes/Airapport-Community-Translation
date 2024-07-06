@@ -461,6 +461,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Tudomány termelési sebesség",
             "TXID_STATS_GENERATIONSPEED": "Termelési sebesség",
             "TXID_STATS_TRANSPORTATIONSPEED": "Szállítási sebesség",
+            "TXID_TODO_UGRADETRANSP": "Frissítse a szállítókocsit",
             "TXID_WATERFLOW": "Vízfolyás"
         },
         "GROUP_farm_resources": {
@@ -525,6 +526,7 @@
             "TXID_REW_TIMEFORWARD": "Idő előre"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Magától működik!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Nézd, a játékban van egy integrált autoclicker! Csak érintsen meg egy tárgyat egyszer, és az működni fog, miközben Ön pihen. Milyen kényelmes!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Arra a helyre érdemes helyezni az autoklikkert, ahol több gyorsításra van szükség.",
@@ -561,6 +563,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Ellenőrizd milyen bónuszokat nyersz, ha újrakezded az épületet",
             "TXID_MSGCAP_TUT_SELLTAP": "Most, amikor a tárolás zöldségei vannak, érintse meg a piacot, hogy eladja őket, és pénzt keresjen",
             "TXID_MSGCAP_TUT_SHEDTAP": "Kezdjük elkészíteni a talajt. Érintse meg a fészeret, hogy elkezdje a mezőt",
+            "TXID_MSGCAP_TUT_TODOCAP": "Új feladatok állnak rendelkezésre",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Végezze el a feladatokat, és szerezzen értékes erőforrásokat",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "A népesség növekedése a munkaerőt biztosítja. A munkaerő költsége a munkavállalók felvételére és pénzt költeni a létesítmények frissítésére"
         },
         "GROUP_farm_upgrades": {
@@ -681,6 +685,7 @@
             "TXID_CAP_CONTESTLOCKED": "A verseny mód lezárva",
             "TXID_CAP_CREDITS": "KREDITEK",
             "TXID_CAP_DAILYBONUS": "NAPI BÓNUSZ",
+            "TXID_CAP_DISCARD": "Eldobni",
             "TXID_CAP_DOYOULIKEGAME": "Tetszik a játék?",
             "TXID_CAP_EMPTYSLOT": "ÜRES HELY",
             "TXID_CAP_ENTERCODE": "ÍRJA BE A KÓDOT",
@@ -721,6 +726,7 @@
             "TXID_CAP_NOWCURRENCIES": "Neked van",
             "TXID_CAP_NOWCURRENCIESONLY": "Neked csak",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "be ki",
             "TXID_CAP_PENDING": "Függőben levő...",
             "TXID_CAP_PENDINGCAP": "A vásárlás függőben van",
             "TXID_CAP_PENDINGMSG": "Köszönjük, hogy vásárolt! Amikor a tranzakció befejezi a feldolgozást, a vásárlás elérhetővé válik",
@@ -729,7 +735,9 @@
             "TXID_CAP_PURCHASE": "VÁSÁRLÁS",
             "TXID_CAP_PURCHASE_DISCOUNT": "KEDVEZMÉNY",
             "TXID_CAP_RATEGAME": "Kérlek, írj egy nyílvános értékelést a játékról, hogy mások is megtalálhassák?",
+            "TXID_CAP_REPLACE": "Cserélje ki",
             "TXID_CAP_RESTART": "ÚJRAKEZDÉS",
+            "TXID_CAP_REWARD": "Jutalom",
             "TXID_CAP_REWARD2TESTER": "A fejlesztés során megváltoztattuk a játék magját, ezért friss kezdete van. De adunk neked egy lendületet, hogy gyorsabban visszanyerje a haladást",
             "TXID_CAP_SAVE": "MENTÉS",
             "TXID_CAP_SELECT": "KIVÁLSZTÁS",
@@ -744,6 +752,12 @@
             "TXID_CAP_TELLWHY": "Kérem, javasoljon néhány módszert, hogyan lehet élvezetessé tenni?",
             "TXID_CAP_THANKS2TESTER": "Nagyon köszönöm, hogy a játék első tesztelte!",
             "TXID_CAP_THANKYOU": "Nagyon szépen köszönöm!",
+            "TXID_CAP_TODO": "Feladatok listája",
+            "TXID_CAP_TODOIN": "Új feladat itt:",
+            "TXID_CAP_TODOMAX": "Megvan a maximális számú feladat. Töltse ki vagy dobja el őket, hogy újakat szerezzen",
+            "TXID_CAP_TODOREPLACEIN": "A feladatot a következő helyen tudja lecserélni:",
+            "TXID_CAP_TODOSOON": "Hamarosan megjelenik az új feladat",
+            "TXID_CAP_TODOTOTAL": "Elvégzett feladatok",
             "TXID_CAP_UNLOCK": "FELOLD",
             "TXID_CAP_UPGRADE": "FEJLESZTÉS",
             "TXID_CAP_UPGRADEPRICE": "FEJLESZTÉSI ÁR",
@@ -862,6 +876,8 @@
             "TXID_TIMEUNIT_SEC": "mp",
             "TXID_TIMEUNIT_WEEK": "hét",
             "TXID_TIMEUNIT_YEAR": "év",
+            "TXID_TODO_HAVE": "Van",
+            "TXID_TODO_PRODUCE": "Gyárt",
             "TXID_TRYAGAIN": "Kérlek, próbáld újra később",
             "TXID_TRYLOADAGAIN": "Mentés betöltése",
             "TXID_UNITS_COINSEACH": "érmék/db",

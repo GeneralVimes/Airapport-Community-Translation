@@ -461,6 +461,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Wetenschapsgeneratiesnelheid",
             "TXID_STATS_GENERATIONSPEED": "Productiesnelheid",
             "TXID_STATS_TRANSPORTATIONSPEED": "Transportsnelheid",
+            "TXID_TODO_UGRADETRANSP": "Upgrade de transportwagen",
             "TXID_WATERFLOW": "Waterstroom"
         },
         "GROUP_farm_resources": {
@@ -525,6 +526,7 @@
             "TXID_REW_TIMEFORWARD": "Tijd vooruit"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Het werkt vanzelf!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Kijk, het spel heeft een geïntegreerde autoclicker! Tik gewoon één keer op een object en het werkt terwijl u ontspant. Hoe handig!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Je kunt de autoklikker op één object tegelijk zetten. Je kunt deze verplaatsen naar het object wat het meest moet produceren. ",
@@ -561,6 +563,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Kijk welke bonussen je krijgt als je het gebouw herstart.",
             "TXID_MSGCAP_TUT_SELLTAP": "Nu, wanneer we de groenten in de opslag hebben, tikt u op de markt om ze te verkopen en geld te verdienen",
             "TXID_MSGCAP_TUT_SHEDTAP": "Laten we beginnen met het voorbereiden van de grond. Tik op de schuur om het veld te ploegen",
+            "TXID_MSGCAP_TUT_TODOCAP": "Er zijn nieuwe taken beschikbaar",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Voltooi de taken en verdien waardevolle grondstoffen",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Bevolkingsgroei zorgt voor uw personeelsbestand. U kunt Workforce doorbrengen om werknemers in te huren en geld uit te geven aan het upgraden van de faciliteiten"
         },
         "GROUP_farm_upgrades": {
@@ -681,6 +685,7 @@
             "TXID_CAP_CONTESTLOCKED": "Wedstrijdmodus vergrendeld",
             "TXID_CAP_CREDITS": "Credits",
             "TXID_CAP_DAILYBONUS": "DAGELIJKSE BONUS",
+            "TXID_CAP_DISCARD": "Weggooien",
             "TXID_CAP_DOYOULIKEGAME": "Vind je het spel leuk?",
             "TXID_CAP_EMPTYSLOT": "LEEG SLOT",
             "TXID_CAP_ENTERCODE": "VOER CODE IN",
@@ -721,6 +726,7 @@
             "TXID_CAP_NOWCURRENCIES": "Je hebt",
             "TXID_CAP_NOWCURRENCIESONLY": "Je hebt alleen",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "aan uit",
             "TXID_CAP_PENDING": "In behandeling...",
             "TXID_CAP_PENDINGCAP": "Aankoop is in behandeling",
             "TXID_CAP_PENDINGMSG": "Bedankt voor het kopen! Wanneer de verwerking van je transactie is voltooit, komt de aankoop beschikbaar",
@@ -729,7 +735,9 @@
             "TXID_CAP_PURCHASE": "AANKOOP",
             "TXID_CAP_PURCHASE_DISCOUNT": "KORTING",
             "TXID_CAP_RATEGAME": "Kun je alsjeblieft een openbare recensie achterlaten om meer mensen het spel te laten vinden?",
+            "TXID_CAP_REPLACE": "Vervangen",
             "TXID_CAP_RESTART": "HERSTARTEN",
+            "TXID_CAP_REWARD": "Beloning",
             "TXID_CAP_REWARD2TESTER": "Tijdens de ontwikkeling hebben we de game-kern veranderd, dus heb je een nieuwe start. Maar we geven je een boost om je voortgang sneller te herwinnen",
             "TXID_CAP_SAVE": "OPSLAAN",
             "TXID_CAP_SELECT": "SELECTEREN",
@@ -744,6 +752,12 @@
             "TXID_CAP_TELLWHY": "Zou je alsjeblieft enkele manieren willen voorstellen om het leuker te maken?",
             "TXID_CAP_THANKS2TESTER": "Heel erg bedankt dat ik de allereerste getest is van dit spel!",
             "TXID_CAP_THANKYOU": "Ontzettend bedankt!",
+            "TXID_CAP_TODO": "Lijst met taken",
+            "TXID_CAP_TODOIN": "Nieuwe taak in:",
+            "TXID_CAP_TODOMAX": "Je hebt het maximale aantal taken. Voltooi ze of gooi ze weg om nieuwe te krijgen",
+            "TXID_CAP_TODOREPLACEIN": "U kunt de taak vervangen in:",
+            "TXID_CAP_TODOSOON": "Er verschijnt binnenkort een nieuwe taak",
+            "TXID_CAP_TODOTOTAL": "Voltooide taken",
             "TXID_CAP_UNLOCK": "ONTGRENDELEN",
             "TXID_CAP_UPGRADE": "UPGRADE",
             "TXID_CAP_UPGRADEPRICE": "Upgradeprijs",
@@ -862,6 +876,8 @@
             "TXID_TIMEUNIT_SEC": "S",
             "TXID_TIMEUNIT_WEEK": "week",
             "TXID_TIMEUNIT_YEAR": "jaar",
+            "TXID_TODO_HAVE": "Hebben",
+            "TXID_TODO_PRODUCE": "Produceren",
             "TXID_TRYAGAIN": "Probeer het later opnieuw",
             "TXID_TRYLOADAGAIN": "Laad opslagbestand",
             "TXID_UNITS_COINSEACH": "munten/ea",

@@ -460,6 +460,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Tieteen sukupolven nopeus",
             "TXID_STATS_GENERATIONSPEED": "Tuotannonopeus",
             "TXID_STATS_TRANSPORTATIONSPEED": "Kuljetusnopeus",
+            "TXID_TODO_UGRADETRANSP": "Päivitä kuljetuskärry",
             "TXID_WATERFLOW": "Virtaus"
         },
         "GROUP_farm_resources": {
@@ -524,6 +525,7 @@
             "TXID_REW_TIMEFORWARD": "Aika eteenpäin"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Se toimii itsestään!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Katso, pelissä on integroitu automaattinen napsautustoiminto! Napauta vain esinettä kerran, ja se toimii, kun rentoudut. Kuinka kätevää!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Haluat ehkä sijoittaa autoklickerin yhteen esineeseen tai toiseen, riippuen siitä, mikä on tällä hetkellä lisävoimaa eniten.",
@@ -560,6 +562,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Tarkista, mitkä bonukset saat, jos käynnistät rakennuksen uudelleen",
             "TXID_MSGCAP_TUT_SELLTAP": "Nyt kun meillä on vihannekset varastossa, kosketa markkinoita myydä niitä ja ansaita rahaa",
             "TXID_MSGCAP_TUT_SHEDTAP": "Aloitetaan maaperän valmistelu. Napauta Sked aloittaa kentän kyntäminen",
+            "TXID_MSGCAP_TUT_TODOCAP": "Uusia tehtäviä on tarjolla",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Suorita tehtävät ja ansaitse arvokkaita resursseja",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Väestönkasvu tarjoaa työvoimaa. Voit viettää työvoimaa palkata työntekijöitä ja käyttää rahaa päivittää tiloja"
         },
         "GROUP_farm_upgrades": {
@@ -683,6 +687,7 @@
             "TXID_CAP_CONTESTLOCKED": "Kilpailutila lukittu",
             "TXID_CAP_CREDITS": "Luotot",
             "TXID_CAP_DAILYBONUS": "PÄIVITTÄINEN BONUS",
+            "TXID_CAP_DISCARD": "Hävitä",
             "TXID_CAP_DOYOULIKEGAME": "Pidätkö pelistä?",
             "TXID_CAP_EMPTYSLOT": "TYHJÄ PAIKKA",
             "TXID_CAP_ENTERCODE": "SYÖTÄ KOODI",
@@ -723,6 +728,7 @@
             "TXID_CAP_NOWCURRENCIES": "Sinulla on",
             "TXID_CAP_NOWCURRENCIESONLY": "Sinulla on vain",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "päälle/pois",
             "TXID_CAP_PENDING": "Odottaa ...",
             "TXID_CAP_PENDINGCAP": "Osto odottaa",
             "TXID_CAP_PENDINGMSG": "Kiitos, että olet ostanut! Kun tapahtuma suorittaa käsittelyn, osto tulee saataville",
@@ -731,7 +737,9 @@
             "TXID_CAP_PURCHASE": "OSTAA",
             "TXID_CAP_PURCHASE_DISCOUNT": "ALENNUS",
             "TXID_CAP_RATEGAME": "Voisitteko, jätä julkinen katsaus antaa enemmän ihmisiä löytää pelin?",
+            "TXID_CAP_REPLACE": "Korvata",
             "TXID_CAP_RESTART": "UUDELLEENKÄYNNISTÄÄ",
+            "TXID_CAP_REWARD": "Palkinto",
             "TXID_CAP_REWARD2TESTER": "Kehityksen aikana olemme muuttaneet pelin ydin, joten sinulla on uusi alku. Mutta annamme sinulle vauhtia takaisin edistyksesi nopeammin",
             "TXID_CAP_SAVE": "TALLENTAA",
             "TXID_CAP_SELECT": "Valitse",
@@ -746,6 +754,12 @@
             "TXID_CAP_TELLWHY": "Haluaisitko, ehdota mitä tahansa tapoja, miten se olisi nautittavaa?",
             "TXID_CAP_THANKS2TESTER": "Kiitos paljon siitä, että olet ensimmäinen testattu tästä pelistä!",
             "TXID_CAP_THANKYOU": "Kiitos paljon!",
+            "TXID_CAP_TODO": "Luettelo tehtävistä",
+            "TXID_CAP_TODOIN": "Uusi tehtävä:",
+            "TXID_CAP_TODOMAX": "Sinulla on enimmäismäärä tehtäviä. Täydennä tai hylkää ne saadaksesi uusia",
+            "TXID_CAP_TODOREPLACEIN": "Voit korvata tehtävän seuraavasti:",
+            "TXID_CAP_TODOSOON": "Uusi tehtävä ilmestyy pian",
+            "TXID_CAP_TODOTOTAL": "Tehtävät suoritettu",
             "TXID_CAP_UNLOCK": "AVATA",
             "TXID_CAP_UPGRADE": "Päivittää",
             "TXID_CAP_UPGRADEPRICE": "Päivitä hinta",
@@ -861,6 +875,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "viikko",
             "TXID_TIMEUNIT_YEAR": "vuosi",
+            "TXID_TODO_HAVE": "Omistaa",
+            "TXID_TODO_PRODUCE": "Tuottaa",
             "TXID_TRYAGAIN": "Yritä uudelleen myöhemmin",
             "TXID_TRYLOADAGAIN": "Kuljetus",
             "TXID_UNITS_COINSEACH": "Kolikot / EA",

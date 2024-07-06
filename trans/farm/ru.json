@@ -434,6 +434,7 @@
             "TXID_MACH_NAME_YARN": "Прялка"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "CODE_aaa_untranslated": {},
             "TXID_COW_MILK": "Нажмите на корову, чтобы подоить её",
             "TXID_COW_OPENDOORS_IN": "Нажмите на коровник чтобы впустить корову",
             "TXID_COW_OPENDOORS_OUT": "Нажмите на коровник чтобы выпустить корову",
@@ -449,6 +450,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Скорость генерации науки",
             "TXID_STATS_GENERATIONSPEED": "скорость производства",
             "TXID_STATS_TRANSPORTATIONSPEED": "Скорость транспортировки",
+            "TXID_TODO_UGRADETRANSP": "Улучшить тележку-транспортер",
             "TXID_WATERFLOW": "Поток воды"
         },
         "GROUP_farm_resources": {
@@ -509,6 +511,7 @@
             "TXID_REW_TIMEFORWARD": "Время вперед"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Оно работает само по себе!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Посмотрите, в игре встроен автокликер! Просто коснитесь объекта один раз, и он будет работать, пока вы отдыхаете. Как удобно!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Вы можете разместить Автокликер на тот или ином объекте, в зависимости от того, какой в ​​настоящее время нуждается в дополнительной мощности больше всего.",
@@ -545,6 +548,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Посмотрите, какие бонусы вы получите, если перезагрузите стройку",
             "TXID_MSGCAP_TUT_SELLTAP": "Теперь, когда овощи в хранилище, нажмите на рынок, чтобы продать их и заработать деньги",
             "TXID_MSGCAP_TUT_SHEDTAP": "Давайте начнем подготовку почвы. Нажмите на сарай, чтобы распахать поле",
+            "TXID_MSGCAP_TUT_TODOCAP": "Доступны новые задания",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Выполняйте задания и зарабатывайте ценные ресурсы",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Рост населения предоставляет вам рабочую силу. Вы можете потратить рабочую силу на найм рабочих и тратить деньги на улучшение объектов"
         },
         "GROUP_farm_upgrades": {
@@ -618,6 +623,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "воды / сек"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",
@@ -642,6 +648,7 @@
             "TXID_CAP_CONTINUE": "Продолжить",
             "TXID_CAP_CREDITS": "АВТОРЫ",
             "TXID_CAP_DAILYBONUS": "ЕЖЕДНЕВНЫЙ БОНУС",
+            "TXID_CAP_DISCARD": "Отказаться",
             "TXID_CAP_DOYOULIKEGAME": "Вам нравится игра?",
             "TXID_CAP_EMPTYSLOT": "ПУСТОЙ СЛОТ",
             "TXID_CAP_ENTERCODE": "ВВЕДИТЕ КОД",
@@ -683,6 +690,7 @@
             "TXID_CAP_NOWCURRENCIES": "У вас есть",
             "TXID_CAP_NOWCURRENCIESONLY": "У вас есть только",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "вкл/выкл",
             "TXID_CAP_PENDING": "В ожидании...",
             "TXID_CAP_PENDINGCAP": "Покупка в ожидании",
             "TXID_CAP_PENDINGMSG": "Спасибо, что совершили покупку! Когда транзакция завершает обработку, покупка станет доступной",
@@ -691,7 +699,9 @@
             "TXID_CAP_PURCHASE": "КУПИТЬ",
             "TXID_CAP_PURCHASE_DISCOUNT": "СКИДКА",
             "TXID_CAP_RATEGAME": "Вы могли бы написать отзыв об игре, чтобы больше игроков её увидели?",
+            "TXID_CAP_REPLACE": "Заменить",
             "TXID_CAP_RESTART": "ПЕРЕЗАПУСК",
+            "TXID_CAP_REWARD": "Награда",
             "TXID_CAP_REWARD2TESTER": "В процессе разработки мы изменили ядро ​​игры, так что игру придётся перезапустить. Но мы даем вам бонус, чтобы восстановить прогресс быстрее",
             "TXID_CAP_SAVE": "SAVE",
             "TXID_CAP_SELECT": "СООБЩЕСТВО",
@@ -707,6 +717,12 @@
             "TXID_CAP_TELLWHY": "Пожалуйста, может быть, посоветуете, как её улучшить?",
             "TXID_CAP_THANKS2TESTER": "Большое спасибо за то, что одним из первых тестировали эту игру!",
             "TXID_CAP_THANKYOU": "Спасибо огромное!",
+            "TXID_CAP_TODO": "Список задач",
+            "TXID_CAP_TODOIN": "Новая задача через:",
+            "TXID_CAP_TODOMAX": "У вас максимальное количество заданий. Заполните или откажитесь от них, чтобы получить новые.",
+            "TXID_CAP_TODOREPLACEIN": "Вы сможете заменить задачу через:",
+            "TXID_CAP_TODOSOON": "Скоро появится новое задание",
+            "TXID_CAP_TODOTOTAL": "Выполненные задачи",
             "TXID_CAP_TRYINGLOADBON": "Пытаемся загрузить следующий Бонус",
             "TXID_CAP_UNLOCK": "ОТКРЫТЬ",
             "TXID_CAP_UPGRADE": "АПГРЕЙД",
@@ -839,6 +855,8 @@
             "TXID_TIMEUNIT_WEEK_SHORT": "н",
             "TXID_TIMEUNIT_YEAR": "год",
             "TXID_TIMEUNIT_YEAR_SHORT": "г",
+            "TXID_TODO_HAVE": "Имейте",
+            "TXID_TODO_PRODUCE": "Произведите",
             "TXID_TRYAGAIN": "Попробуйте, пожалуйста, попозже",
             "TXID_TRYLOADAGAIN": "Загрузить сейв",
             "TXID_UMP_ADSONLYREW": "Игра не показывает рекламу без вашего согласия",

@@ -458,6 +458,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "과학 세대 속도",
             "TXID_STATS_GENERATIONSPEED": "생산 속도",
             "TXID_STATS_TRANSPORTATIONSPEED": "운송 속도",
+            "TXID_TODO_UGRADETRANSP": "운송 카트를 업그레이드하세요",
             "TXID_WATERFLOW": "물 흐름"
         },
         "GROUP_farm_resources": {
@@ -520,6 +521,7 @@
             "TXID_REW_TIMEFORWARD": "시간 앞으로"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "그것은 저절로 작동합니다!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "보세요, 이 게임에는 자동 클릭 기능이 통합되어 있습니다! 개체를 한 번만 탭하면 휴식을 취하는 동안 해당 개체가 작동합니다. 얼마나 편리한 지!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "현재 추가 전력이 가장 필요한 것에 따라 AutoClicker를 한 객체 또는 다른 객체에 배치 할 수 있습니다.",
@@ -556,6 +558,8 @@
             "TXID_MSGCAP_TUT_RESTART": "건물을 다시 시작하면 어떤 보너스를 얻을 수 있는지 확인하십시오.",
             "TXID_MSGCAP_TUT_SELLTAP": "이제 저장 공간에 채소가 있으면 시장을 탭하여 판매하고 돈을 벌 수 있습니다.",
             "TXID_MSGCAP_TUT_SHEDTAP": "토양 준비를 시작합시다. 창고를 두드려 필드를 쟁기질하십시오",
+            "TXID_MSGCAP_TUT_TODOCAP": "새로운 작업을 사용할 수 있습니다",
+            "TXID_MSGCAP_TUT_TODOEXPL": "작업을 완료하고 귀중한 자원을 획득하세요",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "인구 증가는 인력을 제공합니다. 근로자를 고용하고 시설을 업그레이드하기 위해 돈을 쓸 수있는 인력을 지출 할 수 있습니다."
         },
         "GROUP_farm_upgrades": {
@@ -674,6 +678,7 @@
             "TXID_CAP_CONTINUE": "계속하다",
             "TXID_CAP_CREDITS": "크레딧",
             "TXID_CAP_DAILYBONUS": "일일 보너스",
+            "TXID_CAP_DISCARD": "버리다",
             "TXID_CAP_DOYOULIKEGAME": "게임이 마음에 드십니까?",
             "TXID_CAP_EMPTYSLOT": "빈 슬롯",
             "TXID_CAP_ENTERCODE": "코드를 입력",
@@ -714,6 +719,7 @@
             "TXID_CAP_NOWCURRENCIES": "당신은 가지고 있습니다",
             "TXID_CAP_NOWCURRENCIESONLY": "당신은 단지 있습니다",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "온/오프",
             "TXID_CAP_PENDING": "보류 중...",
             "TXID_CAP_PENDINGCAP": "구매가 보류 중입니다",
             "TXID_CAP_PENDINGMSG": "구매 해주셔서 감사합니다! 트랜잭션이 처리를 완료하면 구매를 사용할 수 있습니다.",
@@ -722,7 +728,9 @@
             "TXID_CAP_PURCHASE": "구입",
             "TXID_CAP_PURCHASE_DISCOUNT": "할인",
             "TXID_CAP_RATEGAME": "더 많은 사람들이 게임을 찾을 수 있도록 공개 리뷰를 남겨주세요.",
+            "TXID_CAP_REPLACE": "바꾸다",
             "TXID_CAP_RESTART": "재시작",
+            "TXID_CAP_REWARD": "보상",
             "TXID_CAP_REWARD2TESTER": "개발 중에 우리는 게임 코어를 변경 했으므로 새로운 출발이 있습니다. 그러나 우리는 당신의 진보를 더 빨리 회복하기 위해 향상시킵니다.",
             "TXID_CAP_SAVE": "구하다",
             "TXID_CAP_SELECT": "선택하다",
@@ -737,6 +745,12 @@
             "TXID_CAP_TELLWHY": "즐겁게 만드는 방법을 제안 하시겠습니까?",
             "TXID_CAP_THANKS2TESTER": "이 게임의 첫 테스터가되어 주셔서 감사합니다!",
             "TXID_CAP_THANKYOU": "매우 감사합니다!",
+            "TXID_CAP_TODO": "작업 목록",
+            "TXID_CAP_TODOIN": "새 작업:",
+            "TXID_CAP_TODOMAX": "최대 작업 수에 도달했습니다. 새로운 것을 얻으려면 완료하거나 폐기하세요.",
+            "TXID_CAP_TODOREPLACEIN": "다음에서 작업을 대체할 수 있습니다.",
+            "TXID_CAP_TODOSOON": "새 작업이 곧 표시됩니다",
+            "TXID_CAP_TODOTOTAL": "완료된 작업",
             "TXID_CAP_UNLOCK": "터놓다",
             "TXID_CAP_UPGRADE": "업그레이드",
             "TXID_CAP_UPGRADEPRICE": "업그레이드 가격",
@@ -857,6 +871,8 @@
             "TXID_TIMEUNIT_SEC": "에스",
             "TXID_TIMEUNIT_WEEK": "주",
             "TXID_TIMEUNIT_YEAR": "년도",
+            "TXID_TODO_HAVE": "가지다",
+            "TXID_TODO_PRODUCE": "생산하다",
             "TXID_TRYAGAIN": "나중에 다시 시도 해주십시오",
             "TXID_TRYLOADAGAIN": "로드 저장",
             "TXID_UNITS_COINSEACH": "동전/EA",

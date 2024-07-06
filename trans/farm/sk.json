@@ -461,6 +461,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Rychlost tvorby vědy",
             "TXID_STATS_GENERATIONSPEED": "Rychlost produkce",
             "TXID_STATS_TRANSPORTATIONSPEED": "Rychlost přepravy",
+            "TXID_TODO_UGRADETRANSP": "Vylepšite prepravný vozík",
             "TXID_WATERFLOW": "Průtok vody"
         },
         "GROUP_farm_resources": {
@@ -525,6 +526,7 @@
             "TXID_REW_TIMEFORWARD": "Čas zrychlen"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funguje to samo o sebe!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Pozrite, hra má integrovaný autoclicker! Stačí raz klepnúť na objekt a bude fungovať, kým budete relaxovať. Aké pohodlné!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možná budeš chtít umístit autoklikač na nějaký objekt, v závislosti na tom, či potřebuje dodatečný výkon.",
@@ -561,6 +563,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Zkontroluj které bonusy získáš pokud restartuješ budovu",
             "TXID_MSGCAP_TUT_SELLTAP": "Teraz, keď máme zeleninu v úložisku, klepnite na trh, aby ste ich predávali a zarobili peniaze",
             "TXID_MSGCAP_TUT_SHEDTAP": "Začnime príprava pôdy. Klepnite na halu, aby ste začali orať pole",
+            "TXID_MSGCAP_TUT_TODOCAP": "K dispozícii sú nové úlohy",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Dokončite úlohy a získajte cenné zdroje",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Rast populácie vám poskytuje pracovnú silu. Môžete stráviť pracovnú silu na prenájom pracovníkov a minúť peniaze na aktualizáciu zariadení"
         },
         "GROUP_farm_upgrades": {
@@ -684,6 +688,7 @@
             "TXID_CAP_CONTESTLOCKED": "Režim soutěže je zamčen",
             "TXID_CAP_CREDITS": "PODĚKOVÁNÍ",
             "TXID_CAP_DAILYBONUS": "DENNÍ BONUS",
+            "TXID_CAP_DISCARD": "Zahodiť",
             "TXID_CAP_DOYOULIKEGAME": "Líbí se vám hra?",
             "TXID_CAP_EMPTYSLOT": "PRÁZDNÁ POZICE",
             "TXID_CAP_ENTERCODE": "ZADEJTE KÓD",
@@ -724,6 +729,7 @@
             "TXID_CAP_NOWCURRENCIES": "Máš",
             "TXID_CAP_NOWCURRENCIESONLY": "Máš jen",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "zapnutie/vypnutie",
             "TXID_CAP_PENDING": "Soutěž: Babylonská Věž",
             "TXID_CAP_PENDINGCAP": "Soutěž: Babylonská Věž",
             "TXID_CAP_PENDINGMSG": "Soutěž: Babylonská Věž",
@@ -732,7 +738,9 @@
             "TXID_CAP_PURCHASE": "KOUPIT",
             "TXID_CAP_PURCHASE_DISCOUNT": "SLEVA",
             "TXID_CAP_RATEGAME": "Mohli byste, prosím, uvěřejnit recenzi aby víc lidí našlo naši hru?",
+            "TXID_CAP_REPLACE": "Nahradiť",
             "TXID_CAP_RESTART": "RESTARTOVAT",
+            "TXID_CAP_REWARD": "Odmena",
             "TXID_CAP_REWARD2TESTER": "Počas vývoja sme zmenili jadro hry, takže máte čerstvý štart. Ale dávame vám boost, aby sme znovu získali váš pokrok",
             "TXID_CAP_SAVE": "ULOŽIT",
             "TXID_CAP_SELECT": "Vybrať",
@@ -747,6 +755,12 @@
             "TXID_CAP_TELLWHY": "Chtěl bys, prosím navrhnout nějaké nápady které by moji hru mohli udělat lepší?",
             "TXID_CAP_THANKS2TESTER": "Ďakujem vám, že ste boli prvým prvým testovaným tejto hre!",
             "TXID_CAP_THANKYOU": "Děkuji mnohokrát!",
+            "TXID_CAP_TODO": "Zoznam úloh",
+            "TXID_CAP_TODOIN": "Nová úloha v:",
+            "TXID_CAP_TODOMAX": "Máte maximálny počet úloh. Vyplňte alebo zahoďte ich, aby ste získali nové",
+            "TXID_CAP_TODOREPLACEIN": "Úlohu budete môcť nahradiť v:",
+            "TXID_CAP_TODOSOON": "Čoskoro sa objaví nová úloha",
+            "TXID_CAP_TODOTOTAL": "Dokončené úlohy",
             "TXID_CAP_UNLOCK": "ODEMKNOUT",
             "TXID_CAP_UPGRADE": "VYLEPŠIT",
             "TXID_CAP_UPGRADEPRICE": "CENA PRO VYLEPŠENÍ",
@@ -862,6 +876,8 @@
             "TXID_TIMEUNIT_SEC": "sek.",
             "TXID_TIMEUNIT_WEEK": "týd.",
             "TXID_TIMEUNIT_YEAR": "r.",
+            "TXID_TODO_HAVE": "Mať",
+            "TXID_TODO_PRODUCE": "Produkovať",
             "TXID_TRYAGAIN": "Prosím, zkuste to znovu později",
             "TXID_TRYLOADAGAIN": "Načítat uloženo",
             "TXID_UNITS_COINSEACH": "mincí/za každé",

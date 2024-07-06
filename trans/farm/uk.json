@@ -434,6 +434,7 @@
             "TXID_MACH_NAME_YARN": "Прядка"
         },
         "GROUP_farm_messages_from_game_elements": {
+            "CODE_aaa_untranslated": {},
             "TXID_COW_MILK": "Натисніть на корову, щоб подоїти її",
             "TXID_COW_OPENDOORS_IN": "Натисніть на корівник, щоб впустики корову",
             "TXID_COW_OPENDOORS_OUT": "Натисніть на корівник, щоб випустики корову",
@@ -449,6 +450,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Швидкість генерації науки",
             "TXID_STATS_GENERATIONSPEED": "швидкість виробництва",
             "TXID_STATS_TRANSPORTATIONSPEED": "Швидкість транспортування",
+            "TXID_TODO_UGRADETRANSP": "Прокачайте транспортний візок",
             "TXID_WATERFLOW": "Потік води"
         },
         "GROUP_farm_resources": {
@@ -509,6 +511,7 @@
             "TXID_REW_TIMEFORWARD": "час вперед"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Воно працює саме по собі!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Подивіться, у грі вбудовано автоклікер! Ви тільки раз натискаєте на об'єкт, і він починає працювати, доки ви відпочиваєте. Як зручно!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Ви можете розмістити Автокликер на той чи інший об'єкт, в залежності від того, який в даний час потребує додаткової потужності найбільше.",
@@ -545,6 +548,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Подивіться, які бонуси ви отримаєте, якщо перезавантажте будівництво",
             "TXID_MSGCAP_TUT_SELLTAP": "Тепер, коли овочі у сховищі, натисніть на ринок, щоб продати їх і заробити гроші",
             "TXID_MSGCAP_TUT_SHEDTAP": "Давайте почнемо підготовку грунту. Натисніть на сарай, щоб розорати поле",
+            "TXID_MSGCAP_TUT_TODOCAP": "Доступні нові завдання",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Виконуйте завдання та заробляйте цінні ресурси",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Зростання населення надає вам робочу силу. Ви можете витратити робочу силу на найм робітників і витрачати гроші на поліпшення об'єктів"
         },
         "GROUP_farm_upgrades": {
@@ -618,6 +623,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "води / сек"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ОТРИМАТИ!",
             "TXID_ANS_TRYBACKUP": "Скасувати",
             "TXID_AREYOUWITHME": "Ти зі мною?",
@@ -642,6 +648,7 @@
             "TXID_CAP_CONTINUE": "Продожити",
             "TXID_CAP_CREDITS": "АВТОРИ",
             "TXID_CAP_DAILYBONUS": "ЩОДЕННИЙ БОНУС",
+            "TXID_CAP_DISCARD": "Відкинути",
             "TXID_CAP_DOYOULIKEGAME": "Вам подобається гра?",
             "TXID_CAP_EMPTYSLOT": "EMPTY SLOT",
             "TXID_CAP_ENTERCODE": "ВВЕДІТЬ КОД",
@@ -683,6 +690,7 @@
             "TXID_CAP_NOWCURRENCIES": "У вас є",
             "TXID_CAP_NOWCURRENCIESONLY": "У вас є тільки",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "увімк/вимк",
             "TXID_CAP_PENDING": "Очікує ...",
             "TXID_CAP_PENDINGCAP": "Купівля триває",
             "TXID_CAP_PENDINGMSG": "Дякуємо за покупку! Коли транзакція завершить обробку, покупка стане доступною",
@@ -691,7 +699,9 @@
             "TXID_CAP_PURCHASE": "КУПИТИ",
             "TXID_CAP_PURCHASE_DISCOUNT": "ЗНИЖКА",
             "TXID_CAP_RATEGAME": "Ви могли б написати відгук про гру, щоб більше гравців її побачили?",
+            "TXID_CAP_REPLACE": "Замінити",
             "TXID_CAP_RESTART": "ПЕРЕЗАПУСК",
+            "TXID_CAP_REWARD": "Нагорода",
             "TXID_CAP_REWARD2TESTER": "У процесі розробки ми змінили ядро ​​гри, так що гру доведеться перезапустити. Але ми даємо вам бонус, щоб відновити прогрес швидше",
             "TXID_CAP_SAVE": "SAVE",
             "TXID_CAP_SELECT": "СПІЛЬНОТА",
@@ -707,6 +717,12 @@
             "TXID_CAP_TELLWHY": "Будь ласка, може бути, порадите, як її поліпшити?",
             "TXID_CAP_THANKS2TESTER": "Велике спасибі за те, що одним з перших тестували цю гру!",
             "TXID_CAP_THANKYOU": "Дуже дякую!",
+            "TXID_CAP_TODO": "Список завдань",
+            "TXID_CAP_TODOIN": "Нове завдання через:",
+            "TXID_CAP_TODOMAX": "У вас максимальна кількість завдань. Завершіть або відкиньте їх, щоб отримати нові",
+            "TXID_CAP_TODOREPLACEIN": "Ви зможете замінити завдання через:",
+            "TXID_CAP_TODOSOON": "Нове завдання з'явиться незабаром",
+            "TXID_CAP_TODOTOTAL": "Виконані завдання",
             "TXID_CAP_TRYINGLOADBON": "Намагаємося завантажити наступний бонус",
             "TXID_CAP_UNLOCK": "ВІДКРИТИ",
             "TXID_CAP_UPGRADE": "АПГРЕЙД",
@@ -839,6 +855,8 @@
             "TXID_TIMEUNIT_WEEK_SHORT": "т",
             "TXID_TIMEUNIT_YEAR": "рік",
             "TXID_TIMEUNIT_YEAR_SHORT": "р",
+            "TXID_TODO_HAVE": "Майте",
+            "TXID_TODO_PRODUCE": "Виробіть",
             "TXID_TRYAGAIN": "Спробуйте, будь ласка, пізніше",
             "TXID_TRYLOADAGAIN": "Завантажити сейв",
             "TXID_UMP_ADSONLYREW": "Гра не показує рекламу без вашої згоди",

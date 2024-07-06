@@ -460,6 +460,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Videnskabsgenereringshastighed",
             "TXID_STATS_GENERATIONSPEED": "Produktionshastighed",
             "TXID_STATS_TRANSPORTATIONSPEED": "Transporthastighed",
+            "TXID_TODO_UGRADETRANSP": "Opgrader transportvognen",
             "TXID_WATERFLOW": "Vandstrømning"
         },
         "GROUP_farm_resources": {
@@ -524,6 +525,7 @@
             "TXID_REW_TIMEFORWARD": "Tid fremad"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Det virker af sig selv!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Se, spillet har en integreret autoklikker! Bare tryk på et objekt én gang, og det vil virke, mens du slapper af. Hvor praktisk!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Du vil måske placere autoklickeren på et objekt eller en anden, afhængigt af hvilken man i øjeblikket har brug for ekstra effekt mest.",
@@ -560,6 +562,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Tjek hvilke bonusser får du, hvis du genstarter bygningen",
             "TXID_MSGCAP_TUT_SELLTAP": "Nu, når vi har grøntsagerne i opbevaringen, skal du trykke på markedet for at sælge dem og tjene penge",
             "TXID_MSGCAP_TUT_SHEDTAP": "Lad os begynde at forberede jorden. Tryk på skuret for at begynde at pløje feltet",
+            "TXID_MSGCAP_TUT_TODOCAP": "Nye opgaver er tilgængelige",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Fuldfør opgaverne og tjen værdifulde ressourcer",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Befolkningsvækst giver dig arbejdsstyrke. Du kan bruge arbejdsstyrken til at ansætte arbejdstagere og bruge penge til at opgradere faciliteter"
         },
         "GROUP_farm_upgrades": {
@@ -683,6 +687,7 @@
             "TXID_CAP_CONTESTLOCKED": "CONTEST MODE LOCKED.",
             "TXID_CAP_CREDITS": "Credits",
             "TXID_CAP_DAILYBONUS": "Daglig bonus",
+            "TXID_CAP_DISCARD": "Kassér",
             "TXID_CAP_DOYOULIKEGAME": "Kan du lide spillet?",
             "TXID_CAP_EMPTYSLOT": "Tom plads",
             "TXID_CAP_ENTERCODE": "INDTAST KODE",
@@ -723,6 +728,7 @@
             "TXID_CAP_NOWCURRENCIES": "Du har",
             "TXID_CAP_NOWCURRENCIESONLY": "Du har kun",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "tænd sluk",
             "TXID_CAP_PENDING": "Verserende...",
             "TXID_CAP_PENDINGCAP": "Køb af afventning",
             "TXID_CAP_PENDINGMSG": "Tak for at få køb! Når transaktionen gennemfører behandling, bliver købet til rådighed",
@@ -731,7 +737,9 @@
             "TXID_CAP_PURCHASE": "KØB",
             "TXID_CAP_PURCHASE_DISCOUNT": "RABAT",
             "TXID_CAP_RATEGAME": "Kan du, venligst, forlade en offentlig anmeldelse for at lade flere mennesker finde spillet?",
+            "TXID_CAP_REPLACE": "Erstatte",
             "TXID_CAP_RESTART": "GENSTART",
+            "TXID_CAP_REWARD": "Belønning",
             "TXID_CAP_REWARD2TESTER": "Under udviklingen har vi ændret spilkernen, så du har frisk start. Men vi giver dig et løft for at genvinde dine fremskridt hurtigere",
             "TXID_CAP_SAVE": "GEMME",
             "TXID_CAP_SELECT": "VÆLG",
@@ -746,6 +754,12 @@
             "TXID_CAP_TELLWHY": "Vil du, tak, foreslå nogle måder, hvordan man gør det behageligt?",
             "TXID_CAP_THANKS2TESTER": "Mange tak for at være den allerførste testede af dette spil!",
             "TXID_CAP_THANKYOU": "Mange tak!",
+            "TXID_CAP_TODO": "Liste over opgaver",
+            "TXID_CAP_TODOIN": "Ny opgave i:",
+            "TXID_CAP_TODOMAX": "Du har det maksimale antal opgaver. Fuldfør eller kasser dem for at få nye",
+            "TXID_CAP_TODOREPLACEIN": "Du vil kunne erstatte opgaven i:",
+            "TXID_CAP_TODOSOON": "Ny opgave vises snart",
+            "TXID_CAP_TODOTOTAL": "Afsluttede opgaver",
             "TXID_CAP_UNLOCK": "Lås op",
             "TXID_CAP_UPGRADE": "Opgradering",
             "TXID_CAP_UPGRADEPRICE": "Opgraderingspris",
@@ -861,6 +875,8 @@
             "TXID_TIMEUNIT_SEC": "S.",
             "TXID_TIMEUNIT_WEEK": "uge",
             "TXID_TIMEUNIT_YEAR": "år",
+            "TXID_TODO_HAVE": "Har",
+            "TXID_TODO_PRODUCE": "Fremstille",
             "TXID_TRYAGAIN": "Prøv igen senere",
             "TXID_TRYLOADAGAIN": "LOAD SAVE",
             "TXID_UNITS_COINSEACH": "Mønter / EA.",

@@ -461,6 +461,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Szybkość generowania nauka",
             "TXID_STATS_GENERATIONSPEED": "prędkość produkcji",
             "TXID_STATS_TRANSPORTATIONSPEED": "prędkość transportu",
+            "TXID_TODO_UGRADETRANSP": "Ulepsz wózek transportowy",
             "TXID_WATERFLOW": "Przepływ wody"
         },
         "GROUP_farm_resources": {
@@ -525,6 +526,7 @@
             "TXID_REW_TIMEFORWARD": "Czas do przodu"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "To działa samo!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Spójrz, gra ma zintegrowany autokliker! Wystarczy raz dotknąć obiektu, a on zacznie działać, gdy będziesz się relaksować. Jak wygodnie!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Może chcesz umieścić autoclicker na jednym obiekcie lub inny, w zależności od tego, który z nich potrzebuje dodatkowego zasilania najbardziej.",
@@ -561,6 +563,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Sprawdź jakie bonusy otrzymasz jeśli zrestartujesz budowanie",
             "TXID_MSGCAP_TUT_SELLTAP": "Teraz, kiedy mamy warzywa w magazynie, dotknij rynku, aby je sprzedać i zarabiać pieniądze",
             "TXID_MSGCAP_TUT_SHEDTAP": "Zacznijmy przygotować glebę. Dotknij szopy, aby rozpocząć pole",
+            "TXID_MSGCAP_TUT_TODOCAP": "Dostępne są nowe zadania",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Wykonuj zadania i zdobywaj cenne zasoby",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Wzrost ludności zapewnia pracę. Możesz spędzić siły roboczą, aby zatrudnić pracowników i wydać pieniądze na uaktualnienie"
         },
         "GROUP_farm_upgrades": {
@@ -684,6 +688,7 @@
             "TXID_CAP_CONTESTLOCKED": "Tryb konkurs zamknięty",
             "TXID_CAP_CREDITS": "TWÓRCY",
             "TXID_CAP_DAILYBONUS": "BONUS DZIENNY",
+            "TXID_CAP_DISCARD": "Wyrzucać",
             "TXID_CAP_DOYOULIKEGAME": "Lubisz grę?",
             "TXID_CAP_EMPTYSLOT": "PUSTE MIEJSCE",
             "TXID_CAP_ENTERCODE": "WPROWADŹ KOD",
@@ -724,6 +729,7 @@
             "TXID_CAP_NOWCURRENCIES": "Masz",
             "TXID_CAP_NOWCURRENCIESONLY": "Trzeba tylko",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "wł./wył",
             "TXID_CAP_PENDING": "W oczekiwaniu...",
             "TXID_CAP_PENDINGCAP": "Zakup jest w toku",
             "TXID_CAP_PENDINGMSG": "Dziękujemy za dokonanie zakupu! Po zakończeniu transakcji zakup stanie się dostępny",
@@ -732,7 +738,9 @@
             "TXID_CAP_PURCHASE": "ZAKUP",
             "TXID_CAP_PURCHASE_DISCOUNT": "ZNIŻKA",
             "TXID_CAP_RATEGAME": "Czy mógłbyś, proszę, zostawic publiczną opinię aby więcej ludzi mogło odnaleźć grę",
+            "TXID_CAP_REPLACE": "Zastępować",
             "TXID_CAP_RESTART": "RESTART",
+            "TXID_CAP_REWARD": "Nagroda",
             "TXID_CAP_REWARD2TESTER": "Podczas rozwoju zmieniliśmy rdzeń gry, więc masz nowy początek. Ale dajemy ci, aby odzyskać swoje postępy szybciej",
             "TXID_CAP_SAVE": "SAVE",
             "TXID_CAP_SELECT": "WYBIERZ",
@@ -747,6 +755,12 @@
             "TXID_CAP_TELLWHY": "Zaproponuj proszę  jakies sposoby by uczynić to bardziej  przyjemnym",
             "TXID_CAP_THANKS2TESTER": "Dziękuję bardzo za bycie pierwszym przetestowanym w tej grze!",
             "TXID_CAP_THANKYOU": "Dziękuję bardzo!",
+            "TXID_CAP_TODO": "Lista zadań",
+            "TXID_CAP_TODOIN": "Nowe zadanie w:",
+            "TXID_CAP_TODOMAX": "Masz maksymalną liczbę zadań. Uzupełnij je lub odrzuć, aby otrzymać nowe",
+            "TXID_CAP_TODOREPLACEIN": "Będziesz mógł zastąpić zadanie w:",
+            "TXID_CAP_TODOSOON": "Wkrótce pojawi się nowe zadanie",
+            "TXID_CAP_TODOTOTAL": "Wykonane zadania",
             "TXID_CAP_UNLOCK": "ODBLOKOWAĆ",
             "TXID_CAP_UPGRADE": "ULEPSZENIE",
             "TXID_CAP_UPGRADEPRICE": "ULEPSZENIE CENY",
@@ -862,6 +876,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "t",
             "TXID_TIMEUNIT_YEAR": "r",
+            "TXID_TODO_HAVE": "Mieć",
+            "TXID_TODO_PRODUCE": "Produkować",
             "TXID_TRYAGAIN": "Spróbuj ponownie później",
             "TXID_TRYLOADAGAIN": "Wczytaj zapis",
             "TXID_UNITS_COINSEACH": "monety / ea",

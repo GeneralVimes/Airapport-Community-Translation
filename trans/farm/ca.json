@@ -460,6 +460,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Velocitat de generació de ciències",
             "TXID_STATS_GENERATIONSPEED": "Velocitat de producció",
             "TXID_STATS_TRANSPORTATIONSPEED": "Velocitat de transport",
+            "TXID_TODO_UGRADETRANSP": "Actualitza el carro transportador",
             "TXID_WATERFLOW": "Flux d'aigua"
         },
         "GROUP_farm_resources": {
@@ -524,6 +525,7 @@
             "TXID_REW_TIMEFORWARD": "Temps cap endavant"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funciona per si mateix!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Mira, el joc té un clic automàtic integrat! Només cal que toqueu un objecte una vegada i funcionarà mentre us relaxeu. Què convenient!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "És possible que vulgueu col·locar l'autoclicker en un objecte o un altre, depenent del que actualment necessita una potència addicional.",
@@ -560,6 +562,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Comproveu quines bonificacions guanyeu si reinicieu l'edifici",
             "TXID_MSGCAP_TUT_SELLTAP": "Ara, quan tenim les verdures a l'emmagatzematge, toquem el mercat per vendre'ls i guanyar diners",
             "TXID_MSGCAP_TUT_SHEDTAP": "Comencem a preparar el sòl. Toqueu el cobert per començar a llaurar el camp",
+            "TXID_MSGCAP_TUT_TODOCAP": "Hi ha noves tasques disponibles",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Completa les tasques i guanya recursos valuosos",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "El creixement de la població us proporciona la força de treball. Podeu passar la mà d'obra per contractar treballadors i gastar diners per actualitzar les instal·lacions"
         },
         "GROUP_farm_upgrades": {
@@ -683,6 +687,7 @@
             "TXID_CAP_CONTESTLOCKED": "Mode de concurs bloquejat",
             "TXID_CAP_CREDITS": "Crèdits",
             "TXID_CAP_DAILYBONUS": "Bonificació diària",
+            "TXID_CAP_DISCARD": "Descartar",
             "TXID_CAP_DOYOULIKEGAME": "T'agrada el joc?",
             "TXID_CAP_EMPTYSLOT": "Ranura buida",
             "TXID_CAP_ENTERCODE": "INTRODUÏU EL CODI",
@@ -723,6 +728,7 @@
             "TXID_CAP_NOWCURRENCIES": "Tu tens",
             "TXID_CAP_NOWCURRENCIESONLY": "Només tens",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "encès/apagat",
             "TXID_CAP_PENDING": "Pendents...",
             "TXID_CAP_PENDINGCAP": "Compra pendent",
             "TXID_CAP_PENDINGMSG": "Gràcies per fer la compra! Quan la transacció completa el processament, la compra estarà disponible",
@@ -731,7 +737,9 @@
             "TXID_CAP_PURCHASE": "Comprar",
             "TXID_CAP_PURCHASE_DISCOUNT": "Descompte",
             "TXID_CAP_RATEGAME": "Podria, si us plau, deixeu una revisió pública per deixar que més gent trobi el joc?",
+            "TXID_CAP_REPLACE": "Substituïu",
             "TXID_CAP_RESTART": "REINICIA",
+            "TXID_CAP_REWARD": "Recompensa",
             "TXID_CAP_REWARD2TESTER": "Durant el desenvolupament hem canviat el nucli del joc, així que tens un nou començament. Però us donem un impuls per recuperar el vostre progrés més ràpid",
             "TXID_CAP_SAVE": "Estalviar",
             "TXID_CAP_SELECT": "Seleccionar",
@@ -746,6 +754,12 @@
             "TXID_CAP_TELLWHY": "Voleu, si us plau, suggeriu algunes maneres de fer que sigui agradable?",
             "TXID_CAP_THANKS2TESTER": "Moltes gràcies per ser el primer provat d'aquest joc!",
             "TXID_CAP_THANKYOU": "Moltes gràcies!",
+            "TXID_CAP_TODO": "Llistat de tasques",
+            "TXID_CAP_TODOIN": "Nova tasca a:",
+            "TXID_CAP_TODOMAX": "Tens el nombre màxim de tasques. Completeu-los o descarteu-los per obtenir-ne de nous",
+            "TXID_CAP_TODOREPLACEIN": "Podreu substituir la tasca a:",
+            "TXID_CAP_TODOSOON": "Aviat apareixerà una nova tasca",
+            "TXID_CAP_TODOTOTAL": "Tasques realitzades",
             "TXID_CAP_UNLOCK": "DESCOBRIR",
             "TXID_CAP_UPGRADE": "Actualitzar",
             "TXID_CAP_UPGRADEPRICE": "Preu d'actualització",
@@ -861,6 +875,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "setmana",
             "TXID_TIMEUNIT_YEAR": "curs",
+            "TXID_TODO_HAVE": "Tenir",
+            "TXID_TODO_PRODUCE": "Produir",
             "TXID_TRYAGAIN": "Siusplau, intenta-ho més tard",
             "TXID_TRYLOADAGAIN": "Carrega Desa",
             "TXID_UNITS_COINSEACH": "Monedes / EA",

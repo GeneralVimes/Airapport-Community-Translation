@@ -458,6 +458,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "科学生成速度",
             "TXID_STATS_GENERATIONSPEED": "生産速度",
             "TXID_STATS_TRANSPORTATIONSPEED": "輸送速度",
+            "TXID_TODO_UGRADETRANSP": "トランスポーターカートをアップグレードする",
             "TXID_WATERFLOW": "水の流れ"
         },
         "GROUP_farm_resources": {
@@ -520,6 +521,7 @@
             "TXID_REW_TIMEFORWARD": "前進します"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "それはそれ自体で機能します！",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "見てください、このゲームにはオートクリッカーが統合されています。オブジェクトを一度タップするだけで、リラックスしている間に動作します。なんて都合のいい！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "現在最も多くのパワーを必要とするかに応じて、オートリッカーをあるオブジェクトに配置することをお勧めします。",
@@ -556,6 +558,8 @@
             "TXID_MSGCAP_TUT_RESTART": "建物を再起動した場合、どのボーナスを獲得するかを確認してください",
             "TXID_MSGCAP_TUT_SELLTAP": "今、私たちが保管場所に野菜を持っているとき、市場をタップしてそれらを売ってお金を稼ぎます",
             "TXID_MSGCAP_TUT_SHEDTAP": "土壌の準備を始めましょう。小屋をタップして、フィールドを耕し始めます",
+            "TXID_MSGCAP_TUT_TODOCAP": "新しいタスクが利用可能になります",
+            "TXID_MSGCAP_TUT_TODOEXPL": "タスクを完了して貴重なリソースを獲得してください",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "人口増加はあなたに労働力を提供します。労働者を雇って施設をアップグレードするためにお金を使うために労働力を使うことができます"
         },
         "GROUP_farm_upgrades": {
@@ -674,6 +678,7 @@
             "TXID_CAP_CONTINUE": "続く",
             "TXID_CAP_CREDITS": "クレジット",
             "TXID_CAP_DAILYBONUS": "毎日のご褒美",
+            "TXID_CAP_DISCARD": "破棄",
             "TXID_CAP_DOYOULIKEGAME": "あなたはゲームが好きですか？",
             "TXID_CAP_EMPTYSLOT": "空きスロット",
             "TXID_CAP_ENTERCODE": "コードを入力する",
@@ -714,6 +719,7 @@
             "TXID_CAP_NOWCURRENCIES": "あなたが持っている",
             "TXID_CAP_NOWCURRENCIESONLY": "あなただけがあります",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "オンオフ",
             "TXID_CAP_PENDING": "保留中...",
             "TXID_CAP_PENDINGCAP": "購入は保留中です",
             "TXID_CAP_PENDINGMSG": "購入していただきありがとうございます！トランザクションが処理が完了すると、購入が利用可能になります",
@@ -722,7 +728,9 @@
             "TXID_CAP_PURCHASE": "購入",
             "TXID_CAP_PURCHASE_DISCOUNT": "割引",
             "TXID_CAP_RATEGAME": "より多くの人々にゲームを見つけるために、あなたは公開レビューを残してください。",
+            "TXID_CAP_REPLACE": "交換する",
             "TXID_CAP_RESTART": "再起動",
+            "TXID_CAP_REWARD": "褒美",
             "TXID_CAP_REWARD2TESTER": "開発中にゲームコアを変更したため、新たなスタートがあります。しかし、私たちはあなたにあなたの進歩をより速く取り戻すためにあなたに後押しを与えます",
             "TXID_CAP_SAVE": "保存",
             "TXID_CAP_SELECT": "選択する",
@@ -737,6 +745,12 @@
             "TXID_CAP_TELLWHY": "楽しくする方法を提案してください。",
             "TXID_CAP_THANKS2TESTER": "このゲームの最初のテスターに​​なってくれてありがとう！",
             "TXID_CAP_THANKYOU": "どうもありがとうございます！",
+            "TXID_CAP_TODO": "タスクのリスト",
+            "TXID_CAP_TODOIN": "新しいタスク:",
+            "TXID_CAP_TODOMAX": "タスクの数が最大になっています。新しいものを入手するには、それらを完了するか破棄してください",
+            "TXID_CAP_TODOREPLACEIN": "次の場所でタスクを置き換えることができます。",
+            "TXID_CAP_TODOSOON": "新しいタスクがすぐに表示されます",
+            "TXID_CAP_TODOTOTAL": "完了したタスク",
             "TXID_CAP_UNLOCK": "ロックを解除します",
             "TXID_CAP_UPGRADE": "アップグレード",
             "TXID_CAP_UPGRADEPRICE": "価格をアップグレードします",
@@ -857,6 +871,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "週",
             "TXID_TIMEUNIT_YEAR": "年",
+            "TXID_TODO_HAVE": "持っている",
+            "TXID_TODO_PRODUCE": "生産する",
             "TXID_TRYAGAIN": "後でもう一度やり直してください",
             "TXID_TRYLOADAGAIN": "ロード保存",
             "TXID_UNITS_COINSEACH": "コイン/ea",

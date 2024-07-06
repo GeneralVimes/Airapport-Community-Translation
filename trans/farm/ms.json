@@ -461,6 +461,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "kelajuan generasi sains",
             "TXID_STATS_GENERATIONSPEED": "kelajuan pengeluaran",
             "TXID_STATS_TRANSPORTATIONSPEED": "kelajuan pengangkutan",
+            "TXID_TODO_UGRADETRANSP": "Tingkatkan troli pengangkut",
             "TXID_WATERFLOW": "aliran air"
         },
         "GROUP_farm_resources": {
@@ -525,6 +526,7 @@
             "TXID_REW_TIMEFORWARD": "masa hadapan"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Ia berfungsi dengan sendirinya!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Lihat, permainan ini mempunyai autoclicker bersepadu! Hanya ketik objek sekali, dan ia akan berfungsi semasa anda berehat. Betapa mudahnya!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Anda mungkin mahu meletakkan autoclicker pada satu objek atau yang lain, bergantung kepada yang mana satu pada masa ini perlukan kuasa tambahan yang paling.",
@@ -561,6 +563,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Menyemak bonus anda akan mendapat jika anda memulakan semula bangunan",
             "TXID_MSGCAP_TUT_SELLTAP": "Sekarang apabila kita mempunyai sayur-sayuran dalam storan, ketuk pasaran untuk menjualnya dan mendapatkan wang",
             "TXID_MSGCAP_TUT_SHEDTAP": "Mari kita mula menyediakan tanah. Ketik gudang untuk mula membajak medan",
+            "TXID_MSGCAP_TUT_TODOCAP": "Tugasan baharu tersedia",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Selesaikan tugas dan dapatkan sumber yang berharga",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Pertumbuhan penduduk menyediakan tenaga kerja anda. Anda boleh membelanjakan tenaga kerja untuk menyewa pekerja dan membelanjakan wang untuk menaik taraf kemudahan"
         },
         "GROUP_farm_upgrades": {
@@ -684,6 +688,7 @@
             "TXID_CAP_CONTESTLOCKED": "mod pertandingan dikunci",
             "TXID_CAP_CREDITS": "KREDIT",
             "TXID_CAP_DAILYBONUS": "BONUS HARIAN",
+            "TXID_CAP_DISCARD": "Buang",
             "TXID_CAP_DOYOULIKEGAME": "Adakah anda suka permainan ini?",
             "TXID_CAP_EMPTYSLOT": "RUANG KOSONG",
             "TXID_CAP_ENTERCODE": "MASUKKAN KOD",
@@ -724,6 +729,7 @@
             "TXID_CAP_NOWCURRENCIES": "Kamu ada",
             "TXID_CAP_NOWCURRENCIESONLY": "Anda hanya mempunyai",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "hidup/mati",
             "TXID_CAP_PENDING": "Yang belum selesai...",
             "TXID_CAP_PENDINGCAP": "Pembelian belum selesai",
             "TXID_CAP_PENDINGMSG": "Terima kasih kerana membuat pembelian! Apabila transaksi selesai pemprosesan, pembelian akan tersedia",
@@ -732,7 +738,9 @@
             "TXID_CAP_PURCHASE": "PEMBELIAN",
             "TXID_CAP_PURCHASE_DISCOUNT": "DISKAUN",
             "TXID_CAP_RATEGAME": "Bolehkah anda, sila, meninggalkan tinjauan umum untuk membolehkan lebih ramai orang mencari permainan?",
+            "TXID_CAP_REPLACE": "Gantikan",
             "TXID_CAP_RESTART": "MULA SEMULA",
+            "TXID_CAP_REWARD": "Ganjaran",
             "TXID_CAP_REWARD2TESTER": "Semasa pembangunan, kami telah mengubah teras permainan, jadi, anda mempunyai permulaan yang segar. Tetapi kami memberi anda rangsangan untuk mendapatkan semula kemajuan anda dengan lebih cepat",
             "TXID_CAP_SAVE": "SAVE",
             "TXID_CAP_SELECT": "Pilih",
@@ -747,6 +755,12 @@
             "TXID_CAP_TELLWHY": "Adakah anda, sila, mencadangkan beberapa cara bagaimana untuk membuat ia menyeronokkan?",
             "TXID_CAP_THANKS2TESTER": "Terima kasih banyak kerana menjadi yang pertama diuji permainan ini!",
             "TXID_CAP_THANKYOU": "Terima kasih banyak-banyak!",
+            "TXID_CAP_TODO": "Senarai tugas",
+            "TXID_CAP_TODOIN": "Tugas baharu dalam:",
+            "TXID_CAP_TODOMAX": "Anda mempunyai bilangan maksimum tugasan. Lengkapkan atau buangnya untuk mendapatkan yang baharu",
+            "TXID_CAP_TODOREPLACEIN": "Anda akan dapat menggantikan tugas dalam:",
+            "TXID_CAP_TODOSOON": "Tugas baharu akan muncul tidak lama lagi",
+            "TXID_CAP_TODOTOTAL": "Selesai tugasan",
             "TXID_CAP_UNLOCK": "membuka kunci",
             "TXID_CAP_UPGRADE": "NAIK TARAF",
             "TXID_CAP_UPGRADEPRICE": "HARGA UPGRADE",
@@ -862,6 +876,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "minggu",
             "TXID_TIMEUNIT_YEAR": "tahun",
+            "TXID_TODO_HAVE": "mempunyai",
+            "TXID_TODO_PRODUCE": "Menghasilkan",
             "TXID_TRYAGAIN": "Sila cuba sebentar lagi",
             "TXID_TRYLOADAGAIN": "beban jimat",
             "TXID_UNITS_COINSEACH": "syiling / ea",

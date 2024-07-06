@@ -460,6 +460,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Vetenskapsgenereringshastighet",
             "TXID_STATS_GENERATIONSPEED": "Produktionshastighet",
             "TXID_STATS_TRANSPORTATIONSPEED": "Transporthastighet",
+            "TXID_TODO_UGRADETRANSP": "Uppgradera transportvagnen",
             "TXID_WATERFLOW": "Vattenflöde"
         },
         "GROUP_farm_resources": {
@@ -524,6 +525,7 @@
             "TXID_REW_TIMEFORWARD": "Gång framåt"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Det fungerar av sig självt!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Titta, spelet har en integrerad autoklicker! Tryck bara på ett objekt en gång så fungerar det medan du kopplar av. Så passande!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Du kanske vill placera Autoclicker på ett objekt eller en annan, beroende på vilken man för närvarande behöver extra kraft mest.",
@@ -560,6 +562,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Kontrollera vilka bonusar du får om du startar om byggnaden",
             "TXID_MSGCAP_TUT_SELLTAP": "Nu när vi har grönsakerna i lagringen, tryck på marknaden för att sälja dem och tjäna pengar",
             "TXID_MSGCAP_TUT_SHEDTAP": "Låt oss börja förbereda jorden. Tryck på skjulet för att börja ploga fältet",
+            "TXID_MSGCAP_TUT_TODOCAP": "Nya uppgifter finns tillgängliga",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Slutför uppgifterna och tjäna värdefulla resurser",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Befolkningstillväxt ger dig arbetskraft. Du kan tillbringa arbetskraft för att anställa arbetare och spendera pengar för att uppgradera anläggningar"
         },
         "GROUP_farm_upgrades": {
@@ -683,6 +687,7 @@
             "TXID_CAP_CONTESTLOCKED": "Tävlingsläge låst",
             "TXID_CAP_CREDITS": "Krediter",
             "TXID_CAP_DAILYBONUS": "DAGLIG BONUS",
+            "TXID_CAP_DISCARD": "Kassera",
             "TXID_CAP_DOYOULIKEGAME": "Gillar du spelet?",
             "TXID_CAP_EMPTYSLOT": "TOM PLATS",
             "TXID_CAP_ENTERCODE": "ANGE KOD",
@@ -723,6 +728,7 @@
             "TXID_CAP_NOWCURRENCIES": "Du har",
             "TXID_CAP_NOWCURRENCIESONLY": "Du har bara",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "på av",
             "TXID_CAP_PENDING": "I väntan på...",
             "TXID_CAP_PENDINGCAP": "Köp pågående",
             "TXID_CAP_PENDINGMSG": "Tack för att du köpte! När transaktionen slutför bearbetningen kommer köpet att bli tillgängligt",
@@ -731,7 +737,9 @@
             "TXID_CAP_PURCHASE": "INKÖP",
             "TXID_CAP_PURCHASE_DISCOUNT": "RABATT",
             "TXID_CAP_RATEGAME": "Kan du, snälla, lämna en offentlig recension för att låta fler människor hitta spelet?",
+            "TXID_CAP_REPLACE": "Byta ut",
             "TXID_CAP_RESTART": "OMSTART",
+            "TXID_CAP_REWARD": "Pris",
             "TXID_CAP_REWARD2TESTER": "Under utvecklingen har vi ändrat spelkärnan, så har du nystart. Men vi ger dig en boost för att återfå din framsteg snabbare",
             "TXID_CAP_SAVE": "SPARA",
             "TXID_CAP_SELECT": "VÄLJ",
@@ -746,6 +754,12 @@
             "TXID_CAP_TELLWHY": "Skulle du, snälla, föreslå några sätt hur man gör det roligt?",
             "TXID_CAP_THANKS2TESTER": "Tack så mycket för att vara den första testade av det här spelet!",
             "TXID_CAP_THANKYOU": "Tack så mycket!",
+            "TXID_CAP_TODO": "Lista över uppgifter",
+            "TXID_CAP_TODOIN": "Ny uppgift i:",
+            "TXID_CAP_TODOMAX": "Du har det maximala antalet uppgifter. Komplettera eller släng dem för att få nya",
+            "TXID_CAP_TODOREPLACEIN": "Du kommer att kunna ersätta uppgiften i:",
+            "TXID_CAP_TODOSOON": "Ny uppgift dyker upp snart",
+            "TXID_CAP_TODOTOTAL": "Avslutade uppgifter",
             "TXID_CAP_UNLOCK": "LÅSA UPP",
             "TXID_CAP_UPGRADE": "Uppgradering",
             "TXID_CAP_UPGRADEPRICE": "Uppgraderingspris",
@@ -861,6 +875,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "vecka",
             "TXID_TIMEUNIT_YEAR": "år",
+            "TXID_TODO_HAVE": "Ha",
+            "TXID_TODO_PRODUCE": "Producera",
             "TXID_TRYAGAIN": "Vänligen försök igen senare",
             "TXID_TRYLOADAGAIN": "Ladda spara",
             "TXID_UNITS_COINSEACH": "mynt / ea",

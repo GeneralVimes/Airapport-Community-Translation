@@ -461,6 +461,7 @@
             "TXID_STATS_EARNINGSPEED_SCIENCE": "Wissenschaft Generation Geschwindigkeit",
             "TXID_STATS_GENERATIONSPEED": "Produktionsgeschwindigkeit",
             "TXID_STATS_TRANSPORTATIONSPEED": "Transportgeschwindigkeit",
+            "TXID_TODO_UGRADETRANSP": "Rüsten Sie den Transportwagen auf",
             "TXID_WATERFLOW": "Wasserfluss"
         },
         "GROUP_farm_resources": {
@@ -525,6 +526,7 @@
             "TXID_REW_TIMEFORWARD": "Zeit vorwärts"
         },
         "GROUP_farm_tutorial": {
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Es funktioniert von selbst!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Schauen Sie, das Spiel hat einen integrierten Autoclicker! Tippen Sie einfach einmal auf ein Objekt und es funktioniert, während Sie sich entspannen. Wie praktisch!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Sie könnten die Autoclicker auf ein Objekt oder eine andere, je nachdem, welche zur Zeit braucht zusätzliche Energie die meisten platzieren möchten.",
@@ -561,6 +563,8 @@
             "TXID_MSGCAP_TUT_RESTART": "Überprüfe welche Vorteile du bekommst wenn du das Gebäude neu startest",
             "TXID_MSGCAP_TUT_SELLTAP": "Wenn wir jetzt das Gemüse in der Lagerung haben, tippen Sie auf den Markt, um sie zu verkaufen und Geld zu verdienen",
             "TXID_MSGCAP_TUT_SHEDTAP": "Beginnen wir mit dem Erstellen des Bodens. Tippen Sie auf den Shed, um das Feld zu pflügen",
+            "TXID_MSGCAP_TUT_TODOCAP": "Neue Aufgaben sind verfügbar",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Erledige die Aufgaben und verdiene wertvolle Ressourcen",
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Das Bevölkerungswachstum bietet Ihnen Belegschaft. Sie können Arbeitskräfte ausgeben, um Arbeiter einzulegen und Geld für ein Upgrade-Einrichtungen auszugeben"
         },
         "GROUP_farm_upgrades": {
@@ -684,6 +688,7 @@
             "TXID_CAP_CONTESTLOCKED": "Contest-Modus gesperrt",
             "TXID_CAP_CREDITS": "CREDITS",
             "TXID_CAP_DAILYBONUS": "TÄGLICHER BONUS",
+            "TXID_CAP_DISCARD": "Verwerfen",
             "TXID_CAP_DOYOULIKEGAME": "Mögen Sie das Spiel?",
             "TXID_CAP_EMPTYSLOT": "LEERER SCHLITZ",
             "TXID_CAP_ENTERCODE": "CODE EINGEBEN",
@@ -724,6 +729,7 @@
             "TXID_CAP_NOWCURRENCIES": "Du hast",
             "TXID_CAP_NOWCURRENCIESONLY": "Sie haben nur",
             "TXID_CAP_NOWCURRENCIESONLY_END": " ",
+            "TXID_CAP_ONOFF": "an aus",
             "TXID_CAP_PENDING": "Ausstehend...",
             "TXID_CAP_PENDINGCAP": "Der Kauf steht aus",
             "TXID_CAP_PENDINGMSG": "Vielen Dank für den Kauf! Wenn die Transaktion abgeschlossen wird, wird der Kauf verfügbar sein",
@@ -732,7 +738,9 @@
             "TXID_CAP_PURCHASE": "KAUF",
             "TXID_CAP_PURCHASE_DISCOUNT": "RABATT",
             "TXID_CAP_RATEGAME": "Könnten Sie, lassen Sie bitte eine öffentliche Kritik mehr Leute das Spiel finden zu lassen?",
+            "TXID_CAP_REPLACE": "Ersetzen",
             "TXID_CAP_RESTART": "NEUSTART",
+            "TXID_CAP_REWARD": "Belohnen",
             "TXID_CAP_REWARD2TESTER": "Während der Entwicklung haben wir den Spielkern geändert, also haben Sie einen neuen Start. Aber wir geben Ihnen einen Schub, um Ihren Fortschritt schneller wiederzuerlangen",
             "TXID_CAP_SAVE": "SAVE",
             "TXID_CAP_SELECT": "AUSWÄHLEN",
@@ -747,6 +755,12 @@
             "TXID_CAP_TELLWHY": "Würden Sie empfehlen bitte, einige Möglichkeiten, wie es angenehm wie möglich zu machen?",
             "TXID_CAP_THANKS2TESTER": "Vielen Dank, dass Sie das erste von diesem Spiel getestet haben!",
             "TXID_CAP_THANKYOU": "Ich danke dir sehr!",
+            "TXID_CAP_TODO": "Liste der Aufgaben",
+            "TXID_CAP_TODOIN": "Neue Aufgabe in:",
+            "TXID_CAP_TODOMAX": "Sie haben die maximale Anzahl an Aufgaben. Vervollständige sie oder wirf sie weg, um neue zu erhalten",
+            "TXID_CAP_TODOREPLACEIN": "Sie können die Aufgabe ersetzen in:",
+            "TXID_CAP_TODOSOON": "Eine neue Aufgabe wird in Kürze angezeigt",
+            "TXID_CAP_TODOTOTAL": "Abgeschlossene Aufgaben",
             "TXID_CAP_UNLOCK": "FREISCHALTEN",
             "TXID_CAP_UPGRADE": "UPGRADE",
             "TXID_CAP_UPGRADEPRICE": "UPGRADE PREIS",
@@ -862,6 +876,8 @@
             "TXID_TIMEUNIT_SEC": "s",
             "TXID_TIMEUNIT_WEEK": "Woche",
             "TXID_TIMEUNIT_YEAR": "Jahr",
+            "TXID_TODO_HAVE": "Haben",
+            "TXID_TODO_PRODUCE": "Produzieren",
             "TXID_TRYAGAIN": "Bitte versuchen Sie es später noch einmal",
             "TXID_TRYLOADAGAIN": "Laden speichern",
             "TXID_UNITS_COINSEACH": "Münzen / st",
