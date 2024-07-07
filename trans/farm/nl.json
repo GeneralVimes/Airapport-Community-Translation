@@ -514,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Tijdbonus",
+            "TXID_REW_DECWAITTIME": "De wachttijd nam af",
             "TXID_REW_DISCPURCH": "Koop met korting",
             "TXID_REW_FREEMON": "Gratis munten",
             "TXID_REW_FREERES": "Gratis goederen",
@@ -526,7 +527,6 @@
             "TXID_REW_TIMEFORWARD": "Tijd vooruit"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Het werkt vanzelf!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Kijk, het spel heeft een geïntegreerde autoclicker! Tik gewoon één keer op een object en het werkt terwijl u ontspant. Hoe handig!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Je kunt de autoklikker op één object tegelijk zetten. Je kunt deze verplaatsen naar het object wat het meest moet produceren. ",
@@ -781,6 +781,7 @@
             "TXID_CODE_WORLD": "voor de wereld",
             "TXID_CONTESTMODE": "Wedstrijdmodus",
             "TXID_CUR_MONEY": "geld",
+            "TXID_DEC_WAIT_TIME": "U kunt de wachttijd verkorten",
             "TXID_DISCORDSUGGESTIONS": "U kunt de resultaten en de huidige suggesties vinden in onze community",
             "TXID_EXPL_NEWSET": "Selecteer je wedstrijdmodus",
             "TXID_GDPR_CAP": "Klaar om te beginnen!",

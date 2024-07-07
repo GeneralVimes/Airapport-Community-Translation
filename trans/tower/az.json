@@ -149,6 +149,7 @@
             "TXID_CODE_WORLD": "dünya üçün",
             "TXID_CONTESTMODE": "müsabiqə modu",
             "TXID_CUR_MONEY": "pul",
+            "TXID_DEC_WAIT_TIME": "Gözləmə müddətini azalda bilərsiniz",
             "TXID_DISCORDSUGGESTIONS": "Nəticələri və cari təklifləri icmamızdan izləyə bilərsiniz",
             "TXID_EXPL_NEWSET": "Müsabiqə modunuzu seçin",
             "TXID_GDPR_APPLE_ADD_ALT": "Davam etdikdə siz izləmə seçimlərinizi seçə biləcəksiniz",
@@ -511,6 +512,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Vaxt bonusu",
+            "TXID_REW_DECWAITTIME": "Gözləmə müddəti azaldı",
             "TXID_REW_DISCPURCH": "Endirimlə alın",
             "TXID_REW_FREEGB": "Pulsuz Qızıl Kərpic",
             "TXID_REW_FREEMON": "Pulsuz Koinlər",

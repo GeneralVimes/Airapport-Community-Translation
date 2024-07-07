@@ -436,7 +436,6 @@
             "TXID_MACH_NAME_YARN": "Invârte roata"
         },
         "GROUP_farm_messages_from_game_elements": {
-            "CODE_aaa_untranslated": {},
             "TXID_COW_MILK": "Atingeți vaca pentru lapte",
             "TXID_COW_OPENDOORS_IN": "Atingeți pentru a lasa vaca înăuntru",
             "TXID_COW_OPENDOORS_OUT": "Atingeți pentru a lăsa vaca afară",
@@ -499,7 +498,9 @@
             "TXID_RES_YARN": "Fire"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "bonus de timp",
+            "TXID_REW_DECWAITTIME": "Timpul de așteptare a scăzut",
             "TXID_REW_DISCPURCH": "Achiziționarea cu discount",
             "TXID_REW_DISCUP": "Upgrade cu reducere",
             "TXID_REW_FREEMON": "Monede gratis",
@@ -513,7 +514,6 @@
             "TXID_REW_TIMEFORWARD": "timp înainte"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funcționează de la sine!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Jocul are un autoclicker integrat! Trebuie doar să atingi o dată un obiect, iar acesta va funcționa în timp ce te relaxezi. Cât de convenabil!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "S-ar putea dori să plasați Autoclicker pe un anumit obiect sau altul, în funcție de care este nevoie în prezent de putere suplimentară cel mai mult.",
@@ -750,6 +750,7 @@
             "TXID_CODE_WORLD": "pentru lume",
             "TXID_CONTESTMODE": "mod de concurs",
             "TXID_CUR_MONEY": "bani",
+            "TXID_DEC_WAIT_TIME": "Puteți reduce timpul de așteptare",
             "TXID_DISCORDSUGGESTIONS": "Puteți verifica rezultatele și sugestiile actuale în comunitatea noastră",
             "TXID_EXPL_NEWSET": "Selectați modul de concurs",
             "TXID_GDPR_APPLE_ADD_ALT": "Pe măsură ce continuați, veți putea selecta preferințele dvs. de urmărire",

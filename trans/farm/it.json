@@ -514,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "aumento di tempo",
+            "TXID_REW_DECWAITTIME": "Il tempo di attesa è diminuito",
             "TXID_REW_DISCPURCH": "Acquisto con lo sconto",
             "TXID_REW_FREEMON": "Monete gratis",
             "TXID_REW_FREERES": "risorsa gratuita",
@@ -526,7 +527,6 @@
             "TXID_REW_TIMEFORWARD": "tempo in avanti"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funziona da solo!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Guarda, il gioco ha un clicker automatico integrato! Basta toccare un oggetto una volta e funzionerà mentre ti rilassi. Quanto conveniente!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Si potrebbe desiderare di mettere l'autoclicker su un oggetto o un altro, a seconda di quale attualmente ha bisogno di energia supplementare di più.",
@@ -781,6 +781,7 @@
             "TXID_CODE_WORLD": "Per il mondo",
             "TXID_CONTESTMODE": "modalità concorso",
             "TXID_CUR_MONEY": "i soldi",
+            "TXID_DEC_WAIT_TIME": "Puoi diminuire i tempi di attesa",
             "TXID_DISCORDSUGGESTIONS": "È possibile controllare i risultati e le proposte attuali nella nostra comunità",
             "TXID_EXPL_NEWSET": "Seleziona la modalità del concorso",
             "TXID_GDPR_CAP": "Pronto per iniziare!",

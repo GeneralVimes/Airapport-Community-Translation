@@ -514,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Időbónusz",
+            "TXID_REW_DECWAITTIME": "A várakozási idő csökkent",
             "TXID_REW_DISCPURCH": "Vásárlás kedvezménnyel",
             "TXID_REW_FREEMON": "Ingyenes érmék",
             "TXID_REW_FREERES": "Ingyenes erőforrás",
@@ -526,7 +527,6 @@
             "TXID_REW_TIMEFORWARD": "Idő előre"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Magától működik!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Nézd, a játékban van egy integrált autoclicker! Csak érintsen meg egy tárgyat egyszer, és az működni fog, miközben Ön pihen. Milyen kényelmes!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Arra a helyre érdemes helyezni az autoklikkert, ahol több gyorsításra van szükség.",
@@ -781,6 +781,7 @@
             "TXID_CODE_WORLD": "a világért",
             "TXID_CONTESTMODE": "versenymód",
             "TXID_CUR_MONEY": "pénz",
+            "TXID_DEC_WAIT_TIME": "Csökkentheti a várakozási időt",
             "TXID_DISCORDSUGGESTIONS": "Ellenőrizheti a közösségünk eredményeit és aktuális javaslatait",
             "TXID_EXPL_NEWSET": "Válassza ki a verseny módját",
             "TXID_GDPR_CAP": "Készen áll a kezdésre!",

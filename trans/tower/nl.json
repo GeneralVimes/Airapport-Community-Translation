@@ -151,6 +151,7 @@
             "TXID_CODE_VALIDINF": "altijd geldig",
             "TXID_CODE_WORLD": "voor de wereld",
             "TXID_CONTESTMODE": "Wedstrijdmodus",
+            "TXID_DEC_WAIT_TIME": "U kunt de wachttijd verkorten",
             "TXID_DISCORDSUGGESTIONS": "U kunt de resultaten en de huidige suggesties vinden in onze community",
             "TXID_EXPL_NEWSET": "Selecteer je wedstrijdmodus",
             "TXID_GDPR_CAP": "Klaar om te beginnen!",
@@ -511,6 +512,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Tijdbonus",
+            "TXID_REW_DECWAITTIME": "De wachttijd nam af",
             "TXID_REW_DISCPURCH": "Koop met korting",
             "TXID_REW_FREEGB": "Gratis gouden bakstenen",
             "TXID_REW_FREEMON": "Gratis munten",

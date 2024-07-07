@@ -513,6 +513,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Aikabonus",
+            "TXID_REW_DECWAITTIME": "Odotusaika lyheni",
             "TXID_REW_DISCPURCH": "Osta alennuksella",
             "TXID_REW_FREEMON": "Vapaa kolikot",
             "TXID_REW_FREERES": "Vapaa resurssi",
@@ -525,7 +526,6 @@
             "TXID_REW_TIMEFORWARD": "Aika eteenpäin"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Se toimii itsestään!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Katso, pelissä on integroitu automaattinen napsautustoiminto! Napauta vain esinettä kerran, ja se toimii, kun rentoudut. Kuinka kätevää!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Haluat ehkä sijoittaa autoklickerin yhteen esineeseen tai toiseen, riippuen siitä, mikä on tällä hetkellä lisävoimaa eniten.",
@@ -783,6 +783,7 @@
             "TXID_CODE_WORLD": "maailman puolesta",
             "TXID_CONTESTMODE": "Kilpailun tila",
             "TXID_CUR_MONEY": "raha",
+            "TXID_DEC_WAIT_TIME": "Voit lyhentää odotusaikaa",
             "TXID_DISCORDSUGGESTIONS": "Voit tarkistaa tulokset ja nykyiset ehdotukset yhteisössä",
             "TXID_EXPL_NEWSET": "Valitse kilpailutila",
             "TXID_GDPR_CAP": "Valmiina aloittamaan!",

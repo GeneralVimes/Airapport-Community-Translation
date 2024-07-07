@@ -514,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Časový bonus",
+            "TXID_REW_DECWAITTIME": "Čakacia doba sa skrátila",
             "TXID_REW_DISCPURCH": "Nákup se slevou",
             "TXID_REW_FREEMON": "Bezplatné Mince",
             "TXID_REW_FREERES": "Bezplatný Materiál",
@@ -526,7 +527,6 @@
             "TXID_REW_TIMEFORWARD": "Čas zrychlen"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funguje to samo o sebe!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Pozrite, hra má integrovaný autoclicker! Stačí raz klepnúť na objekt a bude fungovať, kým budete relaxovať. Aké pohodlné!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možná budeš chtít umístit autoklikač na nějaký objekt, v závislosti na tom, či potřebuje dodatečný výkon.",
@@ -784,6 +784,7 @@
             "TXID_CODE_WORLD": "pro svět",
             "TXID_CONTESTMODE": "režim soutěže",
             "TXID_CUR_MONEY": "peniaze",
+            "TXID_DEC_WAIT_TIME": "Môžete skrátiť čakaciu dobu",
             "TXID_DISCORDSUGGESTIONS": "Můžete zkontrolovat výsledky hlasování a aktuální náměty v naší komunitě",
             "TXID_EXPL_NEWSET": "Vyber si svůj režim soutěže",
             "TXID_GDPR_CAP": "Připraven začít!",

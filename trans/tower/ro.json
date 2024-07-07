@@ -133,6 +133,7 @@
             "TXID_CODE_WORLD": "pentru lume",
             "TXID_CONTESTMODE": "mod de concurs",
             "TXID_CUR_MONEY": "bani",
+            "TXID_DEC_WAIT_TIME": "Puteți reduce timpul de așteptare",
             "TXID_DISCORDSUGGESTIONS": "Puteți verifica rezultatele și sugestiile actuale în comunitatea noastră",
             "TXID_EXPL_NEWSET": "Selectați modul de concurs",
             "TXID_GDPR_APPLE_ADD_ALT": "Pe măsură ce continuați, veți putea selecta preferințele dvs. de urmărire",
@@ -513,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "bonus de timp",
+            "TXID_REW_DECWAITTIME": "Timpul de așteptare a scăzut",
             "TXID_REW_DISCPURCH": "Achiziționarea cu discount",
             "TXID_REW_FREEGB": "Gratuit de aur Cărămizi",
             "TXID_REW_FREEMON": "Monede gratis",

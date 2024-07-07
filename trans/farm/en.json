@@ -500,6 +500,7 @@
         },
         "GROUP_farm_rewards": {
             "TXID_REW_BONUSTIME": "Time bonus",
+            "TXID_REW_DECWAITTIME": "Waiting time decreased",
             "TXID_REW_DISCPURCH": "Purchase with discount",
             "TXID_REW_DISCUP": "Upgrade with discount",
             "TXID_REW_FREEMON": "Free Coins",
@@ -748,6 +749,7 @@
             "TXID_CODE_WORLD": "for the world",
             "TXID_CONTESTMODE": "contest mode",
             "TXID_CUR_MONEY": "money",
+            "TXID_DEC_WAIT_TIME": "You can decrease waiting time",
             "TXID_DISCORDSUGGESTIONS": "You can check the results and current suggestions in our community",
             "TXID_EXPL_NEWSET": "Select your contest mode",
             "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",

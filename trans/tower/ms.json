@@ -164,6 +164,7 @@
             "TXID_CODE_VALIDINF": "sah sentiasa",
             "TXID_CODE_WORLD": "untuk dunia",
             "TXID_CONTESTMODE": "mod pertandingan",
+            "TXID_DEC_WAIT_TIME": "Anda boleh mengurangkan masa menunggu",
             "TXID_DISCORDSUGGESTIONS": "Anda boleh menyemak keputusan dan cadangan semasa dalam masyarakat kita",
             "TXID_EXPL_NEWSET": "Memilih mod peraduan anda",
             "TXID_GDPR_CAP": "Bersedia untuk memulakan!",
@@ -514,6 +515,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "bonus masa",
+            "TXID_REW_DECWAITTIME": "Masa menunggu berkurangan",
             "TXID_REW_DISCPURCH": "Beli dengan diskaun",
             "TXID_REW_FREEGB": "Bricks percuma Golden",
             "TXID_REW_FREEMON": "Duit syiling percuma",

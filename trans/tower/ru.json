@@ -131,6 +131,7 @@
             "TXID_CODE_WORLD": "для мира",
             "TXID_CONTESTMODE": "режим конкурса",
             "TXID_CUR_MONEY": "деньги",
+            "TXID_DEC_WAIT_TIME": "Вы можете сократить время ожидания",
             "TXID_DISCORDSUGGESTIONS": "Вы можете проверить результаты и текущие предложения в нашем сообществе",
             "TXID_EXPL_NEWSET": "Выберите режим конкурса",
             "TXID_GDPR_APPLE_ADD_ALT": "Продолжив, вы сможете выбрать предпочтения по трекингу",
@@ -503,7 +504,9 @@
             "TXID_WATERWELLRESTORATION": "Скорость восстановления воды"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "Бонусное время",
+            "TXID_REW_DECWAITTIME": "Время ожидания уменьшилось",
             "TXID_REW_DISCPURCH": "Покупка со скидкой",
             "TXID_REW_DISCUP": "Апгрейд со скидкой",
             "TXID_REW_FREEGB": "Бесплатные Золотые кирпичи",

@@ -513,6 +513,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Bonificació de temps",
+            "TXID_REW_DECWAITTIME": "El temps d'espera ha disminuït",
             "TXID_REW_DISCPURCH": "Compra amb descompte",
             "TXID_REW_FREEMON": "Monedes gratuïtes",
             "TXID_REW_FREERES": "Recurs gratuït",
@@ -525,7 +526,6 @@
             "TXID_REW_TIMEFORWARD": "Temps cap endavant"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Funciona per si mateix!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Mira, el joc té un clic automàtic integrat! Només cal que toqueu un objecte una vegada i funcionarà mentre us relaxeu. Què convenient!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "És possible que vulgueu col·locar l'autoclicker en un objecte o un altre, depenent del que actualment necessita una potència addicional.",
@@ -783,6 +783,7 @@
             "TXID_CODE_WORLD": "Per al món",
             "TXID_CONTESTMODE": "mode de concurs",
             "TXID_CUR_MONEY": "diner",
+            "TXID_DEC_WAIT_TIME": "Podeu reduir el temps d'espera",
             "TXID_DISCORDSUGGESTIONS": "Podeu comprovar els resultats i els suggeriments actuals de la nostra comunitat",
             "TXID_EXPL_NEWSET": "Seleccioneu el mode de concurs",
             "TXID_GDPR_CAP": "Llest per començar!",

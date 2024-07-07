@@ -19,6 +19,7 @@
                 "TXID_CAP_TODOSOON": "New task will appear soon",
                 "TXID_CAP_TODOTOTAL": "Completed tasks",
                 "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
+                "TXID_DEC_WAIT_TIME": "You can decrease waiting time",
                 "TXID_MSG_COMPATARTIFACTS": "Compatible artifacts",
                 "TXID_MSG_THANKS": "Thank you",
                 "TXID_MSG_WORKARTIFACTS": "Artifacts are working",
@@ -506,6 +507,7 @@
         },
         "GROUP_tower_rewards": {
             "CODE_aaa_untranslated": {
+                "TXID_REW_DECWAITTIME": "Waiting time decreased",
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "bônus de tempo",

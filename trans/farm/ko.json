@@ -509,6 +509,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "시간 보너스",
+            "TXID_REW_DECWAITTIME": "대기 시간이 감소했습니다",
             "TXID_REW_DISCPURCH": "할인 된 구매",
             "TXID_REW_FREEMON": "무료 동전",
             "TXID_REW_FREERES": "무료 자원",
@@ -521,7 +522,6 @@
             "TXID_REW_TIMEFORWARD": "시간 앞으로"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "그것은 저절로 작동합니다!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "보세요, 이 게임에는 자동 클릭 기능이 통합되어 있습니다! 개체를 한 번만 탭하면 휴식을 취하는 동안 해당 개체가 작동합니다. 얼마나 편리한 지!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "현재 추가 전력이 가장 필요한 것에 따라 AutoClicker를 한 객체 또는 다른 객체에 배치 할 수 있습니다.",
@@ -775,6 +775,7 @@
             "TXID_CODE_WORLD": "세상을 위해",
             "TXID_CONTESTMODE": "컨테스트 모드",
             "TXID_CUR_MONEY": "돈",
+            "TXID_DEC_WAIT_TIME": "대기시간을 줄일 수 있습니다",
             "TXID_DISCORDSUGGESTIONS": "우리 커뮤니티의 결과와 현재 제안을 확인할 수 있습니다.",
             "TXID_EXPL_NEWSET": "컨테스트 모드를 선택하십시오",
             "TXID_GDPR_APPLE_ADD_ALT": "계속하면 추적 환경 설정을 선택할 수 있습니다.",

@@ -149,6 +149,7 @@
             "TXID_CODE_WORLD": "세상을 위해",
             "TXID_CONTESTMODE": "컨테스트 모드",
             "TXID_CUR_MONEY": "돈",
+            "TXID_DEC_WAIT_TIME": "대기시간을 줄일 수 있습니다",
             "TXID_DISCORDSUGGESTIONS": "우리 커뮤니티의 결과와 현재 제안을 확인할 수 있습니다.",
             "TXID_EXPL_NEWSET": "컨테스트 모드를 선택하십시오",
             "TXID_GDPR_APPLE_ADD_ALT": "계속하면 추적 환경 설정을 선택할 수 있습니다.",
@@ -513,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "시간 보너스",
+            "TXID_REW_DECWAITTIME": "대기 시간이 감소했습니다",
             "TXID_REW_DISCPURCH": "할인 된 구매",
             "TXID_REW_FREEGB": "무료 황금 벽돌",
             "TXID_REW_FREEMON": "무료 동전",

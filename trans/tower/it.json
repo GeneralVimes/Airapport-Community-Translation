@@ -151,6 +151,7 @@
             "TXID_CODE_VALIDINF": "valida sempre",
             "TXID_CODE_WORLD": "Per il mondo",
             "TXID_CONTESTMODE": "modalità concorso",
+            "TXID_DEC_WAIT_TIME": "Puoi diminuire i tempi di attesa",
             "TXID_DISCORDSUGGESTIONS": "È possibile controllare i risultati e le proposte attuali nella nostra comunità",
             "TXID_EXPL_NEWSET": "Seleziona la modalità del concorso",
             "TXID_GDPR_CAP": "Pronto per iniziare!",
@@ -511,6 +512,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "aumento di tempo",
+            "TXID_REW_DECWAITTIME": "Il tempo di attesa è diminuito",
             "TXID_REW_DISCPURCH": "Acquisto con lo sconto",
             "TXID_REW_FREEGB": "Mattoni d'oro gratuiti",
             "TXID_REW_FREEMON": "Monete gratis",

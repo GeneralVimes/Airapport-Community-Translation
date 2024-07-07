@@ -514,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "bonus masa",
+            "TXID_REW_DECWAITTIME": "Masa menunggu berkurangan",
             "TXID_REW_DISCPURCH": "Beli dengan diskaun",
             "TXID_REW_FREEMON": "Duit syiling percuma",
             "TXID_REW_FREERES": "Sumber percuma",
@@ -526,7 +527,6 @@
             "TXID_REW_TIMEFORWARD": "masa hadapan"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Ia berfungsi dengan sendirinya!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Lihat, permainan ini mempunyai autoclicker bersepadu! Hanya ketik objek sekali, dan ia akan berfungsi semasa anda berehat. Betapa mudahnya!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Anda mungkin mahu meletakkan autoclicker pada satu objek atau yang lain, bergantung kepada yang mana satu pada masa ini perlukan kuasa tambahan yang paling.",
@@ -784,6 +784,7 @@
             "TXID_CODE_WORLD": "untuk dunia",
             "TXID_CONTESTMODE": "mod pertandingan",
             "TXID_CUR_MONEY": "wang",
+            "TXID_DEC_WAIT_TIME": "Anda boleh mengurangkan masa menunggu",
             "TXID_DISCORDSUGGESTIONS": "Anda boleh menyemak keputusan dan cadangan semasa dalam masyarakat kita",
             "TXID_EXPL_NEWSET": "Memilih mod peraduan anda",
             "TXID_GDPR_CAP": "Bersedia untuk memulakan!",

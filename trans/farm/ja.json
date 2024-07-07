@@ -509,6 +509,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "タイムボーナス",
+            "TXID_REW_DECWAITTIME": "待ち時間が減りました",
             "TXID_REW_DISCPURCH": "割引で購入します",
             "TXID_REW_FREEMON": "無料のコイン",
             "TXID_REW_FREERES": "無料のリソース",
@@ -521,7 +522,6 @@
             "TXID_REW_TIMEFORWARD": "前進します"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "それはそれ自体で機能します！",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "見てください、このゲームにはオートクリッカーが統合されています。オブジェクトを一度タップするだけで、リラックスしている間に動作します。なんて都合のいい！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "現在最も多くのパワーを必要とするかに応じて、オートリッカーをあるオブジェクトに配置することをお勧めします。",
@@ -775,6 +775,7 @@
             "TXID_CODE_WORLD": "世界のために",
             "TXID_CONTESTMODE": "コンテストモード",
             "TXID_CUR_MONEY": "お金",
+            "TXID_DEC_WAIT_TIME": "待ち時間を短縮できる",
             "TXID_DISCORDSUGGESTIONS": "私たちのコミュニティで結果と現在の提案を確認できます",
             "TXID_EXPL_NEWSET": "コンテストモードを選択します",
             "TXID_GDPR_APPLE_ADD_ALT": "あなたが続けるにつれて、あなたはあなたの追跡設定を選択することができます",

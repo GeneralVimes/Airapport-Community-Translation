@@ -164,6 +164,7 @@
             "TXID_CODE_VALIDINF": "valid selalu",
             "TXID_CODE_WORLD": "untuk dunia",
             "TXID_CONTESTMODE": "modus kontes",
+            "TXID_DEC_WAIT_TIME": "Anda dapat mengurangi waktu tunggu",
             "TXID_DISCORDSUGGESTIONS": "Anda dapat memeriksa hasil dan saran saat ini di masyarakat kita",
             "TXID_EXPL_NEWSET": "Pilih mode kontes Anda",
             "TXID_GDPR_CAP": "Siap untuk mulai!",
@@ -514,6 +515,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "bonus waktu",
+            "TXID_REW_DECWAITTIME": "Waktu tunggu berkurang",
             "TXID_REW_DISCPURCH": "Pembelian dengan diskon",
             "TXID_REW_FREEGB": "Bricks Gratis Golden",
             "TXID_REW_FREEMON": "Koin gratis",

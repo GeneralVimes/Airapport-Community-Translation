@@ -434,7 +434,6 @@
             "TXID_MACH_NAME_YARN": "Прялка"
         },
         "GROUP_farm_messages_from_game_elements": {
-            "CODE_aaa_untranslated": {},
             "TXID_COW_MILK": "Нажмите на корову, чтобы подоить её",
             "TXID_COW_OPENDOORS_IN": "Нажмите на коровник чтобы впустить корову",
             "TXID_COW_OPENDOORS_OUT": "Нажмите на коровник чтобы выпустить корову",
@@ -497,7 +496,9 @@
             "TXID_RES_YARN": "пряжа"
         },
         "GROUP_farm_rewards": {
+            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "Бонусное время",
+            "TXID_REW_DECWAITTIME": "Время ожидания уменьшилось",
             "TXID_REW_DISCPURCH": "Покупка со скидкой",
             "TXID_REW_DISCUP": "Апгрейд со скидкой",
             "TXID_REW_FREEMON": "Бесплатные монеты",
@@ -511,7 +512,6 @@
             "TXID_REW_TIMEFORWARD": "Время вперед"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Оно работает само по себе!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Посмотрите, в игре встроен автокликер! Просто коснитесь объекта один раз, и он будет работать, пока вы отдыхаете. Как удобно!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Вы можете разместить Автокликер на тот или ином объекте, в зависимости от того, какой в ​​настоящее время нуждается в дополнительной мощности больше всего.",
@@ -748,6 +748,7 @@
             "TXID_CODE_WORLD": "для мира",
             "TXID_CONTESTMODE": "режим конкурса",
             "TXID_CUR_MONEY": "деньги",
+            "TXID_DEC_WAIT_TIME": "Вы можете сократить время ожидания",
             "TXID_DISCORDSUGGESTIONS": "Вы можете проверить результаты и текущие предложения в нашем сообществе",
             "TXID_EXPL_NEWSET": "Выберите режим конкурса",
             "TXID_GDPR_APPLE_ADD_ALT": "Продолжив, вы сможете выбрать предпочтения по трекингу",

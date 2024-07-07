@@ -509,6 +509,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "时间奖励",
+            "TXID_REW_DECWAITTIME": "等待时间减少",
             "TXID_REW_DISCPURCH": "以折扣购买",
             "TXID_REW_FREEMON": "免费硬币",
             "TXID_REW_FREERES": "免费资源",
@@ -521,7 +522,6 @@
             "TXID_REW_TIMEFORWARD": "时间前进"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "它自己起作用！",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "看，游戏有一个集成的自动点击器！只需点击一个物体一次，它就会在您放松时开始工作。多么方便啊！",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "您可能需要将自动化器放置在一个或另一个对象上，具体取决于当前最需要额外功率的对象。",
@@ -775,6 +775,7 @@
             "TXID_CODE_WORLD": "为了世界",
             "TXID_CONTESTMODE": "比赛模式",
             "TXID_CUR_MONEY": "钱",
+            "TXID_DEC_WAIT_TIME": "您可以减少等待时间",
             "TXID_DISCORDSUGGESTIONS": "您可以检查我们社区中的结果和当前建议",
             "TXID_EXPL_NEWSET": "选择您的比赛模式",
             "TXID_GDPR_APPLE_ADD_ALT": "随着您的继续，您将能够选择您的跟踪首选项",

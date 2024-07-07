@@ -513,6 +513,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Vremenski bonus",
+            "TXID_REW_DECWAITTIME": "Vrijeme čekanja se smanjilo",
             "TXID_REW_DISCPURCH": "Kupnja s popustom",
             "TXID_REW_FREEMON": "Slobodni kovanice",
             "TXID_REW_FREERES": "Slobodan resurs",
@@ -525,7 +526,6 @@
             "TXID_REW_TIMEFORWARD": "Vrijeme naprijed"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Djeluje sam!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Pogledajte, igra ima integrirani autokliker! Samo jednom dodirnite predmet i on će raditi dok se vi opuštate. Kako prikladno!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možda želite postaviti Autoclicker na jedan objekt ili drugi, ovisno o tome koji trenutno treba najviše snage.",
@@ -783,6 +783,7 @@
             "TXID_CODE_WORLD": "za svijet",
             "TXID_CONTESTMODE": "način natječaja",
             "TXID_CUR_MONEY": "novac",
+            "TXID_DEC_WAIT_TIME": "Možete smanjiti vrijeme čekanja",
             "TXID_DISCORDSUGGESTIONS": "Možete provjeriti rezultate i trenutne prijedloge u našoj zajednici",
             "TXID_EXPL_NEWSET": "Odaberite način natjecanja",
             "TXID_GDPR_CAP": "Spremni za početak!",

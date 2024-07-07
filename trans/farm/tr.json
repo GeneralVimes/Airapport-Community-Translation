@@ -513,6 +513,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Süre bonusu",
+            "TXID_REW_DECWAITTIME": "Bekleme süresi azaldı",
             "TXID_REW_DISCPURCH": "indirim Satın Alma",
             "TXID_REW_FREEMON": "Ücretsiz paralar",
             "TXID_REW_FREERES": "Ücretsiz Kaynak",
@@ -525,7 +526,6 @@
             "TXID_REW_TIMEFORWARD": "Zaman ileri"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Kendi kendine çalışıyor!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Bakın, oyunda entegre bir otomatik tıklayıcı var! Bir nesneye bir kez dokunmanız yeterli; siz dinlenirken o da çalışacaktır. Ne kadar uygun!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Tek bir nesne ya da bir başka üzerinde autoclicker yerleştirmek isteyebilirsiniz, hangi bağlı olarak bir anda en ek enerjiye ihtiyaç duyar.",
@@ -783,6 +783,7 @@
             "TXID_CODE_WORLD": "Dünya için",
             "TXID_CONTESTMODE": "yarışma modu",
             "TXID_CUR_MONEY": "para",
+            "TXID_DEC_WAIT_TIME": "Bekleme süresini azaltabilirsiniz",
             "TXID_DISCORDSUGGESTIONS": "Bizim toplumda sonuçları ve güncel önerileri kontrol edebilirsiniz",
             "TXID_EXPL_NEWSET": "Yarışma modunu seçin",
             "TXID_GDPR_CAP": "Başlamaya hazır!",

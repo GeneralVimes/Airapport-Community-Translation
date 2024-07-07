@@ -163,6 +163,7 @@
             "TXID_CODE_VALIDINF": "geçerli hep",
             "TXID_CODE_WORLD": "Dünya için",
             "TXID_CONTESTMODE": "yarışma modu",
+            "TXID_DEC_WAIT_TIME": "Bekleme süresini azaltabilirsiniz",
             "TXID_DISCORDSUGGESTIONS": "Bizim toplumda sonuçları ve güncel önerileri kontrol edebilirsiniz",
             "TXID_EXPL_NEWSET": "Yarışma modunu seçin",
             "TXID_GDPR_CAP": "Başlamaya hazır!",
@@ -513,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Süre bonusu",
+            "TXID_REW_DECWAITTIME": "Bekleme süresi azaldı",
             "TXID_REW_DISCPURCH": "indirim Satın Alma",
             "TXID_REW_FREEGB": "Ücretsiz Altın Tuğla",
             "TXID_REW_FREEMON": "Ücretsiz paralar",

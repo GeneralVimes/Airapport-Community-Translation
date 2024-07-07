@@ -514,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "bonus waktu",
+            "TXID_REW_DECWAITTIME": "Waktu tunggu berkurang",
             "TXID_REW_DISCPURCH": "Pembelian dengan diskon",
             "TXID_REW_FREEMON": "Koin gratis",
             "TXID_REW_FREERES": "Sumber Daya Gratis",
@@ -526,7 +527,6 @@
             "TXID_REW_TIMEFORWARD": "waktu ke depan"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Ia bekerja dengan sendirinya!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Lihat, game ini memiliki autoclicker terintegrasi! Cukup ketuk suatu objek satu kali, dan objek itu akan berfungsi saat Anda bersantai. Alangkah nyaman!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Anda mungkin ingin menempatkan AutoClicker pada satu objek atau lain, tergantung pada mana yang saat ini membutuhkan tenaga tambahan paling.",
@@ -784,6 +784,7 @@
             "TXID_CODE_WORLD": "untuk dunia",
             "TXID_CONTESTMODE": "modus kontes",
             "TXID_CUR_MONEY": "uang",
+            "TXID_DEC_WAIT_TIME": "Anda dapat mengurangi waktu tunggu",
             "TXID_DISCORDSUGGESTIONS": "Anda dapat memeriksa hasil dan saran saat ini di masyarakat kita",
             "TXID_EXPL_NEWSET": "Pilih mode kontes Anda",
             "TXID_GDPR_CAP": "Siap untuk mulai!",

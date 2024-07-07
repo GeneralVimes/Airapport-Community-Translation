@@ -165,6 +165,7 @@
             "TXID_CODE_VALIDINF": "platný provždy",
             "TXID_CODE_WORLD": "pro svět",
             "TXID_CONTESTMODE": "režim soutěže",
+            "TXID_DEC_WAIT_TIME": "Môžete skrátiť čakaciu dobu",
             "TXID_DISCORDSUGGESTIONS": "Můžete zkontrolovat výsledky hlasování a aktuální náměty v naší komunitě",
             "TXID_EXPL_NEWSET": "Vyber si svůj režim soutěže",
             "TXID_GDPR_CAP": "Připraven začít!",
@@ -515,6 +516,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Časový bonus",
+            "TXID_REW_DECWAITTIME": "Čakacia doba sa skrátila",
             "TXID_REW_DISCPURCH": "Nákup se slevou",
             "TXID_REW_FREEGB": "Bezplatné Zlaté Cihly",
             "TXID_REW_FREEMON": "Bezplatné Mince",

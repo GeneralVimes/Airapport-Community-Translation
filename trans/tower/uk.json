@@ -131,6 +131,7 @@
             "TXID_CODE_WORLD": "для світу",
             "TXID_CONTESTMODE": "режим конкурсу",
             "TXID_CUR_MONEY": "гроші",
+            "TXID_DEC_WAIT_TIME": "Ви можете зменшити час очікування",
             "TXID_DISCORDSUGGESTIONS": "Ви можете перевірити результати і поточні пропозиції в нашій спільноті",
             "TXID_EXPL_NEWSET": "Виберіть режим конкурсу",
             "TXID_GDPR_APPLE_ADD_ALT": "Продовживши, ви зможете обрати налаштування трекінгу",
@@ -503,7 +504,9 @@
             "TXID_WATERWELLRESTORATION": "Швидкість відновлення води"
         },
         "GROUP_tower_rewards": {
+            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "Бонусний час",
+            "TXID_REW_DECWAITTIME": "Зменшився час очікування",
             "TXID_REW_DISCPURCH": "Покупка зі знижкою",
             "TXID_REW_DISCUP": "Апгрейд зі знижкою",
             "TXID_REW_FREEGB": "Безкоштовні Золоті цеглини",

@@ -164,6 +164,7 @@
             "TXID_CODE_VALIDINF": "obowiązuje zawsze",
             "TXID_CODE_WORLD": "dla świata",
             "TXID_CONTESTMODE": "tryb konkurs",
+            "TXID_DEC_WAIT_TIME": "Możesz skrócić czas oczekiwania",
             "TXID_DISCORDSUGGESTIONS": "można sprawdzić wyniki oraz aktualne propozycje w naszej społeczności",
             "TXID_EXPL_NEWSET": "Wybierz tryb konkursu",
             "TXID_GDPR_CAP": "Gotowy do startu!",
@@ -514,6 +515,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Premia czasowa",
+            "TXID_REW_DECWAITTIME": "Czas oczekiwania skrócił się",
             "TXID_REW_DISCPURCH": "Zakup ze zniżką",
             "TXID_REW_FREEGB": "Darmowe Złote Cegły",
             "TXID_REW_FREEMON": "Darmowe Monety",

@@ -513,6 +513,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Time Bonus",
+            "TXID_REW_DECWAITTIME": "Ventetiden faldt",
             "TXID_REW_DISCPURCH": "Køb med rabat",
             "TXID_REW_FREEMON": "Gratis mønter.",
             "TXID_REW_FREERES": "Gratis ressource.",
@@ -525,7 +526,6 @@
             "TXID_REW_TIMEFORWARD": "Tid fremad"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Det virker af sig selv!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Se, spillet har en integreret autoklikker! Bare tryk på et objekt én gang, og det vil virke, mens du slapper af. Hvor praktisk!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Du vil måske placere autoklickeren på et objekt eller en anden, afhængigt af hvilken man i øjeblikket har brug for ekstra effekt mest.",
@@ -783,6 +783,7 @@
             "TXID_CODE_WORLD": "for verden",
             "TXID_CONTESTMODE": "contest mode.",
             "TXID_CUR_MONEY": "penge",
+            "TXID_DEC_WAIT_TIME": "Du kan reducere ventetiden",
             "TXID_DISCORDSUGGESTIONS": "Du kan tjekke resultaterne og de nuværende forslag i vores fællesskab",
             "TXID_EXPL_NEWSET": "Vælg din CONTEST-tilstand",
             "TXID_GDPR_CAP": "Klar til at starte!",

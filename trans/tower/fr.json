@@ -152,6 +152,7 @@
             "TXID_CODE_VALIDINF": "toujours valide",
             "TXID_CODE_WORLD": "pour le monde",
             "TXID_CONTESTMODE": "Mode concours",
+            "TXID_DEC_WAIT_TIME": "Vous pouvez réduire le temps d'attente",
             "TXID_DISCORDSUGGESTIONS": "Vous pouvez vérifier les résultats et les suggestions en cours dans notre communauté",
             "TXID_EXPL_NEWSET": "Sélectionnez le mode concours",
             "TXID_GDPR_CAP": "Prêt à commencer!",
@@ -512,6 +513,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "temps bonus",
+            "TXID_REW_DECWAITTIME": "Le temps d'attente a diminué",
             "TXID_REW_DISCPURCH": "Achat avec un rabais",
             "TXID_REW_FREEGB": "Briques dorées gratuit",
             "TXID_REW_FREEMON": "Pièces gratuites",

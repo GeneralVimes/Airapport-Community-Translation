@@ -163,6 +163,7 @@
             "TXID_CODE_VALIDINF": "hợp lệ luôn",
             "TXID_CODE_WORLD": "cho thế giới",
             "TXID_CONTESTMODE": "chế độ thi",
+            "TXID_DEC_WAIT_TIME": "Bạn có thể giảm thời gian chờ đợi",
             "TXID_DISCORDSUGGESTIONS": "Bạn có thể kiểm tra kết quả và đề xuất hiện trong cộng đồng của chúng tôi",
             "TXID_EXPL_NEWSET": "Chọn chế độ cuộc thi của bạn",
             "TXID_GDPR_CAP": "Bạn đã sẵn sàng để bắt đầu!",
@@ -513,6 +514,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Thưởng thêm thơi gian",
+            "TXID_REW_DECWAITTIME": "Thời gian chờ đợi giảm",
             "TXID_REW_DISCPURCH": "Mua với chiết khấu",
             "TXID_REW_FREEGB": "Gạch miễn phí Vàng",
             "TXID_REW_FREEMON": "Đồng xu miễn phí",

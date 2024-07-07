@@ -513,6 +513,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Thưởng thêm thơi gian",
+            "TXID_REW_DECWAITTIME": "Thời gian chờ đợi giảm",
             "TXID_REW_DISCPURCH": "Mua với chiết khấu",
             "TXID_REW_FREEMON": "Đồng xu miễn phí",
             "TXID_REW_FREERES": "miễn phí tài nguyên",
@@ -525,7 +526,6 @@
             "TXID_REW_TIMEFORWARD": "Thời gian chuyển tiếp"
         },
         "GROUP_farm_tutorial": {
-            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTCOLICKERCAP": "Nó tự hoạt động!",
             "TXID_MSGCAP_TUT_AUTCOLICKEREXPL": "Hãy nhìn xem, trò chơi có tích hợp tính năng tự động nhấp chuột! Chỉ cần chạm vào một đối tượng một lần và nó sẽ hoạt động trong khi bạn đang thư giãn. Tiện như thế nào!",
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Bạn có thể muốn đặt autoclicker vào một đối tượng này hay cách khác, tùy thuộc vào một hiện nhu cầu năng lượng bổ sung nhiều nhất.",
@@ -783,6 +783,7 @@
             "TXID_CODE_WORLD": "cho thế giới",
             "TXID_CONTESTMODE": "chế độ thi",
             "TXID_CUR_MONEY": "tiền bạc",
+            "TXID_DEC_WAIT_TIME": "Bạn có thể giảm thời gian chờ đợi",
             "TXID_DISCORDSUGGESTIONS": "Bạn có thể kiểm tra kết quả và đề xuất hiện trong cộng đồng của chúng tôi",
             "TXID_EXPL_NEWSET": "Chọn chế độ cuộc thi của bạn",
             "TXID_GDPR_CAP": "Bạn đã sẵn sàng để bắt đầu!",

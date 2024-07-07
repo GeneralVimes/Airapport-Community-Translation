@@ -151,6 +151,7 @@
             "TXID_CODE_VALIDINF": "mindig érvényes",
             "TXID_CODE_WORLD": "a világért",
             "TXID_CONTESTMODE": "versenymód",
+            "TXID_DEC_WAIT_TIME": "Csökkentheti a várakozási időt",
             "TXID_DISCORDSUGGESTIONS": "Ellenőrizheti a közösségünk eredményeit és aktuális javaslatait",
             "TXID_EXPL_NEWSET": "Válassza ki a verseny módját",
             "TXID_GDPR_CAP": "Készen áll a kezdésre!",
@@ -511,6 +512,7 @@
                 "TXID_REW_DISCUP": "Upgrade with discount"
             },
             "TXID_REW_BONUSTIME": "Időbónusz",
+            "TXID_REW_DECWAITTIME": "A várakozási idő csökkent",
             "TXID_REW_DISCPURCH": "Vásárlás kedvezménnyel",
             "TXID_REW_FREEGB": "Ingyenes arany tégla",
             "TXID_REW_FREEMON": "Ingyenes érmék",
