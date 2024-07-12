@@ -28,6 +28,7 @@
             "TXID_CURR_NAME_GEMS": "рубіни"
         },
         "GROUP_farm_game_elements": {
+           "TXID_CAP_SELECTSOLDGOODS": "Оберіть товари для продажу",
             "TXID_CAP_DITRIBUTEPR": "Розподіліть свої нові бали престижу",
             "TXID_CAP_HIRE": "НАЙНЯТИ",
             "TXID_CAP_INVENTED": "Винайдено",
@@ -85,6 +86,8 @@
             "TXID_WORLDNAME_FARMANDMINE": "Ферма і Шахта!"
         },
         "GROUP_farm_inventions": {
+            "TXID_INVDESC_ICECREAM": "Можливе виробництво морозива",
+            "TXID_INVNAME_ICECREAM": "Виробництво морозива",
             "TXID_INVDESC_AGRICULTURE": "Швидкість зростання врожаю +15% на рівень",
             "TXID_INVDESC_BAKING": "Можна випікати хліб з борошна",
             "TXID_INVDESC_BANKING": "Дозволяє побудувати банк",
@@ -199,6 +202,12 @@
             "TXID_INVNAME_YARN": "Прядіння"
         },
         "GROUP_farm_machines": {
+            "TXID_MACH_DESC_ICECREAMFACTORY": "Виготовляє морозиво",
+            "TXID_MACH_DESC_ICECREAMSELLER": "Продає морозиво",
+            "TXID_MACH_DESC_MILKPUMP": "Доставляє молоко від корови прямо на фабрику через підземні труби",
+            "TXID_MACH_NAME_ICECREAMFACTORY": "Фабрика морозива",
+            "TXID_MACH_NAME_ICECREAMSELLER": "Продавець морозива",
+            "TXID_MACH_NAME_MILKPUMP": "Насос",
             "TXID_MACH_DESC_APIARY": "Тримає бджіл, які виробляють мед та запилюють дерева та квіти",
             "TXID_MACH_DESC_BAKERY": "Пече хліб з борошна",
             "TXID_MACH_DESC_BANK": "Генерує гроші для використання після перезапуску",
@@ -453,6 +462,7 @@
             "TXID_WATERFLOW": "Потік води"
         },
         "GROUP_farm_resources": {
+            "TXID_RES_ICECREAM": "Морозиво",
             "TXID_RES_BREAD": "хліб",
             "TXID_RES_BRICK": "цегла",
             "TXID_RES_CHEASE": "Сир",
@@ -496,7 +506,6 @@
             "TXID_RES_YARN": "пряжа"
         },
         "GROUP_farm_rewards": {
-            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "Бонусний час",
             "TXID_REW_DECWAITTIME": "Зменшився час очікування",
             "TXID_REW_DISCPURCH": "Покупка зі знижкою",
@@ -553,6 +562,7 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Зростання населення надає вам робочу силу. Ви можете витратити робочу силу на найм робітників і витрачати гроші на поліпшення об'єктів"
         },
         "GROUP_farm_upgrades": {
+            "TXID_UPGRNAME_FLOW_SPEED": "Швидкість потоку",
             "TXID_UNIT_IDEAS_H": "Ідей/год",
             "TXID_UPGRNAME_BANK": "Процентна ставка у банку на годину",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Швидкість бджіл",
@@ -623,7 +633,6 @@
             "TXID_UPGRUNITS_WATERPERSEC": "води / сек"
         },
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ОТРИМАТИ!",
             "TXID_ANS_TRYBACKUP": "Скасувати",
             "TXID_AREYOUWITHME": "Ти зі мною?",

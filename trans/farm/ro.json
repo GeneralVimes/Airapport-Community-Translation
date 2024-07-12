@@ -30,6 +30,9 @@
             "TXID_CURR_NAME_GEMS": "Rubine"
         },
         "GROUP_farm_game_elements": {
+            "CODE_aaa_untranslated": {
+                "TXID_CAP_SELECTSOLDGOODS": "Select goods to sell"
+            },
             "TXID_CAP_DITRIBUTEPR": "Distribuiți noile puncte de prestigiu",
             "TXID_CAP_HIRE": "ÎNCHIRIERE",
             "TXID_CAP_INVENTED": "INVENTAT",
@@ -87,6 +90,10 @@
             "TXID_WORLDNAME_FARMANDMINE": "Ferma și mina!"
         },
         "GROUP_farm_inventions": {
+            "CODE_aaa_untranslated": {
+                "TXID_INVDESC_ICECREAM": "Ice-cream production enabled",
+                "TXID_INVNAME_ICECREAM": "Ice-cream making"
+            },
             "TXID_INVDESC_AGRICULTURE": "Viteza de creștere a culturilor +15% pe nivel",
             "TXID_INVDESC_BAKING": "Poate coace pâinea din făină",
             "TXID_INVDESC_BANKING": "Construcția băncii activată",
@@ -201,6 +208,14 @@
             "TXID_INVNAME_YARN": "Se produc fire"
         },
         "GROUP_farm_machines": {
+            "CODE_aaa_untranslated": {
+                "TXID_MACH_DESC_ICECREAMFACTORY": "Produces ice-cream",
+                "TXID_MACH_DESC_ICECREAMSELLER": "Sells ice-cream",
+                "TXID_MACH_DESC_MILKPUMP": "Delivers milk from the cow right to the factory via the underground plumbing",
+                "TXID_MACH_NAME_ICECREAMFACTORY": "Ice-cream factory",
+                "TXID_MACH_NAME_ICECREAMSELLER": "Ice-cream seller",
+                "TXID_MACH_NAME_MILKPUMP": "Pump"
+            },
             "TXID_MACH_DESC_APIARY": "Păstrează albinele care produc miere și polenizează copaci și flori",
             "TXID_MACH_DESC_BAKERY": "Coaceți pâine din făină",
             "TXID_MACH_DESC_BANK": "Generează bani la reset",
@@ -455,6 +470,9 @@
             "TXID_WATERFLOW": "Flux de apă"
         },
         "GROUP_farm_resources": {
+            "CODE_aaa_untranslated": {
+                "TXID_RES_ICECREAM": "Ice-cream"
+            },
             "TXID_RES_BREAD": "pâine",
             "TXID_RES_BRICK": "Cărămidă",
             "TXID_RES_CHEASE": "Brânză",
@@ -498,7 +516,6 @@
             "TXID_RES_YARN": "Fire"
         },
         "GROUP_farm_rewards": {
-            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "bonus de timp",
             "TXID_REW_DECWAITTIME": "Timpul de așteptare a scăzut",
             "TXID_REW_DISCPURCH": "Achiziționarea cu discount",
@@ -555,6 +572,9 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Creșterea populației vă oferă forța de muncă. Puteți folosi forța de muncă pentru a închiria lucrători și pentru a cheltui bani pentru a upgrade facilitățile"
         },
         "GROUP_farm_upgrades": {
+            "CODE_aaa_untranslated": {
+                "TXID_UPGRNAME_FLOW_SPEED": "Flow speed"
+            },
             "TXID_UNIT_IDEAS_H": "Idei pe ora",
             "TXID_UPGRNAME_BANK": "Dobândă la banca pe ora",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Viteza albinelor",
@@ -625,7 +645,6 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w / sec"
         },
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "OBȚINE!",
             "TXID_ANS_TRYBACKUP": "Anula",
             "TXID_AREYOUWITHME": "Esti cu mine?",
