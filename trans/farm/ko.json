@@ -89,7 +89,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "농장과 광산!"
         },
         "GROUP_farm_inventions": {
-            "CODE_aaa_untranslated": {},
             "TXID_INVDESC_AGRICULTURE": "농작물 성장 속도 +레벨 당 15%",
             "TXID_INVDESC_BAKING": "밀가루에서 빵을 굽을 수 있습니다",
             "TXID_INVDESC_BANKING": "은행 건설이 가능합니다",
@@ -206,7 +205,9 @@
             "TXID_INVNAME_YARN": "제사"
         },
         "GROUP_farm_machines": {
-            "CODE_aaa_untranslated": {},
+            "CODE_aaa_untranslated": {
+                "TXID_MACH_DESC_TRANSM_GEN": "Transfers power from the Steam engine to the machines"
+            },
             "TXID_MACH_DESC_APIARY": "꿀을 생산하고 나무와 꽃을 피하는 꿀벌을 유지합니다.",
             "TXID_MACH_DESC_BAKERY": "밀가루에서 빵을 굽습니다",
             "TXID_MACH_DESC_BANK": "다시 시작한 후 사용할 돈을 생성합니다",
@@ -448,7 +449,6 @@
             "TXID_MACH_NAME_YARN": "물레"
         },
         "GROUP_farm_messages_from_game_elements": {
-            "CODE_aaa_untranslated": {},
             "TXID_COW_MILK": "젖소를 눌러 젖을 짜십시오",
             "TXID_COW_OPENDOORS_IN": "암소를 두드려 젖소를 넣으십시오",
             "TXID_COW_OPENDOORS_OUT": "암소를 두드려 젖소를 꺼냅니다",
@@ -512,7 +512,6 @@
             "TXID_RES_YARN": "실"
         },
         "GROUP_farm_rewards": {
-            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "시간 보너스",
             "TXID_REW_DECWAITTIME": "대기 시간이 감소했습니다",
             "TXID_REW_DISCPURCH": "할인 된 구매",
@@ -569,7 +568,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "인구 증가는 인력을 제공합니다. 근로자를 고용하고 시설을 업그레이드하기 위해 돈을 쓸 수있는 인력을 지출 할 수 있습니다."
         },
         "GROUP_farm_upgrades": {
-            "CODE_aaa_untranslated": {},
             "TXID_UNIT_IDEAS_H": "시간당 아이디어",
             "TXID_UPGRNAME_BANK": "시간당 은행 이자율",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "꿀벌 속도",

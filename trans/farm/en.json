@@ -314,6 +314,7 @@
             "TXID_MACH_DESC_TRANSMB": "Connects the bellows to the steam engine",
             "TXID_MACH_DESC_TRANSMD": "Connects the drill to the steam engine",
             "TXID_MACH_DESC_TRANSMO": "Transfers power from the Steam engine to the Oil pump",
+            "TXID_MACH_DESC_TRANSM_GEN": "Transfers power from the Steam engine to the machines",
             "TXID_MACH_DESC_TRANSPORTER": "Transports goods",
             "TXID_MACH_DESC_TSHIRTSSELLER": "Sells T-shirts",
             "TXID_MACH_DESC_TSHIRTSSHOP": "Sells T-shirts",

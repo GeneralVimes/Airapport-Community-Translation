@@ -212,6 +212,7 @@
                 "TXID_MACH_DESC_ICECREAMFACTORY": "Produces ice-cream",
                 "TXID_MACH_DESC_ICECREAMSELLER": "Sells ice-cream",
                 "TXID_MACH_DESC_MILKPUMP": "Delivers milk from the cow right to the factory via the underground plumbing",
+                "TXID_MACH_DESC_TRANSM_GEN": "Transfers power from the Steam engine to the machines",
                 "TXID_MACH_NAME_ICECREAMFACTORY": "Ice-cream factory",
                 "TXID_MACH_NAME_ICECREAMSELLER": "Ice-cream seller",
                 "TXID_MACH_NAME_MILKPUMP": "Pump"

@@ -224,6 +224,7 @@
                 "TXID_MACH_DESC_SEWINGMACHINE": "Produces T-shirts",
                 "TXID_MACH_DESC_TAYLOR": "Produces T-shirts",
                 "TXID_MACH_DESC_TEXTILEMACHINE": "Produces textile",
+                "TXID_MACH_DESC_TRANSM_GEN": "Transfers power from the Steam engine to the machines",
                 "TXID_MACH_DESC_TSHIRTSSELLER": "Sells T-shirts",
                 "TXID_MACH_DESC_TSHIRTSSHOP": "Sells T-shirts",
                 "TXID_MACH_DESC_WORKERKNITTER": "Knits socks from wool",

@@ -89,7 +89,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "农场和我的！"
         },
         "GROUP_farm_inventions": {
-            "CODE_aaa_untranslated": {},
             "TXID_INVDESC_AGRICULTURE": "农作物的生长速度 +每个水平15％",
             "TXID_INVDESC_BAKING": "可以用面粉烘烤面包吗",
             "TXID_INVDESC_BANKING": "启用了银行建设",
@@ -206,7 +205,9 @@
             "TXID_INVNAME_YARN": "旋转"
         },
         "GROUP_farm_machines": {
-            "CODE_aaa_untranslated": {},
+            "CODE_aaa_untranslated": {
+                "TXID_MACH_DESC_TRANSM_GEN": "Transfers power from the Steam engine to the machines"
+            },
             "TXID_MACH_DESC_APIARY": "保持蜜蜂产生蜂蜜，授粉树木和花朵",
             "TXID_MACH_DESC_BAKERY": "面粉面包",
             "TXID_MACH_DESC_BANK": "重新启动后产生资金供使用",
@@ -448,7 +449,6 @@
             "TXID_MACH_NAME_YARN": "旋转轮"
         },
         "GROUP_farm_messages_from_game_elements": {
-            "CODE_aaa_untranslated": {},
             "TXID_COW_MILK": "点击牛挤奶",
             "TXID_COW_OPENDOORS_IN": "点击牛棚，让牛进去",
             "TXID_COW_OPENDOORS_OUT": "点击牛s，让牛出去",
@@ -512,7 +512,6 @@
             "TXID_RES_YARN": "纱"
         },
         "GROUP_farm_rewards": {
-            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "时间奖励",
             "TXID_REW_DECWAITTIME": "等待时间减少",
             "TXID_REW_DISCPURCH": "以折扣购买",
@@ -569,7 +568,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "人口增长为您提供劳动力。您可以花费劳动力来雇用工人并花钱升级设施"
         },
         "GROUP_farm_upgrades": {
-            "CODE_aaa_untranslated": {},
             "TXID_UNIT_IDEAS_H": "每小时的想法",
             "TXID_UPGRNAME_BANK": "每小时银行利率",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "蜜蜂速度",

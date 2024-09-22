@@ -311,6 +311,7 @@
             "TXID_MACH_DESC_TRANSMB": "Соединяет мехи и паровой двигатель",
             "TXID_MACH_DESC_TRANSMD": "Подключает дрель к паровой двигателе",
             "TXID_MACH_DESC_TRANSMO": "Передаёт энергию парового двигателя на нефтяной насос",
+            "TXID_MACH_DESC_TRANSM_GEN": "Передаёт энергию от парового двигателя к механизмам",
             "TXID_MACH_DESC_TRANSPORTER": "Транспортирует товары",
             "TXID_MACH_DESC_TSHIRTSSELLER": "Продает футболки",
             "TXID_MACH_DESC_TSHIRTSSHOP": "Продает футболки",

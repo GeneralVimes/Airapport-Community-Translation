@@ -89,7 +89,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "農場と私のもの！"
         },
         "GROUP_farm_inventions": {
-            "CODE_aaa_untranslated": {},
             "TXID_INVDESC_AGRICULTURE": "作物の成長速度 +レベルあたり15％",
             "TXID_INVDESC_BAKING": "小麦粉からパンを焼くことができます",
             "TXID_INVDESC_BANKING": "銀行の建設が可能になりました",
@@ -206,7 +205,9 @@
             "TXID_INVNAME_YARN": "紡糸"
         },
         "GROUP_farm_machines": {
-            "CODE_aaa_untranslated": {},
+            "CODE_aaa_untranslated": {
+                "TXID_MACH_DESC_TRANSM_GEN": "Transfers power from the Steam engine to the machines"
+            },
             "TXID_MACH_DESC_APIARY": "蜂蜜を生産し、木や花を受粉するミツバチを保ちます",
             "TXID_MACH_DESC_BAKERY": "小麦粉のパンを焼きます",
             "TXID_MACH_DESC_BANK": "再起動後に使用するためのお金を生成します",
@@ -448,7 +449,6 @@
             "TXID_MACH_NAME_YARN": "回転する車輪"
         },
         "GROUP_farm_messages_from_game_elements": {
-            "CODE_aaa_untranslated": {},
             "TXID_COW_MILK": "牛をタップして搾乳します",
             "TXID_COW_OPENDOORS_IN": "牛をタップして牛を入れます",
             "TXID_COW_OPENDOORS_OUT": "牛をタップして牛を出します",
@@ -512,7 +512,6 @@
             "TXID_RES_YARN": "糸"
         },
         "GROUP_farm_rewards": {
-            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "タイムボーナス",
             "TXID_REW_DECWAITTIME": "待ち時間が減りました",
             "TXID_REW_DISCPURCH": "割引で購入します",
@@ -569,7 +568,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "人口増加はあなたに労働力を提供します。労働者を雇って施設をアップグレードするためにお金を使うために労働力を使うことができます"
         },
         "GROUP_farm_upgrades": {
-            "CODE_aaa_untranslated": {},
             "TXID_UNIT_IDEAS_H": "1時間あたりのアイデア",
             "TXID_UPGRNAME_BANK": "1時間あたりの銀行金利",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "ミツバチの速度",
