@@ -692,7 +692,7 @@
             "TXID_CAP_ASKALLOWPERSADSEXPL": "Bu, reklamları daha alakalı hale getirecek ve sizi rahatsız etmeyecekler (sadece oyunda bir ödül almak istediğinizde izleyebilirsiniz)",
             "TXID_CAP_BACKUPS": "BACKUPS",
             "TXID_CAP_BESTRESULT": "Bu senin en iyi sonuç!",
-            "TXID_CAP_BOOSTS": "artırıyor",
+            "TXID_CAP_BOOSTS": "artırıcı",
             "TXID_CAP_BREAKCODE": "Haftalık hediye almak için kod Tahmin",
             "TXID_CAP_CONGRATULATIONS": "Tebrikler!",
             "TXID_CAP_CONTESTCOMPLETE": "YARIŞMA TAMAMLANDI!",
@@ -717,7 +717,7 @@
             "TXID_CAP_INF_ACTIVEBOOST": "Güncel boost",
             "TXID_CAP_INF_BOOSTDURATION": "süresince aktif",
             "TXID_CAP_INF_LEVEL": "seviye",
-            "TXID_CAP_INF_MONEY": "madeni para",
+            "TXID_CAP_INF_MONEY": "para",
             "TXID_CAP_INF_NEXTBOOSTPRICE": "Sonraki boost fiyat",
             "TXID_CAP_INF_NOTENOGHMONEY": "yetersiz para",
             "TXID_CAP_INF_NOTENOUGHRES": "Yeterli kaynak yok",
@@ -894,11 +894,11 @@
             "TXID_TRYLOADAGAIN": "Yükle kaydet",
             "TXID_UNITS_COINSEACH": "paralar / ea",
             "TXID_VOTERESULT": "Teşekkür ederim! You oy muhasebeleştirilmiştir.",
-            "TXID_WORD_COINS": "madeni para"
+            "TXID_WORD_COINS": "para"
         },
         "GROUP_parts_of_sell_phrase": {
             "TXID_MSG_SELLREING_BEG": "Satmak",
-            "TXID_MSG_SELLREING_END": "madeni para",
+            "TXID_MSG_SELLREING_END": "para",
             "TXID_MSG_SELLREING_MID": "için"
         },
         "GROUP_www_airapport_games": {
