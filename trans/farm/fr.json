@@ -1,7 +1,7 @@
 {
     "lang_code": "fr",
     "lang_selfname": "Français",
-    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email dev@airapport.com",
     "lang_translator": "bixente alias etnexib",
     "phrases": {
         "GROUP_farm_artifacts": {
@@ -664,7 +664,7 @@
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
                 "TXID_TIMEUNIT_HOUR_SHORT": "h",
@@ -840,7 +840,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Cadeau prêt!",
             "TXID_MSG_CLIPBOARD": "Fichier texte a été copié dans le presse-papiers. Vous pouvez le stocker quelque part ou vous l'envoyer par courriel à vous-même pour être en mesure de restaurer la tour",
             "TXID_MSG_COMPATARTIFACTS": "Artefacts compatibles",
-            "TXID_MSG_EMAILBODY": "(S'il vous plaît, écrivez ce courriel à general@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(S'il vous plaît, écrivez ce courriel à dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Voulez-vous gagner plus après avoir vu des annonces?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(uniquement des gains et non les dépenses seront doublées)",
             "TXID_MSG_GAINMORESKIPADS": "Voulez-vous gagner plus (sans publicité)?",
@@ -873,7 +873,7 @@
             "TXID_PURCH_SUCCESS": "Achat réussi!",
             "TXID_RESTOREFAILED": "échec de la restauration",
             "TXID_RESTOREPURCHASES": "restaurer les achats",
-            "TXID_SAVEDATA": "J'apprécie votre aide! Ceci est votre sauvegarde des données. S'il vous plaît, sélectionnez tout (appui long -> Sélectionner tout), copier (appui long -> copier) et envoyer par courrier électronique au développeur: general@cardswar.com",
+            "TXID_SAVEDATA": "J'apprécie votre aide! Ceci est votre sauvegarde des données. S'il vous plaît, sélectionnez tout (appui long -> Sélectionner tout), copier (appui long -> copier) et envoyer par courrier électronique au développeur: dev@airapport.com",
             "TXID_SCORE": "Score",
             "TXID_SEND": "On dirait que le jeu a crashé la dernière fois. Vous pouvez le charger à nouveau cette sauvegarde ou envoyer les données au développeur. Nous allons examiner et fixer le plus tôt possible. Vous pouvez également redémarrer complètement le jeu si vous ne voulez pas attendre",
             "TXID_SENDREPORT": "Envoyer un rapport",

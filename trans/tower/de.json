@@ -1,7 +1,7 @@
 {
     "lang_code": "de",
     "lang_selfname": "Deutsch",
-    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email dev@airapport.com",
     "lang_translator": "MoonlightShadowz aus ArmorGames",
     "phrases": {
         "GROUP_general_interface": {
@@ -44,7 +44,7 @@
                 "TXID_MSG_TEXTAFTERSCREENSHOTOK": "Now the players' community can admire your achievement",
                 "TXID_NOW": "Now",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIME": "time",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
@@ -201,7 +201,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Geschenk bereit!",
             "TXID_MSG_CLIPBOARD": "Textdatei wurde in die Zwischenablage kopiert. Sie können es irgendwo speichern oder sich selbst eine E-Mail der Lage sein, den Turm zu restaurieren",
             "TXID_MSG_COMPATARTIFACTS": "Kompatible Artefakte",
-            "TXID_MSG_EMAILBODY": "(Bitte schreiben Sie diese E-Mail an general@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(Bitte schreiben Sie diese E-Mail an dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Möchten Sie mehr gewinnen, nachdem Anzeigen beobachten ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(nur Gewinne, aufwendet wird nicht verdoppelt werden)",
             "TXID_MSG_GAINMORESKIPADS": "Möchten Sie mehr (ohne Werbung) gewinnen?",
@@ -230,7 +230,7 @@
             "TXID_PURCH_SUCCESS": "Erwerben Sie erfolgreich!",
             "TXID_RESTOREFAILED": "wiederherstellen fehlgeschlagen",
             "TXID_RESTOREPURCHASES": "wiederherstellen Einkäufe",
-            "TXID_SAVEDATA": "Schätze deine Hilfe! Das ist Ihre Daten speichern. Bitte wählen Sie alles (lang drücken -> alles auswählen), kopiert (lang drücken -> kopieren) und in E-Mail an den Entwickler senden: general@cardswar.com",
+            "TXID_SAVEDATA": "Schätze deine Hilfe! Das ist Ihre Daten speichern. Bitte wählen Sie alles (lang drücken -> alles auswählen), kopiert (lang drücken -> kopieren) und in E-Mail an den Entwickler senden: dev@airapport.com",
             "TXID_SCORE": "Ergebnis",
             "TXID_SEND": "Sieht aus wie das Spiel abgestürzt beim letzten Mal. Sie können versuchen, diese wieder speichern Laden oder die Daten an den Entwickler senden. Wir werden so schnell wie möglich an ihn und fix aussehen. Sie können auch das Spiel komplett neu starten, wenn Sie wollen nicht warten",
             "TXID_SENDREPORT": "Bericht senden",

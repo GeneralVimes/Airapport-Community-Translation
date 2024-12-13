@@ -1,7 +1,7 @@
 {
     "lang_code": "tr",
     "lang_selfname": "Türkçe",
-    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email dev@airapport.com",
     "phrases": {
         "GROUP_farm_artifacts": {
             "CODE_aaa_untranslated": {
@@ -667,7 +667,7 @@
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
                 "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
                 "TXID_TIMEUNIT_HOUR_SHORT": "h",
@@ -839,7 +839,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Hediye hazır!",
             "TXID_MSG_CLIPBOARD": "Metin dosyası panoya kopyalandı. Sen kuleyi restore edebilmek için bir yere saklayın veya kendinize e-posta",
             "TXID_MSG_COMPATARTIFACTS": "Uyumlu yapılar",
-            "TXID_MSG_EMAILBODY": "(General@cardswars.com bu linkten ulaşabilirsiniz)",
+            "TXID_MSG_EMAILBODY": "(dev@airapport.com bu linkten ulaşabilirsiniz)",
             "TXID_MSG_GAINMOREAFTERADS": "Daha fazla reklam izledikten sonra ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(sadece kazanımlar, iki katına edilecektir harcadığı değil) kazanmak ister misiniz",
             "TXID_MSG_GAINMORESKIPADS": "Eğer kazanmak daha (reklamlar olmadan) ister misiniz?",
@@ -872,7 +872,7 @@
             "TXID_PURCH_SUCCESS": "Başarılı satın!",
             "TXID_RESTOREFAILED": "Restore başarısız",
             "TXID_RESTOREPURCHASES": "alımlarını Restore",
-            "TXID_SAVEDATA": "Yardımınıza minnettar olurum! Bu verileri kaydetmek senin olduğunu. Kopyalamak - tüm (> tümünü seçmek uzun basın) onu seçiniz (uzun basın - copy>) ve geliştirici e-posta göndermek: general@cardswar.com",
+            "TXID_SAVEDATA": "Yardımınıza minnettar olurum! Bu verileri kaydetmek senin olduğunu. Kopyalamak - tüm (> tümünü seçmek uzun basın) onu seçiniz (uzun basın - copy>) ve geliştirici e-posta göndermek: dev@airapport.com",
             "TXID_SCORE": "Puan",
             "TXID_SEND": "oyun gibi görünüyor son kez çöktü. Yine tasarrufu bu yüklemeyi deneyin veya geliştirici veri gönderebilir. Biz en kısa sürede kendisine ve düzeltme bakacağız. Beklemek istemiyorsanız tamamen de oyunu yeniden başlatabilirsiniz",
             "TXID_SENDREPORT": "Rapor gönder",

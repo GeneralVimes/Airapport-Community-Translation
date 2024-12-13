@@ -1,7 +1,7 @@
 {
     "lang_code": "zh",
     "lang_selfname": "中文",
-    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email dev@airapport.com",
     "lang_translator": "",
     "lang_translator_website": "",
     "phrases": {
@@ -854,12 +854,12 @@
             "TXID_PURCH_SUCCESS": "购买成功！",
             "TXID_RESTOREFAILED": "还原失败",
             "TXID_RESTOREPURCHASES": "恢复购买",
-            "TXID_SAVEDATA": "感谢你的帮助！这是您的保存数据。请选择全部（长按 - >选择全部），复制（长按 - >复制），然后发送电子邮件至开发人员：general@cardswar.com",
+            "TXID_SAVEDATA": "感谢你的帮助！这是您的保存数据。请选择全部（长按 - >选择全部），复制（长按 - >复制），然后发送电子邮件至开发人员：dev@airapport.com",
             "TXID_SCORE": "分数",
             "TXID_SEND": "看起来比赛上次崩溃了。您可以尝试再次加载此保存或将数据发送给开发人员。我们将查看并尽快修复。如果您不想等待，也可以完全重新启动游戏",
             "TXID_SENDREPORT": "发送报告",
             "TXID_SEND_COPIEDSAVEDATA": "包含您保存数据的文本已复制到剪贴板",
-            "TXID_SEND_SAVEDATA": "请通过电子邮件将其发送给开发人员：general@cardswar.com",
+            "TXID_SEND_SAVEDATA": "请通过电子邮件将其发送给开发人员：dev@airapport.com",
             "TXID_SOMETHINGWRONG": "出了些问题...",
             "TXID_STARTNEW": "完整重置",
             "TXID_SUCCESS": "成功！",

@@ -1,7 +1,7 @@
 {
     "lang_code": "id",
     "lang_selfname": "Bahasa Indonesia",
-    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email dev@airapport.com",
     "lang_translator": "Irfan Najmi",
     "phrases": {
         "GROUP_general_interface": {
@@ -44,7 +44,7 @@
                 "TXID_MSG_TEXTAFTERSCREENSHOTOK": "Now the players' community can admire your achievement",
                 "TXID_NOW": "Now",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIME": "time",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
@@ -201,7 +201,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Hadiah siap!",
             "TXID_MSG_CLIPBOARD": "file teks disalin ke clipboard. Anda dapat menyimpannya di suatu tempat atau email kepada diri sendiri untuk dapat mengembalikan menara",
             "TXID_MSG_COMPATARTIFACTS": "Artefak yang kompatibel",
-            "TXID_MSG_EMAILBODY": "(Silakan menulis email ini untuk general@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(Silakan menulis email ini untuk dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Apakah Anda ingin mendapatkan lebih banyak setelah menonton iklan ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(hanya keuntungan, tidak dihabiskan, akan dua kali lipat)",
             "TXID_MSG_GAINMORESKIPADS": "Apakah Anda ingin mendapatkan lebih banyak (tanpa iklan)?",
@@ -230,7 +230,7 @@
             "TXID_PURCH_SUCCESS": "Pembelian sukses!",
             "TXID_RESTOREFAILED": "Kembalikan gagal",
             "TXID_RESTOREPURCHASES": "Mengembalikan pembelian",
-            "TXID_SAVEDATA": "Menghargai bantuan Anda! Ini adalah Anda menyimpan data. Silakan, pilih semuanya (tekan lama -> pilih semua), menyalin (tekan lama -> copy) dan mengirimkan email ke pengembang: general@cardswar.com",
+            "TXID_SAVEDATA": "Menghargai bantuan Anda! Ini adalah Anda menyimpan data. Silakan, pilih semuanya (tekan lama -> pilih semua), menyalin (tekan lama -> copy) dan mengirimkan email ke pengembang: dev@airapport.com",
             "TXID_SCORE": "Skor",
             "TXID_SEND": "Tampak seperti permainan jatuh terakhir kali. Anda dapat mencoba memuat ini menyimpan lagi atau mengirim data ke pengembang. Kami akan melihat itu dan memperbaiki sesegera mungkin. Anda juga dapat benar-benar me-restart permainan jika Anda tidak ingin menunggu",
             "TXID_SENDREPORT": "Kirim Laporan",

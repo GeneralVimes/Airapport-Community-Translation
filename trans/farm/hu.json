@@ -1,7 +1,7 @@
 {
     "lang_code": "hu",
     "lang_selfname": "Magyar",
-    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email dev@airapport.com",
     "lang_translator": "Toronyi Zsombor (Kevinkutya)",
     "phrases": {
         "GROUP_farm_artifacts": {
@@ -665,7 +665,7 @@
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
                 "TXID_TIMEUNIT_HOUR_SHORT": "h",
@@ -840,7 +840,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Ajándék kész!",
             "TXID_MSG_CLIPBOARD": "A szöveg fájl másolva lett a vágólapra. Tárolhatod valahol, vagy Email-ben elküldheted magadnak, hogy helyreállítsad a tornyodat",
             "TXID_MSG_COMPATARTIFACTS": "Kompatibilis műtermékek",
-            "TXID_MSG_EMAILBODY": "(Kérjük, írja be ezt az e -mailt a general@cardswars.com címre)",
+            "TXID_MSG_EMAILBODY": "(Kérjük, írja be ezt az e -mailt a dev@airapport.com címre)",
             "TXID_MSG_GAINMOREAFTERADS": "Szeretne többet szerezni rekléámok megnézése után?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(csak szerez, nem költ, meg lesz duplázva)",
             "TXID_MSG_GAINMORESKIPADS": "Szeretne többet szerezni (hirdetések nélkül)?",
@@ -873,7 +873,7 @@
             "TXID_PURCH_SUCCESS": "Vásárlás sikeres!",
             "TXID_RESTOREFAILED": "A helyreállítás sikertelen",
             "TXID_RESTOREPURCHASES": "Vásárlás visszaállítása",
-            "TXID_SAVEDATA": "köszönöm a segítséged! Ez a te mentési adataid. Kérlek válaszd ki az egészet (tartsd nyomva-> összes kiválasztása) másold ki (hosszan nyomva tartás -> másolás) és küld el e-mailben a fejlesztőnek:  general@cardswar.com",
+            "TXID_SAVEDATA": "köszönöm a segítséged! Ez a te mentési adataid. Kérlek válaszd ki az egészet (tartsd nyomva-> összes kiválasztása) másold ki (hosszan nyomva tartás -> másolás) és küld el e-mailben a fejlesztőnek:  dev@airapport.com",
             "TXID_SCORE": "Pontszám",
             "TXID_SEND": "Úgy néz ki, hogy a játék legutóbb összeomlott. Megpróbálhatod újratölteni a mentést vagy elküldeni az adatokat a fejlesztőnek. Átnézzük, és mielőbb javítjuk. Teljesen újraindíthaod a játékot, ha nem akarsz várni.",
             "TXID_SENDREPORT": "Jelentés küldése",

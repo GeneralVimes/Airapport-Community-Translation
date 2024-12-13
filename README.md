@@ -19,7 +19,7 @@ Copy en.json file under another name. Fill in the "lang_code" and "lang_selfname
 
 Test the translation on your game copy by placing the new file to data\translations\ folder, and once everything is ready, please, submit the new file to this repository to make it available for other players, and to be included into the mobile updates of the Airapport games, too
 
-If your language uses not a latin/cyrillic/vietnamese symbols, please, contact us via general@cardswars.com. We might need to prepare the game engine for new language first.
+If your language uses not a latin/cyrillic/vietnamese symbols, please, contact us via dev@airapport.com. We might need to prepare the game engine for new language first.
 
 Thank you for your help!
 

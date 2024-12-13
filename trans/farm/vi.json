@@ -1,7 +1,7 @@
 {
     "lang_code": "vi",
     "lang_selfname": "Tiếng Việt",
-    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email dev@airapport.com",
     "phrases": {
         "GROUP_farm_artifacts": {
             "CODE_aaa_untranslated": {
@@ -667,7 +667,7 @@
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
                 "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
                 "TXID_TIMEUNIT_HOUR_SHORT": "h",
@@ -839,7 +839,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Quà tặng đã sẵn sàng!",
             "TXID_MSG_CLIPBOARD": "tập tin văn bản được sao chép vào clipboard. Bạn có thể lưu trữ nó ở đâu đó hoặc gửi email cho chính mình để có thể khôi phục tháp",
             "TXID_MSG_COMPATARTIFACTS": "Hiện vật tương thích",
-            "TXID_MSG_EMAILBODY": "(Xin vui lòng viết email này để general@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(Xin vui lòng viết email này để dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Bạn có muốn có thêm sau khi xem quảng cáo ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(chỉ tăng chứ không phải bỏ ra để, sẽ được tăng gấp đôi)",
             "TXID_MSG_GAINMORESKIPADS": "Bạn có muốn có thêm (không có quảng cáo)?",
@@ -872,7 +872,7 @@
             "TXID_PURCH_SUCCESS": "Mua thành công!",
             "TXID_RESTOREFAILED": "Khôi phục thất bại",
             "TXID_RESTOREPURCHASES": "Khôi phục mua hàng",
-            "TXID_SAVEDATA": "Đánh giá cao sự giúp đỡ của bạn! Đây là bạn tiết kiệm dữ liệu. Xin vui lòng, chọn tất cả (dài báo chí -> chọn tất cả), sao chép (báo chí dài -> sao chép) và gửi email cho nhà phát triển: general@cardswar.com",
+            "TXID_SAVEDATA": "Đánh giá cao sự giúp đỡ của bạn! Đây là bạn tiết kiệm dữ liệu. Xin vui lòng, chọn tất cả (dài báo chí -> chọn tất cả), sao chép (báo chí dài -> sao chép) và gửi email cho nhà phát triển: dev@airapport.com",
             "TXID_SCORE": "Ghi bàn",
             "TXID_SEND": "Trông giống như các trò chơi bị rơi thời gian qua. Bạn có thể thử tải này tiết kiệm lại hoặc gửi dữ liệu đến các nhà phát triển. Chúng tôi sẽ nhìn vào nó và sửa chữa càng sớm càng tốt. Bạn cũng có thể hoàn toàn khởi động lại trò chơi nếu bạn không muốn đợi",
             "TXID_SENDREPORT": "Gửi báo cáo",

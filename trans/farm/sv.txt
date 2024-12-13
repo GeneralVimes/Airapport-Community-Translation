@@ -595,7 +595,7 @@ TXID_MSGCAP_CREDITSTHANKSSOUNDS	Sound by	Sound by
 TXID_MSGCAP_CREDITSTHANKSSPECIAL	Special thanks to	Special thanks to
 TXID_MSGCAP_CREDITSTHANKSTRANSLATORS	Many thanks to translators	Many thanks to translators
 TXID_SEND_COPIEDSAVEDATA	The text with your save data was copied to clipboard	The text with your save data was copied to clipboard
-TXID_SEND_SAVEDATA	Please, send it by email to the developer: general@cardswar.com	Please, send it by email to the developer: general@cardswar.com
+TXID_SEND_SAVEDATA	Please, send it by email to the developer: dev@airapport.com	Please, send it by email to the developer: dev@airapport.com
 TXID_TIMEBON_TIMESPEED	Time speed	Time speed
 TXID_UMP_ADSONLYREW	Game does not show ads without your approval	Game does not show ads without your approval
 TXID_UMP_CONSENTEXPL	Please, give your consent to let the game load advertisement which will provide rewards.	Please, give your consent to let the game load advertisement which will provide rewards.
@@ -744,7 +744,7 @@ TXID_MSGCAP_VICTORY	Victory! You reached the highest designed level! You can kee
 TXID_MSGCAP_YOURECEIVED	You received	Du fick
 TXID_MSG_CAP_REWARD_READY	Gift ready!	Gåva redo!
 TXID_MSG_CLIPBOARD	Text file was copied to clipboard. You can store it somewhere or email to yourself to be able to restore the tower	Textfilen kopierades till Urklipp. Du kan lagra den någonstans eller maila till dig själv för att kunna återställa tornet
-TXID_MSG_EMAILBODY	(Please, write this email to general@cardswars.com)	(Vänligen skriv det här e-postmeddelandet till general@cardswars.com)
+TXID_MSG_EMAILBODY	(Please, write this email to dev@airapport.com)	(Vänligen skriv det här e-postmeddelandet till dev@airapport.com)
 TXID_MSG_GAINMOREAFTERADS	Would you like to gain more after watching ads?	Vill du få mer efter att ha tittat på annonser ?
 TXID_MSG_GAINMOREGAINSEXPL	(only gains, not spends, will be doubled)	(bara vinster, inte spenderar, kommer att fördubblas)
 TXID_MSG_GAINMORESKIPADS	Would you like to gain more (without ads)?	Vill du få mer (utan annonser)?
@@ -775,7 +775,7 @@ TXID_PURCHASESRESTORED	Purchases restored!	Inköp återställda!
 TXID_PURCH_SUCCESS	Purchase successful!	Köp framgångsrik!
 TXID_RESTOREFAILED	Restore failed	Återställ misslyckades
 TXID_RESTOREPURCHASES	Restore purchases	Återställa köp
-TXID_SAVEDATA	Appreciate your help! This is your save data. Please, select it all (long press -> select all), copy (long press -> copy) and send in email to the developer: general@cardswar.com	Uppskattar din hjälp! Detta är din spara data. Vänligen välj allt (lång tryck -> välj alla), kopiera (lång tryck -> kopiera) och skicka e-post till utvecklaren: general@cardswar.com
+TXID_SAVEDATA	Appreciate your help! This is your save data. Please, select it all (long press -> select all), copy (long press -> copy) and send in email to the developer: dev@airapport.com	Uppskattar din hjälp! Detta är din spara data. Vänligen välj allt (lång tryck -> välj alla), kopiera (lång tryck -> kopiera) och skicka e-post till utvecklaren: dev@airapport.com
 TXID_SCORE	Score	Göra
 TXID_SEND	Looks like the game crashed last time. You can try loading this save again or send the data to the developer. We will look at it and fix as soon as possible. You can also completely restart the game if you don't want to wait	Ser ut som att spelet kraschade förra gången. Du kan försöka ladda den här spara igen eller skicka data till utvecklaren. Vi kommer att titta på det och fixa så snart som möjligt. Du kan också helt starta om spelet om du inte vill vänta
 TXID_SENDREPORT	Send report	Skicka rapport

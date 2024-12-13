@@ -1,7 +1,7 @@
 {
     "lang_code": "hr",
     "lang_selfname": "Hrvatski",
-    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email dev@airapport.com",
     "phrases": {
         "GROUP_farm_artifacts": {
             "CODE_aaa_untranslated": {
@@ -669,7 +669,7 @@
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
                 "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
                 "TXID_TIMEUNIT_HOUR_SHORT": "h",
@@ -839,7 +839,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Dar spreman!",
             "TXID_MSG_CLIPBOARD": "Tekstualna datoteka je kopirana u međuspremnik. Možete ga pohraniti negdje ili e-mail za sebe kako biste mogli vratiti toranj",
             "TXID_MSG_COMPATARTIFACTS": "Kompatibilni artefakti",
-            "TXID_MSG_EMAILBODY": "(Molimo, napišite ovu poruku e-pošte na General@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(Molimo, napišite ovu poruku e-pošte na dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Želite li dobiti više nakon gledanja oglasa?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(samo dobitke, ne troši, bit će udvostručen)",
             "TXID_MSG_GAINMORESKIPADS": "Želite li dobiti više (bez oglasa)?",
@@ -872,7 +872,7 @@
             "TXID_PURCH_SUCCESS": "Kupite uspješne!",
             "TXID_RESTOREFAILED": "Vraćanje nije uspjelo",
             "TXID_RESTOREPURCHASES": "Vratite kupnju",
-            "TXID_SAVEDATA": "Cijenimo vašu pomoć! Ovo je vaš spremi podatak. Odaberite sve (dugi pritisak -> odaberite sve), kopirajte (dugi pritisak -> Kopiraj) i pošaljite e-poštu na razvojni programer: General@cardswar.com",
+            "TXID_SAVEDATA": "Cijenimo vašu pomoć! Ovo je vaš spremi podatak. Odaberite sve (dugi pritisak -> odaberite sve), kopirajte (dugi pritisak -> Kopiraj) i pošaljite e-poštu na razvojni programer: dev@airapport.com",
             "TXID_SCORE": "Postići",
             "TXID_SEND": "Izgleda da je igra srušila posljednji put. Možete pokušati učitavanje ovog spremanja ili poslati podatke s programerima. Pogledat ćemo ga i popraviti što je prije moguće. Također možete potpuno ponovno pokrenuti igru ​​ako ne želite čekati",
             "TXID_SENDREPORT": "Pošalji izvještaj",

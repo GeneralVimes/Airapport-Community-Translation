@@ -1,7 +1,7 @@
 {
     "lang_code": "no",
     "lang_selfname": "Norsk",
-    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email dev@airapport.com",
     "phrases": {
         "GROUP_farm_artifacts": {
             "CODE_aaa_untranslated": {
@@ -669,7 +669,7 @@
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
                 "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
                 "TXID_TIMEUNIT_HOUR_SHORT": "h",
@@ -839,7 +839,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Gave klar!",
             "TXID_MSG_CLIPBOARD": "Tekstfilen ble kopiert til utklippstavlen. Du kan lagre det et sted eller e-post til deg selv for å kunne gjenopprette tårnet",
             "TXID_MSG_COMPATARTIFACTS": "Kompatible artefakter",
-            "TXID_MSG_EMAILBODY": "(Vennligst skriv denne e-posten til general@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(Vennligst skriv denne e-posten til dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Vil du få mer etter å ha sett annonser ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(bare gevinster, ikke tilbringer, vil bli doblet)",
             "TXID_MSG_GAINMORESKIPADS": "Vil du få mer (uten annonser)?",
@@ -872,7 +872,7 @@
             "TXID_PURCH_SUCCESS": "Kjøp vellykket!",
             "TXID_RESTOREFAILED": "Gjenoppretting mislyktes",
             "TXID_RESTOREPURCHASES": "Gjenopprette kjøp",
-            "TXID_SAVEDATA": "Setter pris på din hjelp! Dette er dine lagre data. Vennligst velg alt (Langt trykk -> Velg alle), Kopier (Langt trykk -> Kopier) og send inn e-post til utvikleren: General@Cardswar.com",
+            "TXID_SAVEDATA": "Setter pris på din hjelp! Dette er dine lagre data. Vennligst velg alt (Langt trykk -> Velg alle), Kopier (Langt trykk -> Kopier) og send inn e-post til utvikleren: dev@airapport.com",
             "TXID_SCORE": "Score",
             "TXID_SEND": "Ser ut som spillet krasjet forrige gang. Du kan prøve å laste inn denne lagre igjen eller sende dataene til utvikleren. Vi vil se på det og fikse så snart som mulig. Du kan også helt starte spillet helt hvis du ikke vil vente",
             "TXID_SENDREPORT": "Send rapport",

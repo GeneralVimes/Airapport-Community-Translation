@@ -1,7 +1,7 @@
 {
     "lang_code": "ro",
     "lang_selfname": "Limba română",
-    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email dev@airapport.com",
     "lang_translator": "Madalin Buricea aka madliv",
     "phrases": {
         "GROUP_general_interface": {
@@ -181,7 +181,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Cadou gata!",
             "TXID_MSG_CLIPBOARD": "fișier text a fost copiat în clipboard. Puteți să-l stoca undeva sau e-mail pentru a te pentru a fi capabil de a restabili jocul",
             "TXID_MSG_COMPATARTIFACTS": "Artefacte compatibile",
-            "TXID_MSG_EMAILBODY": "(Vă rugăm, scrie acest e-mail la general@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(Vă rugăm, scrie acest e-mail la dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Doriți să câștigi mai mult după vizionarea anunțurilor ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(doar câștigurile, nu și timpul, va fi dublat)",
             "TXID_MSG_GAINMORESKIPADS": "Doriți să câștige mai mult (fără anunțuri)?",
@@ -214,12 +214,12 @@
             "TXID_PURCH_SUCCESS": "Achiziționați de succes!",
             "TXID_RESTOREFAILED": "Restabilirea nu a reușit",
             "TXID_RESTOREPURCHASES": "Restaurare achiziții",
-            "TXID_SAVEDATA": "Apreciez ajutorul tau! Aceasta este Ecomomisi date. Vă rugăm, selectați totul (apăsați lung -> selectați toate), copiați (apăsați lung -> copie) și trimite în e-mail la dezvoltator: general@cardswar.com",
+            "TXID_SAVEDATA": "Apreciez ajutorul tau! Aceasta este Ecomomisi date. Vă rugăm, selectați totul (apăsați lung -> selectați toate), copiați (apăsați lung -> copie) și trimite în e-mail la dezvoltator: dev@airapport.com",
             "TXID_SCORE": "Scor",
             "TXID_SEND": "Se pare ca jocul sa prăbușit ultima dată. Puteți încerca încărcarea acestei salvați din nou sau trimite datele la dezvoltator. Ne vom uita la ea și să stabilească cât mai curând posibil. De asemenea, puteți reporni complet jocul, dacă nu doriți să așteptați",
             "TXID_SENDREPORT": "Trimiteți raportul",
             "TXID_SEND_COPIEDSAVEDATA": "Textul cu datele de salvare a fost copiat în clipboar",
-            "TXID_SEND_SAVEDATA": "Vă rugăm să o trimiteți prin e-mail la dezvoltator: general@cardswar.com",
+            "TXID_SEND_SAVEDATA": "Vă rugăm să o trimiteți prin e-mail la dezvoltator: dev@airapport.com",
             "TXID_SOMETHINGWRONG": "Ceva n-a mers bine...",
             "TXID_STARTNEW": "resetare completă",
             "TXID_SUCCESS": "Succes!",

@@ -1,7 +1,7 @@
 {
     "lang_code": "ms",
     "lang_selfname": "Bahasa Melayu",
-    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Might contain some auto translated phrases. If you'd like to improve the translation, please, email dev@airapport.com",
     "lang_translator": "Irfan Najmi",
     "phrases": {
         "GROUP_farm_artifacts": {
@@ -668,7 +668,7 @@
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
                 "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
                 "TXID_TIMEUNIT_HOUR_SHORT": "h",
@@ -840,7 +840,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Hadiah bersedia!",
             "TXID_MSG_CLIPBOARD": "fail teks disalin ke papan keratan. Anda boleh menyimpannya di suatu tempat atau e-mel kepada diri sendiri untuk dapat memulihkan menara",
             "TXID_MSG_COMPATARTIFACTS": "Artifak yang serasi",
-            "TXID_MSG_EMAILBODY": "(Sila, menulis e-mel ini kepada general@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(Sila, menulis e-mel ini kepada dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Adakah anda ingin untuk mendapatkan lebih banyak selepas menonton iklan ?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(hanya keuntungan, tidak membelanjakan, akan dua kali ganda)",
             "TXID_MSG_GAINMORESKIPADS": "Adakah anda ingin untuk mendapatkan lebih banyak (tanpa iklan)?",
@@ -873,7 +873,7 @@
             "TXID_PURCH_SUCCESS": "Membeli berjaya!",
             "TXID_RESTOREFAILED": "memulihkan gagal",
             "TXID_RESTOREPURCHASES": "mengembalikan pembelian",
-            "TXID_SAVEDATA": "Menghargai bantuan anda! Ini adalah anda save data. Sila, pilih semua (tekan lama -> pilih semua), menyalin (tekan lama -> salinan) dan hantar dalam e-mel kepada pemaju: general@cardswar.com",
+            "TXID_SAVEDATA": "Menghargai bantuan anda! Ini adalah anda save data. Sila, pilih semua (tekan lama -> pilih semua), menyalin (tekan lama -> salinan) dan hantar dalam e-mel kepada pemaju: dev@airapport.com",
             "TXID_SCORE": "Rata",
             "TXID_SEND": "Nampaknya permainan terhempas kali terakhir. Anda boleh cuba memuatkan ini jimat lagi atau menghantar data kepada pemaju. Kita akan melihat dan menetapkan secepat mungkin. Anda juga boleh sama sekali memulakan semula permainan jika anda tidak mahu menunggu",
             "TXID_SENDREPORT": "Hantar laporan",

@@ -1,7 +1,7 @@
 {
     "lang_code": "ca",
     "lang_selfname": "Català",
-    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email general@cardswars.com",
+    "lang_translation_comment": "Auto translated. If you'd like to improve the translation, please, email dev@airapport.com",
     "phrases": {
         "GROUP_farm_artifacts": {
             "CODE_aaa_untranslated": {
@@ -669,7 +669,7 @@
                 "TXID_MSGCAP_CREDITSTHANKSSPECIAL": "Special thanks to",
                 "TXID_MSGCAP_CREDITSTHANKSTRANSLATORS": "Many thanks to translators",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
-                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: general@cardswar.com",
+                "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",
                 "TXID_TIMEUNIT_DAY_SHORT": "d",
                 "TXID_TIMEUNIT_HOUR_SHORT": "h",
@@ -839,7 +839,7 @@
             "TXID_MSG_CAP_REWARD_READY": "Regal Ready!",
             "TXID_MSG_CLIPBOARD": "El fitxer de text es va copiar al porta-retalls. Podeu emmagatzemar-lo en algun lloc o envieu-vos un correu electrònic a vosaltres mateixos per poder restaurar la torre",
             "TXID_MSG_COMPATARTIFACTS": "Artefactes compatibles",
-            "TXID_MSG_EMAILBODY": "(Si us plau, escriviu aquest correu electrònic a general@cardswars.com)",
+            "TXID_MSG_EMAILBODY": "(Si us plau, escriviu aquest correu electrònic a dev@airapport.com)",
             "TXID_MSG_GAINMOREAFTERADS": "Voleu guanyar més després de veure anuncis?",
             "TXID_MSG_GAINMOREGAINSEXPL": "(només els guanys, no gastaran, es duplicaran)",
             "TXID_MSG_GAINMORESKIPADS": "Voleu guanyar més (sense anuncis)?",
@@ -872,7 +872,7 @@
             "TXID_PURCH_SUCCESS": "Compra amb èxit!",
             "TXID_RESTOREFAILED": "La restauració ha fallat",
             "TXID_RESTOREPURCHASES": "Restaurar les compres",
-            "TXID_SAVEDATA": "Aprecieu la vostra ajuda! Aquestes són les vostres dades. Si us plau, seleccioneu-ho tot (premsa llarga -> Seleccioneu-ho tot), copieu (premsa llarga -> còpia) i envieu el correu electrònic al desenvolupador: general@cardswar.com",
+            "TXID_SAVEDATA": "Aprecieu la vostra ajuda! Aquestes són les vostres dades. Si us plau, seleccioneu-ho tot (premsa llarga -> Seleccioneu-ho tot), copieu (premsa llarga -> còpia) i envieu el correu electrònic al desenvolupador: dev@airapport.com",
             "TXID_SCORE": "Resultat",
             "TXID_SEND": "Sembla que el joc es va estavellar per última vegada. Podeu provar de carregar-lo de nou o enviar les dades al desenvolupador. Ho veurem i solucionarem el més aviat possible. També podeu reiniciar completament el joc si no voleu esperar",
             "TXID_SENDREPORT": "Envia l'informe",
