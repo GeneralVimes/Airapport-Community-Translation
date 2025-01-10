@@ -3,7 +3,6 @@
     "lang_selfname": "Русский",
     "phrases": {
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",
@@ -283,6 +282,7 @@
             "TXID_CURR_NAME_GEMS": "Рубины"
         },
         "GROUP_tower_game_elements": {
+            "CODE_aaa_untranslated": {},
             "TXID_BABELSKIN_CLASSIC": "классический",
             "TXID_BABELSKIN_WINTER": "Зима",
             "TXID_CAP_AVAILABLETOWERS": "Доступные башни",
@@ -325,6 +325,8 @@
             "TXID_MSGCAP_FUTUREGB_END": "Золотых кирпичей",
             "TXID_MSGCAP_FUTUREGB_START": "Если вы перезапустите строительство сейчас, вы получите",
             "TXID_MSGCAP_TOWERLOCKED": "Башня закрыта",
+            "TXID_MSGCAP_TUT_TODOCAP": "Доступны новые задания",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Выполняйте задания и зарабатывайте ценные ресурсы",
             "TXID_MSG_BRICKSBUYCONFIRMATION_BEG": "Вы точно хотите потратить",
             "TXID_MSG_BRICKSBUYCONFIRMATION_END": "",
             "TXID_MSG_BRICKSBUYCONFIRMATION_MID": "Золотых кирпичей и купить",
@@ -348,6 +350,8 @@
             "TXID_SEND_SPACEMACHINESCAP": "Космические машины для Вавилонской Башни!",
             "TXID_SEND_SPACEMACHINESTEXT": "Мои идеи для следующих этажей:",
             "TXID_SET_AUTOBUY": "Автоматически покупать апгрейды после рестарта (потратив 0.01% ресурсов)",
+            "TXID_TODO_UGRADE": "Выполнить обновление",
+            "TXID_TODO_UGRADETRANSP": "Улучшить тележку-транспортер",
             "TXID_VOTETOWER": "Проголосуйте: какую следующую башню вы хотите построить в игре?",
             "TXID_WORLDDESC_BABELTOWER": "Постройте башню до неба и выше!",
             "TXID_WORLDDESC_BABELTOWER_CONTEST": "Соревнуйтесь с другими игроками в строительстве самую высокую башню в течение ограниченного времени",
@@ -504,7 +508,6 @@
             "TXID_WATERWELLRESTORATION": "Скорость восстановления воды"
         },
         "GROUP_tower_rewards": {
-            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "Бонусное время",
             "TXID_REW_DECWAITTIME": "Время ожидания уменьшилось",
             "TXID_REW_DISCPURCH": "Покупка со скидкой",

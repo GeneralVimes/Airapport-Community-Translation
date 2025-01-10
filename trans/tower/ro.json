@@ -5,7 +5,6 @@
     "lang_translator": "Madalin Buricea aka madliv",
     "phrases": {
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "OBȚINE!",
             "TXID_ANS_TRYBACKUP": "Anula",
             "TXID_AREYOUWITHME": "Esti cu mine?",
@@ -288,7 +287,11 @@
             "CODE_aaa_untranslated": {
                 "TXID_CAP_RUBYBOOST_QUESTION": "Would you like to boost _0_ by _1_ for _2_?",
                 "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Select machines to boost with rubies",
-                "TXID_SET_AUTOBUY": "Automatically buy upgrades after restart (spending 0.01% of resources)"
+                "TXID_MSGCAP_TUT_TODOCAP": "New tasks are available",
+                "TXID_MSGCAP_TUT_TODOEXPL": "Complete the tasks and earn valuable resources",
+                "TXID_SET_AUTOBUY": "Automatically buy upgrades after restart (spending 0.01% of resources)",
+                "TXID_TODO_UGRADE": "Perform upgrade",
+                "TXID_TODO_UGRADETRANSP": "Upgrade the transporter cart"
             },
             "TXID_BABELSKIN_CLASSIC": "Clasic",
             "TXID_BABELSKIN_WINTER": "Iarnă",

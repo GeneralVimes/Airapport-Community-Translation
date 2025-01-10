@@ -285,6 +285,12 @@
             "TXID_CURR_NAME_GEMS": "Rubis"
         },
         "GROUP_tower_game_elements": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_TODOCAP": "New tasks are available",
+                "TXID_MSGCAP_TUT_TODOEXPL": "Complete the tasks and earn valuable resources",
+                "TXID_TODO_UGRADE": "Perform upgrade",
+                "TXID_TODO_UGRADETRANSP": "Upgrade the transporter cart"
+            },
             "TXID_BABELSKIN_CLASSIC": "Clássico",
             "TXID_BABELSKIN_WINTER": "Inverno",
             "TXID_CAP_AVAILABLETOWERS": "torres disponíveis",

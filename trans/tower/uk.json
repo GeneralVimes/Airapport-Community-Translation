@@ -3,7 +3,6 @@
     "lang_selfname": "Українська",
     "phrases": {
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ОТРИМАТИ!",
             "TXID_ANS_TRYBACKUP": "Скасувати",
             "TXID_AREYOUWITHME": "Ти зі мною?",
@@ -283,6 +282,7 @@
             "TXID_CURR_NAME_GEMS": "рубіни"
         },
         "GROUP_tower_game_elements": {
+            "CODE_aaa_untranslated": {},
             "TXID_BABELSKIN_CLASSIC": "класичний",
             "TXID_BABELSKIN_WINTER": "зима",
             "TXID_CAP_AVAILABLETOWERS": "доступні вежі",
@@ -325,6 +325,8 @@
             "TXID_MSGCAP_FUTUREGB_END": "Золотих Цеглин",
             "TXID_MSGCAP_FUTUREGB_START": "Якщо ви перезапустите будівництво зараз, ви отримаєте",
             "TXID_MSGCAP_TOWERLOCKED": "вежу закрито",
+            "TXID_MSGCAP_TUT_TODOCAP": "Доступні нові завдання",
+            "TXID_MSGCAP_TUT_TODOEXPL": "Виконуйте завдання та заробляйте цінні ресурси",
             "TXID_MSG_BRICKSBUYCONFIRMATION_BEG": "Ви дійсно бажаєте витратити",
             "TXID_MSG_BRICKSBUYCONFIRMATION_END": "",
             "TXID_MSG_BRICKSBUYCONFIRMATION_MID": "Золотих Цеглин та купити",
@@ -348,6 +350,8 @@
             "TXID_SEND_SPACEMACHINESCAP": "Космічні машини для Вавилонської вежі!",
             "TXID_SEND_SPACEMACHINESTEXT": "Мої ідеї для наступних поверхів:",
             "TXID_SET_AUTOBUY": "Автоматично купувати апгрейди після рестарту (витративши 0.01% ресурсів)",
+            "TXID_TODO_UGRADE": "Виконати апгрейд",
+            "TXID_TODO_UGRADETRANSP": "Апгрейдніть транспортний візок",
             "TXID_VOTETOWER": "Проголосуйте: яку наступну вежу ви хочете побудувати в грі?",
             "TXID_WORLDDESC_BABELTOWER": "Побудуйте веду до неба вище!",
             "TXID_WORLDDESC_BABELTOWER_CONTEST": "Змагаються з іншими гравцями в будівництві найвищу вежу в протягом обмеженого часу",
@@ -504,7 +508,6 @@
             "TXID_WATERWELLRESTORATION": "Швидкість відновлення води"
         },
         "GROUP_tower_rewards": {
-            "CODE_aaa_untranslated": {},
             "TXID_REW_BONUSTIME": "Бонусний час",
             "TXID_REW_DECWAITTIME": "Зменшився час очікування",
             "TXID_REW_DISCPURCH": "Покупка зі знижкою",
