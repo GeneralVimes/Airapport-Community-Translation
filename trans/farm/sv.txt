@@ -209,7 +209,7 @@ TXID_MACH_NAME_LIBRARY	Library	Library
 TXID_MACH_NAME_PERFUMABOUTIQUE	Perfume boutique	Perfume boutique
 TXID_MACH_NAME_PERFUMELAB	Perfume laboratory	Perfume laboratory
 TXID_MACH_NAME_PERFUMEMAKER	Perfume maker	Perfume maker
-TXID_MACH_NAME_PERFUMESELLER	Pefume seller	Pefume seller
+TXID_MACH_NAME_PERFUMESELLER	Perfume seller	Perfume seller
 TXID_MACH_NAME_SEWINGMACHINE	Sewing machine	Sewing machine
 TXID_MACH_NAME_TAYLOR	Taylor	Taylor
 TXID_MACH_NAME_TEXTILEMACHINE	Textile machine	Textile machine
@@ -263,7 +263,7 @@ TXID_MACH_DESC_GARDEN	Grows lemon trees	Odlar citronträd
 TXID_MACH_DESC_GARDENER	Gathers fruit and help lemons ripe faster	Samlar frukt och hjälper citroner mogna snabbare
 TXID_MACH_DESC_GAS	Produces gasoline from oil	Producerar bensin från olja
 TXID_MACH_DESC_GASSTORAGE	Fuel is stored here	Bränsle lagras här
-TXID_MACH_DESC_GROCERY	Stores various types of food forselling	Lagrar olika typer av mat
+TXID_MACH_DESC_GROCERY	Stores various types of food  for selling	Lagrar olika typer av mat
 TXID_MACH_DESC_GROCERYCASHIER	Sells food from the grocery store	Säljer mat från livsmedelsbutiken
 TXID_MACH_DESC_HATA	Produces living space	Producerar bostadsutrymme
 TXID_MACH_DESC_KITCHEN	Cooks dishes from vegetables	Kockar rätter från grönsaker
@@ -488,7 +488,7 @@ TXID_MSGCAP_TUT_AWAYPHRASE	You were away for	Du var borta för
 TXID_MSGCAP_TUT_BACK2FARMAFTERCLAY	Let's return to the farm to grow more food and earn more money in the meanwhile	Låt oss återvända till gården för att växa mer mat och tjäna mer pengar under tiden
 TXID_MSGCAP_TUT_BERTHTAP	Plants need water to grow. Tap the berth to start delivering the water from the river	Växter behöver vatten att växa. Tryck på kajen för att börja leverera vattnet från floden
 TXID_MSGCAP_TUT_BONUSTIMEEARN	Time bonus received	Tidsbonus mottagen
-TXID_MSGCAP_TUT_BUILDHOUSE	Let's build more houses to accomodate more people	Låt oss bygga fler hus för att passa fler människor
+TXID_MSGCAP_TUT_BUILDHOUSE	Let's build more houses to accommodate more people	Låt oss bygga fler hus för att passa fler människor
 TXID_MSGCAP_TUT_BUYCLAYPIT	Now you can buy a Clay pit. It produces clay, which is needed to produce bricks and build houses	Nu kan du köpa en lera grop. Det producerar lera, vilket behövs för att producera tegelstenar och bygga hus
 TXID_MSGCAP_TUT_CANHIREFARMERS	You can hire a farmer now	Du kan anställa en bonde nu
 TXID_MSGCAP_TUT_CHOP	Tap the Forest to chop wood. Chopping will go on automatically	Tryck på skogen för att hugga trä. Chopping kommer att gå på automatiskt
@@ -499,7 +499,7 @@ TXID_MSGCAP_TUT_FARMGATHERTAP	The farm has crops ready to be harvested. Tap the 
 TXID_MSGCAP_TUT_FARMSEEDTAP	Soil is ready! Tap the farm to seed plants	Jord är redo! Tryck på gården till fröplantor
 TXID_MSGCAP_TUT_FARMTRANSPORTTAP	Tap the basket to deliver the gathered vegetables to the storage	Tryck på korgen för att leverera de samlade grönsakerna till lagringen
 TXID_MSGCAP_TUT_FIRSTEARNINGS	You have earned money and the population has grown!	Du har tjänat pengar och befolkningen har vuxit!
-TXID_MSGCAP_TUT_INDUSTRY	Industry allows you to build houses to accomodate more people and to produce goods	Industri gör att du kan bygga hus för att passa fler människor och att producera varor
+TXID_MSGCAP_TUT_INDUSTRY	Industry allows you to build houses to accommodate more people and to produce goods	Industri gör att du kan bygga hus för att passa fler människor och att producera varor
 TXID_MSGCAP_TUT_INVENTED	You have invented	Du har uppfunnit
 TXID_MSGCAP_TUT_INVENTOR	Look! Inventor!	Se! Uppfinnare!
 TXID_MSGCAP_TUT_INVENTOREXPL	Sometimes inventors walk along the streets. Click them to collect ideas and unlock new inventions	Ibland går uppfinnare längs gatorna. Klicka på dem för att samla in idéer och låsa upp nya uppfinningar
@@ -548,7 +548,7 @@ TXID_UPGRNAME_FISHERSIMULTAN	Simultaneous catches	Samtidiga fångster
 TXID_UPGRNAME_FORESTGROWTHSPEED	Growth speed	Tillväxthastighet
 TXID_UPGRNAME_FORESTMAXTREES	Max trees	Max träd
 TXID_UPGRNAME_GARDENER_LEMONSGATHERED	Lemons gathered by the gardener	Citroner samlade av trädgårdsmästaren
-TXID_UPGRNAME_GARDENER_LEMONSRIPING	Speed of lemons riping	Hastighet av citroner ripning
+TXID_UPGRNAME_GARDENER_LEMONSRIPING	Speed of lemons ripening	Hastighet av citroner ripning
 TXID_UPGRNAME_GRASSGROWTHONPASTURE	Grass growth speed	Gräs tillväxthastighet
 TXID_UPGRNAME_GRASSONPASTURE	Max grass on the pasture	Max gräs på betesmarken
 TXID_UPGRNAME_GROCERY_PRICE_BONUS	Price bonus	Prisbonus
