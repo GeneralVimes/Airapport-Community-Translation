@@ -532,6 +532,10 @@
             "TXID_REW_TIMEFORWARD": "timp înainte"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "S-ar putea dori să plasați Autoclicker pe un anumit obiect sau altul, în funcție de care este nevoie în prezent de putere suplimentară cel mai mult.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Apăsați stocare pentru a începe transferul de piatra la Saw",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Apăsați stocare pentru a începe transferul lemnul la Depozit de lemne",

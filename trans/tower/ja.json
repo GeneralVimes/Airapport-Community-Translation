@@ -533,6 +533,10 @@
             "TXID_REW_TIMEFORWARD": "前進します"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "現在最も多くのパワーを必要とするかに応じて、オートリッカーをあるオブジェクトに配置することをお勧めします。",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "ストレージをタップして、石をのこぎりに転送し始めます",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "ストレージをタップして、木材を製材所に転送し始めます",

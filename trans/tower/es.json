@@ -534,6 +534,10 @@
             "TXID_REW_TIMEFORWARD": "tiempo hacia adelante"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Es posible que desee colocar el autoclicker en un objeto u otra, dependiendo de lo que actualmente necesita energía adicional al máximo.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Mantenga el ratón pulsado en el almacenamiento para transferir la piedra a la sierra",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Mantenga el ratón pulsado en el almacenamiento para transferir la madera a la sierra y hacer tablones",

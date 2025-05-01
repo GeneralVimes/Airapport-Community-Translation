@@ -533,6 +533,10 @@
             "TXID_REW_TIMEFORWARD": "앞으로 시간"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "현재 추가 전력이 가장 필요한 것에 따라 AutoClicker를 한 객체 또는 다른 객체에 배치 할 수 있습니다.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "스토리지를 탭하여 돌을 톱으로 옮기기 시작하십시오.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "스토리지를 탭하여 목재를 목재 밀릴로 전송하기 시작하십시오.",

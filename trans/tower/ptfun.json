@@ -531,6 +531,10 @@
             "TXID_REW_TIMEFORWARD": "frente tempo"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Você pode querer colocar o Autoclicker em um objeto ou de outra, dependendo de qual precisa atualmente de energia adicional a mais.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Toque no armazenamento para começar a transferir a pedra para a serra",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Toque no armazenamento para iniciar a transferência a madeira para serraria",

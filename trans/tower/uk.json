@@ -282,7 +282,6 @@
             "TXID_CURR_NAME_GEMS": "рубіни"
         },
         "GROUP_tower_game_elements": {
-            "CODE_aaa_untranslated": {},
             "TXID_BABELSKIN_CLASSIC": "класичний",
             "TXID_BABELSKIN_WINTER": "зима",
             "TXID_CAP_AVAILABLETOWERS": "доступні вежі",
@@ -525,6 +524,10 @@
             "TXID_REW_TIMEFORWARD": "час вперед"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Ви можете розмістити Автокликер на той чи інший об'єкт, в залежності від того, який в даний час потребує додаткової потужності найбільше.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Утримуйте натискання миші на складі, щоб передати камінь на Пилу і зробити Цеглу",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Утримуйте натискання миші на складі, щоб передати дерево на Лісопилку і зробити Дошки",

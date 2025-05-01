@@ -546,6 +546,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Mine more stone to continue the cycle",
             "TXID_MSGCAP_TUT_MORERESTART": "Because Golden Bricks boost 3 game parameters: production, clicker power and market prices, their effect is huge. It's a good moment now to restart your building to gain more Golden Bricks",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Gaining Golden Bricks is essential for tower building",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Tap the tent to produce bricks quicker. Work will go on automatically",
             "TXID_MSGCAP_TUT_RESTART": "Check which bonuses will you gain if you restart the building"
         },

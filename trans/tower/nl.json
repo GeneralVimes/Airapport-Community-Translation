@@ -531,6 +531,10 @@
             "TXID_REW_TIMEFORWARD": "Tijd vooruit"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Je kunt de autoklikker op één object tegelijk zetten. Je kunt deze verplaatsen naar het object wat het meest moet produceren. ",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Tik op de opslag om de steen naar de zaag te verplaatsen",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Tik op de opslag om het hout naar de houtmolen te verplaatsen",

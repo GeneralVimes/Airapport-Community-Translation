@@ -533,6 +533,10 @@
             "TXID_REW_TIMEFORWARD": "Zaman ileri"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Tek bir nesne ya da bir başka üzerinde autoclicker yerleştirmek isteyebilirsiniz, hangi bağlı olarak bir anda en ek enerjiye ihtiyaç duyar.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Testere için taş devrine başlayacak Depolama dokunun",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Odun için Wood aktarmaya başlamak için Depolama dokunun",

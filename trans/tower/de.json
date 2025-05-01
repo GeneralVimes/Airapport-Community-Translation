@@ -534,6 +534,10 @@
             "TXID_REW_TIMEFORWARD": "Zeit vorwärts"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Sie könnten die Autoclicker auf ein Objekt oder eine andere, je nachdem, welche zur Zeit braucht zusätzliche Energie die meisten platzieren möchten.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Halte die Maus auf dem Lager gedrückt um den Stein zum Ziegler zu transportieren",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Halte die Maus auf dem Lager gedrückt um das Holz zur Sägemühle zu transportieren",

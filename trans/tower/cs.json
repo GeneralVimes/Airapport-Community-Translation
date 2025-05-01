@@ -535,6 +535,10 @@
             "TXID_REW_TIMEFORWARD": "Čas zrýchlený"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možno budeš chcieť umiestniť autoklikač na nejaký objekt, v závislosti na tom, či potrebuje dodatočný výkon.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Klikni na Úložisko a začni prenášať kameň Výrobcovi Tehál",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Klikni na Úložisko a začni prenášať Drevo na Pílu",

@@ -534,6 +534,10 @@
             "TXID_REW_TIMEFORWARD": "waktu ke depan"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Anda mungkin ingin menempatkan AutoClicker pada satu objek atau lain, tergantung pada mana yang saat ini membutuhkan tenaga tambahan paling.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Tekan Storage untuk mulai mentransfer batu ke Saw yang",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Tekan Storage untuk memulai mentransfer Kayu ke Pabrik Kayu",

@@ -534,6 +534,10 @@
             "TXID_REW_TIMEFORWARD": "Czas do przodu"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Może chcesz umieścić autoclicker na jednym obiekcie lub inny, w zależności od tego, który z nich potrzebuje dodatkowego zasilania najbardziej.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Dotknij magazyn, żeby zacząć przewozić kamień do piły",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Dotknij magazyn, żeby zacząć przewozić drewno do tartaku",

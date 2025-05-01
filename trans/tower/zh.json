@@ -533,6 +533,10 @@
             "TXID_REW_TIMEFORWARD": "时间前进"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "您可能需要将自动化器放置在一个或另一个对象上，具体取决于当前最需要额外功率的对象。",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "点击存储以开始将石头转移到锯",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "点击存储以开始将木材转移到伐木工人",

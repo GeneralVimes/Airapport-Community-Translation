@@ -533,6 +533,10 @@
             "TXID_REW_TIMEFORWARD": "Keçən vaxt"
         },
         "GROUP_tower_tutorial": {
+            "CODE_aaa_untranslated": {
+                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
+                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
+            },
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Hal-hazırda hansının əlavə gücə daha çox ehtiyac duyduğundan asılı olaraq, avtoklikeri bu və ya digər obyektə yerləşdirmək istəyə bilərsiniz.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Daşı Daş Kəsənə köçürməyə başlamaq üçün Anbara toxunun",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Taxtanı Taxta Zavoduna köçürməyə başlamaq üçün Anbara toxunun",
