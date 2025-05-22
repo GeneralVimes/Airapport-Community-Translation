@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "La compra falló",
             "TXID_PURCHASESRESTORED": "Las compras restaurados!",
             "TXID_PURCH_SUCCESS": "Compra con éxito!",
+            "TXID_REP_TASK_QUEST": "¿Realmente quieres reemplazar esta tarea?",
+            "TXID_REP_TASK_WARN": "Esta tarea será reemplazada",
             "TXID_RESTOREFAILED": "restaurar fallado",
             "TXID_RESTOREPURCHASES": "Restaurar las compras",
             "TXID_SAVEDATA": "¡Aprecio tu ayuda! Esta es su guardar datos. Por favor, seleccione todo (pulsación larga -> seleccionar todo), copiar (pulsación larga -> copiar) y enviar correo electrónico al desarrollador: dev@airapport.com",
@@ -534,10 +536,7 @@
             "TXID_REW_TIMEFORWARD": "tiempo hacia adelante"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Es posible que desee colocar el autoclicker en un objeto u otra, dependiendo de lo que actualmente necesita energía adicional al máximo.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Mantenga el ratón pulsado en el almacenamiento para transferir la piedra a la sierra",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Mantenga el ratón pulsado en el almacenamiento para transferir la madera a la sierra y hacer tablones",
@@ -557,6 +556,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Mina de piedra más para continuar el ciclo",
             "TXID_MSGCAP_TUT_MORERESTART": "Debido a que Ladrillos de oro aumentan parámetros 3 juego: la producción de energía, clicker y los precios del mercado, su efecto es enorme. Es un momento bueno ahora para reiniciar el edificio de ladrillos para ganar más oro",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Ganando ladrillos de oro es esencial para la construcción de la torre",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No es necesario hacer mucho clic ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Este juego tiene un autoclic integrado. Simplemente haz clic en un objeto y empezará a funcionar. Mientras tanto, vende recursos o realiza mejoras.",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Toque en la carpa para producir ladrillos más rápido trabajo continúa mientras que el dedo se ha reducido",
             "TXID_MSGCAP_TUT_RESTART": "Compruebe qué bonos va a ganar si reinicia el edificio"
         },

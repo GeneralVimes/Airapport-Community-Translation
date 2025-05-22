@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "购买失败",
             "TXID_PURCHASESRESTORED": "购买恢复！",
             "TXID_PURCH_SUCCESS": "购买成功！",
+            "TXID_REP_TASK_QUEST": "您确实要替换这个任务吗？",
+            "TXID_REP_TASK_WARN": "此任务将被替换",
             "TXID_RESTOREFAILED": "还原失败",
             "TXID_RESTOREPURCHASES": "恢复购买",
             "TXID_SAVEDATA": "感谢你的帮助！这是您的保存数据。请选择全部（长按 - >选择全部），复制（长按 - >复制），然后发送电子邮件至开发人员：dev@airapport.com",
@@ -533,10 +535,7 @@
             "TXID_REW_TIMEFORWARD": "时间前进"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "您可能需要将自动化器放置在一个或另一个对象上，具体取决于当前最需要额外功率的对象。",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "点击存储以开始将石头转移到锯",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "点击存储以开始将木材转移到伐木工人",
@@ -556,6 +555,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "我更多的石头继续周期",
             "TXID_MSGCAP_TUT_MORERESTART": "由于金砖增强了3个游戏参数：生产，点击器的电力和​​市场价格，因此其效果很大。现在是重新启动建筑物以获得更多金砖的好时机",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "获得金砖对于塔楼是必不可少的",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "无需点击太多；）",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "这款游戏内置自动点击器。只需点击一个物体，它就会开始工作。同时出售资源或进行升级",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "点击帐篷以更快地生产砖块。工作将自动进行",
             "TXID_MSGCAP_TUT_RESTART": "检查如果重新启动建筑物，您将获得哪些奖金"
         },

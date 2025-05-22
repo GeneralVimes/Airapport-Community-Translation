@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "Zakup nieudany",
             "TXID_PURCHASESRESTORED": "Zakupy przywrócone!",
             "TXID_PURCH_SUCCESS": "Zakup udany!",
+            "TXID_REP_TASK_QUEST": "Czy na pewno chcesz zastąpić to zadanie?",
+            "TXID_REP_TASK_WARN": "To zadanie zostanie zastąpione",
             "TXID_RESTOREFAILED": "Przywracanie się nie powiodło",
             "TXID_RESTOREPURCHASES": "Przywróć zakupy",
             "TXID_SAVEDATA": "Doceniamy Twoją pomoc! To są Twoje zapisane dane. Zaznacz je wszystkie (długie kliknięcie -> zaznacz wszystko), kopiuj (długie kliknięcie -> kopiuj) i wyślij do dewelopera dev@airapport.com",
@@ -534,10 +536,7 @@
             "TXID_REW_TIMEFORWARD": "Czas do przodu"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Może chcesz umieścić autoclicker na jednym obiekcie lub inny, w zależności od tego, który z nich potrzebuje dodatkowego zasilania najbardziej.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Dotknij magazyn, żeby zacząć przewozić kamień do piły",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Dotknij magazyn, żeby zacząć przewozić drewno do tartaku",
@@ -557,6 +556,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Wydobywaj więcej kamienia aby kontynuować cykl",
             "TXID_MSGCAP_TUT_MORERESTART": "Ponieważ Złote Cegły zwiększyć parametry 3 gry: produkcja, moc zatrzaskowe i cen rynkowych, ich wpływ jest ogromny. To dobra chwila, aby ponownie uruchomić budynku, aby uzyskać więcej Złote Bricks",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Złoty zyskuje Bricks jest niezbędna do budowy wieży",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Nie ma potrzeby dużo klikać ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Ta gra ma wbudowany autokliker. Wystarczy kliknąć raz na obiekt, a zacznie działać. W międzyczasie sprzedawaj zasoby lub dokonuj ulepszeń",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Dotknij namiotu, aby szybciej produkować cegły. Praca będzie kontynuowana automatycznie",
             "TXID_MSGCAP_TUT_RESTART": "Sprawdź jakie bonusy otrzymasz jeśli zrestartujesz budowanie"
         },

@@ -3,6 +3,7 @@
     "lang_selfname": "Українська",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ОТРИМАТИ!",
             "TXID_ANS_TRYBACKUP": "Скасувати",
             "TXID_AREYOUWITHME": "Ти зі мною?",
@@ -209,6 +210,8 @@
             "TXID_PURCHASEFAILED": "При покупці відбулась помилка",
             "TXID_PURCHASESRESTORED": "Покупки відновлено",
             "TXID_PURCH_SUCCESS": "Купівля успішна!",
+            "TXID_REP_TASK_QUEST": "Ви дійсно хочете замінити це завдання?",
+            "TXID_REP_TASK_WARN": "Це завдання буде замінено",
             "TXID_RESTOREFAILED": "При відномленні відбулась помилка",
             "TXID_RESTOREPURCHASES": "Відновити покупки",
             "TXID_SAVEDATA": "Ціную вашу допомогу! Це ваші дані збереження. Будь ласка, виберіть все це (довгий гніздо -> вибрати все), скопіюйте (довгий гніздо -> скопіювати) і надішліть листа електронною поштою розробнику: dev@airapport.com",
@@ -524,10 +527,7 @@
             "TXID_REW_TIMEFORWARD": "час вперед"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Ви можете розмістити Автокликер на той чи інший об'єкт, в залежності від того, який в даний час потребує додаткової потужності найбільше.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Утримуйте натискання миші на складі, щоб передати камінь на Пилу і зробити Цеглу",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Утримуйте натискання миші на складі, щоб передати дерево на Лісопилку і зробити Дошки",
@@ -547,6 +547,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Видобувайте камінь та продовжуйте цикл",
             "TXID_MSGCAP_TUT_MORERESTART": "Оскільки Золоті цеглини збільшують 3 параметри гри: виробництво, силу клікера і ринкові ціни, їх ефект величезний. Це хороший момент, зараз, щоб перезавантажити ваше будівництво та отримати більше Золотих цеглин",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Добича золотих цеглин має важливе значення для висотного будинку",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Не потрібно багато натискати ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Ця гра має вбудований автоклікер. Просто клацніть об’єкт один раз, і він почне працювати. Тим часом продайте ресурси або зробіть оновлення",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Натисніть на намет, щоб швидше виробляти цеглу. Робота йде автоматично",
             "TXID_MSGCAP_TUT_RESTART": "Подивіться, які бонуси ви отримаєте, якщо перезавантажте будівництво"
         },

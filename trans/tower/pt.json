@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "A compra falhou",
             "TXID_PURCHASESRESTORED": "Compras restauradas!",
             "TXID_PURCH_SUCCESS": "Compra bem sucedida!",
+            "TXID_REP_TASK_QUEST": "Você realmente quer substituir esta tarefa?",
+            "TXID_REP_TASK_WARN": "Esta tarefa será substituída",
             "TXID_RESTOREFAILED": "Falha na restauração",
             "TXID_RESTOREPURCHASES": "Restaurar compras",
             "TXID_SAVEDATA": "Agradeço sua ajuda! Este é o seu save. Por favor, selecione tudo (aperte e segure -> Selecionar tudo), copiar (aperte e segure -> copiar) e envie o e-mail para o desenvolvedor: dev@airapport.com",
@@ -532,10 +534,7 @@
             "TXID_REW_TIMEFORWARD": "Avanço de tempo"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Você pode colocar o autoclicker em um objeto ou outro, dependendo de qual mais precisa de um impulso",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Toque no Depósito para começar a transferir a pedra para a Serra",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Toque no Depósito para começar a transferir a madeira para Serraria",
@@ -555,6 +554,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Mine mais pedra para continuar o ciclo",
             "TXID_MSGCAP_TUT_MORERESTART": "Já que Tijolos Dourados impulsionam 3 parâmetros do jogo: produção, poder do clique e preços do mercado, o seu efeito é enorme. Agora é um bom momento para recomeçar a construção e ganhar mais Tijolos Dourados",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Ganhar Tijolos Dourados é essencial para a construção da torre",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Não precisa clicar muito ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Este jogo possui um autoclicker embutido. Basta clicar uma vez em um objeto e ele começará a funcionar. Enquanto isso, venda recursos ou faça melhorias.",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Toque na tenda para produzir tijolos mais rápido. O trabalho vai continuar automaticamente",
             "TXID_MSGCAP_TUT_RESTART": "Veja quais bônus você vai ganhar se você recomeçar a construção"
         },

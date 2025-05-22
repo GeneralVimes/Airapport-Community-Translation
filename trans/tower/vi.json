@@ -227,6 +227,8 @@
             "TXID_PURCHASEFAILED": "Giao dịch thất bại",
             "TXID_PURCHASESRESTORED": "Mua khôi phục!",
             "TXID_PURCH_SUCCESS": "Mua thành công!",
+            "TXID_REP_TASK_QUEST": "Bạn có thực sự muốn thay thế nhiệm vụ này không?",
+            "TXID_REP_TASK_WARN": "Nhiệm vụ này sẽ được thay thế",
             "TXID_RESTOREFAILED": "Khôi phục thất bại",
             "TXID_RESTOREPURCHASES": "Khôi phục mua hàng",
             "TXID_SAVEDATA": "Đánh giá cao sự giúp đỡ của bạn! Đây là bạn tiết kiệm dữ liệu. Xin vui lòng, chọn tất cả (dài báo chí -> chọn tất cả), sao chép (báo chí dài -> sao chép) và gửi email cho nhà phát triển: dev@airapport.com",
@@ -533,10 +535,7 @@
             "TXID_REW_TIMEFORWARD": "Thời gian chuyển tiếp"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Bạn có thể muốn đặt autoclicker vào một đối tượng này hay cách khác, tùy thuộc vào một hiện nhu cầu năng lượng bổ sung nhiều nhất.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Bấm vào lưu trữ để bắt đầu chuyển đá đến Saw",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Bấm vào lưu trữ để bắt đầu chuyển gỗ đến nhà máy cưa",
@@ -556,6 +555,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Mine hơn đá để tiếp tục chu kỳ",
             "TXID_MSGCAP_TUT_MORERESTART": "Bởi vì Gạch Vàng tăng thông số 3 trò chơi: sản xuất, điện clicker và giá cả thị trường, ảnh hưởng của họ là rất lớn. Đó là một khoảnh khắc tốt bây giờ để khởi động lại tòa nhà của bạn để đạt được Gạch vàng hơn",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Đạt Gạch Vàng là điều cần thiết để xây dựng tháp",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Không cần phải nhấp nhiều đâu ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Trò chơi này có chức năng tự động nhấp được nhúng. Chỉ cần nhấp một lần vào một đối tượng và nó sẽ bắt đầu hoạt động. Trong khi đó, hãy bán tài nguyên hoặc nâng cấp",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Bấm vào lều để sản xuất gạch nhanh hơn. Công việc sẽ tiếp tục tự động",
             "TXID_MSGCAP_TUT_RESTART": "Kiểm tra các khoản tiền thưởng, bạn sẽ đạt được nếu bạn khởi động việc xây dựng"
         },

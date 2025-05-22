@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "購入に失敗しました",
             "TXID_PURCHASESRESTORED": "購入が復元されました！",
             "TXID_PURCH_SUCCESS": "成功して購入！",
+            "TXID_REP_TASK_QUEST": "本当にこのタスクを置き換えますか?",
+            "TXID_REP_TASK_WARN": "このタスクは置き換えられます",
             "TXID_RESTOREFAILED": "復元は失敗しました",
             "TXID_RESTOREPURCHASES": "購入を復元",
             "TXID_SAVEDATA": "あなたの助けに感謝！これはあなたの保存データです。すべてを選択してください（long press->すべてを選択）、コピー（long press-> copy）を作成し、開発者にメールを送信します：dev@airapport.com",
@@ -533,10 +535,7 @@
             "TXID_REW_TIMEFORWARD": "前進します"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "現在最も多くのパワーを必要とするかに応じて、オートリッカーをあるオブジェクトに配置することをお勧めします。",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "ストレージをタップして、石をのこぎりに転送し始めます",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "ストレージをタップして、木材を製材所に転送し始めます",
@@ -556,6 +555,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "サイクルを続けるために、より多くの石を採掘します",
             "TXID_MSGCAP_TUT_MORERESTART": "ゴールデンブリックは、生産、クリッカーのパワー、市場価格の3つのゲームパラメーターを高めるため、その効果は膨大です。建物を再起動してより多くの金色のレンガを手に入れるのは今、良い瞬間です",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "黄金のレンガを稼ぐことは、タワービルディングに不可欠です",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "あまりクリックする必要はありません ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "このゲームにはオートクリッカーが組み込まれています。オブジェクトを一度クリックするだけで、動作を開始します。その間に、リソースを売ったり、アップグレードしたりしましょう。",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "テントをタップして、レンガをより早く生産します。作業は自動的に続きます",
             "TXID_MSGCAP_TUT_RESTART": "建物を再起動した場合、どのボーナスを獲得するかを確認してください"
         },

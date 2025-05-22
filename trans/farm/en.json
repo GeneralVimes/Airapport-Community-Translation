@@ -840,6 +840,8 @@
             "TXID_PURCHASEFAILED": "Purchase failed",
             "TXID_PURCHASESRESTORED": "Purchases restored!",
             "TXID_PURCH_SUCCESS": "Purchase successful!",
+            "TXID_REP_TASK_QUEST": "Do you really want to replace this task?",
+            "TXID_REP_TASK_WARN": "This task will be replaced",
             "TXID_RESTOREFAILED": "Restore failed",
             "TXID_RESTOREPURCHASES": "Restore purchases",
             "TXID_SAVEDATA": "Appreciate your help! This is your save data. Please, select it all (long press -> select all), copy (long press -> copy) and send in email to the developer: dev@airapport.com",

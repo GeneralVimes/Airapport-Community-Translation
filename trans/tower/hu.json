@@ -227,6 +227,8 @@
             "TXID_PURCHASEFAILED": "A vásárlás sikertelen",
             "TXID_PURCHASESRESTORED": "Vásárlások Visszaállítva!",
             "TXID_PURCH_SUCCESS": "Vásárlás sikeres!",
+            "TXID_REP_TASK_QUEST": "Valóban le szeretné cserélni ezt a feladatot?",
+            "TXID_REP_TASK_WARN": "Ezt a feladatot lecseréljük",
             "TXID_RESTOREFAILED": "A helyreállítás sikertelen",
             "TXID_RESTOREPURCHASES": "Vásárlás visszaállítása",
             "TXID_SAVEDATA": "köszönöm a segítséged! Ez a te mentési adataid. Kérlek válaszd ki az egészet (tartsd nyomva-> összes kiválasztása) másold ki (hosszan nyomva tartás -> másolás) és küld el e-mailben a fejlesztőnek:  dev@airapport.com",
@@ -531,10 +533,7 @@
             "TXID_REW_TIMEFORWARD": "Idő előre"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Arra a helyre érdemes helyezni az autoklikkert, ahol több gyorsításra van szükség.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Érintse meg a tárolót, hogy elkezdje a kő átvitelét a fűrészre",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Érintse meg a tárolót, hogy elindítsa a fa átvitelét a favágóba",
@@ -554,6 +553,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "bányássz több követ a folytatáshoz",
             "TXID_MSGCAP_TUT_MORERESTART": "Mivel az aranytégla 3 játék paramétert gyorsít: termelés, kattintási erő, és piaci árak. A hatásuk hatalmas. Ez egy jó pillanat az épület újrakezdéséhez, hogy több aranytéglát szerezz.",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Az arany tégla megszerzése elengedhetetlen a toronyépítéshez",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Nem kell sokat kattintgatni ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Ez a játék beágyazott autoclickerrel rendelkezik. Csak kattintson egyszer egy objektumra, és az elkezd működni. Addig is adjon el erőforrásokat, vagy végezzen frissítéseket",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Érintse meg a sátrat a téglák gyorsabb elkészítése érdekében. A munka autómatikusan folytatódik",
             "TXID_MSGCAP_TUT_RESTART": "Ellenőrizd milyen bónuszokat nyersz, ha újrakezded az épületet"
         },

@@ -229,6 +229,8 @@
             "TXID_PURCHASEFAILED": "Nákup zlyhal",
             "TXID_PURCHASESRESTORED": "Nákupy boli obnovené!",
             "TXID_PURCH_SUCCESS": "Nákup úspešný!",
+            "TXID_REP_TASK_QUEST": "Opravdu chcete nahradit tento úkol?",
+            "TXID_REP_TASK_WARN": "Tento úkol bude nahrazen",
             "TXID_RESTOREFAILED": "Obnovenie zlyhalo",
             "TXID_RESTOREPURCHASES": "Obnoviť nákupy",
             "TXID_SAVEDATA": "Cením si tvoju pomoc! Toto sú tvoje uložené dáta. Prosím, vyber všetko (dlhé stlačenie -> vybrať všetko), kopíruj (dlhé stlačenie -> kopírovať) a pošli email vývojárom na adresu: dev@airapport.com",
@@ -535,10 +537,7 @@
             "TXID_REW_TIMEFORWARD": "Čas zrýchlený"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Možno budeš chcieť umiestniť autoklikač na nejaký objekt, v závislosti na tom, či potrebuje dodatočný výkon.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Klikni na Úložisko a začni prenášať kameň Výrobcovi Tehál",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Klikni na Úložisko a začni prenášať Drevo na Pílu",
@@ -558,6 +557,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Vyťaž viacej kameňa aby sa cyklus mohol zopakovať",
             "TXID_MSGCAP_TUT_MORERESTART": "Vzhľadom k tomu že Zlaté Tehly zosilňujú 3 herné parametre: produkciu, klikaciu silu a trhové ceny, ich efekt je vysoký. Teraz je dobrý čas reštartovať budovu aby si získal viac Zlatých Tehličiek",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Získavanie Zlatých Tehál je nevyhnutné pre konštrukciu veže",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Není potřeba moc klikat ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Tato hra má vestavěný autoclicker. Stačí jednou kliknout na objekt a začne fungovat. Mezitím prodávejte zdroje nebo provádějte upgrady",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Kliknutím na stan pre výrobu tehly rýchlejší. Práca bude pokračovať automaticky",
             "TXID_MSGCAP_TUT_RESTART": "Skontroluj ktoré bonusy získaš ak reštartuješ budovu"
         },

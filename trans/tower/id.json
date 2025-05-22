@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "Pembelian gagal",
             "TXID_PURCHASESRESTORED": "Pembelian dipulihkan!",
             "TXID_PURCH_SUCCESS": "Pembelian sukses!",
+            "TXID_REP_TASK_QUEST": "Apakah Anda benar-benar ingin mengganti tugas ini?",
+            "TXID_REP_TASK_WARN": "Tugas ini akan digantikan",
             "TXID_RESTOREFAILED": "Kembalikan gagal",
             "TXID_RESTOREPURCHASES": "Mengembalikan pembelian",
             "TXID_SAVEDATA": "Menghargai bantuan Anda! Ini adalah Anda menyimpan data. Silakan, pilih semuanya (tekan lama -> pilih semua), menyalin (tekan lama -> copy) dan mengirimkan email ke pengembang: dev@airapport.com",
@@ -534,10 +536,7 @@
             "TXID_REW_TIMEFORWARD": "waktu ke depan"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Anda mungkin ingin menempatkan AutoClicker pada satu objek atau lain, tergantung pada mana yang saat ini membutuhkan tenaga tambahan paling.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Tekan Storage untuk mulai mentransfer batu ke Saw yang",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Tekan Storage untuk memulai mentransfer Kayu ke Pabrik Kayu",
@@ -557,6 +556,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Tambang lebih batu untuk melanjutkan siklus",
             "TXID_MSGCAP_TUT_MORERESTART": "Karena Bricks Emas meningkatkan parameter 3 permainan: produksi, listrik clicker dan harga pasar, efeknya sangat besar. Ini adalah saat yang baik sekarang untuk me-restart bangunan Anda untuk mendapatkan Bricks lebih Emas",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Mendapatkan Bricks Emas adalah penting untuk membangun menara",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Tidak perlu banyak mengklik ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Game ini memiliki autoclicker yang tertanam. Cukup klik satu kali pada objek, dan autoclicker akan mulai bekerja. Sementara itu, jual sumber daya atau lakukan peningkatan",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Tekan tenda untuk menghasilkan batu bata lebih cepat. Pekerjaan akan pergi secara otomatis",
             "TXID_MSGCAP_TUT_RESTART": "Memeriksa bonus yang akan Anda dapatkan jika Anda me-restart bangunan"
         },

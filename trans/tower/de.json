@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "Kauf gescheitert",
             "TXID_PURCHASESRESTORED": "Käufe wieder hergestellt!",
             "TXID_PURCH_SUCCESS": "Erwerben Sie erfolgreich!",
+            "TXID_REP_TASK_QUEST": "Möchten Sie diese Aufgabe wirklich ersetzen?",
+            "TXID_REP_TASK_WARN": "Diese Aufgabe wird ersetzt",
             "TXID_RESTOREFAILED": "wiederherstellen fehlgeschlagen",
             "TXID_RESTOREPURCHASES": "wiederherstellen Einkäufe",
             "TXID_SAVEDATA": "Schätze deine Hilfe! Das ist Ihre Daten speichern. Bitte wählen Sie alles (lang drücken -> alles auswählen), kopiert (lang drücken -> kopieren) und in E-Mail an den Entwickler senden: dev@airapport.com",
@@ -534,10 +536,7 @@
             "TXID_REW_TIMEFORWARD": "Zeit vorwärts"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Sie könnten die Autoclicker auf ein Objekt oder eine andere, je nachdem, welche zur Zeit braucht zusätzliche Energie die meisten platzieren möchten.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Halte die Maus auf dem Lager gedrückt um den Stein zum Ziegler zu transportieren",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Halte die Maus auf dem Lager gedrückt um das Holz zur Sägemühle zu transportieren",
@@ -557,6 +556,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Mine mehr Stein den Zyklus fortzusetzen",
             "TXID_MSGCAP_TUT_MORERESTART": "Weil Goldene Bricks steigern 3 Spielparameter: Produktion, Clicker Kraft und Marktpreise, ihre Wirkung ist enorm. Es ist ein guter Moment jetzt Ihr Gebäude neu zu starten mehr Goldene Ziegelsteine ​​zu gewinnen",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Gewinnt Goldene Bricks ist für Turmgebäude",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Man muss nicht viel klicken ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Dieses Spiel verfügt über einen integrierten Autoclicker. Klicken Sie einfach einmal auf ein Objekt, und es funktioniert. In der Zwischenzeit können Sie Ressourcen verkaufen oder Upgrades durchführen.",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Tippe auf den Ziegler um Ziegel herzustellen. Halte die Maustaste um dauerhaft herzustellen",
             "TXID_MSGCAP_TUT_RESTART": "Überprüfe welche Vorteile du bekommst wenn du das Gebäude neu startest"
         },

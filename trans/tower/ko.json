@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "구매 실패",
             "TXID_PURCHASESRESTORED": "구매가 복원되었습니다!",
             "TXID_PURCH_SUCCESS": "성공적으로 구매하십시오!",
+            "TXID_REP_TASK_QUEST": "정말로 이 작업을 바꾸시겠습니까?",
+            "TXID_REP_TASK_WARN": "이 작업은 대체됩니다",
             "TXID_RESTOREFAILED": "복원 실패",
             "TXID_RESTOREPURCHASES": "구매를 복원",
             "TXID_SAVEDATA": "당신의 도움을 주셔서 감사합니다! 이것이 저장 데이터입니다. 모든 것을 선택하십시오 (Long Press -> All Select), 복사 (Long Press -> Copy) 및 개발자에게 이메일을 보내십시오 : dev@airapport.com",
@@ -533,10 +535,7 @@
             "TXID_REW_TIMEFORWARD": "앞으로 시간"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "현재 추가 전력이 가장 필요한 것에 따라 AutoClicker를 한 객체 또는 다른 객체에 배치 할 수 있습니다.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "스토리지를 탭하여 돌을 톱으로 옮기기 시작하십시오.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "스토리지를 탭하여 목재를 목재 밀릴로 전송하기 시작하십시오.",
@@ -556,6 +555,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "사이클을 계속하기 위해 더 많은 돌을 내 더 많이 돌립니다",
             "TXID_MSGCAP_TUT_MORERESTART": "Golden Bricks는 3 게임 매개 변수 : 생산, 클리커 전력 및 시장 가격을 향상시키기 때문에 그 효과는 엄청납니다. 더 많은 황금 벽돌을 얻기 위해 건물을 다시 시작하는 것은 좋은 순간입니다.",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "황금 벽돌을 얻는 것은 타워 빌딩에 필수적입니다",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "클릭할 필요 없어요 ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "이 게임에는 자동 클릭 기능이 내장되어 있습니다. 원하는 물체를 한 번 클릭하면 자동으로 작동합니다. 그동안 자원을 판매하거나 업그레이드하세요.",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "텐트를 두드려 벽돌을 더 빨리 생산하십시오. 작업은 자동으로 계속됩니다",
             "TXID_MSGCAP_TUT_RESTART": "건물을 다시 시작하면 어떤 보너스를 얻을 수 있는지 확인하십시오."
         },

@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "Achat raté",
             "TXID_PURCHASESRESTORED": "Achats restaurés!",
             "TXID_PURCH_SUCCESS": "Achat réussi!",
+            "TXID_REP_TASK_QUEST": "Voulez-vous vraiment remplacer cette tâche ?",
+            "TXID_REP_TASK_WARN": "Cette tâche sera remplacée",
             "TXID_RESTOREFAILED": "échec de la restauration",
             "TXID_RESTOREPURCHASES": "restaurer les achats",
             "TXID_SAVEDATA": "J'apprécie votre aide! Ceci est votre sauvegarde des données. S'il vous plaît, sélectionnez tout (appui long -> Sélectionner tout), copier (appui long -> copier) et envoyer par courrier électronique au développeur: dev@airapport.com",
@@ -532,10 +534,7 @@
             "TXID_REW_TIMEFORWARD": "avance le temps"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Vous pouvez placer l'autoclicker sur un objet ou un autre, selon lequel a besoin de puissance supplémentaire.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Appuyez sur le stockage pour commencer à transférer la pierre à la scie",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Appuyez sur le stockage pour commencer à transférer le bois à la Scierie",
@@ -555,6 +554,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Mine plus de pierre pour poursuivre le cycle",
             "TXID_MSGCAP_TUT_MORERESTART": "Parce que briques d'or 3 stimuler les paramètres du jeu: la production, la production par click et les prix du marché, leur effet est énorme. C'est maintenant un bon moment pour redémarrer votre bâtiment pour gagner plus briques dorées",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Gagner des briques dorées est essentiel pour la construction de la tour",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Pas besoin de cliquer beaucoup ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Ce jeu intègre un autoclicker. Il suffit de cliquer une fois sur un objet pour qu'il fonctionne. En attendant, vendez des ressources ou améliorez-les.",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Appuyez sur la tente pour produire des briques plus rapidement. Le travail continuera automatiquement",
             "TXID_MSGCAP_TUT_RESTART": "Vérifiez quels sont les bonus que vous gagnerez si vous redémarrez le bâtiment"
         },

@@ -663,6 +663,8 @@
                 "TXID_CAP_TRYINGLOADBON": "Trying to load next bonus",
                 "TXID_CLEAR": "CLEAR",
                 "TXID_GDPR_APPLE_ADD_ALT": "As you continue you will be able to select your tracking preferences",
+                "TXID_REP_TASK_QUEST": "Do you really want to replace this task?",
+                "TXID_REP_TASK_WARN": "This task will be replaced",
                 "TXID_SEND_COPIEDSAVEDATA": "The text with your save data was copied to clipboard",
                 "TXID_SEND_SAVEDATA": "Please, send it by email to the developer: dev@airapport.com",
                 "TXID_TIMEBON_TIMESPEED": "Time speed",

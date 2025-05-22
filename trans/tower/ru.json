@@ -3,6 +3,7 @@
     "lang_selfname": "Русский",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",
@@ -209,6 +210,8 @@
             "TXID_PURCHASEFAILED": "При покупке произошла ошибка",
             "TXID_PURCHASESRESTORED": "Покупки восстановлены",
             "TXID_PURCH_SUCCESS": "Покупка успешна!",
+            "TXID_REP_TASK_QUEST": "Вы действительно хотите заменить эту задачу?",
+            "TXID_REP_TASK_WARN": "Эта задача будет заменена",
             "TXID_RESTOREFAILED": "При восстановлении произошла ошибка",
             "TXID_RESTOREPURCHASES": "Восстановить покупки",
             "TXID_SAVEDATA": "Ценю вашу помощь! Это ваши данные сохранения. Пожалуйста, выберите все это (долгое нажатие -> выбрать все), скопируйте (долгое нажатие -> скопировать) и отправьте электронное письмо разработчику: dev@airapport.com",
@@ -524,10 +527,7 @@
             "TXID_REW_TIMEFORWARD": "Время вперед"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Вы можете разместить Автокликер на тот или ином объекте, в зависимости от того, какой в ​​настоящее время нуждается в дополнительной мощности больше всего.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Удерживайте нажатие мыши на складе, чтобы передать камень на Пилу и сделать Кирпичи",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Удерживайте нажатие мыши на складе, чтобы передать дерево на Лесопилку и сделать Доски",
@@ -547,6 +547,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Добывайте камень и продолжайте цикл",
             "TXID_MSGCAP_TUT_MORERESTART": "Поскольку Золотые кирпичи увеличивают 3 параметра игры: производство, силу клика и рыночные цены, их эффект огромен. Сейчас хороший момент, сейчас, чтобы перезапустить стройку и получить больше Золотых кирпичей",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Добыча золотых кирпичей очень важна для высотного строительства",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Не нужно много кликать ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "В этой игре есть встроенный автокликер. Просто нажмите один раз на объект, и он начнет работать. В это время продавайте ресурсы или делайте улучшения",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Нажмите на палатку, чтобы быстрее производить кирпичи. Работа идёт автоматически",
             "TXID_MSGCAP_TUT_RESTART": "Посмотрите, какие бонусы вы получите, если перезагрузите стройку"
         },

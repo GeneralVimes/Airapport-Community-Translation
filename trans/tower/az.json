@@ -228,6 +228,8 @@
             "TXID_PURCHASEFAILED": "Satınalma uğursuzdur",
             "TXID_PURCHASESRESTORED": "Satınalmalar bərpa edildi!",
             "TXID_PURCH_SUCCESS": "Satınalma uğurlu oldu!",
+            "TXID_REP_TASK_QUEST": "Bu vəzifəni həqiqətən əvəz etmək istəyirsiniz?",
+            "TXID_REP_TASK_WARN": "Bu vəzifə əvəz olunacaq",
             "TXID_RESTOREFAILED": "Bərpa edilmədi",
             "TXID_RESTOREPURCHASES": "Satınalmaları bərpa edin",
             "TXID_SAVEDATA": "Yardımınızı qiymətləndirin! Bu, sizin qənaət datanızdır. Zəhmət olmasa, hamısını seçin (uzun basın -> hamısını seçin), kopyalayın (uzun basın -> kopyalayın) və tərtibatçıya e-poçt göndərin: dev@airapport.com",
@@ -533,10 +535,7 @@
             "TXID_REW_TIMEFORWARD": "Keçən vaxt"
         },
         "GROUP_tower_tutorial": {
-            "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
-                "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "This game has an embedded autoclicker. Just click once on an object, and it will start working. In the meanwhile sell resources or make upgrades"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_MSGCAP_TUT_AUTOCLICKER": "Hal-hazırda hansının əlavə gücə daha çox ehtiyac duyduğundan asılı olaraq, avtoklikeri bu və ya digər obyektə yerləşdirmək istəyə bilərsiniz.",
             "TXID_MSGCAP_TUT_AUTOTRANSFERSTONE": "Daşı Daş Kəsənə köçürməyə başlamaq üçün Anbara toxunun",
             "TXID_MSGCAP_TUT_AUTOTRANSFERWOOD": "Taxtanı Taxta Zavoduna köçürməyə başlamaq üçün Anbara toxunun",
@@ -556,6 +555,8 @@
             "TXID_MSGCAP_TUT_MINEMORE": "Dövrə davam etmək üçün daha çox daş qazın",
             "TXID_MSGCAP_TUT_MORERESTART": "Qızıl Kərpic 3 oyun parametrini artırdığı üçün: istehsal, klikləmə gücü və bazar qiymətləri, onların təsiri böyükdür. Daha çox Qızıl Kərpic əldə etmək üçün qalanızı yenidən tikmək üçün indi yaxşı vaxtdır",
             "TXID_MSGCAP_TUT_MORERESTART_CAP": "Qızıl Kərpic qazanmaq qala tikmək üçün vacibdir",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDS": "Çox klikləməyə ehtiyac yoxdur ;)",
+            "TXID_MSGCAP_TUT_NOCLIKNEEDSXPL": "Bu oyunda quraşdırılmış avtokliker var. Sadəcə bir obyektə bir dəfə klikləyin və o işə başlayacaq. Bu arada resursları satın və ya təkmilləşdirmələr edin",
             "TXID_MSGCAP_TUT_PRODUCEBRICKS": "Daha tez kərpic istehsal etmək üçün çadıra toxunun. İş avtomatik olaraq davam edəcək",
             "TXID_MSGCAP_TUT_RESTART": "Binanı yenidən başlasanız, hansı bonusları qazanacağınızı yoxlayın"
         },

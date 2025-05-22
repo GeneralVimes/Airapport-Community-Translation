@@ -634,6 +634,10 @@
             "TXID_UPGRUNITS_WATERPERSEC": "воды / сек"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {
+                "TXID_REP_TASK_QUEST": "Do you really want to replace this task?",
+                "TXID_REP_TASK_WARN": "This task will be replaced"
+            },
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",
