@@ -41,7 +41,7 @@
                 "TXID_TIMEUNIT_YEAR_SHORT": "y",
                 "TXID_TODO_HAVE": "Have",
                 "TXID_TODO_PRODUCE": "Produce",
-                "TXID_UMP_ADSONLYREW": "Game does not show ads without your approval",
+                "TXID_UMP_ADSONLYREW": "The game does not show ads without your approval",
                 "TXID_UMP_CONSENTEXPL": "Please, give your consent to let the game load advertisement which will provide rewards.",
                 "TXID_UMP_CONSENTNEEDED": "Your consent is needed"
             },
@@ -289,7 +289,7 @@
                 "TXID_ACH_ELEPHANTTRANSP_DESC": "Transport 1 Sextillion of stone with an elephant",
                 "TXID_ACH_ELEPHANTTRANSP_NAME": "Elephant transportation",
                 "TXID_ACH_GALILEOAPPLES_DESC": "Let Galileo drop 1000 apples from the tower",
-                "TXID_ACH_GALILEOAPPLES_NAME": "This is not an apple science",
+                "TXID_ACH_GALILEOAPPLES_NAME": "This is not apple science",
                 "TXID_ACH_GOLD100_DESC": "Have 100 Golden Bricks",
                 "TXID_ACH_GOLD100_NAME": "I've got some Gold",
                 "TXID_ACH_GOLD10K_DESC": "Have 10000 Golden Bricks",
@@ -625,7 +625,7 @@
         },
         "GROUP_tower_tutorial": {
             "CODE_aaa_untranslated": {
-                "TXID_MSGCAP_TUT_AUTOCLICKERCONGR": "While it is active you can click on an onject and it will be working together with you",
+                "TXID_MSGCAP_TUT_AUTOCLICKERCONGR": "While it is active you can click on an object and it will be working together with you",
                 "TXID_MSGCAP_TUT_AUTOCLICKERCONGRCAP": "Autoclicker activated!",
                 "TXID_MSGCAP_TUT_AUTOCLICKERSTART": "Now you can activate an autoclicker",
                 "TXID_MSGCAP_TUT_NOCLIKNEEDS": "No need to click much ;)",
