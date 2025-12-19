@@ -722,8 +722,6 @@
             "TXID_UPGRUNITS_WATERPERSEC": "apă/sec"
         },
         "GROUP_general_interface": {
-			"TXID_CAP_SYNC": "Sincronizează!",
-			"TXID_PAUSED": "Pauză...",
             "TXID_ANS_GET": "OBȚINE!",
             "TXID_ANS_TRYBACKUP": "Anulează",
             "TXID_AREYOUWITHME": "Ești cu mine?",
@@ -816,6 +814,7 @@
             "TXID_CAP_STATISTICS": "STATISTICI",
             "TXID_CAP_SUBMIT": "TRIMITE",
             "TXID_CAP_SWITCHSKIN": "SCHIMBĂ GRAFICA",
+            "TXID_CAP_SYNC": "Sincronizează!",
             "TXID_CAP_TELLWHY": "Ați putea sugera modalități de a-l face mai plăcut?",
             "TXID_CAP_THANKS2TESTER": "Vă mulțumim mult pentru că ați fost unul dintre primii testeri ai acestui joc!",
             "TXID_CAP_THANKYOU": "Mulțumesc mult!",
@@ -926,6 +925,7 @@
             "TXID_MSG_YOUCANREVERT2BACKUP": "Dacă doriți, puteți reveni la salvarea anterioară",
             "TXID_NOW": "Acum",
             "TXID_OR": "Sau",
+            "TXID_PAUSED": "Pauză...",
             "TXID_PHRASE_ARTIFACTS_BEG": "Aveți",
             "TXID_PHRASE_ARTIFACTS_END": "artefacte. Verificați dacă puteți cumpăra mai multe",
             "TXID_PURCHASEFAILED": "Achiziție eșuată",

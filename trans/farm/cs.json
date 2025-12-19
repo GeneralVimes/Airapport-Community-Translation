@@ -1,8 +1,8 @@
 {
     "lang_code": "cs",
     "lang_selfname": "Čeština",
-    "lang_translation_comment": "Improved by Airapport/AI",
-    "lang_translator": "Kevo / Updated",
+    "lang_translation_comment": "If you'd like to improve the translation, please, email dev@airapport.com",
+    "lang_translator": "Kevo / Updated by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
             "TXID_ACH_BAA_DESC": "Vyrobte 750 000 vlny",

@@ -722,7 +722,6 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w/sec"
         },
         "GROUP_general_interface": {
-            "TXID_CAP_SYNC": "Synchroniseren!",
             "TXID_ANS_GET": "KRIJGEN!",
             "TXID_ANS_TRYBACKUP": "Ongedaan maken",
             "TXID_AREYOUWITHME": "Doe je mee?",
@@ -815,6 +814,7 @@
             "TXID_CAP_STATISTICS": "STATISTIEKEN",
             "TXID_CAP_SUBMIT": "INDIENEN",
             "TXID_CAP_SWITCHSKIN": "GRAFISCHE SCHAKELAAR",
+            "TXID_CAP_SYNC": "Synchroniseren!",
             "TXID_CAP_TELLWHY": "Zou je alsjeblieft enkele manieren willen voorstellen om het leuker te maken?",
             "TXID_CAP_THANKS2TESTER": "Heel erg bedankt dat je een van de eerste testers van dit spel bent!",
             "TXID_CAP_THANKYOU": "Ontzettend bedankt!",

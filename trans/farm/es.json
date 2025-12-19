@@ -722,9 +722,6 @@
             "TXID_UPGRUNITS_WATERPERSEC": "agua/s"
         },
         "GROUP_general_interface": {
-			"TXID_CAP_YOURRANK": "Tu clasificación",
-			"TXID_CAP_YOURSCORE": "Tu puntaje",
-			"TXID_CLEAR": "BORRAR",
             "TXID_ANS_GET": "¡OBTENER!",
             "TXID_ANS_TRYBACKUP": "Deshacer",
             "TXID_AREYOUWITHME": "¿Estás conmigo?",
@@ -834,6 +831,9 @@
             "TXID_CAP_WEEKLYBONUS": "REGALOS SEMANALES",
             "TXID_CAP_WOULDYOULIKE2BUY": "¿Te gustaría comprar más?",
             "TXID_CAP_YOUAREHERE": "ESTÁS AQUÍ",
+            "TXID_CAP_YOURRANK": "Tu clasificación",
+            "TXID_CAP_YOURSCORE": "Tu puntaje",
+            "TXID_CLEAR": "BORRAR",
             "TXID_CODEERR_ALREADYUSED": "Ya has utilizado este código",
             "TXID_CODEERR_EXPIRED": "Este código ha caducado o aún no está activo",
             "TXID_CODEERR_MAYBEWOLD": "Puede ser de",

@@ -290,8 +290,6 @@
             "TXID_INVNAME_YARN": "Filatura"
         },
         "GROUP_farm_machines": {
-			"TXID_MACH_DESC_TAYLOR": "Produce magliette",
-			"TXID_MACH_DESC_TEXTILEMACHINE": "Produce tessuti",
             "TXID_MACH_DESC_APIARY": "Mantiene le api che producono miele e impollinano alberi e fiori",
             "TXID_MACH_DESC_BAKERY": "Cuoce il pane dalla farina",
             "TXID_MACH_DESC_BANK": "Genera denaro da utilizzare dopo il riavvio",
@@ -395,6 +393,8 @@
             "TXID_MACH_DESC_SUNOILMAKER": "Produce olio di girasole",
             "TXID_MACH_DESC_SUNSEEDSSTORAGE": "Immagazzina semi di girasole",
             "TXID_MACH_DESC_TAKEAWAY": "Vende cibo dalla cucina",
+            "TXID_MACH_DESC_TAYLOR": "Produce magliette",
+            "TXID_MACH_DESC_TEXTILEMACHINE": "Produce tessuti",
             "TXID_MACH_DESC_TRACKTOR": "Esegue automaticamente tutto il lavoro sui campi",
             "TXID_MACH_DESC_TRANSMB": "Collega il soffietto al motore a vapore",
             "TXID_MACH_DESC_TRANSMD": "Collega il trapano al motore a vapore",

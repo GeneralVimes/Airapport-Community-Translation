@@ -290,9 +290,6 @@
             "TXID_INVNAME_YARN": "Spinning"
         },
         "GROUP_farm_machines": {
-			"TXID_MACH_DESC_LIBRARY": "Genererar idéer för användning efter omstart",
-			"TXID_MACH_DESC_TAYLOR": "Producerar t-shirts",
-			"TXID_MACH_DESC_TEXTILEMACHINE": "Producerar textil",
             "TXID_MACH_DESC_APIARY": "Håller bin som producerar honung och pollinerar träd och blommor",
             "TXID_MACH_DESC_BAKERY": "Bakar bröd från mjöl",
             "TXID_MACH_DESC_BANK": "Genererar pengar för användning efter omstart",
@@ -355,6 +352,7 @@
             "TXID_MACH_DESC_KNITTER": "Strumpor stickas här",
             "TXID_MACH_DESC_LAVENDERSTRG": "Lagrar lavendel",
             "TXID_MACH_DESC_LEMONADEMAKER": "Producerar limonad från citroner, socker och is",
+            "TXID_MACH_DESC_LIBRARY": "Genererar idéer för användning efter omstart",
             "TXID_MACH_DESC_LUMBERMILL": "Producerar plankor från trä",
             "TXID_MACH_DESC_MILKPUMP": "Levererar mjölk längs de underjordiska rören från kon till fabriken",
             "TXID_MACH_DESC_MILKSELLER": "Säljer mjölk",
@@ -395,6 +393,8 @@
             "TXID_MACH_DESC_SUNOILMAKER": "Producerar solrosolja",
             "TXID_MACH_DESC_SUNSEEDSSTORAGE": "Lagrar solrosfrön",
             "TXID_MACH_DESC_TAKEAWAY": "Säljer mat från köket",
+            "TXID_MACH_DESC_TAYLOR": "Producerar t-shirts",
+            "TXID_MACH_DESC_TEXTILEMACHINE": "Producerar textil",
             "TXID_MACH_DESC_TRACKTOR": "Utför automatiskt allt arbete på fälten",
             "TXID_MACH_DESC_TRANSMB": "Ansluter bälgen till ångmaskinen",
             "TXID_MACH_DESC_TRANSMD": "Ansluter borren till ångmaskinen",

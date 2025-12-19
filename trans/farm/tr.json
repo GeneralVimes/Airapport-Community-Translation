@@ -1,7 +1,7 @@
 {
     "lang_code": "tr",
     "lang_selfname": "Türkçe",
-	"lang_translation_comment": "If you'd like to improve the translation, please, email dev@airapport.com",
+    "lang_translation_comment": "If you'd like to improve the translation, please, email dev@airapport.com",
     "lang_translator": "Translated by Google, improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
@@ -651,8 +651,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Nüfus artışı size işgücü sağlar. İşgücünü işçileri işe almak için harcayabilir ve tesisleri yükseltmek için para harcayabilirsiniz"
         },
         "GROUP_farm_upgrades": {
-			"TXID_UPGRNAME_LIBRARY": "Kütüphane fikir üretimi",
-			"TXID_UPGRNAME_LIBRARY_CAPACITY": "Kütüphane kapasitesi",
             "TXID_UNIT_IDEAS_H": "Saat başı fikir",
             "TXID_UPGRNAME_BANK": "Saatlik banka faiz oranı",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Arıların hızı",
@@ -692,6 +690,8 @@
             "TXID_UPGRNAME_GROCERY_PRICE_BONUS": "Fiyat bonusu",
             "TXID_UPGRNAME_HONEYFROMBEE": "Arı tarafından getirilen bal",
             "TXID_UPGRNAME_LEMONSFROMTREE": "Ağaç başına limon",
+            "TXID_UPGRNAME_LIBRARY": "Kütüphane fikir üretimi",
+            "TXID_UPGRNAME_LIBRARY_CAPACITY": "Kütüphane kapasitesi",
             "TXID_UPGRNAME_MARKET_PRICE": "Sebze fiyatı",
             "TXID_UPGRNAME_MARKET_SELLERS": "Satıcılar",
             "TXID_UPGRNAME_MARKET_SIMULTAN": "Gerçekleştirilen eşzamanlı satışlar",

@@ -722,8 +722,6 @@
             "TXID_UPGRUNITS_WATERPERSEC": "eau/s"
         },
         "GROUP_general_interface": {
-			"TXID_REP_TASK_QUEST": "Voulez-vous vraiment remplacer cette tâche ?",
-			"TXID_REP_TASK_WARN": "Cette tâche sera remplacée",
             "TXID_ANS_GET": "PRENDRE !",
             "TXID_ANS_TRYBACKUP": "Annuler",
             "TXID_AREYOUWITHME": "Êtes-vous avec moi ?",
@@ -933,6 +931,8 @@
             "TXID_PURCHASEFAILED": "Achat échoué",
             "TXID_PURCHASESRESTORED": "Achats restaurés !",
             "TXID_PURCH_SUCCESS": "Achat réussi !",
+            "TXID_REP_TASK_QUEST": "Voulez-vous vraiment remplacer cette tâche ?",
+            "TXID_REP_TASK_WARN": "Cette tâche sera remplacée",
             "TXID_RESTOREFAILED": "Échec de la restauration",
             "TXID_RESTOREPURCHASES": "Restaurer les achats",
             "TXID_SAVEDATA": "J'apprécie votre aide ! Voici vos données de sauvegarde. S'il vous plaît, sélectionnez tout (appui long -> Tout sélectionner), copiez (appui long -> Copier) et envoyez par e-mail au développeur : dev@airapport.com",
