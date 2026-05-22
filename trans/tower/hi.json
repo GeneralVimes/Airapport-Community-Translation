@@ -6,9 +6,7 @@
     "lang_translator_website": "",
     "phrases": {
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {
-                "TXID_REWARDSNOTLOAD": "Sorry, rewarded ads were not loaded"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "PAO!",
             "TXID_ANS_TRYBACKUP": "Undo karein",
             "TXID_AREYOUWITHME": "Kya aap mere saath hain?",
@@ -222,6 +220,7 @@
             "TXID_REP_TASK_WARN": "Yeh task replace ho jayega",
             "TXID_RESTOREFAILED": "Restore fail ho gaya",
             "TXID_RESTOREPURCHASES": "Purchases restore karein",
+            "TXID_REWARDSNOTLOAD": "Kshama karein, puraskrit vigyapan load nahi hue.",
             "TXID_SAVEDATA": "Aapki madad ka shukriya! Yeh aapka save data hai. Kripya isko pura select karein (long press -> select all), copy karein (long press -> copy) aur developer ko email bhejein: dev@airapport.com",
             "TXID_SCORE": "Score",
             "TXID_SEND": "Lagta hai pichli baar game crash ho gaya tha. Aap iss save ko phir se load kar sakte hain ya data developer ko bhej sakte hain. Hum ise dekh kar jaldi theek kar denge. Agar aap wait nahi karna chahte, toh game ko bilkul shuru se bhi restart kar sakte hain.",

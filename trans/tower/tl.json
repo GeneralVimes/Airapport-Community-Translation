@@ -5,9 +5,7 @@
     "lang_translator": "",
     "phrases": {
         "GROUP_general_interface": {
-            "CODE_aaa_untranslated": {
-                "TXID_REWARDSNOTLOAD": "Sorry, rewarded ads were not loaded"
-            },
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "KUNIN!",
             "TXID_ANS_TRYBACKUP": "I-undo",
             "TXID_AREYOUWITHME": "Kasama ba kita?",
@@ -221,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Mapapalitan ang task na ito",
             "TXID_RESTOREFAILED": "Nag-fail ang pag-restore",
             "TXID_RESTOREPURCHASES": "I-restore ang mga binili",
+            "TXID_REWARDSNOTLOAD": "Paumanhin, hindi na-load ang mga rewarded ad",
             "TXID_SAVEDATA": "Salamat sa tulong mo! Ito ang iyong save data. Pakipili ang lahat (long press -> select all), i-copy (long press -> copy) at i-send sa email sa developer: dev@airapport.com",
             "TXID_SCORE": "Score",
             "TXID_SEND": "Mukhang nag-crash ang game nung nakaraan. Pwede mong subukang i-load ulit ang save na ito o i-send ang data sa developer. Titingnan namin ito at aayusin sa lalong madaling panahon. Pwede mo ring i-restart ang game kung ayaw mong maghintay",
