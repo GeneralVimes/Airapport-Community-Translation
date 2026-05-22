@@ -4,6 +4,7 @@
     "lang_translator": "Gingerino333 & Gemini",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "PRENDI!",
             "TXID_ANS_TRYBACKUP": "Annulla",
             "TXID_AREYOUWITHME": "Sei con me?",
@@ -217,6 +218,7 @@
             "TXID_REP_TASK_WARN": "Questo compito verrà sostituito",
             "TXID_RESTOREFAILED": "Ripristino fallito",
             "TXID_RESTOREPURCHASES": "Ripristina acquisti",
+            "TXID_REWARDSNOTLOAD": "Spiacenti, gli annunci con premio non sono stati caricati.",
             "TXID_SAVEDATA": "Apprezzo il tuo aiuto! Questi sono i tuoi dati di salvataggio. Si prega di selezionare tutto (premere a lungo -> Seleziona tutto), copiare (premere a lungo -> copia) e inviare un'email allo sviluppatore: dev@airapport.com",
             "TXID_SCORE": "Punteggio",
             "TXID_SEND": "Sembra che il gioco si sia bloccato l'ultima volta. Puoi provare a caricare questo salvataggio di nuovo o inviare i dati allo sviluppatore. Controlleremo e correggeremo il prima possibile. Puoi anche riavviare completamente il gioco se non vuoi aspettare",
@@ -374,8 +376,6 @@
             "TXID_CURR_NAME_GEMS": "rubini"
         },
         "GROUP_tower_game_elements": {
-            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Seleziona macchine da potenziare con rubini",
-            "TXID_SET_AUTOBUY": "Acquista automaticamente potenziamenti dopo il riavvio (spendendo lo 0,01% delle risorse)",
             "TXID_BABELSKIN_CLASSIC": "Classico",
             "TXID_BABELSKIN_WINTER": "Inverno",
             "TXID_CAP_AVAILABLETOWERS": "Torri disponibili",
@@ -391,6 +391,7 @@
             "TXID_CAP_RUBYBOOST_NOTENOUGH": "Non hai abbastanza rubini...",
             "TXID_CAP_RUBYBOOST_QUESTION": "Vorresti potenziare _0_ di _1_ per _2_?",
             "TXID_CAP_SCIENCEUPGRADES": "Aggiornamenti Scienza",
+            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Seleziona macchine da potenziare con rubini",
             "TXID_CAP_TOWERCONTESTENDED": "Hai completato con successo una torre entro",
             "TXID_CAP_TOWERFLOORS_BEG": "Hai completato la costruzione di",
             "TXID_CAP_TOWERFLOORS_END": "piani",
@@ -441,6 +442,7 @@
             "TXID_SEND_BABELTOWERVICTORY": "Abbiamo completato la Torre di Babele!",
             "TXID_SEND_SPACEMACHINESCAP": "Macchine dello spazio per la Torre di Babele!",
             "TXID_SEND_SPACEMACHINESTEXT": "Le mie idee per i prossimi piani:",
+            "TXID_SET_AUTOBUY": "Acquista automaticamente potenziamenti dopo il riavvio (spendendo lo 0,01% delle risorse)",
             "TXID_TODO_UGRADE": "Esegui l'aggiornamento",
             "TXID_TODO_UGRADETRANSP": "Aggiorna il carrello trasportatore",
             "TXID_VOTETOWER": "Vota: quale prossima torre vuoi costruire nel gioco?",
@@ -599,10 +601,10 @@
             "TXID_WATERWELLRESTORATION": "Velocità di ripristino dell'acqua"
         },
         "GROUP_tower_rewards": {
-            "TXID_REW_DISCUP": "Aggiornamento con sconto",
             "TXID_REW_BONUSTIME": "Bonus Tempo",
             "TXID_REW_DECWAITTIME": "Il tempo di attesa è diminuito",
             "TXID_REW_DISCPURCH": "Acquisto con lo sconto",
+            "TXID_REW_DISCUP": "Aggiornamento con sconto",
             "TXID_REW_FREEGB": "Mattoni d'oro gratuiti",
             "TXID_REW_FREEMON": "Monete gratis",
             "TXID_REW_FREERES": "Risorsa gratuita",
@@ -644,7 +646,6 @@
             "TXID_MSGCAP_TUT_RESTART": "Verifica quali bonus guadagnerai se riavvii l'edificio"
         },
         "GROUP_tower_upgrades": {
-            "TXID_UPGRNAME_CLICKBOOST": "Potenza dei click",
             "TXID_UPGRNAME_ASTEROIDSWEIGHT": "Numero di asteroidi catturati",
             "TXID_UPGRNAME_BERTH": "Soldi dai turisti",
             "TXID_UPGRNAME_BOOST2GROUNDOBJS": "Valore del potenziamento",
@@ -704,12 +705,11 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w / sec"
         },
         "GROUP_www_airapport_games": {
-            "TXID_GAMEDESC_FARMANDMINE": "Coltiva verdure ed estrai risorse",
-            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMEDESC_20KCOGS": "esplorazione subacquea",
             "TXID_GAMEDESC_BOTTLE": "I più popolari flash mob del 2019",
             "TXID_GAMEDESC_CHICKENFARM": "Allevamento polli tycoon",
             "TXID_GAMEDESC_ENGINEER": "Fabbrica dei soldi",
+            "TXID_GAMEDESC_FARMANDMINE": "Coltiva verdure ed estrai risorse",
             "TXID_GAMEDESC_IDLEEATERS": "Sfamali tutti!",
             "TXID_GAMEDESC_IDLETOWERBUILDER": "Costruire la torre verso il cielo e oltre!",
             "TXID_GAMEDESC_STEAMPUNK": "Macchine incredibili e marchingegni steampunk",
@@ -719,6 +719,7 @@
             "TXID_GAMENAME_BOTTLE": "Sfida del tappo di bottiglia",
             "TXID_GAMENAME_CHICKENFARM": "Fabbrica di uova",
             "TXID_GAMENAME_ENGINEER": "Ingegnere milionario",
+            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMENAME_IDLEEATERS": "Idle Eaters",
             "TXID_GAMENAME_IDLETOWERBUILDER": "Idle Tower Builder",
             "TXID_GAMENAME_STEAMPUNK": "Steampunk Idle Spinner",

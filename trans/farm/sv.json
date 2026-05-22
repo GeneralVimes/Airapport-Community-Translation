@@ -5,7 +5,6 @@
     "lang_translator": "Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Utför 40 000 helikopterflygningar",
             "TXID_ACH_AIRLINE_NAME": "Flygbolag",
             "TXID_ACH_BAA_DESC": "Producera 750 000 ull",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Farm och Gruva!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Grödors tillväxthastighet +15% per nivå",
             "TXID_INVDESC_BAKING": "Kan baka bröd från mjöl",
             "TXID_INVDESC_BANKING": "Bankkonstruktion aktiverad",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Spinning"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Håller bin som producerar honung och pollinerar träd och blommor",
             "TXID_MACH_DESC_BAKERY": "Bakar bröd från mjöl",
             "TXID_MACH_DESC_BANK": "Genererar pengar för användning efter omstart",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Vattenflöde"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Bröd",
             "TXID_RES_BRICK": "Tegel",
             "TXID_RES_CHEASE": "Ost",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Befolkningstillväxt ger dig arbetskraft. Du kan använda arbetskraft för att anställa arbetare och spendera pengar för att uppgradera anläggningar"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Idéer per timme",
             "TXID_UPGRNAME_BANK": "Bankränta per timme",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Bi-hastighet",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "v/sek"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "HÄMTA!",
             "TXID_ANS_TRYBACKUP": "Ångra",
             "TXID_AREYOUWITHME": "Är du med mig?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Denna uppgift kommer att bytas ut",
             "TXID_RESTOREFAILED": "Återställning misslyckades",
             "TXID_RESTOREPURCHASES": "Återställ köp",
+            "TXID_REWARDSNOTLOAD": "Tyvärr, premieringsannonser laddades inte",
             "TXID_SAVEDATA": "Uppskattar din hjälp! Detta är din sparade data. Vänligen välj allt (långt tryck -> välj alla), kopiera (långt tryck -> kopiera) och skicka via e-post till utvecklaren: dev@airapport.com",
             "TXID_SCORE": "Poäng",
             "TXID_SEND": "Det ser ut som att spelet kraschade förra gången. Du kan försöka ladda denna sparning igen eller skicka datan till utvecklaren. Vi kommer att titta på det och fixa så snart som möjligt. Du kan också helt starta om spelet om du inte vill vänta",

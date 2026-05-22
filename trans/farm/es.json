@@ -5,7 +5,6 @@
     "lang_translator": "Roy Clark aka Blokus52 desde ArmorGames / Improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Realiza 40.000 vuelos en helicóptero",
             "TXID_ACH_AIRLINE_NAME": "Aerolínea",
             "TXID_ACH_BAA_DESC": "Producir 750.000 de lana",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "¡Granja y Mina!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Velocidad de crecimiento de los cultivos +15% por nivel",
             "TXID_INVDESC_BAKING": "Puede hornear pan de harina",
             "TXID_INVDESC_BANKING": "Construcción de banco habilitada",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Hilado"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Mantiene abejas que producen miel y polinizan árboles y flores",
             "TXID_MACH_DESC_BAKERY": "Hornea pan de harina",
             "TXID_MACH_DESC_BANK": "Genera dinero para usar tras reiniciar",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Flujo de agua"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Pan",
             "TXID_RES_BRICK": "Ladrillo",
             "TXID_RES_CHEASE": "Queso",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "El crecimiento de la población te proporciona mano de obra. Puedes gastar mano de obra para contratar trabajadores y dinero para mejorar las instalaciones."
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ideas por hora",
             "TXID_UPGRNAME_BANK": "Tasa de interés bancario por hora",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Velocidad de las abejas",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "agua/s"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "¡OBTENER!",
             "TXID_ANS_TRYBACKUP": "Deshacer",
             "TXID_AREYOUWITHME": "¿Estás conmigo?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Esta tarea será reemplazada",
             "TXID_RESTOREFAILED": "Fallo al restaurar",
             "TXID_RESTOREPURCHASES": "Restaurar las compras",
+            "TXID_REWARDSNOTLOAD": "Lo sentimos, no se cargaron los anuncios recompensados.",
             "TXID_SAVEDATA": "¡Aprecio tu ayuda! Estos son tus datos de guardado. Por favor, selecciona todo (pulsación larga -> seleccionar todo), copia (pulsación larga -> copiar) y envíalo por correo electrónico al desarrollador: dev@airapport.com",
             "TXID_SCORE": "Puntaje",
             "TXID_SEND": "Parece que el juego se cerró inesperadamente la última vez. Puedes intentar cargar esta partida de nuevo o enviar los datos al desarrollador. Lo miraremos y arreglaremos tan pronto como sea posible. También puedes reiniciar por completo el juego si no quieres esperar",

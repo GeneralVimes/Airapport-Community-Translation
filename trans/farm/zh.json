@@ -6,7 +6,6 @@
     "lang_translator_website": "",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "进行 40000 次直升机飞行",
             "TXID_ACH_AIRLINE_NAME": "航空公司",
             "TXID_ACH_BAA_DESC": "生产 750,000 羊毛",
@@ -184,7 +183,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "农场与矿山！"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "作物生长速度每级 +15％",
             "TXID_INVDESC_BAKING": "可以用面粉烘烤面包",
             "TXID_INVDESC_BANKING": "解锁银行建设",
@@ -317,7 +315,6 @@
             "TXID_INVNAME_YARN": "纺纱"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "饲养蜜蜂以生产蜂蜜并为树木和花朵授粉",
             "TXID_MACH_DESC_BAKERY": "用面粉烘烤面包",
             "TXID_MACH_DESC_BANK": "产生用于重启后的资金",
@@ -606,7 +603,6 @@
             "TXID_WATERFLOW": "水流"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "面包",
             "TXID_RES_BRICK": "砖块",
             "TXID_RES_CHEASE": "奶酪",
@@ -710,7 +706,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "人口增长为您提供劳动力。您可以花费劳动力来雇用工人并花钱升级设施"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "灵感/小时",
             "TXID_UPGRNAME_BANK": "每小时银行利率",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "蜜蜂速度",
@@ -788,6 +783,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "水/秒"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "获取！",
             "TXID_ANS_TRYBACKUP": "撤消",
             "TXID_AREYOUWITHME": "你和我在一起吗？",
@@ -1001,6 +997,7 @@
             "TXID_REP_TASK_WARN": "此任务将被替换",
             "TXID_RESTOREFAILED": "恢复失败",
             "TXID_RESTOREPURCHASES": "恢复购买",
+            "TXID_REWARDSNOTLOAD": "抱歉，激励广告未加载成功",
             "TXID_SAVEDATA": "感谢您的帮助！这是您的存档数据。请全选（长按 -> 全选），复制（长按 -> 复制），然后发送电子邮件至开发人员：dev@airapport.com",
             "TXID_SCORE": "分数",
             "TXID_SEND": "看起来游戏上次崩溃了。您可以尝试再次加载此存档或将数据发送给开发人员。我们将查看并尽快修复。如果您不想等待，也可以完全重启游戏",

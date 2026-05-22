@@ -4,6 +4,7 @@
     "lang_translation_comment": "Proofread and updated by Gemini",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "获取！",
             "TXID_ANS_TRYBACKUP": "撤消",
             "TXID_AREYOUWITHME": "准备好了吗？",
@@ -217,6 +218,7 @@
             "TXID_REP_TASK_WARN": "此任务将被替换",
             "TXID_RESTOREFAILED": "恢复失败",
             "TXID_RESTOREPURCHASES": "恢复购买",
+            "TXID_REWARDSNOTLOAD": "抱歉，激励广告未加载成功",
             "TXID_SAVEDATA": "感谢你的帮助！这是您的存档数据。请全选（长按 -> 全选），复制（长按 -> 复制），然后发送电子邮件至开发人员：dev@airapport.com",
             "TXID_SCORE": "分数",
             "TXID_SEND": "看起来游戏上次崩溃了。您可以尝试再次加载此存档或将数据发送给开发人员。我们将查看并尽快修复。如果您不想等待，也可以完全重新启动游戏",

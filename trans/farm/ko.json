@@ -6,7 +6,6 @@
     "lang_translator_website": "",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "헬리콥터 비행 40,000회 수행",
             "TXID_ACH_AIRLINE_NAME": "항공사",
             "TXID_ACH_BAA_DESC": "양모 750,000개 생산",
@@ -184,7 +183,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "농장과 광산!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "작물 성장 속도 +15%/레벨",
             "TXID_INVDESC_BAKING": "밀가루로 빵을 구울 수 있습니다",
             "TXID_INVDESC_BANKING": "은행 건설 가능",
@@ -317,7 +315,6 @@
             "TXID_INVNAME_YARN": "방적"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "꿀을 생산하고 나무와 꽃을 수분하는 꿀벌을 기릅니다",
             "TXID_MACH_DESC_BAKERY": "밀가루로 빵을 굽습니다",
             "TXID_MACH_DESC_BANK": "재시작 후 사용할 돈을 생성합니다",
@@ -606,7 +603,6 @@
             "TXID_WATERFLOW": "물 흐름"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "빵",
             "TXID_RES_BRICK": "벽돌",
             "TXID_RES_CHEASE": "치즈",
@@ -710,7 +706,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "인구 증가는 노동력을 제공합니다. 노동력을 사용하여 일꾼을 고용하고 돈을 사용하여 시설을 업그레이드할 수 있습니다"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "시간당 아이디어",
             "TXID_UPGRNAME_BANK": "시간당 은행 이자율",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "꿀벌 속도",
@@ -788,6 +783,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "물/초"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "받기!",
             "TXID_ANS_TRYBACKUP": "실행 취소",
             "TXID_AREYOUWITHME": "준비되셨나요?",
@@ -1001,6 +997,7 @@
             "TXID_REP_TASK_WARN": "이 작업은 교체됩니다",
             "TXID_RESTOREFAILED": "복원 실패",
             "TXID_RESTOREPURCHASES": "구매 복원",
+            "TXID_REWARDSNOTLOAD": "죄송합니다. 보상형 광고가 로드되지 않았습니다.",
             "TXID_SAVEDATA": "도와주셔서 감사합니다! 이것은 당신의 세이브 데이터입니다. 모두 선택(길게 누르기 -> 모두 선택)하고 복사(길게 누르기 -> 복사)하여 개발자에게 이메일로 보내주세요: dev@airapport.com",
             "TXID_SCORE": "점수",
             "TXID_SEND": "지난번에 게임이 충돌한 것 같습니다. 이 세이브를 다시 로드하거나 개발자에게 데이터를 보낼 수 있습니다. 확인 후 가능한 한 빨리 수정하겠습니다. 기다리기 싫으시면 게임을 완전히 재시작할 수도 있습니다",

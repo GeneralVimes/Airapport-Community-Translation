@@ -5,6 +5,7 @@
     "lang_translator": "Irfan Najmi",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "DAPATKAN!",
             "TXID_ANS_TRYBACKUP": "Batalkan",
             "TXID_AREYOUWITHME": "Adakah anda bersama saya?",
@@ -12,8 +13,8 @@
             "TXID_CAP_ACCEPT": "Terima & Mula!",
             "TXID_CAP_ACCEPTCONT": "Terima & Teruskan",
             "TXID_CAP_ACHIEVEMENTS": "Pencapaian",
-            "TXID_CAP_AIRAPPORT": "Oleh Airapport",
             "TXID_CAP_AFTERADS": "selepas iklan",
+            "TXID_CAP_AIRAPPORT": "Oleh Airapport",
             "TXID_CAP_ARTIFACTS": "ARTIFAK",
             "TXID_CAP_ASKALLOWPERSADS": "Adakah anda akan membenarkan iklan yang diperibadikan kepada anda?",
             "TXID_CAP_ASKALLOWPERSADSEXPL": "Ini akan menjadikan iklan lebih relevan dan tidak akan mengganggu anda (anda boleh menontonnya hanya apabila anda ingin menerima ganjaran dalam permainan)",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Tugas ini akan diganti",
             "TXID_RESTOREFAILED": "Pemulihan gagal",
             "TXID_RESTOREPURCHASES": "Pulihkan pembelian",
+            "TXID_REWARDSNOTLOAD": "Maaf, iklan ganjaran tidak dimuatkan",
             "TXID_SAVEDATA": "Hargai bantuan anda! Ini adalah data simpanan anda. Sila pilih semua (tekan lama -> pilih semua), salin (tekan lama -> salin) dan hantar dalam e-mel kepada pembangun: dev@airapport.com",
             "TXID_SCORE": "Skor",
             "TXID_SEND": "Nampaknya permainan terhempas kali terakhir. Anda boleh cuba memuatkan simpanan ini lagi atau menghantar data kepada pembangun. Kami akan melihat dan membaiki secepat mungkin. Anda juga boleh memulakan semula permainan sepenuhnya jika anda tidak mahu menunggu",
@@ -375,8 +377,6 @@
             "TXID_CURR_NAME_GEMS": "Delima"
         },
         "GROUP_tower_game_elements": {
-            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Pilih mesin untuk ditingkatkan dengan delima",
-            "TXID_SET_AUTOBUY": "Beli peningkatan secara automatik selepas mula semula (menghabiskan 0.01% sumber)",
             "TXID_BABELSKIN_CLASSIC": "Klasik",
             "TXID_BABELSKIN_WINTER": "Musim Sejuk",
             "TXID_CAP_AVAILABLETOWERS": "Menara tersedia",
@@ -392,6 +392,7 @@
             "TXID_CAP_RUBYBOOST_NOTENOUGH": "Delima tidak cukup ...",
             "TXID_CAP_RUBYBOOST_QUESTION": "Adakah anda ingin meningkatkan _0_ sebanyak _1_ untuk _2_?",
             "TXID_CAP_SCIENCEUPGRADES": "Naik taraf sains",
+            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Pilih mesin untuk ditingkatkan dengan delima",
             "TXID_CAP_TOWERCONTESTENDED": "Anda telah berjaya menyiapkan menara dalam",
             "TXID_CAP_TOWERFLOORS_BEG": "Anda telah melengkapkan pembinaan",
             "TXID_CAP_TOWERFLOORS_END": "tingkat",
@@ -442,6 +443,7 @@
             "TXID_SEND_BABELTOWERVICTORY": "Kami telah menyiapkan Menara Babel!",
             "TXID_SEND_SPACEMACHINESCAP": "Mesin angkasa untuk Menara Babel!",
             "TXID_SEND_SPACEMACHINESTEXT": "Idea saya untuk tingkat seterusnya:",
+            "TXID_SET_AUTOBUY": "Beli peningkatan secara automatik selepas mula semula (menghabiskan 0.01% sumber)",
             "TXID_TODO_UGRADE": "Lakukan peningkatan",
             "TXID_TODO_UGRADETRANSP": "Tingkatkan troli pengangkut",
             "TXID_VOTETOWER": "Undi: menara apa yang anda ingin bina seterusnya dalam permainan?",
@@ -600,10 +602,10 @@
             "TXID_WATERWELLRESTORATION": "kelajuan pemulihan air"
         },
         "GROUP_tower_rewards": {
-            "TXID_REW_DISCUP": "Naik taraf dengan diskaun",
             "TXID_REW_BONUSTIME": "bonus masa",
             "TXID_REW_DECWAITTIME": "Masa menunggu berkurangan",
             "TXID_REW_DISCPURCH": "Beli dengan diskaun",
+            "TXID_REW_DISCUP": "Naik taraf dengan diskaun",
             "TXID_REW_FREEGB": "Bata Emas Percuma",
             "TXID_REW_FREEMON": "Duit syiling percuma",
             "TXID_REW_FREERES": "Sumber percuma",
@@ -645,7 +647,6 @@
             "TXID_MSGCAP_TUT_RESTART": "Menyemak bonus anda akan mendapat jika anda memulakan semula bangunan"
         },
         "GROUP_tower_upgrades": {
-            "TXID_UPGRNAME_CLICKBOOST": "Kuasa Klik",
             "TXID_UPGRNAME_ASTEROIDSWEIGHT": "Bilangan asteroid yang ditangkap",
             "TXID_UPGRNAME_BERTH": "Wang daripada pelancong",
             "TXID_UPGRNAME_BOOST2GROUNDOBJS": "Nilai rangsangan",
@@ -656,6 +657,7 @@
             "TXID_UPGRNAME_BUNGEETIME": "Masa antara tetingkap dibuka",
             "TXID_UPGRNAME_CARAWANPRICE": "Peningkatan harga pasaran",
             "TXID_UPGRNAME_CHOPPERS": "Penebang Kayu",
+            "TXID_UPGRNAME_CLICKBOOST": "Kuasa Klik",
             "TXID_UPGRNAME_CLOCKSPEED": "Bonus kelajuan masa",
             "TXID_UPGRNAME_CLOUDPOWER": "kelajuan pertumbuhan awan",
             "TXID_UPGRNAME_CONVERSIONCOEF": "Pekali penukaran",
@@ -704,12 +706,11 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w / saat"
         },
         "GROUP_www_airapport_games": {
-            "TXID_GAMEDESC_FARMANDMINE": "Tanam sayur-sayuran dan lombong sumber",
-            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMEDESC_20KCOGS": "penerokaan air",
             "TXID_GAMEDESC_BOTTLE": "Flash-mob paling popular 2019",
             "TXID_GAMEDESC_CHICKENFARM": "Hartawan ladang ayam",
             "TXID_GAMEDESC_ENGINEER": "kilang membuat wang",
+            "TXID_GAMEDESC_FARMANDMINE": "Tanam sayur-sayuran dan lombong sumber",
             "TXID_GAMEDESC_IDLEEATERS": "Beri makan mereka semua!",
             "TXID_GAMEDESC_IDLETOWERBUILDER": "Membina menara ke langit dan seterusnya!",
             "TXID_GAMEDESC_STEAMPUNK": "mesin yang luar biasa dan alat steampunk",
@@ -719,6 +720,7 @@
             "TXID_GAMENAME_BOTTLE": "Cabaran Penutup Botol",
             "TXID_GAMENAME_CHICKENFARM": "pabrik telur",
             "TXID_GAMENAME_ENGINEER": "Jurutera Jutawan",
+            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMENAME_IDLEEATERS": "Pemakan Terbiar",
             "TXID_GAMENAME_IDLETOWERBUILDER": "Pembina Menara Terbiar",
             "TXID_GAMENAME_STEAMPUNK": "Pemutar Terbiar Steampunk",

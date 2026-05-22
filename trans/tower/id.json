@@ -5,6 +5,9 @@
     "lang_translator": "Irfan Najmi",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {
+                "TXID_CAP_BESTRESULT": "This is your best result!"
+            },
             "TXID_ANS_GET": "DAPATKAN!",
             "TXID_ANS_TRYBACKUP": "Batalkan",
             "TXID_AREYOUWITHME": "Apakah Anda bersama saya?",
@@ -217,6 +220,7 @@
             "TXID_REP_TASK_WARN": "Tugas ini akan digantikan",
             "TXID_RESTOREFAILED": "Pemulihan gagal",
             "TXID_RESTOREPURCHASES": "Pulihkan pembelian",
+            "TXID_REWARDSNOTLOAD": "Maaf, iklan berhadiah tidak dimuat.",
             "TXID_SAVEDATA": "Hargai bantuan Anda! Ini adalah data simpanan Anda. Silakan pilih semuanya (tekan lama -> pilih semua), salin (tekan lama -> salin) dan kirim email ke pengembang: dev@airapport.com",
             "TXID_SCORE": "Skor",
             "TXID_SEND": "Sepertinya permainan mengalami crash terakhir kali. Anda dapat mencoba memuat simpanan ini lagi atau mengirim data ke pengembang. Kami akan melihatnya dan memperbaikinya sesegera mungkin. Anda juga dapat memulai ulang permainan sepenuhnya jika Anda tidak ingin menunggu",
@@ -374,8 +378,6 @@
             "TXID_CURR_NAME_GEMS": "Rubi"
         },
         "GROUP_tower_game_elements": {
-            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Pilih mesin untuk ditingkatkan dengan rubi",
-            "TXID_SET_AUTOBUY": "Beli peningkatan secara otomatis setelah restart (menghabiskan 0,01% sumber daya)",
             "TXID_BABELSKIN_CLASSIC": "Klasik",
             "TXID_BABELSKIN_WINTER": "Musim dingin",
             "TXID_CAP_AVAILABLETOWERS": "Menara tersedia",
@@ -391,6 +393,7 @@
             "TXID_CAP_RUBYBOOST_NOTENOUGH": "Tidak cukup rubi ...",
             "TXID_CAP_RUBYBOOST_QUESTION": "Apakah Anda ingin meningkatkan _0_ sebesar _1_ seharga _2_?",
             "TXID_CAP_SCIENCEUPGRADES": "Peningkatan sains",
+            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Pilih mesin untuk ditingkatkan dengan rubi",
             "TXID_CAP_TOWERCONTESTENDED": "Anda telah berhasil menyelesaikan menara dalam",
             "TXID_CAP_TOWERFLOORS_BEG": "Anda telah menyelesaikan pembangunan",
             "TXID_CAP_TOWERFLOORS_END": "lantai",
@@ -441,6 +444,7 @@
             "TXID_SEND_BABELTOWERVICTORY": "Kami telah menyelesaikan Menara Babel!",
             "TXID_SEND_SPACEMACHINESCAP": "Mesin luar angkasa untuk Menara Babel!",
             "TXID_SEND_SPACEMACHINESTEXT": "Ide-ide saya untuk lantai berikutnya:",
+            "TXID_SET_AUTOBUY": "Beli peningkatan secara otomatis setelah restart (menghabiskan 0,01% sumber daya)",
             "TXID_TODO_UGRADE": "Lakukan peningkatan",
             "TXID_TODO_UGRADETRANSP": "Tingkatkan kereta pengangkut",
             "TXID_VOTETOWER": "Vote: Menara apa yang ingin Anda bangun selanjutnya dalam permainan?",
@@ -599,10 +603,10 @@
             "TXID_WATERWELLRESTORATION": "Kecepatan pemulihan air"
         },
         "GROUP_tower_rewards": {
-            "TXID_REW_DISCUP": "Peningkatan dengan diskon",
             "TXID_REW_BONUSTIME": "Bonus waktu",
             "TXID_REW_DECWAITTIME": "Waktu tunggu berkurang",
             "TXID_REW_DISCPURCH": "Pembelian dengan diskon",
+            "TXID_REW_DISCUP": "Peningkatan dengan diskon",
             "TXID_REW_FREEGB": "Batu Bata Emas Gratis",
             "TXID_REW_FREEMON": "Koin Gratis",
             "TXID_REW_FREERES": "Sumber Daya Gratis",
@@ -644,7 +648,6 @@
             "TXID_MSGCAP_TUT_RESTART": "Periksa bonus apa yang akan Anda dapatkan jika Anda memulai ulang bangunan"
         },
         "GROUP_tower_upgrades": {
-            "TXID_UPGRNAME_CLICKBOOST": "Kekuatan klik",
             "TXID_UPGRNAME_ASTEROIDSWEIGHT": "Jumlah asteroid yang tertangkap",
             "TXID_UPGRNAME_BERTH": "Uang dari wisatawan",
             "TXID_UPGRNAME_BOOST2GROUNDOBJS": "Nilai peningkatan",
@@ -704,12 +707,11 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w / detik"
         },
         "GROUP_www_airapport_games": {
-            "TXID_GAMEDESC_FARMANDMINE": "Tanam sayuran dan tambang sumber daya",
-            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMEDESC_20KCOGS": "Eksplorasi bawah laut",
             "TXID_GAMEDESC_BOTTLE": "Flash-mob paling populer 2019",
             "TXID_GAMEDESC_CHICKENFARM": "Taipan peternakan ayam",
             "TXID_GAMEDESC_ENGINEER": "Pabrik penghasil uang",
+            "TXID_GAMEDESC_FARMANDMINE": "Tanam sayuran dan tambang sumber daya",
             "TXID_GAMEDESC_IDLEEATERS": "Beri makan mereka semua!",
             "TXID_GAMEDESC_IDLETOWERBUILDER": "Bangun menara ke langit dan seterusnya!",
             "TXID_GAMEDESC_STEAMPUNK": "Mesin luar biasa dan alat steampunk",
@@ -719,6 +721,7 @@
             "TXID_GAMENAME_BOTTLE": "Tantangan Tutup Botol",
             "TXID_GAMENAME_CHICKENFARM": "Pabrik Telur",
             "TXID_GAMENAME_ENGINEER": "Insinyur Jutawan",
+            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMENAME_IDLEEATERS": "Pemakan Menganggur",
             "TXID_GAMENAME_IDLETOWERBUILDER": "Pembangun Menara Menganggur",
             "TXID_GAMENAME_STEAMPUNK": "Pemintal Menganggur Steampunk",

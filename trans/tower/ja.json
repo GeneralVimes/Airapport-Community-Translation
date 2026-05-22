@@ -4,6 +4,7 @@
     "lang_translation_comment": "Proofread and updated by Gemini",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "入手！",
             "TXID_ANS_TRYBACKUP": "元に戻す",
             "TXID_AREYOUWITHME": "準備はいいですか？",
@@ -217,6 +218,7 @@
             "TXID_REP_TASK_WARN": "このタスクは入れ替えられます",
             "TXID_RESTOREFAILED": "復元に失敗しました",
             "TXID_RESTOREPURCHASES": "購入を復元",
+            "TXID_REWARDSNOTLOAD": "申し訳ありませんが、報酬型広告は読み込まれませんでした。",
             "TXID_SAVEDATA": "ご協力感謝します！これがあなたのセーブデータです。すべて選択（長押し -> すべて選択）してコピー（長押し -> コピー）し、開発者にメールで送信してください：dev@airapport.com",
             "TXID_SCORE": "スコア",
             "TXID_SEND": "前回ゲームがクラッシュしたようです。このセーブをもう一度ロードするか、データを開発者に送信してください。確認してできるだけ早く修正します。待ちたくない場合は、ゲームを完全にリスタートすることもできます",

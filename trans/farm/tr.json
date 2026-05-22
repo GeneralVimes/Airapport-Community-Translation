@@ -5,7 +5,6 @@
     "lang_translator": "Translated by Google, improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "40.000 helikopter uçuşu gerçekleştir",
             "TXID_ACH_AIRLINE_NAME": "Havayolu",
             "TXID_ACH_BAA_DESC": "750.000 yün üretin",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Çiftlik ve Maden!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Mahsul büyüme hızı seviye başına +%15",
             "TXID_INVDESC_BAKING": "Undan ekmek pişirebilir",
             "TXID_INVDESC_BANKING": "Banka inşası etkinleştirildi",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Eğirme"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Bal üreten ve ağaçları ve çiçekleri tozlaştıran arıları barındırır",
             "TXID_MACH_DESC_BAKERY": "Undan ekmek pişirir",
             "TXID_MACH_DESC_BANK": "Yeniden başlatma sonrası kullanım için para üretir",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Su akışı"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Ekmek",
             "TXID_RES_BRICK": "Tuğla",
             "TXID_RES_CHEASE": "Peynir",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Nüfus artışı size işgücü sağlar. İşgücünü işçileri işe almak için harcayabilir ve tesisleri yükseltmek için para harcayabilirsiniz"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Saat başı fikir",
             "TXID_UPGRNAME_BANK": "Saatlik banka faiz oranı",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Arıların hızı",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "su/sn"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "AL!",
             "TXID_ANS_TRYBACKUP": "Geri al",
             "TXID_AREYOUWITHME": "Benimle misin?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Bu görev değiştirilecek",
             "TXID_RESTOREFAILED": "Geri yükleme başarısız",
             "TXID_RESTOREPURCHASES": "Satın alımları geri yükle",
+            "TXID_REWARDSNOTLOAD": "Üzgünüz, ödüllü reklamlar yüklenmedi.",
             "TXID_SAVEDATA": "Yardımınız için teşekkürler! Bu sizin kayıt verinizdir. Lütfen tümünü seçin (uzun basış -> tümünü seç), kopyalayın (uzun basış -> kopyala) ve geliştiriciye e-posta ile gönderin: dev@airapport.com",
             "TXID_SCORE": "Puan",
             "TXID_SEND": "Görünüşe göre oyun son seferde çökmüş. Bu kaydı tekrar yüklemeyi deneyebilir veya verileri geliştiriciye gönderebilirsiniz. En kısa sürede inceleyip düzelteceğiz. Beklemek istemiyorsanız oyunu tamamen yeniden başlatabilirsiniz",

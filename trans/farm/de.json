@@ -5,7 +5,6 @@
     "lang_translator": "MoonlightShadowz aus ArmorGames / Improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "40.000 Hubschrauberflüge durchführen",
             "TXID_ACH_AIRLINE_NAME": "Fluggesellschaft",
             "TXID_ACH_BAA_DESC": "Produziere 750.000 Wolle",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Farm und Mine!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Pflanzenwachstumsgeschwindigkeit +15% pro Level",
             "TXID_INVDESC_BAKING": "Kann Brot aus Mehl backen",
             "TXID_INVDESC_BANKING": "Bankbau aktiviert",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Spinnen"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Hält Bienen, die Honig produzieren und Bäume und Blumen bestäuben",
             "TXID_MACH_DESC_BAKERY": "Backt Brot aus Mehl",
             "TXID_MACH_DESC_BANK": "Generiert Geld zur Nutzung nach Neustart",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Wasserfluss"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Brot",
             "TXID_RES_BRICK": "Ziegel",
             "TXID_RES_CHEASE": "Käse",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Das Bevölkerungswachstum bietet dir Arbeitskraft. Du kannst Arbeitskraft ausgeben, um Arbeiter einzustellen und Geld für Upgrades ausgeben"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ideen pro Stunde",
             "TXID_UPGRNAME_BANK": "Bankzinssatz pro Stunde",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Bienengeschwindigkeit",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w/sek"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "BEKOMMEN!",
             "TXID_ANS_TRYBACKUP": "Rückgängig machen",
             "TXID_AREYOUWITHME": "Bist du bei mir?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Diese Aufgabe wird ersetzt",
             "TXID_RESTOREFAILED": "Wiederherstellen fehlgeschlagen",
             "TXID_RESTOREPURCHASES": "Käufe wiederherstellen",
+            "TXID_REWARDSNOTLOAD": "Leider wurden die Prämienanzeigen nicht geladen.",
             "TXID_SAVEDATA": "Danke für deine Hilfe! Hier sind deine Speicherdaten. Bitte wähle alles aus (lang drücken -> alles auswählen), kopiere es (lang drücken -> kopieren) und sende es per E-Mail an den Entwickler: dev@airapport.com",
             "TXID_SCORE": "Ergebnis",
             "TXID_SEND": "Sieht so aus, als wäre das Spiel beim letzten Mal abgestürzt. Du kannst versuchen, diesen Spielstand erneut zu laden oder die Daten an den Entwickler senden. Wir werden es uns so schnell wie möglich ansehen und beheben. Du kannst das Spiel auch komplett neu starten, wenn du nicht warten möchtest",

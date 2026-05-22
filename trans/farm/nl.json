@@ -5,7 +5,6 @@
     "lang_translator": "R0binator / Improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Voer 40.000 helikoptervluchten uit",
             "TXID_ACH_AIRLINE_NAME": "Luchtvaartmaatschappij",
             "TXID_ACH_BAA_DESC": "Produceer 750.000 wol",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Boerderij en Mijn!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Gewasgroeisnelheid +15% per niveau",
             "TXID_INVDESC_BAKING": "Kan brood bakken van meel",
             "TXID_INVDESC_BANKING": "Bankconstructie ingeschakeld",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Spinnen"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Bewaart bijen die honing produceren en bomen en bloemen bestuiven",
             "TXID_MACH_DESC_BAKERY": "Bakt brood van meel",
             "TXID_MACH_DESC_BANK": "Genereert geld voor gebruik na herstart",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Waterstroom"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Brood",
             "TXID_RES_BRICK": "Baksteen",
             "TXID_RES_CHEASE": "Kaas",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Bevolkingsgroei zorgt voor arbeidskracht. Je kunt arbeidskracht gebruiken om werknemers in te huren en geld uitgeven aan het upgraden van de faciliteiten"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ideeën per uur",
             "TXID_UPGRNAME_BANK": "Bankrente per uur",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Bijensnelheid",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w/sec"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "KRIJGEN!",
             "TXID_ANS_TRYBACKUP": "Ongedaan maken",
             "TXID_AREYOUWITHME": "Doe je mee?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Deze taak wordt vervangen",
             "TXID_RESTOREFAILED": "Herstel mislukt",
             "TXID_RESTOREPURCHASES": "Herstel aankopen",
+            "TXID_REWARDSNOTLOAD": "Sorry, de beloonde advertenties konden niet worden geladen.",
             "TXID_SAVEDATA": "Bedankt voor je hulp! Dit zijn je opslaggegevens. Selecteer het allemaal (ingedrukt houden -> Selecteer alles), kopieer (ingedrukt houden -> kopieer) en stuur een e-mail naar de ontwikkelaar: dev@airapport.com",
             "TXID_SCORE": "Score",
             "TXID_SEND": "Het lijkt erop dat het spel de vorige keer is gecrasht. Je kan proberen het opslagbestand opnieuw te laden, of de gegevens naar de ontwikkelaars te sturen. We zullen deze bekijken en het probleem zo snel mogelijk oplossen. Je kan ook het spel volledig opnieuw starten als je niet wil wachten",

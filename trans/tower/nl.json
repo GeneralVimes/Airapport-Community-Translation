@@ -5,7 +5,7 @@
     "lang_translator": "R0binator",
     "phrases": {
         "GROUP_general_interface": {
-            "TXID_NOW": "Nu",
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "KRIJGEN!",
             "TXID_ANS_TRYBACKUP": "Ongedaan maken",
             "TXID_AREYOUWITHME": "Doe je mee?",
@@ -207,6 +207,7 @@
             "TXID_MSG_WORKARTIFACTS": "Artefacten werken",
             "TXID_MSG_WRONGSAVEOPTIONS": "Dit is wat je kunt doen voordat je het spel opnieuw start:",
             "TXID_MSG_YOUCANREVERT2BACKUP": "Als je wilt, kun je terugdraaien naar het vorige opslagbestand",
+            "TXID_NOW": "Nu",
             "TXID_OR": "Of",
             "TXID_PAUSED": "Gepauzeerd...",
             "TXID_PHRASE_ARTIFACTS_BEG": "Je hebt",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Deze taak wordt vervangen",
             "TXID_RESTOREFAILED": "Herstel mislukt",
             "TXID_RESTOREPURCHASES": "Herstel aankopen",
+            "TXID_REWARDSNOTLOAD": "Sorry, de beloonde advertenties konden niet worden geladen.",
             "TXID_SAVEDATA": "Bedankt voor je hulp! Dit zijn je opslaggegevens. Selecteer het allemaal (ingedrukt houden -> Selecteer alles), kopieer (ingedrukt houden -> kopieer) en stuur een e-mail naar de ontwikkelaar: dev@airapport.com",
             "TXID_SCORE": "Score",
             "TXID_SEND": "Het lijkt erop dat het spel de vorige keer is gecrasht. Je kan proberen het opslagbestand opnieuw te laden, of de gegevens naar de ontwikkelaars te sturen. We zullen deze bekijken en het probleem zo snel mogelijk oplossen. Je kan ook het spel volledig opnieuw starten als je niet wil wachten.",

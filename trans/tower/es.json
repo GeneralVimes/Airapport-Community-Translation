@@ -5,6 +5,7 @@
     "lang_translator": "Roy Clark aka Blokus52",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "¡OBTENER!",
             "TXID_ANS_TRYBACKUP": "Deshacer",
             "TXID_AREYOUWITHME": "¿Estás conmigo?",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Esta tarea será reemplazada",
             "TXID_RESTOREFAILED": "Restauración fallida",
             "TXID_RESTOREPURCHASES": "Restaurar las compras",
+            "TXID_REWARDSNOTLOAD": "Lo sentimos, no se cargaron los anuncios recompensados.",
             "TXID_SAVEDATA": "¡Aprecio tu ayuda! Estos son sus datos de guardado. Por favor, seleccione todo (pulsación larga -> seleccionar todo), copiar (pulsación larga -> copiar) y enviar correo electrónico al desarrollador: dev@airapport.com",
             "TXID_SCORE": "Puntuación",
             "TXID_SEND": "Parece que el juego se colgó la última vez. Puedes intentar cargar este guardado de nuevo o enviar los datos al desarrollador. Lo miraremos y arreglaremos tan pronto como sea posible. También puedes reiniciar por completo el juego si no quieres esperar",

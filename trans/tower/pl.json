@@ -5,7 +5,7 @@
     "lang_translator": "Łukasz Gazda",
     "phrases": {
         "GROUP_general_interface": {
-            "TXID_CUR_MONEY": "pieniądze",
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "Odbierz!",
             "TXID_ANS_TRYBACKUP": "Cofnij",
             "TXID_AREYOUWITHME": "Jesteś ze mną?",
@@ -134,6 +134,7 @@
             "TXID_CODE_VALIDINF": "obowiązuje zawsze",
             "TXID_CODE_WORLD": "dla świata",
             "TXID_CONTESTMODE": "tryb konkursowy",
+            "TXID_CUR_MONEY": "pieniądze",
             "TXID_DEC_WAIT_TIME": "Możesz skrócić czas oczekiwania",
             "TXID_DISCORDSUGGESTIONS": "Możesz sprawdzić wyniki oraz aktualne propozycje w naszej społeczności",
             "TXID_EXPL_NEWSET": "Wybierz tryb konkursu",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "To zadanie zostanie zastąpione",
             "TXID_RESTOREFAILED": "Przywracanie się nie powiodło",
             "TXID_RESTOREPURCHASES": "Przywróć zakupy",
+            "TXID_REWARDSNOTLOAD": "Przepraszamy, reklamy z nagrodami nie zostały załadowane",
             "TXID_SAVEDATA": "Doceniamy Twoją pomoc! To są Twoje zapisane dane. Zaznacz je wszystkie (długie kliknięcie -> zaznacz wszystko), kopiuj (długie kliknięcie -> kopiuj) i wyślij do dewelopera: dev@airapport.com",
             "TXID_SCORE": "Wynik",
             "TXID_SEND": "Wygląda na to, że gra ostatnio uległa awarii. Możesz spróbować wczytać ten zapis ponownie lub wysłać dane do dewelopera. Sprawdzimy je i naprawimy jak najszybciej. Możesz także całkowicie zrestartować grę, jeśli nie chcesz czekać",

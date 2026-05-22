@@ -4,7 +4,6 @@
     "lang_translation_comment": "Improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Realitza 40.000 vols en helicòpter",
             "TXID_ACH_AIRLINE_NAME": "Companyia aèria",
             "TXID_ACH_BAA_DESC": "Produeix 750.000 de llana",
@@ -182,7 +181,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Granja i Mina!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Velocitat de creixement de cultius +15% per nivell",
             "TXID_INVDESC_BAKING": "Pot coure pa de farina",
             "TXID_INVDESC_BANKING": "Construcció del banc habilitada",
@@ -315,7 +313,6 @@
             "TXID_INVNAME_YARN": "Filatura"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Manté les abelles que produeixen mel i pol·linitzen arbres i flors",
             "TXID_MACH_DESC_BAKERY": "Cou pa de farina",
             "TXID_MACH_DESC_BANK": "Genera diners per utilitzar després de reiniciar",
@@ -604,7 +601,6 @@
             "TXID_WATERFLOW": "Flux d'aigua"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Pa",
             "TXID_RES_BRICK": "Maó",
             "TXID_RES_CHEASE": "Formatge",
@@ -708,7 +704,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "El creixement de la població us proporciona força de treball. Podeu gastar la mà d'obra per contractar treballadors i gastar diners per actualitzar les instal·lacions"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Idees per hora",
             "TXID_UPGRNAME_BANK": "Tipus d'interès bancari per hora",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Velocitat de les abelles",
@@ -786,6 +781,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "aigua/seg"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ACONSEGUIR!",
             "TXID_ANS_TRYBACKUP": "Desfer",
             "TXID_AREYOUWITHME": "Estàs amb mi?",
@@ -999,6 +995,7 @@
             "TXID_REP_TASK_WARN": "Aquesta tasca serà substituïda",
             "TXID_RESTOREFAILED": "La restauració ha fallat",
             "TXID_RESTOREPURCHASES": "Restaura les compres",
+            "TXID_REWARDSNOTLOAD": "Ho sentim, no s'han carregat els anuncis amb recompensa.",
             "TXID_SAVEDATA": "Agraïm la vostra ajuda! Aquestes són les dades de la vostra partida desada. Si us plau, seleccioneu-ho tot (prémer llargament -> Selecciona-ho tot), copieu (prémer llargament -> copia) i envieu-ho per correu electrònic al desenvolupador: dev@airapport.com",
             "TXID_SCORE": "Puntuació",
             "TXID_SEND": "Sembla que el joc es va tancar inesperadament l'última vegada. Podeu provar de carregar aquesta partida de nou o enviar les dades al desenvolupador. Ho revisarem i ho solucionarem el més aviat possible. També podeu reiniciar completament el joc si no voleu esperar",

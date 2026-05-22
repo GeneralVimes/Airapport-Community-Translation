@@ -5,7 +5,6 @@
     "lang_translator": "Kevo / Updated by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Provést 40 000 letů vrtulníkem",
             "TXID_ACH_AIRLINE_NAME": "Letecká společnost",
             "TXID_ACH_BAA_DESC": "Vyrobte 750 000 vlny",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Farma a Důl!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Rychlost růstu plodin +15% na úroveň",
             "TXID_INVDESC_BAKING": "Může péct chléb z mouky",
             "TXID_INVDESC_BANKING": "Stavba banky povolena",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Předení"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Udržuje včely, které produkují med a opylují stromy a květiny",
             "TXID_MACH_DESC_BAKERY": "Peče chléb z mouky",
             "TXID_MACH_DESC_BANK": "Generuje peníze pro použití po restartu",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Průtok vody"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Chléb",
             "TXID_RES_BRICK": "Cihla",
             "TXID_RES_CHEASE": "Sýr",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Populační růst vám poskytuje pracovní sílu. Můžete utratit pracovní sílu k najmutí pracovníků a utratit peníze za vylepšení zařízení"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Nápady za hodinu",
             "TXID_UPGRNAME_BANK": "Bankovní úrok za hodinu",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Rychlost včel",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "voda/s"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ZÍSKAT!",
             "TXID_ANS_TRYBACKUP": "Zpět",
             "TXID_AREYOUWITHME": "Jsi se mnou?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Tento úkol bude nahrazen",
             "TXID_RESTOREFAILED": "Obnovení selhalo",
             "TXID_RESTOREPURCHASES": "Obnovit nákupy",
+            "TXID_REWARDSNOTLOAD": "Omlouváme se, reklamy s odměnou se nenačetly",
             "TXID_SAVEDATA": "Vážím si vaší pomoci! Toto jsou vaše uložená data. Prosím, vyberte vše (dlouhé stisknutí -> vybrat vše), zkopírujte (dlouhé stisknutí -> kopírovat) a pošlete e-mailem vývojáři: dev@airapport.com",
             "TXID_SCORE": "Skóre",
             "TXID_SEND": "Vypadá to, že hra minule spadla. Můžete zkusit načíst toto uložení znovu nebo odeslat data vývojáři. Podíváme se na to a opravíme to co nejdříve. Můžete také hru úplně restartovat, pokud nechcete čekat",

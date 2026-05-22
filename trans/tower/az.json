@@ -6,6 +6,7 @@
     "lang_translator_website": "",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "Əldə Et!",
             "TXID_ANS_TRYBACKUP": "Geri",
             "TXID_AREYOUWITHME": "Sən mənimləsən?",
@@ -219,6 +220,7 @@
             "TXID_REP_TASK_WARN": "Bu vəzifə əvəz olunacaq",
             "TXID_RESTOREFAILED": "Bərpa edilmədi",
             "TXID_RESTOREPURCHASES": "Satınalmaları bərpa edin",
+            "TXID_REWARDSNOTLOAD": "Bağışlayın, mükafatlandırılan reklamlar yüklənmədi",
             "TXID_SAVEDATA": "Yardımınızı qiymətləndirin! Bu, sizin qənaət datanızdır. Zəhmət olmasa, hamısını seçin (uzun basın -> hamısını seçin), kopyalayın (uzun basın -> kopyalayın) və tərtibatçıya e-poçt göndərin: dev@airapport.com",
             "TXID_SCORE": "Hesab",
             "TXID_SEND": "Deyəsən, oyun sonuncu dəfə çökdü. Siz bu yaddaşı yenidən yükləməyə cəhd edə və ya məlumatları tərtibatçıya göndərə bilərsiniz. Biz buna baxıb mümkün qədər tez düzəldəcəyik. Əgər gözləmək istəmirsinizsə, oyunu yenidən başlada bilərsiniz",

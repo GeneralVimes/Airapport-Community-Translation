@@ -5,7 +5,6 @@
     "lang_translator": "Toronyi Zsombor (Kevinkutya) / Improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Végezz 40 000 helikopteres repülést",
             "TXID_ACH_AIRLINE_NAME": "Légitársaság",
             "TXID_ACH_BAA_DESC": "Termelj 750 000 gyapjút",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Farm és Bánya!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "A növények növekedési sebessége +15% szintenként",
             "TXID_INVDESC_BAKING": "Süthet kenyeret lisztből",
             "TXID_INVDESC_BANKING": "Bank építése engedélyezve",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Fonás"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Méheket tart, amelyek mézet termelnek, és beporozzák a fákat és virágokat",
             "TXID_MACH_DESC_BAKERY": "Kenyeret süt lisztből",
             "TXID_MACH_DESC_BANK": "Pénzt generál az újraindítás utáni használatra",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Vízáramlás"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Kenyér",
             "TXID_RES_BRICK": "Tégla",
             "TXID_RES_CHEASE": "Sajt",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "A népességnövekedés munkaerőt biztosít neked. A munkaerőt elköltheted munkások felvételére és pénzt költhetsz a létesítmények fejlesztésére"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ötlet óránként",
             "TXID_UPGRNAME_BANK": "Banki kamatláb óránként",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Méhsebesség",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "víz/mp"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "KÉREM!",
             "TXID_ANS_TRYBACKUP": "Visszavonás",
             "TXID_AREYOUWITHME": "Velem vagy?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Ez a feladat le lesz cserélve",
             "TXID_RESTOREFAILED": "A helyreállítás sikertelen",
             "TXID_RESTOREPURCHASES": "Vásárlások visszaállítása",
+            "TXID_REWARDSNOTLOAD": "Sajnáljuk, a jutalommal járó hirdetések nem töltődtek be",
             "TXID_SAVEDATA": "Értékelem a segítséged! Ez a mentési adatod. Kérlek, jelöld ki az egészet (hosszú nyomás -> összes kijelölése), másold ki (hosszú nyomás -> másolás) és küldd el e-mailben a fejlesztőnek: dev@airapport.com",
             "TXID_SCORE": "Pontszám",
             "TXID_SEND": "Úgy tűnik, hogy a játék legutóbb összeomlott. Megpróbálhatod újratölteni ezt a mentést, vagy elküldeni az adatokat a fejlesztőnek. Átnézzük, és amint lehet, javítjuk. Teljesen újra is indíthatod a játékot, ha nem akarsz várni",

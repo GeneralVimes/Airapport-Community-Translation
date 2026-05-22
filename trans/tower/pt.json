@@ -5,6 +5,7 @@
     "lang_translator": "Starkinho, Rizizum, André Caldeira",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "RECEBER!",
             "TXID_ANS_TRYBACKUP": "Desfazer",
             "TXID_AREYOUWITHME": "Você está comigo?",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Esta tarefa será substituída",
             "TXID_RESTOREFAILED": "Falha na restauração",
             "TXID_RESTOREPURCHASES": "Restaurar compras",
+            "TXID_REWARDSNOTLOAD": "Desculpe, os anúncios premiados não foram carregados.",
             "TXID_SAVEDATA": "Agradeço sua ajuda! Estes são seus dados de salvamento. Por favor, selecione tudo (aperte e segure -> Selecionar tudo), copie (aperte e segure -> copiar) e envie por e-mail para o desenvolvedor: dev@airapport.com",
             "TXID_SCORE": "Pontuação",
             "TXID_SEND": "Parece que o jogo travou na última vez. Você pode tentar carregar este salvamento novamente ou enviar os dados para o desenvolvedor. Vamos analisar e corrigir o mais rápido possível. Você também pode reiniciar completamente o jogo, se não quiser esperar",
@@ -375,8 +377,6 @@
             "TXID_CURR_NAME_GEMS": "Rubis"
         },
         "GROUP_tower_game_elements": {
-            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Selecione máquinas para impulsionar com rubis",
-            "TXID_SET_AUTOBUY": "Comprar melhorias automaticamente após reiniciar (gasta 0,01% dos recursos)",
             "TXID_BABELSKIN_CLASSIC": "Clássico",
             "TXID_BABELSKIN_WINTER": "Inverno",
             "TXID_CAP_AVAILABLETOWERS": "Torres disponíveis",
@@ -392,6 +392,7 @@
             "TXID_CAP_RUBYBOOST_NOTENOUGH": "Rubis insuficientes...",
             "TXID_CAP_RUBYBOOST_QUESTION": "Gostaria de impulsionar _0_ em _1_ por _2_?",
             "TXID_CAP_SCIENCEUPGRADES": "Melhorias de ciência",
+            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Selecione máquinas para impulsionar com rubis",
             "TXID_CAP_TOWERCONTESTENDED": "Você terminou uma torre dentro de",
             "TXID_CAP_TOWERFLOORS_BEG": "Você terminou a construção de",
             "TXID_CAP_TOWERFLOORS_END": "andares",
@@ -442,6 +443,7 @@
             "TXID_SEND_BABELTOWERVICTORY": "Nós completamos a Torre de Babel!",
             "TXID_SEND_SPACEMACHINESCAP": "Máquinas espaciais para a Torre de Babel!",
             "TXID_SEND_SPACEMACHINESTEXT": "Minhas idéias para os próximos andares:",
+            "TXID_SET_AUTOBUY": "Comprar melhorias automaticamente após reiniciar (gasta 0,01% dos recursos)",
             "TXID_TODO_UGRADE": "Executar atualização",
             "TXID_TODO_UGRADETRANSP": "Atualize o carrinho transportador",
             "TXID_VOTETOWER": "Vote: qual a próxima torre você quer construir no jogo?",
@@ -600,10 +602,10 @@
             "TXID_WATERWELLRESTORATION": "Velocidade de restauração de água"
         },
         "GROUP_tower_rewards": {
-            "TXID_REW_DISCUP": "Melhoria com desconto",
             "TXID_REW_BONUSTIME": "Bônus de tempo",
             "TXID_REW_DECWAITTIME": "O tempo de espera diminuiu",
             "TXID_REW_DISCPURCH": "Compra com desconto",
+            "TXID_REW_DISCUP": "Melhoria com desconto",
             "TXID_REW_FREEGB": "Tijolos Dourados grátis",
             "TXID_REW_FREEMON": "Moedas grátis",
             "TXID_REW_FREERES": "Recursos grátis",
@@ -645,7 +647,6 @@
             "TXID_MSGCAP_TUT_RESTART": "Veja quais bônus você vai ganhar se você recomeçar a construção"
         },
         "GROUP_tower_upgrades": {
-            "TXID_UPGRNAME_CLICKBOOST": "Poder de clique",
             "TXID_UPGRNAME_ASTEROIDSWEIGHT": "Número de asteróides capturados",
             "TXID_UPGRNAME_BERTH": "Dinheiro de turistas",
             "TXID_UPGRNAME_BOOST2GROUNDOBJS": "Valor do impulso",
@@ -656,6 +657,7 @@
             "TXID_UPGRNAME_BUNGEETIME": "Tempo entre abertura de janelas",
             "TXID_UPGRNAME_CARAWANPRICE": "Aumento de preços do mercado",
             "TXID_UPGRNAME_CHOPPERS": "Lenhadores",
+            "TXID_UPGRNAME_CLICKBOOST": "Poder de clique",
             "TXID_UPGRNAME_CLOCKSPEED": "Bônus de aceleração de tempo",
             "TXID_UPGRNAME_CLOUDPOWER": "Velocidade de crescimento da nuvem",
             "TXID_UPGRNAME_CONVERSIONCOEF": "Coeficiente de conversão",
@@ -704,12 +706,11 @@
             "TXID_UPGRUNITS_WATERPERSEC": "ág/seg"
         },
         "GROUP_www_airapport_games": {
-            "TXID_GAMEDESC_FARMANDMINE": "Cultive vegetais e minere recursos",
-            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMEDESC_20KCOGS": "Exploração subaquática",
             "TXID_GAMEDESC_BOTTLE": "Trend mais popular de 2019",
             "TXID_GAMEDESC_CHICKENFARM": "Magnata da fazenda de frangos",
             "TXID_GAMEDESC_ENGINEER": "Fábrica de dinheiro",
+            "TXID_GAMEDESC_FARMANDMINE": "Cultive vegetais e minere recursos",
             "TXID_GAMEDESC_IDLEEATERS": "Alimente à todos!",
             "TXID_GAMEDESC_IDLETOWERBUILDER": "Construa a torre para o céu e além!",
             "TXID_GAMEDESC_STEAMPUNK": "Máquinas incríveis e engenhocas a vapor",
@@ -719,6 +720,7 @@
             "TXID_GAMENAME_BOTTLE": "Desafio da Tampa de Garrafa",
             "TXID_GAMENAME_CHICKENFARM": "Fábrica de Ovos",
             "TXID_GAMENAME_ENGINEER": "Engenheiro Milionário",
+            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMENAME_IDLEEATERS": "Comedores Ociosos",
             "TXID_GAMENAME_IDLETOWERBUILDER": "Construtor de Torre Ocioso",
             "TXID_GAMENAME_STEAMPUNK": "Girador a Vapor Ocioso",

@@ -6,7 +6,6 @@
     "lang_translator_website": "",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "ヘリコプターで40,000回飛行する",
             "TXID_ACH_AIRLINE_NAME": "航空会社",
             "TXID_ACH_BAA_DESC": "750,000の羊毛を生産する",
@@ -184,7 +183,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "ファーム＆マイン！"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "作物の成長速度 +15%/レベル",
             "TXID_INVDESC_BAKING": "小麦粉からパンを焼くことができます",
             "TXID_INVDESC_BANKING": "銀行の建設が可能になります",
@@ -317,7 +315,6 @@
             "TXID_INVNAME_YARN": "紡績"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "蜂蜜を生産し、木や花を受粉するミツバチを飼育します",
             "TXID_MACH_DESC_BAKERY": "小麦粉からパンを焼きます",
             "TXID_MACH_DESC_BANK": "再起動後に使用するためのお金を生成します",
@@ -606,7 +603,6 @@
             "TXID_WATERFLOW": "水流"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "パン",
             "TXID_RES_BRICK": "レンガ",
             "TXID_RES_CHEASE": "チーズ",
@@ -710,7 +706,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "人口増加はあなたに労働力を提供します。労働力を使って労働者を雇ったり、お金を使って施設をアップグレードしたりできます"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "アイデア/時間",
             "TXID_UPGRNAME_BANK": "銀行金利/時間",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "ミツバチの速度",
@@ -788,6 +783,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "水/秒"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "入手！",
             "TXID_ANS_TRYBACKUP": "元に戻す",
             "TXID_AREYOUWITHME": "準備はいいですか？",
@@ -1001,6 +997,7 @@
             "TXID_REP_TASK_WARN": "このタスクは置き換えられます",
             "TXID_RESTOREFAILED": "復元に失敗しました",
             "TXID_RESTOREPURCHASES": "購入を復元",
+            "TXID_REWARDSNOTLOAD": "申し訳ありませんが、報酬型広告は読み込まれませんでした。",
             "TXID_SAVEDATA": "ご協力感謝します！これがあなたのセーブデータです。すべて選択（長押し -> すべて選択）してコピー（長押し -> コピー）し、開発者にメールで送信してください：dev@airapport.com",
             "TXID_SCORE": "スコア",
             "TXID_SEND": "前回ゲームがクラッシュしたようです。このセーブデータをもう一度ロードするか、開発者にデータを送信してみてください。確認してできるだけ早く修正します。待ちたくない場合は、ゲームを完全にリセットすることもできます",

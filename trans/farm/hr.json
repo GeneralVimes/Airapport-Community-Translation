@@ -4,7 +4,6 @@
     "lang_translation_comment": "Improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Izvršite 40 000 letova helikopterom",
             "TXID_ACH_AIRLINE_NAME": "Zrakoplovna tvrtka",
             "TXID_ACH_BAA_DESC": "Proizvedi 750 000 vune",
@@ -182,7 +181,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Farma i Rudnik!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Brzina rasta usjeva +15% po razini",
             "TXID_INVDESC_BAKING": "Može peći kruh od brašna",
             "TXID_INVDESC_BANKING": "Omogućena izgradnja banke",
@@ -315,7 +313,6 @@
             "TXID_INVNAME_YARN": "Predenje"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Drži pčele koje proizvode med i oprašuju drveće i cvijeće",
             "TXID_MACH_DESC_BAKERY": "Peče kruh od brašna",
             "TXID_MACH_DESC_BANK": "Generira novac za korištenje nakon ponovnog pokretanja",
@@ -604,7 +601,6 @@
             "TXID_WATERFLOW": "Protok vode"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Kruh",
             "TXID_RES_BRICK": "Cigla",
             "TXID_RES_CHEASE": "Sir",
@@ -708,7 +704,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Rast stanovništva pruža vam radnu snagu. Možete potrošiti radnu snagu za unajmljivanje radnika i potrošiti novac za nadogradnju objekata"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ideja po satu",
             "TXID_UPGRNAME_BANK": "Bankovna kamatna stopa po satu",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Brzina pčela",
@@ -786,6 +781,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "voda/sek"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "DOBITI!",
             "TXID_ANS_TRYBACKUP": "Poništiti",
             "TXID_AREYOUWITHME": "Jesi sa mnom?",
@@ -999,6 +995,7 @@
             "TXID_REP_TASK_WARN": "Ovaj zadatak bit će zamijenjen",
             "TXID_RESTOREFAILED": "Vraćanje nije uspjelo",
             "TXID_RESTOREPURCHASES": "Vrati kupnje",
+            "TXID_REWARDSNOTLOAD": "Žao nam je, nagrađeni oglasi nisu učitani",
             "TXID_SAVEDATA": "Cijenimo vašu pomoć! Ovo su podaci vašeg spremanja. Odaberite sve (dugi pritisak -> odaberite sve), kopirajte (dugi pritisak -> kopiraj) i pošaljite e-poštu programeru: dev@airapport.com",
             "TXID_SCORE": "Rezultat",
             "TXID_SEND": "Izgleda da se igra srušila zadnji put. Možete pokušati ponovno učitati ovo spremanje ili poslati podatke programeru. Pogledat ćemo to i popraviti što je prije moguće. Također možete potpuno ponovno pokrenuti igru ​​ako ne želite čekati",

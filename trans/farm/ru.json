@@ -3,7 +3,6 @@
     "lang_selfname": "Русский",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Совершить 40 000 полетов на вертолете",
             "TXID_ACH_AIRLINE_NAME": "Авиакомпания",
             "TXID_ACH_BAA_DESC": "Произвести 750000 шерсти",
@@ -181,7 +180,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Ферма и Шахта!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Скорость роста урожая +15% на уровень",
             "TXID_INVDESC_BAKING": "Можно выпекать хлеб из муки",
             "TXID_INVDESC_BANKING": "Возможно строительство банка",
@@ -314,7 +312,6 @@
             "TXID_INVNAME_YARN": "Прядение"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Содержит пчёл, которые производят мед и опыляют деревья и цветы",
             "TXID_MACH_DESC_BAKERY": "Печет хлеб из муки",
             "TXID_MACH_DESC_BANK": "Генерирует деньги для использования после перезапуска",
@@ -603,7 +600,6 @@
             "TXID_WATERFLOW": "Поток воды"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "хлеб",
             "TXID_RES_BRICK": "Кирпич",
             "TXID_RES_CHEASE": "Сыр",
@@ -707,7 +703,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Рост населения предоставляет вам рабочую силу. Вы можете потратить рабочую силу на найм рабочих и тратить деньги на улучшение объектов"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Идей в час",
             "TXID_UPGRNAME_BANK": "Процентная ставка в час",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Скорость пчёл",
@@ -785,6 +780,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "воды / сек"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ПОЛУЧИТЬ!",
             "TXID_ANS_TRYBACKUP": "Отменить",
             "TXID_AREYOUWITHME": "Ты со мной?",
@@ -998,6 +994,7 @@
             "TXID_REP_TASK_WARN": "Эта задача будет заменена",
             "TXID_RESTOREFAILED": "При восстановлении произошла ошибка",
             "TXID_RESTOREPURCHASES": "Восстановить покупки",
+            "TXID_REWARDSNOTLOAD": "Извините, рекламные объявления с вознаграждением не загрузились.",
             "TXID_SAVEDATA": "Ценю вашу помощь! Это ваши данные сохранения. Пожалуйста, выберите все это (долгое нажатие -> выбрать все), скопируйте (долгое нажатие -> скопировать) и отправьте электронное письмо разработчику: dev@airapport.com",
             "TXID_SCORE": "Счёт",
             "TXID_SEND": "Похоже, в прошлый раз игра вылетела. Вы можете попробовать загрузить это сохранение еще раз или отправить данные разработчику. Мы рассмотрим это и исправим как можно скорее. Вы также можете полностью перезапустить игру, если не хотите ждать",

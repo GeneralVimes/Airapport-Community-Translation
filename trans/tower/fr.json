@@ -5,6 +5,7 @@
     "lang_translator": "bixente alias etnexib",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "PRENDRE !",
             "TXID_ANS_TRYBACKUP": "Annuler",
             "TXID_AREYOUWITHME": "Êtes-vous avec moi ?",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Cette tâche sera remplacée",
             "TXID_RESTOREFAILED": "Échec de la restauration",
             "TXID_RESTOREPURCHASES": "Restaurer les achats",
+            "TXID_REWARDSNOTLOAD": "Désolé, les publicités récompensées n'ont pas pu être chargées.",
             "TXID_SAVEDATA": "J'apprécie votre aide ! Ceci est votre sauvegarde des données. S'il vous plaît, sélectionnez tout (appui long -> Sélectionner tout), copier (appui long -> copier) et envoyer par courrier électronique au développeur : dev@airapport.com",
             "TXID_SCORE": "Score",
             "TXID_SEND": "On dirait que le jeu a crashé la dernière fois. Vous pouvez le charger à nouveau cette sauvegarde ou envoyer les données au développeur. Nous allons examiner et fixer le plus tôt possible. Vous pouvez également redémarrer complètement le jeu si vous ne voulez pas attendre",
@@ -375,8 +377,6 @@
             "TXID_CURR_NAME_GEMS": "Rubis"
         },
         "GROUP_tower_game_elements": {
-            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Sélectionnez des machines à booster avec des rubis",
-            "TXID_SET_AUTOBUY": "Acheter automatiquement des améliorations après redémarrage (dépense 0,01 % des ressources)",
             "TXID_BABELSKIN_CLASSIC": "Classique",
             "TXID_BABELSKIN_WINTER": "Hiver",
             "TXID_CAP_AVAILABLETOWERS": "tours disponibles",
@@ -392,6 +392,7 @@
             "TXID_CAP_RUBYBOOST_NOTENOUGH": "Pas assez de rubis...",
             "TXID_CAP_RUBYBOOST_QUESTION": "Aimeriez-vous booster _0_ par _1_ pour _2_ ?",
             "TXID_CAP_SCIENCEUPGRADES": "Améliorations scientifiques",
+            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Sélectionnez des machines à booster avec des rubis",
             "TXID_CAP_TOWERCONTESTENDED": "Vous avez terminé avec succès une tour en",
             "TXID_CAP_TOWERFLOORS_BEG": "Vous avez terminé la construction de",
             "TXID_CAP_TOWERFLOORS_END": "étages",
@@ -442,6 +443,7 @@
             "TXID_SEND_BABELTOWERVICTORY": "Nous avons terminé la Tour de Babel !",
             "TXID_SEND_SPACEMACHINESCAP": "Machines de l'espace pour la Tour de Babel !",
             "TXID_SEND_SPACEMACHINESTEXT": "Mes idées pour les prochains étages :",
+            "TXID_SET_AUTOBUY": "Acheter automatiquement des améliorations après redémarrage (dépense 0,01 % des ressources)",
             "TXID_TODO_UGRADE": "Effectuer la mise à niveau",
             "TXID_TODO_UGRADETRANSP": "Améliorez le chariot de transport",
             "TXID_VOTETOWER": "Vote : Quelle tour voulez-vous construire ensuite dans le jeu ?",
@@ -573,12 +575,12 @@
             "TXID_MACH_NAME_ZEPPELIN": "Zeppelin"
         },
         "GROUP_tower_messages_from_game_elements": {
-            "TXID_CAP_CLICKTARGETMACHINES": "Cibles des clics",
             "TXID_BOOSTACTIVE": "TRAVAIL !",
             "TXID_BOOSTREADY": "Se préparer...",
             "TXID_BOOSTREQ": "nécessaire",
             "TXID_BOOSTTIME": "Temps",
             "TXID_CAP_CARAWANSETTINGS": "Vente automatique de ressources par caravane",
+            "TXID_CAP_CLICKTARGETMACHINES": "Cibles des clics",
             "TXID_CAP_SELECTBOOSTEDMACHINE": "Sélectionnez une installation pour envoyer de l'énergie",
             "TXID_FORESTWOODGAIN": "Bois restauré",
             "TXID_FORESTWOODGAINSELF": "Auto restauration",
@@ -600,10 +602,10 @@
             "TXID_WATERWELLRESTORATION": "Vitesse de restauration de l'eau"
         },
         "GROUP_tower_rewards": {
-            "TXID_REW_DISCUP": "Amélioration avec remise",
             "TXID_REW_BONUSTIME": "Temps bonus",
             "TXID_REW_DECWAITTIME": "Le temps d'attente a diminué",
             "TXID_REW_DISCPURCH": "Achat avec une remise",
+            "TXID_REW_DISCUP": "Amélioration avec remise",
             "TXID_REW_FREEGB": "Briques dorées gratuites",
             "TXID_REW_FREEMON": "Pièces gratuites",
             "TXID_REW_FREERES": "Ressource gratuite",
@@ -645,7 +647,6 @@
             "TXID_MSGCAP_TUT_RESTART": "Vérifiez quels sont les bonus que vous gagnerez si vous redémarrez le bâtiment"
         },
         "GROUP_tower_upgrades": {
-            "TXID_UPGRNAME_CLICKBOOST": "Puissance des clics",
             "TXID_UPGRNAME_ASTEROIDSWEIGHT": "Nombre d'astéroïdes capturés",
             "TXID_UPGRNAME_BERTH": "L'argent des touristes",
             "TXID_UPGRNAME_BOOST2GROUNDOBJS": "Valeur du boost",
@@ -656,6 +657,7 @@
             "TXID_UPGRNAME_BUNGEETIME": "Temps entre deux ouvertures de fenêtres",
             "TXID_UPGRNAME_CARAWANPRICE": "Augmentation des prix du marché",
             "TXID_UPGRNAME_CHOPPERS": "Bûcherons",
+            "TXID_UPGRNAME_CLICKBOOST": "Puissance des clics",
             "TXID_UPGRNAME_CLOCKSPEED": "Bonus d'accélération du temps",
             "TXID_UPGRNAME_CLOUDPOWER": "Vitesse de croissance du nuage",
             "TXID_UPGRNAME_CONVERSIONCOEF": "Coefficient de conversion",
@@ -704,12 +706,11 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w / sec"
         },
         "GROUP_www_airapport_games": {
-            "TXID_GAMEDESC_FARMANDMINE": "Cultivez des légumes et extrayez des ressources",
-            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMEDESC_20KCOGS": "Exploration sous-marine",
             "TXID_GAMEDESC_BOTTLE": "Le flash-mob le plus populaire de 2019",
             "TXID_GAMEDESC_CHICKENFARM": "Magnat de la ferme de poulet",
             "TXID_GAMEDESC_ENGINEER": "Usine de fabrication d'argent",
+            "TXID_GAMEDESC_FARMANDMINE": "Cultivez des légumes et extrayez des ressources",
             "TXID_GAMEDESC_IDLEEATERS": "Nourrissez-les tous !",
             "TXID_GAMEDESC_IDLETOWERBUILDER": "Construisez la tour vers le ciel et au-delà !",
             "TXID_GAMEDESC_STEAMPUNK": "Machines incroyables et bidules steampunk",
@@ -719,6 +720,7 @@
             "TXID_GAMENAME_BOTTLE": "Bottle cap challenge",
             "TXID_GAMENAME_CHICKENFARM": "Usine d'œufs",
             "TXID_GAMENAME_ENGINEER": "Ingénieur millionnaire",
+            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMENAME_IDLEEATERS": "Mangeurs idle",
             "TXID_GAMENAME_IDLETOWERBUILDER": "Constructeur de tour idle",
             "TXID_GAMENAME_STEAMPUNK": "Steampunk Idle Spinner",

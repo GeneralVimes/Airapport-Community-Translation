@@ -5,7 +5,6 @@
     "lang_translator": "Translated by Google, improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Gennemfør 40.000 helikopterflyvninger",
             "TXID_ACH_AIRLINE_NAME": "Flyselskab",
             "TXID_ACH_BAA_DESC": "Producer 750.000 uld",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Gård og Mine!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Afgrødevæksthastighed +15% pr. niveau",
             "TXID_INVDESC_BAKING": "Kan bage brød af mel",
             "TXID_INVDESC_BANKING": "Bankkonstruktion aktiveret",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Spinding"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Holder bier, der producerer honning og bestøver træer og blomster",
             "TXID_MACH_DESC_BAKERY": "Bager brød fra mel",
             "TXID_MACH_DESC_BANK": "Genererer penge til brug efter genstart",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Vandgennemstrømning"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Brød",
             "TXID_RES_BRICK": "Mursten",
             "TXID_RES_CHEASE": "Ost",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Befolkningsvækst giver dig arbejdsstyrke. Du kan bruge arbejdsstyrken til at ansætte arbejdere og bruge penge til at opgradere faciliteter"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ideer i timen",
             "TXID_UPGRNAME_BANK": "Bankrente pr. time",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Bier hastighed",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "v/sek."
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "FÅ!",
             "TXID_ANS_TRYBACKUP": "Fortryd",
             "TXID_AREYOUWITHME": "Er du med mig?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Denne opgave vil blive erstattet",
             "TXID_RESTOREFAILED": "Gendannelse mislykkedes",
             "TXID_RESTOREPURCHASES": "Gendan køb",
+            "TXID_REWARDSNOTLOAD": "Beklager, belønningsannoncer blev ikke indlæst",
             "TXID_SAVEDATA": "Værdsætter din hjælp! Dette er dine gemte data. Venligst vælg det hele (langt tryk -> vælg alle), kopier (langt tryk -> kopier) og send via e-mail til udvikleren: dev@airapport.com",
             "TXID_SCORE": "Score",
             "TXID_SEND": "Det ser ud som om spillet styrtede ned sidste gang. Du kan prøve at indlæse dette gemte spil igen eller sende dataene til udvikleren. Vi vil se på det og rette det så hurtigt som muligt. Du kan også genstarte spillet helt, hvis du ikke vil vente",

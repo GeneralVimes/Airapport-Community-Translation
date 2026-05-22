@@ -5,7 +5,6 @@
     "lang_translator": "Gingerino333 / Updated by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Effettua 40000 voli in elicottero",
             "TXID_ACH_AIRLINE_NAME": "Compagnia aerea",
             "TXID_ACH_BAA_DESC": "Produci 750.000 unità di lana",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Fattoria e Miniera!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Velocità di crescita delle colture +15% per livello",
             "TXID_INVDESC_BAKING": "Può cuocere il pane dalla farina",
             "TXID_INVDESC_BANKING": "Costruzione della banca abilitata",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Filatura"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Mantiene le api che producono miele e impollinano alberi e fiori",
             "TXID_MACH_DESC_BAKERY": "Cuoce il pane dalla farina",
             "TXID_MACH_DESC_BANK": "Genera denaro da utilizzare dopo il riavvio",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Flusso d'acqua"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Pane",
             "TXID_RES_BRICK": "Mattone",
             "TXID_RES_CHEASE": "Formaggio",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "La crescita della popolazione ti fornisce forza lavoro. Puoi spendere la forza lavoro per assumere lavoratori e spendere soldi per migliorare le strutture"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Idee all'ora",
             "TXID_UPGRNAME_BANK": "Tasso di interesse bancario orario",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Velocità delle api",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "acqua/sec"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "PRENDI!",
             "TXID_ANS_TRYBACKUP": "Annulla",
             "TXID_AREYOUWITHME": "Sei con me?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Questo compito verrà sostituito",
             "TXID_RESTOREFAILED": "Ripristino fallito",
             "TXID_RESTOREPURCHASES": "Ripristina acquisti",
+            "TXID_REWARDSNOTLOAD": "Spiacenti, gli annunci con premio non sono stati caricati.",
             "TXID_SAVEDATA": "Apprezzo il tuo aiuto! Questi sono i tuoi dati di salvataggio. Per favore seleziona tutto (pressione lunga -> Seleziona tutto), copia (pressione lunga -> copia) e invialo via email allo sviluppatore: dev@airapport.com",
             "TXID_SCORE": "Punteggio",
             "TXID_SEND": "Sembra che il gioco sia andato in crash l'ultima volta. Puoi provare a caricare nuovamente questo salvataggio o inviare i dati allo sviluppatore. Lo esamineremo e correggeremo il prima possibile. Puoi anche riavviare completamente il gioco se non vuoi aspettare",

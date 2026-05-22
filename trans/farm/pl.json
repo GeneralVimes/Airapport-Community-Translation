@@ -5,7 +5,6 @@
     "lang_translator": "Łukasz Gazda / Updated by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Wykonaj 40 000 lotów helikopterem",
             "TXID_ACH_AIRLINE_NAME": "Linia lotnicza",
             "TXID_ACH_BAA_DESC": "Wyprodukuj 750 000 wełny",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Farma i Kopalnia!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Szybkość wzrostu upraw +15% na poziom",
             "TXID_INVDESC_BAKING": "Może piec chleb z mąki",
             "TXID_INVDESC_BANKING": "Budowa banku włączona",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Przędzenie"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Utrzymuje pszczoły, które produkują miód i zapylają drzewa i kwiaty",
             "TXID_MACH_DESC_BAKERY": "Piecze chleb z mąki",
             "TXID_MACH_DESC_BANK": "Generuje pieniądze do użycia po restarcie",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Przepływ wody"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Chleb",
             "TXID_RES_BRICK": "Cegła",
             "TXID_RES_CHEASE": "Ser",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Wzrost populacji zapewnia siłę roboczą. Możesz wydać siłę roboczą, aby zatrudnić pracowników i wydać pieniądze na ulepszenie obiektów"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Pomysłów na godzinę",
             "TXID_UPGRNAME_BANK": "Oprocentowanie bankowe na godzinę",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Prędkość pszczół",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "w/s"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ODBIERZ!",
             "TXID_ANS_TRYBACKUP": "Cofnij",
             "TXID_AREYOUWITHME": "Jesteś ze mną?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "To zadanie zostanie zastąpione",
             "TXID_RESTOREFAILED": "Przywracanie nie powiodło się",
             "TXID_RESTOREPURCHASES": "Przywróć zakupy",
+            "TXID_REWARDSNOTLOAD": "Przepraszamy, reklamy z nagrodami nie zostały załadowane",
             "TXID_SAVEDATA": "Doceniamy Twoją pomoc! To są Twoje dane zapisu. Zaznacz wszystko (długie naciśnięcie -> zaznacz wszystko), skopiuj (długie naciśnięcie -> kopiuj) i wyślij e-mailem do dewelopera: dev@airapport.com",
             "TXID_SCORE": "Wynik",
             "TXID_SEND": "Wygląda na to, że gra ostatnio uległa awarii. Możesz spróbować wczytać ten zapis ponownie lub wysłać dane do dewelopera. Przyjrzymy się temu i naprawimy to tak szybko, jak to możliwe. Możesz też całkowicie zrestartować grę, jeśli nie chcesz czekać",

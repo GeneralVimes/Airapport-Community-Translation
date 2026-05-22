@@ -5,7 +5,6 @@
     "lang_translator": "Irfan Najmi",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Lakukan 40.000 penerbangan helikopter",
             "TXID_ACH_AIRLINE_NAME": "Maskapai penerbangan",
             "TXID_ACH_BAA_DESC": "Menghasilkan 750.000 wol",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Pertanian dan Tambang!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Kecepatan pertumbuhan tanaman +15% per level",
             "TXID_INVDESC_BAKING": "Dapat memanggang roti dari tepung",
             "TXID_INVDESC_BANKING": "Konstruksi Bank diaktifkan",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Pemintalan"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Menjaga lebah yang menghasilkan madu dan menyerbuki pohon dan bunga",
             "TXID_MACH_DESC_BAKERY": "Membuat roti dari tepung",
             "TXID_MACH_DESC_BANK": "Menghasilkan uang untuk digunakan setelah restart",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Aliran air"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Roti",
             "TXID_RES_BRICK": "Bata",
             "TXID_RES_CHEASE": "Keju",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Pertumbuhan populasi memberi Anda tenaga kerja. Anda dapat menghabiskan tenaga kerja untuk mempekerjakan pekerja dan menghabiskan uang untuk meningkatkan fasilitas"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ide per jam",
             "TXID_UPGRNAME_BANK": "Suku bunga bank per jam",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Kecepatan lebah",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "air / detik"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "DAPATKAN!",
             "TXID_ANS_TRYBACKUP": "Batalkan",
             "TXID_AREYOUWITHME": "Apakah kau setuju dengan saya?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Tugas ini akan diganti",
             "TXID_RESTOREFAILED": "Pemulihan gagal",
             "TXID_RESTOREPURCHASES": "Pulihkan pembelian",
+            "TXID_REWARDSNOTLOAD": "Maaf, iklan berhadiah tidak dimuat.",
             "TXID_SAVEDATA": "Hargai bantuan Anda! Ini adalah data simpanan Anda. Silakan pilih semua (tekan lama -> pilih semua), salin (tekan lama -> salin) dan kirimkan email ke pengembang: dev@airapport.com",
             "TXID_SCORE": "Skor",
             "TXID_SEND": "Tampaknya permainan mengalami crash terakhir kali. Anda dapat mencoba memuat simpanan ini lagi atau mengirim data ke pengembang. Kami akan melihatnya dan memperbaikinya sesegera mungkin. Anda juga dapat me-restart permainan sepenuhnya jika Anda tidak ingin menunggu",

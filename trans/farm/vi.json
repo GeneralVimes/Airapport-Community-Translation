@@ -4,7 +4,6 @@
     "lang_translation_comment": "Improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Thực hiện 40.000 chuyến bay trực thăng",
             "TXID_ACH_AIRLINE_NAME": "Hãng hàng không",
             "TXID_ACH_BAA_DESC": "Sản xuất 750.000 len",
@@ -182,7 +181,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Nông trại & Hầm mỏ!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Tốc độ tăng trưởng cây trồng +15% mỗi cấp",
             "TXID_INVDESC_BAKING": "Có thể nướng bánh mì từ bột mì",
             "TXID_INVDESC_BANKING": "Cho phép xây dựng Ngân hàng",
@@ -315,7 +313,6 @@
             "TXID_INVNAME_YARN": "Kéo sợi"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Nuôi ong để sản xuất mật ong và thụ phấn cho cây và hoa",
             "TXID_MACH_DESC_BAKERY": "Nướng bánh mì từ bột mì",
             "TXID_MACH_DESC_BANK": "Tạo ra tiền để sử dụng sau khi khởi động lại",
@@ -604,7 +601,6 @@
             "TXID_WATERFLOW": "Dòng nước"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Bánh mì",
             "TXID_RES_BRICK": "Gạch",
             "TXID_RES_CHEASE": "Phô mai",
@@ -708,7 +704,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Tăng trưởng dân số cung cấp cho bạn nhân lực. Bạn có thể dùng nhân lực để thuê công nhân và chi tiền để nâng cấp cơ sở"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ý tưởng mỗi giờ",
             "TXID_UPGRNAME_BANK": "Lãi suất ngân hàng mỗi giờ",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Tốc độ ong",
@@ -786,6 +781,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "nước/giây"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "NHẬN!",
             "TXID_ANS_TRYBACKUP": "Hoàn tác",
             "TXID_AREYOUWITHME": "Bạn có đồng hành cùng tôi không?",
@@ -999,6 +995,7 @@
             "TXID_REP_TASK_WARN": "Nhiệm vụ này sẽ bị thay thế",
             "TXID_RESTOREFAILED": "Khôi phục thất bại",
             "TXID_RESTOREPURCHASES": "Khôi phục mua hàng",
+            "TXID_REWARDSNOTLOAD": "Xin lỗi, quảng cáo có thưởng không được tải.",
             "TXID_SAVEDATA": "Trân trọng sự giúp đỡ của bạn! Đây là dữ liệu lưu của bạn. Vui lòng chọn tất cả (nhấn giữ -> chọn tất cả), sao chép (nhấn giữ -> sao chép) và gửi email cho nhà phát triển: dev@airapport.com",
             "TXID_SCORE": "Điểm số",
             "TXID_SEND": "Có vẻ như trò chơi bị lỗi lần trước. Bạn có thể thử tải lại bản lưu này hoặc gửi dữ liệu đến nhà phát triển. Chúng tôi sẽ xem xét và sửa chữa sớm nhất có thể. Bạn cũng có thể khởi động lại hoàn toàn trò chơi nếu không muốn đợi",

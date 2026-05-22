@@ -5,7 +5,6 @@
     "lang_translator": "Autotranslated by Google, improved by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Suorita 40 000 helikopterilentoa",
             "TXID_ACH_AIRLINE_NAME": "Lentoyhtiö",
             "TXID_ACH_BAA_DESC": "Tuota 750 000 villaa",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Maatila ja Kaivos!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Sadon kasvunopeus +15% per taso",
             "TXID_INVDESC_BAKING": "Voi leipoa leipää jauhoista",
             "TXID_INVDESC_BANKING": "Pankin rakentaminen sallittu",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Kehruu"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Pitää mehiläisiä, jotka tuottavat hunajaa ja pölyttävät puita ja kukkia",
             "TXID_MACH_DESC_BAKERY": "Leipoo leipää jauhoista",
             "TXID_MACH_DESC_BANK": "Tuottaa rahaa käytettäväksi uudelleenkäynnistyksen jälkeen",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Virtaus"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Leipä",
             "TXID_RES_BRICK": "Tiili",
             "TXID_RES_CHEASE": "Juusto",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Väestönkasvu tarjoaa työvoimaa. Voit käyttää työvoimaa työntekijöiden palkkaamiseen ja rahaa tilojen päivittämiseen"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Ideaa tunnissa",
             "TXID_UPGRNAME_BANK": "Pankin korko tunnissa",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Mehiläisten nopeus",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "v/s"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "NOUDA!",
             "TXID_ANS_TRYBACKUP": "Kumoa",
             "TXID_AREYOUWITHME": "Oletko kanssani?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Tämä tehtävä korvataan",
             "TXID_RESTOREFAILED": "Palautus epäonnistui",
             "TXID_RESTOREPURCHASES": "Palauta ostot",
+            "TXID_REWARDSNOTLOAD": "Pahoittelut, palkittuja mainoksia ei ladattu",
             "TXID_SAVEDATA": "Arvostamme apuasi! Tässä on tallennusdatasi. Valitse kaikki (Pitkä painallus -> Valitse kaikki), kopioi (pitkä painallus -> Kopioi) ja lähetä sähköpostia kehittäjälle: dev@airapport.com",
             "TXID_SCORE": "Pisteet",
             "TXID_SEND": "Näyttää siltä, että peli kaatui viime kerralla. Voit yrittää ladata tämän tallennuksen uudelleen tai lähettää tiedot kehittäjälle. Tarkastelemme sitä ja korjaamme mahdollisimman pian. Voit myös käynnistää pelin kokonaan uudelleen, jos et halua odottaa",

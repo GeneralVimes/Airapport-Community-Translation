@@ -5,6 +5,7 @@
     "lang_translator": "Toronyi Zsombor (Kevinkutya)",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "MEGSZEREZ!",
             "TXID_ANS_TRYBACKUP": "Visszavonás",
             "TXID_AREYOUWITHME": "Velem vagy?",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Ezt a feladatot lecseréljük",
             "TXID_RESTOREFAILED": "A helyreállítás sikertelen",
             "TXID_RESTOREPURCHASES": "Vásárlások visszaállítása",
+            "TXID_REWARDSNOTLOAD": "Sajnáljuk, a jutalommal járó hirdetések nem töltődtek be",
             "TXID_SAVEDATA": "Köszönöm a segítséged! Ezek a mentési adataid. Kérlek válaszd ki az egészet (tartsd nyomva-> összes kiválasztása), másold ki (hosszan nyomva tartás -> másolás) és küldd el e-mailben a fejlesztőnek: dev@airapport.com",
             "TXID_SCORE": "Pontszám",
             "TXID_SEND": "Úgy tűnik, hogy a játék legutóbb összeomlott. Megpróbálhatod újratölteni a mentést vagy elküldeni az adatokat a fejlesztőnek. Átnézzük, és mielőbb javítjuk. Teljesen újraindíthatod a játékot, ha nem akarsz várni.",
@@ -375,8 +377,6 @@
             "TXID_CURR_NAME_GEMS": "Rubinok"
         },
         "GROUP_tower_game_elements": {
-            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Válassz gépeket a rubinnal való gyorsításhoz",
-            "TXID_SET_AUTOBUY": "Fejlesztések automatikus vásárlása újraindítás után (az erőforrások 0,01%-ának elköltése)",
             "TXID_BABELSKIN_CLASSIC": "Klasszikus",
             "TXID_BABELSKIN_WINTER": "Téli",
             "TXID_CAP_AVAILABLETOWERS": "Elérhető tornyok",
@@ -392,6 +392,7 @@
             "TXID_CAP_RUBYBOOST_NOTENOUGH": "Nincs elég rubin...",
             "TXID_CAP_RUBYBOOST_QUESTION": "Szeretnéd gyorsítani a _0_ _1_-el _2_-ért?",
             "TXID_CAP_SCIENCEUPGRADES": "Tudományos fejlesztések",
+            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Válassz gépeket a rubinnal való gyorsításhoz",
             "TXID_CAP_TOWERCONTESTENDED": "Sikeresen befejezte a tornyot ennyi idő alatt:",
             "TXID_CAP_TOWERFLOORS_BEG": "Befejezted az építést:",
             "TXID_CAP_TOWERFLOORS_END": "szint",
@@ -442,6 +443,7 @@
             "TXID_SEND_BABELTOWERVICTORY": "Befejeztük a Bábel-tornyot!",
             "TXID_SEND_SPACEMACHINESCAP": "Űrgépek a Bábel-toronyhoz!",
             "TXID_SEND_SPACEMACHINESTEXT": "Ötleteim a következő emeletekre:",
+            "TXID_SET_AUTOBUY": "Fejlesztések automatikus vásárlása újraindítás után (az erőforrások 0,01%-ának elköltése)",
             "TXID_TODO_UGRADE": "Hajtsa végre a fejlesztést",
             "TXID_TODO_UGRADETRANSP": "Frissítse a szállítókocsit",
             "TXID_VOTETOWER": "Szavazás: melyik tornyot szeretnéd következőnek megépíteni?",
@@ -600,10 +602,10 @@
             "TXID_WATERWELLRESTORATION": "Víz helyreállítási sebessége"
         },
         "GROUP_tower_rewards": {
-            "TXID_REW_DISCUP": "Fejlesztés kedvezménnyel",
             "TXID_REW_BONUSTIME": "Időbónusz",
             "TXID_REW_DECWAITTIME": "A várakozási idő csökkent",
             "TXID_REW_DISCPURCH": "Vásárlás kedvezménnyel",
+            "TXID_REW_DISCUP": "Fejlesztés kedvezménnyel",
             "TXID_REW_FREEGB": "Ingyenes Arany Tégla",
             "TXID_REW_FREEMON": "Ingyenes érmék",
             "TXID_REW_FREERES": "Ingyenes erőforrás",
@@ -645,7 +647,6 @@
             "TXID_MSGCAP_TUT_RESTART": "Ellenőrizd milyen bónuszokat nyersz, ha újrakezded az épületet"
         },
         "GROUP_tower_upgrades": {
-            "TXID_UPGRNAME_CLICKBOOST": "Kattintás ereje",
             "TXID_UPGRNAME_ASTEROIDSWEIGHT": "A fogott aszteroidák száma",
             "TXID_UPGRNAME_BERTH": "Pénz a turistáktól",
             "TXID_UPGRNAME_BOOST2GROUNDOBJS": "Gyorsítás értéke",
@@ -656,6 +657,7 @@
             "TXID_UPGRNAME_BUNGEETIME": "Idő ablakok kinyílása között",
             "TXID_UPGRNAME_CARAWANPRICE": "Piaci árak növekedése",
             "TXID_UPGRNAME_CHOPPERS": "Favágók",
+            "TXID_UPGRNAME_CLICKBOOST": "Kattintás ereje",
             "TXID_UPGRNAME_CLOCKSPEED": "Idő gyorsítási bónusz",
             "TXID_UPGRNAME_CLOUDPOWER": "Felhő növekedési sebessége",
             "TXID_UPGRNAME_CONVERSIONCOEF": "Átalakítási együttható",
@@ -704,12 +706,11 @@
             "TXID_UPGRUNITS_WATERPERSEC": "víz/mp"
         },
         "GROUP_www_airapport_games": {
-            "TXID_GAMEDESC_FARMANDMINE": "Termessz zöldségeket és bányássz erőforrásokat",
-            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMEDESC_20KCOGS": "Víz alatti felfedezés",
             "TXID_GAMEDESC_BOTTLE": "2019 legnépszerűbb flash-mobja",
             "TXID_GAMEDESC_CHICKENFARM": "Csirkefarm iparmágnás",
             "TXID_GAMEDESC_ENGINEER": "Pénzgyár",
+            "TXID_GAMEDESC_FARMANDMINE": "Termessz zöldségeket és bányássz erőforrásokat",
             "TXID_GAMEDESC_IDLEEATERS": "Etesd meg mindet!",
             "TXID_GAMEDESC_IDLETOWERBUILDER": "Építsd meg a tornyot az ég felé és azon túl is!",
             "TXID_GAMEDESC_STEAMPUNK": "Hihetetlen gépek és steampunk szerkezetek",
@@ -719,6 +720,7 @@
             "TXID_GAMENAME_BOTTLE": "Bottle Cap Challenge",
             "TXID_GAMENAME_CHICKENFARM": "Tojásgyár",
             "TXID_GAMENAME_ENGINEER": "Mérnök Milliomos",
+            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMENAME_IDLEEATERS": "Idle Eaters",
             "TXID_GAMENAME_IDLETOWERBUILDER": "Idle Tower Builder",
             "TXID_GAMENAME_STEAMPUNK": "Steampunk Idle Spinner",

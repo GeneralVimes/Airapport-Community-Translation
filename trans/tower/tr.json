@@ -4,7 +4,7 @@
     "lang_translation_comment": "Proofread and updated by Gemini",
     "phrases": {
         "GROUP_general_interface": {
-            "TXID_CUR_MONEY": "para",
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "AL!",
             "TXID_ANS_TRYBACKUP": "Geri al",
             "TXID_AREYOUWITHME": "Benimle misin?",
@@ -133,6 +133,7 @@
             "TXID_CODE_VALIDINF": "her zaman geçerli",
             "TXID_CODE_WORLD": "dünya için",
             "TXID_CONTESTMODE": "yarışma modu",
+            "TXID_CUR_MONEY": "para",
             "TXID_DEC_WAIT_TIME": "Bekleme süresini azaltabilirsiniz",
             "TXID_DISCORDSUGGESTIONS": "Topluluğumuzda sonuçları ve güncel önerileri kontrol edebilirsiniz",
             "TXID_EXPL_NEWSET": "Yarışma modunu seçin",
@@ -217,6 +218,7 @@
             "TXID_REP_TASK_WARN": "Bu görev değiştirilecek",
             "TXID_RESTOREFAILED": "Geri yükleme başarısız",
             "TXID_RESTOREPURCHASES": "Satın alımları geri yükle",
+            "TXID_REWARDSNOTLOAD": "Üzgünüz, ödüllü reklamlar yüklenmedi.",
             "TXID_SAVEDATA": "Yardımınız için teşekkürler! Bu sizin kayıt verinizdir. Lütfen hepsini seçin (uzun basın -> tümünü seç), kopyalayın (uzun basın -> kopyala) ve geliştiriciye e-posta ile gönderin: dev@airapport.com",
             "TXID_SCORE": "Skor",
             "TXID_SEND": "Görünüşe göre oyun geçen sefer çökmüş. Bu kaydı tekrar yüklemeyi deneyebilir veya verileri geliştiriciye gönderebilirsiniz. İnceleyip en kısa sürede düzelteceğiz. Beklemek istemiyorsanız oyunu tamamen yeniden başlatabilirsiniz",

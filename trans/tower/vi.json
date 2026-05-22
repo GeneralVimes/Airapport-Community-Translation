@@ -4,7 +4,7 @@
     "lang_translation_comment": "Proofread and updated by Gemini",
     "phrases": {
         "GROUP_general_interface": {
-            "TXID_NOW": "Bây giờ",
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "NHẬN!",
             "TXID_ANS_TRYBACKUP": "Hoàn tác",
             "TXID_AREYOUWITHME": "Bạn có ở đó không?",
@@ -206,6 +206,7 @@
             "TXID_MSG_WORKARTIFACTS": "Hiện vật đang hoạt động",
             "TXID_MSG_WRONGSAVEOPTIONS": "Đây là những gì bạn có thể làm trước khi khởi động lại trò chơi:",
             "TXID_MSG_YOUCANREVERT2BACKUP": "Nếu muốn, bạn có thể quay lại bản lưu trước đó",
+            "TXID_NOW": "Bây giờ",
             "TXID_OR": "Hoặc",
             "TXID_PAUSED": "Đã tạm dừng...",
             "TXID_PHRASE_ARTIFACTS_BEG": "Bạn có",
@@ -217,6 +218,7 @@
             "TXID_REP_TASK_WARN": "Nhiệm vụ này sẽ được thay thế",
             "TXID_RESTOREFAILED": "Khôi phục thất bại",
             "TXID_RESTOREPURCHASES": "Khôi phục giao dịch mua",
+            "TXID_REWARDSNOTLOAD": "Xin lỗi, quảng cáo có thưởng không được tải.",
             "TXID_SAVEDATA": "Đánh giá cao sự giúp đỡ của bạn! Đây là dữ liệu lưu của bạn. Vui lòng chọn tất cả (nhấn giữ -> chọn tất cả), sao chép (nhấn giữ -> sao chép) và gửi qua email cho nhà phát triển: dev@airapport.com",
             "TXID_SCORE": "Điểm số",
             "TXID_SEND": "Có vẻ như trò chơi đã bị lỗi lần trước. Bạn có thể thử tải bản lưu này lại hoặc gửi dữ liệu cho nhà phát triển. Chúng tôi sẽ xem xét và khắc phục sớm nhất có thể. Bạn cũng có thể khởi động lại trò chơi hoàn toàn nếu không muốn đợi",

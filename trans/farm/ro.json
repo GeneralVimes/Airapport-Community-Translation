@@ -5,7 +5,6 @@
     "lang_translator": "Madalin Buricea aka madliv / Updated by Gemini",
     "phrases": {
         "GROUP_farm_achievements": {
-            
             "TXID_ACH_AIRLINE_DESC": "Efectuează 40.000 de zboruri cu elicopterul",
             "TXID_ACH_AIRLINE_NAME": "Companie aeriană",
             "TXID_ACH_BAA_DESC": "Produceți 750.000 de lână",
@@ -183,7 +182,6 @@
             "TXID_WORLDNAME_FARMANDMINE": "Ferma și Mina!"
         },
         "GROUP_farm_inventions": {
-            
             "TXID_INVDESC_AGRICULTURE": "Viteza de creștere a culturilor +15% pe nivel",
             "TXID_INVDESC_BAKING": "Poate coace pâine din făină",
             "TXID_INVDESC_BANKING": "Construcția băncii activată",
@@ -316,7 +314,6 @@
             "TXID_INVNAME_YARN": "Tors"
         },
         "GROUP_farm_machines": {
-            
             "TXID_MACH_DESC_APIARY": "Păstrează albinele care produc miere și polenizează copaci și flori",
             "TXID_MACH_DESC_BAKERY": "Coace pâine din făină",
             "TXID_MACH_DESC_BANK": "Generează bani pentru utilizare după restart",
@@ -605,7 +602,6 @@
             "TXID_WATERFLOW": "Flux de apă"
         },
         "GROUP_farm_resources": {
-            
             "TXID_RES_BREAD": "Pâine",
             "TXID_RES_BRICK": "Cărămidă",
             "TXID_RES_CHEASE": "Brânză",
@@ -709,7 +705,6 @@
             "TXID_MSGCAP_TUT_UPGRADESEXPL": "Creșterea populației vă oferă forța de muncă. Puteți folosi forța de muncă pentru a angaja lucrători și pentru a cheltui bani pentru a moderniza facilitățile"
         },
         "GROUP_farm_upgrades": {
-            
             "TXID_UNIT_IDEAS_H": "Idei pe oră",
             "TXID_UPGRNAME_BANK": "Dobânda băncii pe oră",
             "TXID_UPGRNAME_BEEKEEPER_BEESSPEED": "Viteza albinelor",
@@ -787,6 +782,7 @@
             "TXID_UPGRUNITS_WATERPERSEC": "apă/sec"
         },
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "OBȚINE!",
             "TXID_ANS_TRYBACKUP": "Anulează",
             "TXID_AREYOUWITHME": "Ești cu mine?",
@@ -1000,6 +996,7 @@
             "TXID_REP_TASK_WARN": "Această sarcină va fi înlocuită",
             "TXID_RESTOREFAILED": "Restaurarea nu a reușit",
             "TXID_RESTOREPURCHASES": "Restaurare achiziții",
+            "TXID_REWARDSNOTLOAD": "Ne pare rău, anunțurile cu recompensă nu au fost încărcate.",
             "TXID_SAVEDATA": "Apreciez ajutorul! Acestea sunt datele salvării. Vă rugăm selectați tot (apăsați lung -> selectați toate), copiați (apăsați lung -> copie) și trimiteți prin e-mail la dezvoltator: dev@airapport.com",
             "TXID_SCORE": "Scor",
             "TXID_SEND": "Se pare că jocul s-a blocat data trecută. Puteți încerca să încărcați această salvare din nou sau să trimiteți datele dezvoltatorului. Ne vom uita la ea pentru a găsi o rezolvare. De asemenea, puteți reporni complet jocul, dacă nu doriți să așteptați",

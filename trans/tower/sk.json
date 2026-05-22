@@ -5,7 +5,7 @@
     "lang_translator": "Kevo",
     "phrases": {
         "GROUP_general_interface": {
-            "TXID_NOW": "Teraz",
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "ZÍSKAŤ!",
             "TXID_ANS_TRYBACKUP": "Vrátiť späť",
             "TXID_AREYOUWITHME": "Si so mnou?",
@@ -207,6 +207,7 @@
             "TXID_MSG_WORKARTIFACTS": "Artefakty fungujú",
             "TXID_MSG_WRONGSAVEOPTIONS": "Tu je niečo, čo môžeš urobiť pred reštartovaním hry:",
             "TXID_MSG_YOUCANREVERT2BACKUP": "Ak chceš, môžeš sa vrátiť späť na predchádzajúci uložený súbor",
+            "TXID_NOW": "Teraz",
             "TXID_OR": "Alebo",
             "TXID_PAUSED": "Pozastavené...",
             "TXID_PHRASE_ARTIFACTS_BEG": "Máš",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Táto úloha bude nahradená",
             "TXID_RESTOREFAILED": "Obnovenie zlyhalo",
             "TXID_RESTOREPURCHASES": "Obnoviť nákupy",
+            "TXID_REWARDSNOTLOAD": "Prepáčte, odmeňované reklamy sa nenačítali",
             "TXID_SAVEDATA": "Cením si tvoju pomoc! Toto sú tvoje uložené dáta. Prosím, vyber všetko (dlhé stlačenie -> vybrať všetko), kopíruj (dlhé stlačenie -> kopírovať) a pošli email vývojárom na adresu: dev@airapport.com",
             "TXID_SCORE": "Skóre",
             "TXID_SEND": "Vypadá to, že hra sa minule nečakane ukončila. Môžeš skúsiť znova nahrať uložené dáta alebo odoslať dáta vývojárom. Pozrieme sa na to a opravíme to čo najskôr. Môžete tiež úplne reštartovať hru, ak nechcete čakať.",

@@ -5,6 +5,7 @@
     "lang_translator": "Madalin Buricea aka madliv",
     "phrases": {
         "GROUP_general_interface": {
+            "CODE_aaa_untranslated": {},
             "TXID_ANS_GET": "OBȚINE!",
             "TXID_ANS_TRYBACKUP": "Anulează",
             "TXID_AREYOUWITHME": "Ești cu mine?",
@@ -218,6 +219,7 @@
             "TXID_REP_TASK_WARN": "Această sarcină va fi înlocuită",
             "TXID_RESTOREFAILED": "Restabilirea nu a reușit",
             "TXID_RESTOREPURCHASES": "Restaurare achiziții",
+            "TXID_REWARDSNOTLOAD": "Ne pare rău, anunțurile cu recompensă nu au fost încărcate.",
             "TXID_SAVEDATA": "Apreciez ajutorul tău! Acestea sunt datele tale de salvare. Vă rugăm, selectați totul (apăsați lung -> selectați toate), copiați (apăsați lung -> copie) și trimiteți în e-mail la dezvoltator: dev@airapport.com",
             "TXID_SCORE": "Scor",
             "TXID_SEND": "Se pare că jocul s-a blocat ultima dată. Puteți încerca să încărcați această salvare din nou sau să trimiteți datele la dezvoltator. Ne vom uita la ea și o vom repara cât mai curând posibil. De asemenea, puteți reporni complet jocul, dacă nu doriți să așteptați",
@@ -375,8 +377,6 @@
             "TXID_CURR_NAME_GEMS": "rubine"
         },
         "GROUP_tower_game_elements": {
-            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Selectați mașinile pentru a le stimula cu rubine",
-            "TXID_SET_AUTOBUY": "Cumpărați automat upgrade-uri după repornire (cheltuind 0,01% din resurse)",
             "TXID_BABELSKIN_CLASSIC": "Clasic",
             "TXID_BABELSKIN_WINTER": "Iarnă",
             "TXID_CAP_AVAILABLETOWERS": "turnuri disponibile",
@@ -392,6 +392,7 @@
             "TXID_CAP_RUBYBOOST_NOTENOUGH": "Nu sunt suficiente rubine ...",
             "TXID_CAP_RUBYBOOST_QUESTION": "Doriți să stimulați _0_ cu _1_ pentru _2_?",
             "TXID_CAP_SCIENCEUPGRADES": "Upgrade-uri Știință",
+            "TXID_CAP_SELECTRUBYBOOSTEDMACHINE": "Selectați mașinile pentru a le stimula cu rubine",
             "TXID_CAP_TOWERCONTESTENDED": "Ați finalizat cu succes un turn în",
             "TXID_CAP_TOWERFLOORS_BEG": "Ați finalizat construirea",
             "TXID_CAP_TOWERFLOORS_END": "etaje",
@@ -442,6 +443,7 @@
             "TXID_SEND_BABELTOWERVICTORY": "Am finalizat Turnul Babel!",
             "TXID_SEND_SPACEMACHINESCAP": "Mașini spațiale pentru Turnul Babel!",
             "TXID_SEND_SPACEMACHINESTEXT": "Ideile mele pentru următoarele etaje:",
+            "TXID_SET_AUTOBUY": "Cumpărați automat upgrade-uri după repornire (cheltuind 0,01% din resurse)",
             "TXID_TODO_UGRADE": "Efectuați actualizarea",
             "TXID_TODO_UGRADETRANSP": "Actualizați căruciorul transportor",
             "TXID_VOTETOWER": "Vot: Ce turn doriți să construiți în joc?",
@@ -600,10 +602,10 @@
             "TXID_WATERWELLRESTORATION": "Viteza de restaurare a apei"
         },
         "GROUP_tower_rewards": {
-            "TXID_REW_DISCUP": "Actualizare cu reducere",
             "TXID_REW_BONUSTIME": "Bonus de timp",
             "TXID_REW_DECWAITTIME": "Timpul de așteptare a scăzut",
             "TXID_REW_DISCPURCH": "Achiziționare cu discount",
+            "TXID_REW_DISCUP": "Actualizare cu reducere",
             "TXID_REW_FREEGB": "Cărămizi de Aur Gratuite",
             "TXID_REW_FREEMON": "Monede gratis",
             "TXID_REW_FREERES": "Resurse gratuite",
@@ -645,7 +647,6 @@
             "TXID_MSGCAP_TUT_RESTART": "Verificați ce bonusuri veți câștiga dacă reporniți clădirea"
         },
         "GROUP_tower_upgrades": {
-            "TXID_UPGRNAME_CLICKBOOST": "Putere clicuri",
             "TXID_UPGRNAME_ASTEROIDSWEIGHT": "Numărul de asteroizi prinși",
             "TXID_UPGRNAME_BERTH": "Bani de la turisti",
             "TXID_UPGRNAME_BOOST2GROUNDOBJS": "Valoare accelerare",
@@ -705,12 +706,11 @@
             "TXID_UPGRUNITS_WATERPERSEC": "apă/sec"
         },
         "GROUP_www_airapport_games": {
-            "TXID_GAMEDESC_FARMANDMINE": "Cultivați legume și extrageți resurse",
-            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMEDESC_20KCOGS": "Explorare subacvatică",
             "TXID_GAMEDESC_BOTTLE": "Cel mai popular Flash-mob din 2019",
             "TXID_GAMEDESC_CHICKENFARM": "Magnat fermă de pui",
             "TXID_GAMEDESC_ENGINEER": "Fabrica de făcut bani",
+            "TXID_GAMEDESC_FARMANDMINE": "Cultivați legume și extrageți resurse",
             "TXID_GAMEDESC_IDLEEATERS": "Hrănește-i pe toți!",
             "TXID_GAMEDESC_IDLETOWERBUILDER": "Construiește turnul spre cer și dincolo de acesta!",
             "TXID_GAMEDESC_STEAMPUNK": "Mașini incredibile și mecanisme steampunk",
@@ -720,6 +720,7 @@
             "TXID_GAMENAME_BOTTLE": "Provocarea capacului de sticlă",
             "TXID_GAMENAME_CHICKENFARM": "Fabrica de ouă",
             "TXID_GAMENAME_ENGINEER": "Inginer milionar",
+            "TXID_GAMENAME_FARMANDMINE": "Farm and Mine",
             "TXID_GAMENAME_IDLEEATERS": "Mâncăcioșii Idle",
             "TXID_GAMENAME_IDLETOWERBUILDER": "Constructor de Turn Idle",
             "TXID_GAMENAME_STEAMPUNK": "Steampunk Spinner Idle",
